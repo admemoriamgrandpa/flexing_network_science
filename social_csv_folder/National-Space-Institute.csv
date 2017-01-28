@@ -1,0 +1,1224 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+30010 , Programming Project,Danish , 5 ECTS , 2016/2017 ,June,BSc,National Space Institute,"
+To achieve practical skills within imperative programming and
+microprocessor system. 
+","identify and list the basic elements of the architecture of a
+microcontroller describe and explain basic mathematical operations in fixed
+point format apply and demonstrate the use of registers in a
+microprocessor analyse a medium-size programming problem apply C language and structured programming in C determine requirement specifications for an application
+targeting a microprocessor design, implement and operate an application in real time organize, plan and document the workflow of a software
+project write a technical report including references and
+citations.","
+An introduction gives an overview of computer architecture, bus,
+program and data memory, parallel and serial communication.
+Afterwards the student is introduced to development tools for high
+level programming language coding (at the moment C language) of a
+microprocessor system. In the rest of the course a project is given
+to the students. 
+",02102,"
+José M.G. Merayo"
+30020 , Electronic Measurements and Instrumentation,Danish , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),BSc,National Space Institute,"
+To give a basic foundation in essential methods used in electronic
+measurements of physical quantities. Laboratory exercises will give
+the student experience with a number of principles used to convert
+a physical parameter into an electrical signal, and the first
+analog processing of the often noisy signal. 
+","build and debug small electronic circuits perform laboratory measurements with digital oscilloscope. analyse sensors for sensitivity and linearity explain the principle of instrument and sensor calibration select sensors for temperature measurements and apply these in
+small measurement systems apply strain gauges for deformation measurements apply Wheatstone bridges in smaller measurement systems apply the piezoelectric effect in small measurement
+systems apply circuit blocks in small measurement systems explain the principles for synchronous detection explain the working principles of radiation detectors","
+The course treats instrumentation systems and selected sensors such
+as thermistors, strain gauges and sensors based on inductive,
+capacitive, piezoelectrical and photoelectrical effects. Electronic
+principles used to convert sensor signals to more convenient analog
+signals are also treated.
+
+The laboratory exercises give the student practical experience with
+the application of different sensors and electronic components. 
+",,"
+Peter Brauer"
+30021 , Digital Instrumentation,Danish , 5 ECTS , 2016/2017 ,E4A (Tues 13-17),MSc,National Space Institute,"
+To give the students an understanding of the use of microprocessors
+and peripherals in instruments. 
+","develop microprocessor firmware in C apply i2c-bus based periferial components apply spi-bus based periferial components apply the build-in functions of the microprocessor design a microprocessor based system expand a microprocessor system with externel memory use analog-to-digital converters in a microprocessor based
+measurement system use the microprocessor to calibrate and linearise digitised
+measurements use advanced components for digitalisation of sensor
+signals.","
+The course is based on a 8-bits microprocessor from Microchip and a
+C compiler for development of firmware.
+
+During the exercises a number of microprocessor based systems with
+serial interface to components like AD converters, digital
+thermometers, EEPROMs and LCD displays are implemented.
+
+For most of the exercises a report must be elaborated.
+
+The last part of the course is used for a larger project. 
+",30010,"
+José M.G. Merayo"
+30032 , Electrotechnics,Danish , 10 ECTS , 2016/2017 ,"E2 (Mon 13-17, Thurs 8-12) and F2 (Mon 13-17, Thurs 8-12)",BEng,National Space Institute,"
+To enable the student to combine analog and digital techniques in
+the design of a small electronic circuit by:
+
+• applying systematic methods for analysis of linear electronic
+circuits
+
+• understanding functions of diodes and transistors.
+
+• applying and constructing combinatorial circuits, counters and
+other simple synchronous sequential networks.
+
+• implementing a design, using discrete logic circuits. 
+","analyze circuits containing resistors and sources using
+systematical methods determine Thevenin and Norton equivalent circuits and perform
+source transformations calculate the charge and discharge behavior of capacitors and
+inductors and describe the concepts of transient and steady state
+responses calculate currents and voltages in circuits containing ideal
+operational amplifiers apply diodes and bipolar transistors in simple circuits apply number systems binary arithmetic and codes apply Boolean algebra and Karnaugh mapping in construction of
+simple logic circuits analyze and construct synchronous state machines apply datasheets for discrete digital components and calculate
+the currents and voltages in digital circuits apply measurement methods and standard laboratory equipment to
+perform measurements on simple analog and digital
+circuits.","
+• DC: Characterisation of circuits with linear components
+
+• Mesh-current and node-voltage analysis
+
+• Thevenin and Norton equivalents
+
+• Controlled sources
+
+• Ideal operational amplifier
+
+• Fundamental measurement techniques
+
+• The diode, the zener diode
+
+• The bipolar transistor, DC characteristics, large-signal models
+
+• Boolean algebra, truth tables, Karnaugh mapping, number systems,
+binary arithmetics, codes
+
+• Multiplexer, decoder, encoder, comparator, adder, flip-flops,
+synchronous state machines, counter
+
+• Design and implementation of small systems, containing a
+combination of analog and digital components
+
+• Documentation and report writing. 
+",None,"
+Sten Schmidl Søbjærg"
+30081 , Digital Technique,Danish , 5 ECTS , 2016/2017 ,F2A (Mon 13-17) and E2A (Mon 13-17),BEng,National Space Institute,"
+To enable the student to combine hardware programming and digital
+design in an integrated hardware/software solution. 
+","apply a hardware description language (VHDL) to program digital
+chips apply standard registers and combinatorial logic to construct
+simple synchronous networks develop synchronous state machines and construct simple coupled
+digital systems demonstrate the function of a digital system by simulation document design and functionallity of a smaller digital
+system describe the principle of an FPGA-chip apply some of the building blocks (multiplier, Block RAM..) of
+the FPGA chip describe principles in digital design of larger digital systems
+that involve more clock-domains","
+Digital design. VHDL programming, digital interface. 
+","30032,31033","
+Peter Brauer"
+30082 , Project work in Digital design,Danish , 5 ECTS , 2016/2017 ,January  or  June,BEng,National Space Institute,"
+To enable the students to combine hardware programming and digital
+design in an integrated hardware/software solution. 
+","organize teamwork with regards to common goal, time schedule
+and work sharing decode an open assignment and set delimited requirements to a
+problem to be solved define interfaces between digital subsystems design and implement a solution for a smaller system from the
+perspective of functional requirements use loops and interrupts in a microcontroller system to realize
+a simple realtime system use finite state machines and algorithm blocks in a synchronous
+network to realize a simple digital system apply simple communication protocols between digital units and
+describe the communication layers used. explain and argue for the solution of a digital design in
+writing and orally.","
+• Digital design. VHDL programming, digital interface.
+
+• Embedded system design. Microcontroller hardware and software. 
+",30081,"
+Peter Brauer,
+Ole Schultz"
+30090 ," Digital Systems, Design of",Danish , 5 ECTS , 2016/2017 ,F2B (Thurs 8-12),BEng,National Space Institute,"
+The aim of the course is to enable the student to be able to:
+
+• Analyze problems as regards digital implementations
+
+• Choose the correct tools to describe the design task to ensure
+that the customer as well as the designer know what needs to be
+implemented (product specification)
+
+• Know the different technologies from Microprocessors, DSP to CPLD
+and FPGA designs. 
+","apply different representations of binary numbers determine and demonstrate use of basic binary
+microoperations construct basic elements of the microprocessor architecture
+(state machines, registers, ALU, ...) analyze and explain signal flow as well as controlling signals
+in a large-size digital problem such as a microprocessor
+system describe and justify the microprocessor, its datapath and
+control unit with various diagrams describe the structure of an instruction, types of instructions
+and the use of registers for addressing and data manipulation apply VHDL and structured programming in VHDL utilize synthesis/implementation and simulation tools for
+designing digital systems implement in hardware and operate a simple soft microprocessor
+core targeting an FPGA design and realize a simple microcode / assembler program for a
+microprocessor organize, plan and document the workflow of a digital
+project write a technical report including references and
+citations.","
+Tools for design description, structured descriptional tools:
+
+• (VHDL)
+
+• Simulation tools and philosophies
+
+• Principles of real time programming
+
+• Description of logic families
+
+• Clock strategies
+
+• Test philosophies and integration of testability in circuit
+design
+
+• Planning of a larger designs including considerations concerning
+pilot studies in programmable logics and appropriate design flow. 
+",30080,"
+José M.G. Merayo"
+30100 , Engineering Practices ,Danish , 10 ECTS , 2016/2017 ,E1B (Thurs 13-17) and January,BSc,National Space Institute,"
+The goal of this course is to give an introduction to studying at
+DTU and to give an introduction to the areas of Earth and Space
+Physics and engineering, including presentations of typical methods
+and tasks within this area. This may include laboratory work, to
+develop good study and work methods for both theoretical and
+experimental tasks and to practice written documentation and
+produce a poster. 
+","make use of the DTU IT facilities make use of the DTU CampusNet facilities gain insight of a technical subject with multiple disciplines
+and have some understanding of a multi disciplenary system convey ideas and/or technical designs through a technical
+drawing 2D and 3D design and print a simple 3D component conduct simple calculations of parameters central to the
+project organize, plan and implement project work in groups give a short and concise presentation of a projects state to a
+review panel be conscious about personal study techniques in other
+courses make a consistent plan for an entire bachelor curriculum, under
+here independent to select courses from professional interest produce a poster describing the work performed. produce a brief technical report","
+Project tasks within the areas of Geophysics and Space Technology.
+The project will include elements from other courses on first
+semester.
+
+Studying techniques and study planning. Use of DTU's
+facilities, including the databar system.
+
+In the 13-week period, there will be a number of different projects
+in the different suggested study lines. The 13-week period will be
+concluded with a presentation of the project status (critical
+design review, CDR). During the 3-week period, some or all of the
+13-weeks projects will be finalized in a common project - an
+airship launch. 13-weeks projects not suited for airship flight
+will be finalized solo. The 3-week period is concluded with a
+poster session. 
+",None,"
+René Fléron,
+Allan Hornstrup"
+30110 , Introductory project ,Danish , 10 ECTS , 2016/2017 ,Spring and June,BSc,National Space Institute,"
+The goal of this course is to carry out an independent experimental
+or theoretical project, where the result is not known in advance. 
+","find and select relevant litterature seek supplementary information from researchers/PhD students in
+the fiels - who can function as consultants during the project make a relevant limitation of the subject and with the help of
+the supervisor provide arguments for the project, including
+describing the new aspects covered by the project and how the
+purpose may add to the research in the area describe goals and methods for the project in suitable extent
+and complexity plan the project provide a realistic workplan and schedule and continuously
+adjust the plan to the change in conditions perform thorough and systematic work within the experiment or
+theory, e.g. by constructiing an experiement, or provide code for a
+simulation, and collect the measured or generated data and treat
+the data in the analysis relate the data to the goals of the project interpret, evaluate and summarize the results, and present
+those in suitable format using tables and graphs write a well-structured and well-documented report in an understandable form present the methods used and results
+gained at the oral presentation carry the project through with great independence in all
+aspects.","
+A series of possible project subjects will be provided, with
+relations to the research activities at the participating
+institutes. The students select among the proposed projects. 
+",,"
+Allan Hornstrup"
+30120 , Astrophysics,Danish , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),BSc,National Space Institute,"
+The aim is to give an introduction to modern astrophysics by going
+through selected subjects from the star's physics and from
+cosmology. Further, to provide an introductory knowledge of the
+technological challenges in modern astrophysical observations. 
+","demonstrate basic knowledge about sky coordinate systems explain the fundamental elements of the electromagnetic
+radiation processes and the photons interaction with matter explain the origin of the composition of the Universe, the
+stars, and the planets describe how the therories of gravtitation apply in
+astrophysics explain the formation, structure, physics, and evolution of the
+stars explain the fundamental properties of compact objects (neutron
+stars and black holes) and the creation of those as the end stages
+of stellar evolution explain the structure of the Milky Way and its
+observations explain the structure of galaxies and galaxy clusters, and the
+related observational challenges explain the cosmic microwave background and the overall theory
+about the Start of the Universe in the ""Big Bang"" explain some of the technical challenges to
+instrumentation describe different methods of observational methods, such as
+telescopes, detectors, and spectrographs train group work so as to develop oral presentation skills and
+formulate constructive feebback.","
+The course will give a presentation of the heavens and the
+coordinate systems, and how the efficient detection of
+electromagnetic quanta is an essential in astrophysics.
+
+The physics and evolution of stars will be treated, in particular
+the end-stages of stellar evolution, the compact objects like
+neutron stars and black holes.
+
+Also galaxies, clusters of galaxies and active galaxies, as well as
+their importance for the understanding of the structure of the
+Universe will be explained. 
+","01005,10033","
+Jérôme Chenevez"
+30130 , Planetary Physics,Danish , 5 ECTS , 2016/2017 ,E5B (Wed 13-17),BSc,National Space Institute,"
+The course provides a general introduction to planetary physics and
+solar system exploration. The current state of knowledge of the
+planets, their formation and evolution are introduced. In parallel,
+significant focus are put on the various methods for scientific
+exploration. Unsolved puzzles and open key questions are
+elucidated. The course will provide insight to a science in rapid
+contemporary development. 
+","explain theories of the evolution of the Solar System describe planets, satellites, rings, asteroids and comets calculate orbits of planets and satellites evaluate the basic physical structure of planetary interiors
+including rotation and moments of inertia explain basic processes that forms planetary surfaces, in
+particular impact cratering and vulcanism estimate tiddal forces, tidal warming, the Rochelimit describe the basic composition,structure and circulation, and
+calculate basic physical parameters describe theories for evolution of planetary atmospheres and
+calculate basic parameters describe planetary magnetic fields and magnetospheres evaluate important energy sources, including differentiation,
+accretion, solar heating, greenhouse effect and albedo explain methods for solar system exploration, including also
+detection of planets around other stars.","
+Planetary interiors, surfaces, atmospheres and magnetospheres,
+satellites and rings. Evolution of the solar system, impact
+cratering, magnetic and gravity fields, planetary rotation and
+orbits, tidal forces, planetary heating, comets and asteroids. 
+","10034,10033","
+Kristoffer Leer"
+30140 , Geophysics,Danish , 5 ECTS , 2016/2017 ,F5B (Wed 13-17),BSc,National Space Institute,"
+This course gives an introduction to the physics of the Earth's
+interior and its environment 
+","describe the structure of Earth's interior explain the theory for plate tectonics and plate
+reconstructions explain the basics of seismic wave propagation explain the basics of the Earth's gravity and magnetic
+field explain the basics of heat transport in the Earth's
+interior explain the basics of the theory of paleomagnetism in
+rocks describe how to derive models of Earth's interior based on
+geophysical measurements explain the basics of of the components of the Earth's
+climate system and their role in the climate system explain basic features of the Earth's climate history use simple models to describe the interaction between the
+atmosphere, the oceans, the ice caps, tthe geosphere, and the
+biosphere analyse the response of the climate system on changes in the
+individual components and in the interchange of matter and energy
+between the components.","
+Structure of the Earths interior, seismic wave propagation,
+Earth's gravity and magnetic field, shape of Earth, geoid, heat
+transport, components of the Earth system and their biogeochemical
+interaction. 
+","10034,30130,10033,01035,02633","
+Arne Døssing Andreasen"
+30150 , Mathematical and Numerical Methods in Earth and Space Physics,Danish , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),BSc,National Space Institute,"
+The course aims to give an introduction to the fundamentals of
+continuum mechanics and its application in space- and geophysics. 
+","explain the fundamental concepts of the theory of continuous
+media explain the concepts of stress, strain, external forces, and
+constitutive relations explain and use the equations of motion use continuum theory to analyze and solve simple geophysical
+and astrophysical problems solve problems on static pressure and tension in the earth,
+planets and stars solve problems of wave propagation in the earth and planetary
+and stars solve problems of flow phenomena in the ocean and the Earth,
+planets and stars solve the problems of plastic flow in ice caps solve problems of flow in porous media.","
+Introduction to Cartesian tensors. Deformation and rotation.
+Stress, strain. Law of balance, Volume, Mass, Momentum, Angular
+momentum, Energy Examples of applications: Hydrostatic pressure,
+elasticity, pressure waves, ocean waves, ocean flow, atmospheric
+flow, plastic flow in the Earth, ice flow, flow in porous media.
+Introduction to Finite Differences, finite element and Boundary
+integral method. 
+","30140,30120,01005,01035","
+Shfaqat Abbas Khan"
+30160 , Continuous and Discrete Time Signals,Danish , 5 ECTS , 2016/2017 ,F2B (Thurs 8-12),BSc,National Space Institute,"
+To introduce the student to the theory, methods and algorithms for
+continuous and discrete time signals. These signals are essential
+to communication systems, electronic products, and IT systems
+including remote sensing systems. The programming language Matlab
+is applied extensively. 
+","define and analyze linear systems classify periodic and aperiodic signals defined for continuous
+time and for discrete time determine the Fourier spectra of periodic and aperiodic
+continuous-time and discrete-time signals apply the Fourier transform theorems apply computationally efficient algorithms to transform between
+the time and frequency domains analyze aliasing and choose the sampling frequency
+accordingly apply fundamental types of signal processing, e.g. filtering,
+korrelation, and modulation utilize the relationship between the Fourier transforms in
+relation to sampling and signal repetition apply power spectrum estimation methods define stocastic signals and their spectra define and utilize modulation forms for continuous-time and
+discrete-time signals apply Matlab for analysis of systems and signals, as well as
+for signal processing.","
+The course addresses linear systems and continuous and discrete
+time signals: linearity, impulse and frequency responses, Fourier
+Series, Fourier Transform, Discrete Fourier Transform, Diskrete
+Time Fourier Transform, FFT, power spectra, Nyquist sampling
+frequency, aliasing, stochastic signals, complex signals,
+modulation, Matlab. 
+","01005,31001,01035","
+Jørgen Dall"
+30200 , Measurement Technologies in Earth and Space Physics,English , 10 ECTS , 2016/2017 ,"E3 (Tues 8-12, Fri 13-17)",MSc,National Space Institute,"
+To provide a thorough overview of technologies including
+instrumentation, observation techniques, models, methods and
+monitoring systems to monitor, map and explore physical processes
+and structures within the four focus areas of environmental and
+climate monitoring, mapping and navigation, the physics of the
+Earth, and the exploration of the Universe. 
+","explain the parameters in the physical processes and structures
+within the four focus areas describe the most important models to describe the processes
+and structures within the four focus areas explain the most important observation techniques within the
+four focus areas select observation techniques to monitor, map, and explore
+important parameters for processes and structures within the four
+focus areas describe the most important instrumentation utilized for
+observationtechniques within the four focus areas explain the most impotant methods for processing of data for
+monitoring, mapping and exploration of processes and structures
+within the four focus areas explain the user requirements to monitoring, mapping, and
+exploration systems within the four focus areas explain the design of the most important monitoring, mapping
+and exploration systems within the four focus areas.","
+The course contains for each of the fields environmental and
+climate monitoring, mapping and navigation, the physics of the
+Earth, and the exploration of the Universe, a review of the most
+important physical processes and structures and models, observation
+techniques for monitoring, mapping and exploration, instrumentation
+for these observation techniques, methods for processing of the
+data from these instruments, and systems for monitoring, mapping
+and exploration. 
+",,"
+Henning Skriver"
+30210 , Data processing methods in Earth and Space Physics,English , 5 ECTS , 2016/2017 ,January,MSc,National Space Institute,"
+To provide the student insight into and practical experience with
+methods to analyze and process data within the fields of Earth and
+space physics, including methods for temporal and spatial data. 
+","analyze a dataset and select suiteable methods to extract
+relevant information describe and utilize spectral analysis, decomposition and data
+reduction methods such as fft, principal component analysis and
+empirical orthogonal functions describe and utilize linear filtering of data for deconvolution
+and noise reduction choose and apply suited interpolation methods fx. kriging,
+nearest neighbor and inverse distance weighting describe spheric harmonic functions and their use to compute
+potential fields. utilize and describe different minization methods describe and utilize methods for klassification and change
+detection. describe methods to quantify the quality of measurements and
+the goodness of fit of models to measurements and apply the
+methods","
+The course contains methods for data processing of astrophysical
+and geophysical data. The main themes are analytical and numerical
+methods for analysis and processing of time series and spatial
+data, including statistical methods, noise reduction, and
+deconvolution.
+
+The methods will be used on a number of specific examples from
+astrophysics and geophysics, including analysis of the magnetic
+field, tidal effects, airborne and satellite images, X-ray,
+gamma-ray and microwave images of black holes, neutron stars, and
+galaxies. I the examples a dataset is followed from the
+observationsstage to the finished high level produkt. 
+","30200,30230","
+Lars Stenseng"
+30220 , Synthesis in Earth and Space Physics,English , 10 ECTS , 2016/2017 ,Fall  or  Spring,MSc,National Space Institute,"
+To complete a project where an open problem is solved, in which a
+combination of skills and competences obtained through the
+technological specialization and the normative competence courses
+are used. 
+","describe, design, construct, validate and choose solutions in
+the form of monitoring, mapping or exploration systems or parts
+hereof, by combining measurement technologies with an understanding
+of physical processes and structures complete a larger development project analyse a heteorogeneous problem and formulate a precise
+requirements specification for the task to be solved perform problem, design and implementation oriented analyses
+and discuss advantages and disadvantages for alternative
+solutions make a plan for how a task can be solved on time with the
+available ressources explore and analyze relevant technologies for solving the given
+problem substantiate the choice of technologies on the basis of clearly
+formulated premises complete a larger development project, including the production
+of a technical documentation which makes clear how major concepts
+from the problem formulation are traceable in the
+implementation present their results and analyses in a precise and clear
+way.","
+The exact project and theme will be agreed between the student and
+a supervisor chosen by the student in connection with the
+enrollment. 
+","02671,30210,30200,30230","
+Henning Skriver"
+30230 , Data Analysis and Modeling in Geoscience and Astrophysics,English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,National Space Institute,"
+To give the students insight into the mathematical description of
+measurements (laboratory, observatory, satellite and field data)
+and their application to the study of astrophysical and geophysical
+systems. 
+","find suitable representations/​parametrizations of data and
+models classify inverse problems solve linear inverse problems with analytical methods examine how noise on the data propagates into uncertainty on
+the solutions use prior information in solving an inverse problem use methods to avoid instability in numerical solution
+methods perform a Fourier analysis of data that are non-uniform
+distributed solve weakly non-linear problems with iterative methods based
+on linearization","
+The course deals with methods for representation and quality
+assessment of data, parameterization of physical systems,
+description of empirical and analytical relationships between data
+and model parameters, stochastic description of uncertainties and
+noise, and stochastic and deterministic quantification of prior
+knowledge about a physical system.
+
+A number of analytical/numerical methods for solving linear and
+nonlinear inverse problems is presented. The propagation of noise
+in the data to uncertainty of the solutions is a major theme in the
+course. 
+","01418,01246,02685,02631,02632,02633","
+Nils Olsen"
+30300 , Introduction to Spacecraft Systems and Design,English , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,National Space Institute,"
+Students get an understand satellite systems and their
+applications, physical properties of the space environment and the
+systems engineering elements of a spacecraft project. This course
+gives the students the basics for further studies within aerospace
+technology. 
+","make simple interpretations of images of the Earth explain the effects high-energy radiation has on electronic
+circuits explain the principles of launching a spacecraft into orbit in
+space describe the dynamics and stability of a spacecraft calculate available power from radiation from the Sun and
+reflections from Earth determine surface materials to obtain thermal balance within a
+specified range of temperatures within the spacecraft explain vibrations met during launch and mechanical design make an overall design including main properties of components
+like solar arrays, power supply, cpu load and power. explain overall functionality and properties of on-board
+software explain quality assurance and project planning of a spacecraft
+project calculate basic parameters for radiocommunication with a
+spacecraft.","
+• Satellites - why and how?
+
+• Launch into orbit about Earth
+
+• Satellite systems and their functionality
+
+• Phases of a space project.
+
+• Ground segment and radio communication
+
+• Spacecraft hardware and software architecture
+
+• Power
+
+• On-board computer and other hardware
+
+• Attitude and orbit control systems
+
+• Attitude determination
+
+• Space environment: radio activity, vacuum, thermal conditions
+
+• Mechanical structure and mechanisms: requirements, test and
+examples
+
+• Applications. 
+",,"
+Henning Skriver"
+30320 , Spacecraft Instrumentation Systems,English , 10 ECTS , 2016/2017 ,"F2 (Mon 13-17, Thurs 8-12)",MSc,National Space Institute,"
+To enable the student to design and verify complex Aero-space
+instrumentation systems. The course emphasizes standard design
+drivers as quality, precision, longevity, robustness and industrial
+norms and standards. To enable a conceptual verification, the
+students are required to realize critical parts of their designs in
+the laboratory. The theories, techniques and methods learned are
+common to aerospace, medico-techniques, military electronics,
+robotics etc. 
+","design a instrumentation system for space use derive relevant design drivers from a suite of
+requirements derive an adequate design from mission specification and
+drivers analyze and rank different designs with respect to PA
+aspects analyze and rank different designs with respect to QA
+aspects analyze a given instrument with respect to relevant comsumables
+for the application analyze and quantify the design arrived with respect to
+performance optimize the achieved design wrt. robustness and autonomy of
+operation optimize the chosen design wrt. choise of components and parts
+vis-a-vis the space environment optimize a design for ruggedness wrt. launch and space
+operation design a test and verification strategy for the chosen
+design.","
+The course is sectioned into two parts: The lecture hours, where
+the theory, standards and methods are taught, and a laboratory
+part, where teams of students form study groups that solve
+practical assignments.
+
+These assignments are all derived from the international satellite
+projects in which the department participates, why it is the
+intention, that the designs are to be used for later missions.
+Therefore, the assignments include both system engineering,
+robustness and space-hardening aspects as well as instrumentation
+aspects. 
+","49215,30030,30020,31860,72141,31820,30330,31840","
+John Leif Jørgensen"
+30330 , Image Analysis with Microcomputer,English , 10 ECTS , 2016/2017 ,E1A (Mon 8-12) and E1B (Thurs 13-17)  or  E2A (Mon 13-17),MSc,National Space Institute,"
+The course's main focus is on the hardware/software interaction
+and on development and application of electro-optical systems.
+Emphasis is on optimal hardware performance, i.e. optics, camera,
+acquisition HW, in application in surveillance, navigation,
+medicine and industrial control. 
+","design a stand alone image analysis system optimize the electro optical front-end research and design an adequate algorith for the basic
+measurement problem perform an exhaustsive scene analysis perform an adequate noise source analysis design and implement a digital version of the algorithm perform the relevant Software/Hardware analysis implement and verify the selected analysis algorithm plan, implement and evaluate the implemented method evaluate the actually implemented method(s) against alternative
+solutions.","
+In the first 10 weeks, the principle of image formation in optical
+systems, and the physics of photo absorption and electron transport
+in semiconductors (with emphasis on CCD an APS technology). The
+students will also be introduced to analogue and digital processing
+of electronic image information and the use and optimal use of SW
+libraries.
+
+In the last part of the course, focus is on application and
+embedding of image analysis in real world applications. Examples on
+fields addressed are object classification and recognition applied
+in vision based navigation in 2D and 3D scenes, and automatic
+detection and recognition of targets. Throughout, the focus is on
+usability through robustness and autonomy. 
+","30020,30021","
+John Leif Jørgensen"
+30340 , Radar and Radiometer Systems,English , 10 ECTS , 2016/2017 ,"F3 (Tues 8-12, Fri 13-17)",MSc,National Space Institute,"
+The course emphasizes system aspects and deals with two important
+microwave sensors - radar and radiometer systems - used for remote
+sensing and surveillance. It is the aim that the student will
+eventually be able to perform a proper system analysis and design
+of radar and radiometer systems for various applications. 
+",discuss radar equation and analyze its concequences demonstrate and analyze MTI and Tracking radars analyse and develop pulse compression techniques analyse and design radar systems analyse and design SAR techniques analyse and design ice sounding radars discuss and analyse radiometer types discuss imaging radiometer systems analyse and design radiometer systems organize project work write technical report,"
+The course will describe systems like airport traffic control
+radar, weather radar, air- and space borne synthetic aperture radar
+(SAR), and ice sounding radar. The theory behind the systems is
+described and the systems are worked through on a block diagram
+level. Likewise radiometer systems are introduced: what is
+radiometry, radiometer principles, imaging radiometer systems,
+polarimetric radiometer. The course is strongly related to the
+sensor development taking place at DTU Space within airborne SAR
+and radiometer. 
+",31405,"
+Niels Skou,
+Sten Schmidl Søbjærg"
+30350 , Remote Sensing,English , 10 ECTS , 2016/2017 ,"E4 (Tues 13-17, Fri 8-12)",MSc,National Space Institute,"
+Radar and radiometer systems are used from satellites and aircrafts
+to measure and monitor the surface of the Earth, including the land
+surfaces, the oceans and the atmosphere. This is called remote
+sensing or Earth observation and is of utmost importance for the
+monitoring of the Earth’s environment and climate.
+
+The general course objectives are to provide the students with an
+understanding of those radar and radiometer techniques and systems,
+that are used for remote sensing, with a special emphasize on the
+technical description of the sensors, and on the application of
+these techniques for measuring and monitoring of properties of the
+surface of the Earth. This also includes knowledge about the
+necessary data processing techniques. 
+","analyse the interaction of electromagnetic waves with surface
+and volume scatterers analyse the synthetic aperture radar (SAR) technique and
+discuss its applications analyse the polarimetric SAR technique and discuss its
+applications analyse the interferometric SAR technique and discuss its
+applications describe the polarimetric SAR interferometry technique analyse the radar altimeter and wind scatterometer techniques
+and discuss their ocean applications analyse and compare microwave radiometer techniques discuss applications of microwave radiometers including the
+estimation of ocean salinity and soil moisture, and the monitoring
+of sea ice describe remote sensing techniques and applications at visible
+and infrared wavelengths implement a data processing method and interpret the
+results plan and perform project work write a technical report.","
+The course includes a survey with application examples of sensors
+like side looking radar, radar altimeter, windscatterometer,
+radiometer, and multispectral scanner. Applications are primarily
+within oceanography including sea pollution, glaciology including
+sea ice, mapping, farming, and forestry. The course includes for
+each of the above-mentioned sensors a description of the techniques
+as well as the relevant applications with examples, and in addition
+discussions about the necessary data processing and interpretation
+methods.
+
+The course is directly related to the remote sensing research that
+has developed at DTU Space through more than 30 years. 
+",31405,"
+Henning Skriver"
+30510 ," GPS, GIS and Setting out",English , 5 ECTS , 2016/2017 ,June,MSc,National Space Institute,"
+To give an all round knowledge of satellite positioning (GNSS/GPS),
+geographical infomation system (GIS) and technical surveying
+techniques through practical exercises and project work. 
+","describe the basic theory of GNSS and mention selected systems
+and their characteristica explain the functionality of survey instruments and commonly
+used practice and calculation methods carry out a test and calibration of the surveying
+instruments use leveling instruments, total station instruments and GNSS
+instruments for surveying and setting out in the field measure terrain and topography, establish and densify fixed
+control points network analyze the conducted measurements by consistency checks to
+detect outliers and estimate the uncertainties of the measurements
+and the results describe and transform between various global, regional, and
+local geodetic datums and reference frames describe commonly used international and Danish map
+projections visualize survey data from the field together with existing
+data in GIS perform simple geospatial analysis in GIS plan survey and setting out campaigns, choose the appropriate
+instrumentation and estimate the required effort.","
+Satellite positioning (GNSS/GPS) theory and exercises with GNSS
+instruments for accurate positioning using static and kinematic
+methods. Use of a total station instrument to measure angles,
+distances and heights. Measure heights with leveling instruments,
+including verification and calibration of instruments.
+
+Geodetic datum, map projections, coordinate systems and
+transformations of data between systems.
+
+Error theory (random, systematic, gross errors, and error
+propagation) and a brief introduction to least squares adjustment
+of redundant observations.
+
+Setting out of points and lines including the calculation of data
+for setting out, and control of the set out points.
+
+Basic introduction to GIS e.g. combine data from own field
+measurements with existing geospatial data. Introduction to data
+analysis in GIS.
+
+After an introduction of theory and methods through lectures and
+exercises the students carry out projects based on cases from urban
+and rural areas. In the projects the learned methods are combined
+and the student groups plans, establish fixed control points,
+survey, set out and analyses the data independently. 
+",01005,"
+Lars Stenseng"
+30530 , Geographic Information Systems,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,National Space Institute,"
+To introduce the basic concepts of Geographical Information Systems
+(GIS). To give an insight into spatial information and geodata. 
+","describe examples of GIS applications with their requirements
+on geospatial data and GIS functionality develop a simple application schema for a given spatial problem
+in third normal form in alignment with a suitable spatial data
+model handle a commercial GIS software for typical geospatial
+questions without programming use official Danish geodata databases for simple analyses transform geodata between different geodetic datums and
+projections describe different techniques for acquisition of geodata with
+respect to their fundamental principles, their field of
+application, the required effort and their limitations design of spatially enabled databases and formulate simple
+queries in it apply geometric operations to geodata in the vector and raster
+domain describe simple geostatistical concepts of spatial co-variation
+and interpolation and calculate simple statistics and
+semivariograms understand important applications as route optimization and
+communication network design with close relations to GIS formulate requests to geoweb services that are based on
+international standards.","
+• Introduction to GIS
+
+• Digital maps, including technical maps, topographical maps, and
+cadastral maps
+
+• Coordinate systems, map projections and datums such as EUREF89,
+ED50, UTM and S34, and geo-coding
+
+• Relational and spatial databases, spatial indexing, and queries
+with SQL
+
+• Exploratory data analysis, measures of spatial continuity
+(semivariograms), spatial interpolation (kriging)
+
+• Spatial analysis in vector and raster data models
+
+• The use of GIS in traffic planning, municipal and regional
+administration and planning. 
+",None,"
+François Anton"
+30532 , Introduction to digital mapping and GIS,English , 5 ECTS , 2016/2017 ,E4A (Tues 13-17),MSc,National Space Institute,"
+To introduce the basic concepts, components, functional
+requirements and applications of digital mapping and Geographical
+Information Systems (GIS). To give an insight into spatial
+information and geodata processing and analysis. 
+","understand basic GIS data structures and algorithms understand different techniques for acquisition of geodata with
+respect to their fundamental principles, their field of
+application, the required effort and their limitations develop simple GIS applications with their requirements on
+geospatial data and GIS functionality handle a commercial GIS software for typical geospatial
+questions without programming use official Danish geodatabases for simple analyses in vector
+and raster data models develop a simple database for a given spatial problem in
+alignment with a suitable spatial data model and formulate simple
+queries on it handle GIS specific methods such as geo-referencing and map
+transformations transform geodata between different geodetic datums and map
+projections thematic mapping apply geometric operations to geodata in the vector and raster
+domain.","
+• Introduction to GIS and digital mapping
+
+• Basic digital mapping methods and standards
+
+• The applications of GIS in municipal and regional administration
+and planning
+
+• Data input in GIS and sources of spatial data
+
+• Basic GIS data structures and algorithms
+
+• Digital maps, including technical maps, topographical maps,
+cadastral maps
+
+• Coordinate systems, map projections and datums such as EUREF89,
+ED50, UTM and S34, and geo-referencing
+
+• Relational and spatial databases, database design and queries
+with SQL
+
+• Spatial analysis in vector and raster data models. 
+",None,"
+François Anton"
+30535 ," Spatial, temporal, and multimedia databases",English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,National Space Institute,"
+When you have completed this course, you will have acquired:
+
+• The basic concepts in design and implementation of spatial,
+temporal, spatio-temporal and multimedia databases with a
+particular focus on design and implementation of spatio-temporal
+database management systems and Geographic Information Systems
+
+• Experience in design and implementation of spatio-temporal and
+multimedia databases and in particular basic spatial data
+structures and algorithms, spatial topology, temporal topology,
+spatio-temporal topology
+
+• Understanding of how spatial/temporal data models, structures and
+algorithms and abstract data types can be applied to
+spatial/temporal queries, spatial/temporal analysis and GIS
+applications
+
+• Practical hands-on experience with commercial relational and
+object-oriented database management systems, Geospatial Information
+Systems, spatial database management systems, and multimedia
+databases
+
+• A critical thinking about Geospatial Information Systems and
+spatio-temporal databases management systems. 
+","analyse a description of a spatio-temporal/​multimedia problem
+to be solved as it would be obtained by discussion with the
+clients write a spatio-temporal/​multimedia data dictionary to solve
+any given spatio-temporal/​multimedia problem design the spatial, temporal, multimedia and descriptive
+entities and their relationships to solve a given
+spatio-temporal/​multimedia problem design a conceptual modelling diagram for a given
+spatio-temporal/​multimedia problem convert a spatio-temporal/​conceptual modelling diagram into a
+set of relations (or tables) or classes wih the appropriate
+abstract spatio-temporal and/or multimedia data types design the spatio-temporal/​multimedia queries that will allow
+one to solve a given spatio-temporal/​multimedia problem optimise spatio-temporal/​multimedia queries optimise the physical storage of data perform basic programming tasks to perform spatio-temporal
+computations and/or automated spatio-temporal updates on the
+database.","
+• Introduction to planar representations of the Earth
+
+• GIS life cycle
+
+• Spatio-temporal data representation
+
+• Spatio-temporal logical models and query languages
+
+• Spatial access methods
+
+• Spatial query processing
+
+• Spatial Algorithms
+
+• Spatial algorithms with applications in GIS
+
+• Online Spatio-temporal databases
+
+• Multimedia databases.
+
+Informal labs
+
+We will use Oracle 10g. 
+","02170,30530","
+François Anton"
+30540 , Mapping from Aerial and Satellite Images,English , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),MSc,National Space Institute,"
+To provide knowledge of instruments and methods used for mapping
+and analysis of the surface of the earth. The course includes
+digital photogrammetric and spectral methods for topographic
+mapping and related techniques for analysis of digital image data
+for thematic mapping, earth observation and change detection. 
+","carry out typical tasks to process aerial or satellite images
+and extract information from these images write, explain and prove all the mathematical formulas for
+interior, relative and absolute orientations of a pair of aerial
+photographs perform on a photogrammetric workstation the interior, relative
+and absolute orientations of a pair of aerial photographs given the
+photographs, the camera's calibration report, a list of ground
+control points and their coordinates and schemas program the interior, relative and absolute orientations of a
+pair of aerial photographs given the photographs as well as the
+camera's calibration report, a list of ground control points
+and their coordinates and schemas linearise any colinearity, coplanarity or bundle equation using
+4D affine or homogeneous coordinates instead of 3D coordinates describe and write high level computer code to perform
+orthogonal transformations, e.g., principal component analysis describe and write high level computer code to perform
+supervised classification based on quadratic discriminant
+analysis describe and write high level computer code to perform
+unsupervised classification based on the k-means and fuzzy c-means
+methods describe and write high level computer code to perform change
+detection based on for example canonical correlation analysis describe regression analysis, describe and write high level
+computer code to perform partial unmixing based on the constrained
+energy minimization method describe continuous methods of photogrammetric reconstruction
+in nD.","
+Photogrammetric sensing systems: Digital aerial cameras,
+multispectral scanners, laser scanning, imaging radar and high
+resolution satellite images. Image orientation and
+aerotriangulation. Photogrammetric measurements by image
+processing. Analysis of multi spectral and hyper spectral image
+data, including principal component analysis, spectral mixing, and
+classification. Stereoscopic compilation in photogrammetric work
+stations. Data collection for GIS, orthophotos and 3D city models.
+Image analysis for interpretation and data analysis. Exercises in
+image orientation, mapping and data analysis (including
+students' own implementations in Matlab). Visit to/from a
+photogrammetric company. 
+","02504,02502,02501","
+Allan Aasbjerg Nielsen,
+François Anton"
+30550 , Satellite Based Positioning,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,National Space Institute,"
+To provide a good knowledge to the mathematical modelling
+principles used for conventional code based GNSS positioning (GPS,
+Galileo, or Glonass) 
+","write Matlab code for computing a position with an accuracy of
+5-10 meter based on GNSS satellite observations (pseudoranges) write and test Matlab code for transformation of positions
+between geodetic coordinate systems compute GNSS satellite positions in WGS84 from Kepler
+elements compute and evaluate elevation and azimuth for satellite
+observations implement and apply conventional models for atmospheric effects
+on GNSS satellite signals implement simulation of satellite positions from Kepler
+elements explain the theory of and implement nonlinear, weighted least
+squares regression analysis for satellite positioning
+(adjustment) explain and implement measures of Dilution of Precision
+(DOP).","
+The basis for the course is to provide the knowledge necessary to
+develop the mathematical parts of the software used in a
+conventional code based GNSS receiver.
+
+The exercises of the course are based on implementation of a number
+of routines and models often used in practice. The lectures support
+the exercises, and provide the necessary mathematical background.
+
+The following subjects will be dealt with: computation of satellite
+positions, modelling of clock errors and atmospheric effects,
+positioning based on least squares adjustment of pseudo ranges,
+computation of DOP-values, transformation of positions and
+covariances, differential GNSS. Furthermore examples on the use of
+Kalman filtering for GNSS positioning is discussed, carrier phase
+based positioning is introduced including the challenges related
+resolution of ambiguities.
+
+Exercises are carried out using Matlab. 
+","02402,02534,02601,02631,02632,02633","
+Per Høeg"
+30560 , Physical Geodesy,English , 5 ECTS , 2016/2017 ,E1B (Thurs 13-17),MSc,National Space Institute,"
+The Earth gravity field varies from location to location depending
+on the composition of the materials in the subsurface. These
+variations have an impact on the shape of the Earth and cause the
+water in the oceans not to coincide with a simple surface. The
+Geoid is an equipotential surface for gravity that describes the
+actual zero-level surface. On land the Geoid is needed to compute
+heights from satellite positioning.
+
+The goal of the course is to provide the students with the
+knowledge about the mathematical models and methodology used for
+describing the Earth shape and gravity field. 
+","describe a reference system, rotation and flattening apply spherical harmonic function to describe the gravity field
+and associated quantities measure the gravity and compute the gravity anomalies compute terrain effects and other contributions to the gravity
+field compute a geoid from gravity data and compare with satellite
+positioning data describe satellite orbits derive gravity field from GRACE data apply statistical methods for gravity field
+estimation.","
+The content of the course include Earth gravity field, measurement
+of gravity on land and from aircraft and satellite, computation of
+the geoid, as well as satellites and their behavior in the gravity
+field, supplemented by elements from statistics and estimation. 
+","01005,30140,01035,30150,10024,10022,10020","
+Gabriel Strykowski"
+30571 , Smart City sensor technology,English , 5 ECTS , 2016/2017 ,January,MSc,National Space Institute,"
+To give the student knowledge and practical experince with
+sensortechnology in a Smart City context. 
+","Explain the basic Smart City consept Explain a basal ITS (Intelligent Transportation System) Explain the basics in laws and regulations conserning sensitive
+and personal data, including methods to anonymice observations Implement a system, using standard units, to position a unit
+using radio signals (e.g. WiFi or Bluetooth) Analyze a positioning system and implement algorithms to
+estimate the position of a unit Design a small/medium scale experiment to demonstrate the
+potential in a sensor technology Analyze and optimize a small/medium scale experiment using
+simple simulations Document the potential in report form with focus on the
+development oppertunities and opstacles","
+We will work with the Smart City concept from the technology
+viewpoint and focus on the new DTU Smart Avenue Living Lab as a
+platform. In the first project we investigate the present and
+nearest future in positioning and flow of people in the urban
+environment and along main trafic corridors, and how to ensuring
+anonymity. We will go through the entire process from design over
+simulations and optimization to dataprocessing and downstream
+products.
+
+In the second project you will design, simulate, and analyze a
+sensorsystem that could be implemented in the DTU Smart Avenue. 
+","02631,02632,02633","
+Lars Stenseng"
+30720 , Space Physics ,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,National Space Institute,"
+The goal is to provide insight to the physics of the space
+environment. Focus will be on the Sun, the interplanetary mediul
+and the space environment of the Earth. The student will aquire
+basic knowledge of the natural phenomena in space, such as high
+energy radiation and propagation of radio waves. The acquired
+knowledge also forms the foundation of further studies of the
+influence of the Sun and the solar wind at the Earth and the other
+planets as well as magnetospheric physics and aeronomy. 
+","estimate the density and pressure in the upper atmosphere from
+basic principles derive basic equations describing formation of the
+ionosphere calculate basic effects of the ionosphere on radio
+communication calculate the motion of charged particles in the Earthes
+magnetosphere, including the radiation belts perform simple calculations of solar wind and interplanetary
+magnetic field propagation describe and estimate effects of the solar wind on planetary
+environment explain the distribution of plasma and electric currents in the
+Earths environment, the plasmasphere and magnetosphere use and exploit wellknown theoretical and empirical models for
+the space environment.","
+Single particle motion in magnetic and electric fields. MHD theory
+application to space. Structure and dynamics of the upper
+atmosphere. Ionospheric formation and structure. Wave propagation
+in plasma. Solar activity and solar wind. Solar wind planetary
+interactions. Magnetospheric structure and dynamics. Plasmasphere,
+aurora and radiation belts. 
+","31400,10033,10034,02631,02632,02633","
+Susanne Vennerstrøm"
+30730 , Space weather forecast and effects,English , 5 ECTS , 2016/2017 ,E1B (Thurs 13-17),MSc,National Space Institute,"
+Modern society is becoming increasingly dependent on space
+technology, and in general on technology affected by the physical
+conditions in near Earth space. The goal is to provide insight into
+the effects of the changing space environment on technology and
+into the methods of forecasting space weather. As part of the
+course the students will participate in a forecast service made by
+DTU in collaboration with NASA. 
+","produce space weather forecasts based on real-time observations
+of the Sun and the space environment describe and quantify the various effects of space radiation on
+spacecraft systems design a strategy to mitigate the problems of space radiation
+for a planned space mission use facilities available on the internet such as the ESA
+""Space Environment Information System"" to estimate the
+effects of space weather on planned space missions use and asses the credibility of models for short-term
+forecasts of space weather based on solar observations as well as
+upstream solar wind observations. describe, use and assess the credibility of existing models of
+forecast of long-term variations of space weather. explain the effects of space weather on satellite communication
+and mitigation strategies explain the effects of space weather on GPS/GNSS accuracy,
+availability, reliability and mitigation strategies describe the different forms of space radiation and their
+sources, their observation, levels and temporal changes, and use
+existing models to estimate these properties.","
+Space weather forecast. Cosmic rays, solar energetic particles and
+the Earths radiation belts. Geomagnetic shielding. Solar UV and
+X-rays. Effects on spacecraft electronics. Single event effects.
+Solar panel degradation. Spacecraft charging. Effects on detectors.
+Solar cycle variation of space weather and it effects and
+prediction. Effects of solar eruptions and their prediction.
+Forecast of magnetic storms and magnetic indices. Polar Cap
+Absorption events. Ionospheric scintillations. 
+","31400,01005,02632,10036,02631,10033,02633","
+Susanne Vennerstrøm"
+30740 , Geomagnetism,English , 10 ECTS , 2016/2017 ,"F4 (Tues 13-17, Fri 8-12)",MSc,National Space Institute,"
+The course is an introduction to the Earth's magnetic field
+with particular emphasis on global processes and their temporal
+variation. The course provides a broad foundation that is necessary
+for understanding the basic concepts, methods and measurements made
+​​by satellites. 
+","explain the various sources to Earth's magnetic field write down and explain equations describing dipole part of
+field write down and interprete equations describing geomagnetic
+field globally explain the sources of the internal geomagnetic field explain the sources of the external geomagnetic field describe the separation of the sources describe measurement techniques for the magnetic field use the natural time variation of the magnetic field to
+determine the electrical conductivity of the Earth's crust and
+mantle use measurements of the electric and the magnetic field to
+study the Earth's interior","
+Earth's magnetic field is generated by a range of different
+physical processes in the Earth's interior and surroundings:
+Dynamo processes in the core, induced electrical currents in the
+mantle, the magnetization of the crust, ocean currents and
+prevailing winds in the Earth's upper atmosphere, high-energy
+charged particles in the Earth's radiation belts, and electric
+currents in the ionosphere and magnetosphere generated in the
+dynamic interaction between the solar wind and Earth's magnetic
+field. The course will include a review of the various
+contributions, how they are observed, separated, described
+(modeled), interpreted, and used in practical applications. 
+","30140,31400,01005,02632,10034,10024,10036,10022,02631,10033,02633","
+Nils Olsen,
+Chris Finlay"
+30742 , Geomagnetism,English , 7.5 ECTS , 2016/2017 ,"F4 (Tues 13-17, Fri 8-12)",MSc,National Space Institute,"
+The course is an introduction to the Earth's magnetic field
+with particular emphasis on global processes and their temporal
+variation. The course provides a broad foundation that is necessary
+for understanding the concepts, methods and measurements made ​​by
+satellites. 
+","explain the various sources to Earth's magnetic field write down and explain equations describing the dipole part of
+Earth's magnetic field write down and interprete equations describing the geomagnetic
+field globally explain the sources of the internal geomagnetic field describe external contributions to the geomagnetic field describe the separation of internal and external sources use the natural time variation of the magnetic field to
+determine the electrical conductivity of the Earth's crust and
+mantle use measurements of the electric and the magnetic field to
+study the Earth's interior","
+Earth's magnetic field is generated by a range of different
+physical processes in the Earth's interior and surroundings:
+Dynamo processes in the Earth's core, induced electrical
+currents in the mantle, the magnetization of the crust, ocean
+currents and prevailing winds in the Earth's upper atmosphere,
+high-energy charged particles in the Earth's radiation belts,
+and electric currents in the ionosphere and magnetosphere generated
+in the dynamic interaction between the solar wind and Earth's
+magnetic field. The course will include a review of the various
+contributions, how they are observed, separated, described
+(modeled), and interpreted. 
+","30140,31400,01005,02632,10034,10024,10036,10022,02631,10033,02633","
+Nils Olsen,
+Chris Finlay"
+30750 , Earth System Science,English , 5 ECTS , 2016/2017 ,F3A (Tues 8-12),MSc,National Space Institute,"
+That the student obtains a scientific understanding of the
+complexity of the Earth System and is able to combine methods from
+different diciplines as a basis for futher studies in ""Earth
+System Science"". 
+","explain the composition of the lithosphere and its evolution,
+cycles on geological time scales, volcanos, plate tectonics, earth
+quakes and sediments explain the composition of the atmosphere and the main
+components in atmospheric circulation and cycles, basic climate
+conditions and weather systems explain the components of the hydrosphere, the cryosphere,
+ocean circulation and the importance of rivers, lakes and ground
+water explain the evolution of the biosphere and its importance use the above mentioned descriptions of the lithosphere, the
+atmosphere, the hydrosphere and the biosphere to develop simple
+models for the Earth's climate system and the biochemical
+cycle use data from the climate history of the Earth (e.g.
+measurements, sediments, ice cores, trees and other
+reconstructions) in simple models analyze biogeochemical cycles between the components of the
+Earth System, such as the carbon cycle, energy transport and
+nutrient cycles evaluate the linkages among physical, chemical, and biological
+systems of the Earth.","
+Energy transport and large scale structures in the atmosphere and
+ocean. Dynamic meteorology and oceanography. Climate forcings and
+feedbacks, climate sensitivity and internal variations. The Earth
+and the evolution of the biosphere. Global biogeochemical cycles,
+in particular carbon, nitrogen, sulfur and phosphor. The role of
+the biosphere in the climate system. Biological, physical and
+chemical processes, which determines the chemical composition of
+the ocean. Exchanges between the ocean and the atmosphere and
+sediment chemistry. Climate change in the past, present and future.
+
+","30140,01035,30120,02631,02632,02633","
+Jens Olaf Pepke Pedersen"
+30752 , Cryosphere physics and observation,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,National Space Institute,"
+The cryosphere is the part of the Earth surface which is covered by
+snow or ice. The cryosphere is sensitive to changes in the climate,
+end in recent years an increased mass loss of the large ice sheets
+and a decrease in the sea ice cover have been observed.
+
+The aim of this course is to give the student knowledge about the
+physics of ice sheets, glaciers and sea ice, and also the geodetic
+methods for monitoring the cryosphere from satellites and
+airplanes.
+
+The focus will be on the use of different data sets relevant for
+monitoring the cryosphere and on the geophysical interpretation of
+the data and its connection to the global climate system. 
+","describe the basic physics of ice identify the most important feedback mechanisms between the
+cryosphere and the climate system perform a geophysical or climatic interpretation of a relevant
+data set select a relevant data set (amongst e.g. gravimetry, altimetry,
+GNSS) for monitoring of a given cryosphere phenomenon run a simple glacier model and analyze the model output analyze gravimetry data from the GRACE satellites and use these
+to estimate the mass loss of the Greenland ice sheet debate how geodynamics can influence different types of
+measurements. characterize the individual contributions to the mass balance
+of an ice sheet and outline how these can be estimated from data
+and models evaluate model results of e.g. post glacial rebound and
+estimate the uncertainty of such models write a report on - and present - a scientific
+project.","
+Geodetic methods for monitoring the ice sheets and sea ice from
+satellites and airplanes. Physics of ice sheets and sea ice (ice
+motion and properties of snow and ice). Feedback mechanisms between
+the cryosphere and the climate system.
+
+Specific topics:
+
+• Glenn’s flow law
+
+• Mass balance, zones of an ice sheet/glacier
+
+• Post glacial rebound, geodynamics
+
+• Firn, compaction, refreezing. 
+","01005,30140,30150,10024,10022,10020","
+Louise Sandberg Sørensen"
+30760 , Inverse Problems in Earth and Space Physics,English , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),MSc,National Space Institute,"
+This course covers advanced methods for inversion of geophysical
+and astrophysical data. Case studies from a wide range of inverse
+problems in Earth and Space physics (e.g. seismic tomography,
+geomagnetism, helioseismology, ground penetrating radar, galactic
+emission spectra, gravity), are presented and solved. The emphasis
+in this course is on inversion methods that handle non-Gaussian
+noise, and use of suitable a priori information, to get the most
+out of the observed data.
+
+Matlab will be used as a tool throughout the course. 
+","formulate and solve practical inverse problems with incomplete,
+noisy data use robust statistical methods to derive models from data,
+handling non-Gaussian noise use model regularization and a priori information during the
+inversion procedure explain how to select level of model regularization use of sparsity regularization methods use methods for determining model resolution explain the use of Bayesian methods for inversion of
+geophysical and astrophysical data use Markov-Chain Monte Carlo (MCMC) techniques to find
+probabilistic solutions to inverse problems","
+Theory:
+
+Statistical data description, Maximum likelihood, Model
+non-uniqueness, null space and resolution, Bayes Theorem,
+Probabilistic Inversion
+
+Methods:
+
+Robust statistics for non-Gaussian errors, Annihilators, Model
+regularization, Trade-off curves, Generalized cross validation,
+Resolution matrix, Backus-Gilbert methods, Bounded value least
+squares, Markov-Chain-Monte-Carlo (MCMC) methods, Sequential Gibbs
+sampling 
+","01418,01246,02685,30230,02631,02632,02633","
+Chris Finlay"
+30786 , Scientific Instrumentation for X,English , 10 ECTS , 2016/2017 ,"F4 (Tues 13-17, Fri 8-12)",MSc,National Space Institute,"
+To give an in-depth understanding of modern scientific
+instrumentation for X- and Gamma-Ray Astronomy. This will include
+both the telescopes and detector side. 
+","describe X-ray telescope designs explain the basic interaction between X-rays and matter explain the parameters entering the figure of merit of an X-ray
+telescope describe the design and properties of various 2D and 3D X-ray
+detectors explain the theory behind X-ray reflection in mirrrors for
+X-ray telescopes explain the different theories for scattering of X-rays in
+surfaces explain the use of multilayer structures enabling the extension
+of the energy band in X-ray telescopes design optimum multilayer structures from a given
+figure-of-merit test the interaction between photons and matter in X-ray
+detectors explain the principle and method of magnetron sputter
+deposition use in-house 8 keV X-ray reflectometer for measurement of
+structural multilayer parameters conducet experiments in two novel X-ray detectors for X-ray
+telescopes","
+The course will start with a short description of the field as it
+has developed since its inception in the beginning of the space
+age. This is followed by a theoretical introduction to X-ray
+telescopes and detectors. This will include all relevant solid
+state physics aspects - covering reflection and scattering from
+mirrored surfaces and the various types of absorption and
+interaction in solid state detectors. The course will also include
+laboratory exercises on X-ray mirrors and detector prototypes.
+Finally the course will contain an introduction to the analytical
+and numerical methods used for the simulation of the scientific
+capabilities of realistic instrument complexes as well as a
+description of the requirements and methods used for on-ground
+calibration. 
+","30780,31400,10303,01035,30120,10103,10036,10033,10102","
+Finn Erland Christensen"
+30790 , Observational X,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12),MSc,National Space Institute,"
+To give an introduction to X-ray astrophysics, its methods, its
+objects, and the involved physical processes. 
+","describe the sky as seen with an X-ray instrument and compare
+the wide range of astrophysical sources visible at high
+energies describe and apply selected methods of imaging; coded masks,
+focusing X-ray optics, as well as the basic functioning of X-ray
+detectors present and apply the methods employed to exploit observational
+data in high energy astrophysics distinguish the astrophysical processes that produce high
+energy emission, and their relative importance for a variety of
+sources explain the origin of the diffuse X-ray background derive the fundamental properties of compact objects (white
+dwarves, neutron stars and black holes) and their creation as the
+last stages of stellar evolution derive the properties of the X-ray binaries and the basic
+physics involved in accretion mechanisms describe and analyse the high energy phenomena that occur in
+the center of active galaxies explain and exploit X-ray observations of clusters of
+galaxies.","
+This course deals with some of the most energetic objects and
+phenomena in the Universe. Examples are supernovae, neutron stars,
+and black holes that are accreting matter from their surroundings,
+as well as gigantic clusters of galaxies. Most of what we know
+about such objects comes from the study of high energy photons
+arriving at Earth. The physical processes, thermal or non-thermal,
+that produce these energetic photons will be explained. The basic
+techniques, instrumentation, observational methods, and analysis
+tools employed to exploit these photons will be touched upon.
+
+The course gives further descriptions of the properties, their
+temporal and spectral variations, of different astrophysical
+sources of X-rays, such as supernova remnants, accretion mechanisms
+around a neutron star or a black hole in X-ray binaries, active
+galaxies harboring a supermassive black hole in their center, and
+clusters of galaxies. High energy astrophysics is a very active
+area of astronomy today, and due to the atmospheric absorption of
+these radiations, the observations are performed with satellites. 
+","30120,30780","
+Jérôme Chenevez"
+30792 , Hands,English , 5 ECTS , 2016/2017 ,January,MSc,National Space Institute,"
+The aim of the course is to give the students an advanced knowledge
+to modern techniques of data analysis used in observational X-ray
+astrophysics, as well as to teach them to estimate the quality of
+the data and measurements in relation to the relevant theories. 
+","plan a measurement campaign or Target of Opportunity
+observations search relevant scientific database to find specific instrument
+X-ray data perform scientific analysis of X-ray astronomy data exploit X-ray observation products such as images,
+light-curves, and spectra assess methods for solving a specific problem achieve careful and systematic investigations relating
+experiment with theory interpret, evaluate and summarize the results write a structured report to present the work and the
+results","
+This course aims to train students to plan, acquire, and analyze
+observational data obtained from various X-ray instruments on-board
+astrophysics space missions.
+
+The course will begin with introductory lectures on X-ray
+astrophysics and X-ray instrumentation, followed by lectures and
+exercises on the practical use of different instruments, data
+analysis software, and associated tools and pipelines. The
+participants will work with various software to produce scientific
+results out of raw data. Observation examples will be provided from
+currently flying space facilities like the NASA NuSTAR and Swift,
+satellites as well as the ESA INTEGRAL and XMM satellites.
+
+On the basis of a short project during the last week of the course,
+the students will apply the acquired knowledge from the hands-on
+sessions to perform scientific data analysis of high energy
+astrophysical phenomena observed with the above-mentioned
+satellites. The processing of actual observations will include
+source detection, light-curve production, and spectral analysis, as
+well as the utilization of relevant astrophysical databases and
+methods. 
+","30790,30200,02633","
+Jérôme Chenevez"

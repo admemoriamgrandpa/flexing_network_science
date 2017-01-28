@@ -1,0 +1,548 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+24001 , Human Physiology,Danish , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),BSc,National Veterinary Institute,"
+Introduction to human physiology in order to provide insight into
+the interaction between biochemical processes in the body. 
+","Use medical terminology and describe elementary anatomy. Describe fundamental cell physiology. Discuss the nervous system and how it controls the function of
+the body and organs. Explain the workings of the muscular system and muscle cells
+and the relationship to the nervous system. Describe metabolic processes. Discuss the cardiovascular systems anatomy and regulation
+mechanisms. Explain how the respiration system functions and the exchange
+of gasses with the body’s organs and fluids. Present the gastrointestinal system and discuss the digestive
+processes that occur. Explain the functioning of the kidneys and regulation of body
+fluids. Discuss the endocrine system and how hormones
+function.","
+Medical terminology and elementary anatomy. Fundamental cell
+physiology: structure and function of the cell; intercellular
+communication; transport across cell membranes; membrane potential.
+The nervous system: formation and propagation of nerve impulses;
+action potential and neurotransmission; sensory receptors. The
+muscular system: mechanism of contraction; energy production in
+muscle cells; neuro-muscular transmission. Metabolism: anabolic and
+catabolic processes; metabolic rate; metabolism of foreign
+chemicals (ethanol); temperature regulation; fever. Cardiovascular
+system: blood; heart; circulation; regulation of blood pressure.
+Respiration: the lungs; pulmonary ventilation; transport of oxygen
+and carbon dioxide in the blood; buffers in the blood; regulation
+of respiration. Gastrointestinal system: structure; digestive
+secretion from salivary glands; stomach; intestines; pancreas;
+digestion and absorption of carbohydrates; lipids and proteines;
+nervous and hormonal regulation; motility; hepatic function
+(secretion of bile), appetite regulation and obsesity.
+Endocrinology: hormone systems; chemistry; synthesis; metabolism;
+mechanism of action; endocrine glands; physiology of reproduction;
+hormonal control of calcium metabolism. Blood sugar regulation. The
+kidneys and body fluids: composition and regulation of body fluids;
+formation of urine; concentration mechanism; pH-regulation. 
+","27734,27002,27021,30000,30001","
+Tim Kåre Jensen"
+24002 , Introduction to Quantitative Biology,Danish , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),BSc,National Veterinary Institute,"
+Introduce new students to the content and structure of the
+education and to develop skills for self governance.
+
+The students are given a fundamental understanding of how the
+surrounding world can be ""mathematized"" and how this can
+be used to generate new knowledge. The students acquire tools to
+build mathematical models of biological systems.
+
+Motivate students to be analytical and inquisitive through design
+and implementation of R programs for analyzing acquired and
+available data. 
+","Set up a simple cause-and-effect model Be able to write an R program to solve a modelling problem Evaluate the spread of disease by simulation modelling Collect and evaluate the relevant literature for disease
+biology models Be able to independently formulate a model on the basis of a
+set of data Interpret the biological consequences of changing the variables
+in a model Present and discuss mathematical models Work independently and in teams and plan task distributions,
+time schedules and deliveries Describe disease biology with mathematics","
+Study introduction: DTU's Intranet, recommended study plans,
+design of individual study plans.
+
+Mathematical modelling, programming in R, disease biology,
+transformation of numbers, introductory statistics, difference
+equations, theoretical models, microbiological laboratory exercises
+
+",None,"
+Gregers Jungersen,
+Mikael Lenz Strube"
+24003 , Basic virology,English , 7.5 ECTS , 2016/2017 ,Fall,Ph.D.,National Veterinary Institute,"
+To give the student a solid foundation in basic virology. Emphasis
+will be given to various virus life cycle and replication
+strategies as well as virus - host interactions. The aim is to
+enable the student to understand important aspects of virology in
+the context of e.g. immunology, diagnostics and epidemiology for
+both human and animal viruses. After the introduction to basic
+virology further material will be chosen depending on the
+composition of the student group. Preparation between lectures will
+be considerable. The practical course will focus on methods used
+primarily in virology, i.e. use of cell cultures, staining and
+multiplication of virus and methods used for clinical materials. 
+","Understand the basic virological principles important for the
+comprehension of papers in the field Describe and present the students own research project Participate in scientific discussions in virology Evaluate and give constructive criticisms to viral
+presentations Explain why certain virological methods are chosen in
+diagnostics and research Give examples of how virus multiply in cell cultures Plan experiments to solve virological problems in vivo and in
+vitro Search for information in virological taxonomy","
+The course covers different viral life cycle strategies,
+virological methods, classical and modern diagnostics, pathogenesis
+and viral interactions with the immune system. Viral infections in
+humans, animals and fish will be reviewed. The aim is to expose and
+train the student in various areas of virology. The content of the
+course is further adapted to the specific interests of the
+participants as well as guest lecturers. 
+",,"
+Lars Erik Larsen"
+24004 , Dynamic Biological Models,English , 5 ECTS , 2016/2017 ,F3B (Fri 13-17),BSc,National Veterinary Institute,"
+The course is an introduction into modelling diseases and disease
+processes using applied mathematical biology. The main objective of
+the course is to present mathematical models as a framework for
+working with and understanding disease processes of e.g.
+infectious, metabolic or transformed (cancer) diseases. The course
+will enable the student to apply, modify and discuss disease models
+and their potential as a tool for advancing knowledge of a
+particular disease problem. The purpose of the course is to show
+the student the potential of applied mathematical biology as a
+research tool for studying disease processes. 
+","Understand the potential of mathematical models as a tool for
+biological research Contribute to development of mathematical models for a given
+disease process Formulate relevant research questions to be addressed using
+mathematical biology for a given disease process Discuss the data requirements with respect to addressing
+research questions using mathematical biology Evaluate the usefulness of a dynamic modelling process for a
+specific research question Work with predefined mathematical disease models Modify and reanalyze a given mathematical model Discuss scientific literature regarding dynamic models in
+biology Communicate and present results of a mathematical dynamic
+biological model","
+In this course, the diversity of dynamic models in biology is
+introduced using a wide-ranging set of case studies to illustrate
+different aspects of models and modeling. The main topics are among
+others: Compartment models, Matrix models and structured population
+dynamics, membrane channels, cellular dynamics, dynamical systems,
+infectious diseases, spatial patterns, agent based models and
+complex models. 
+",None,"
+Nils Toft"
+24005 , Introduction to molecular diagnostics,Danish , 5 ECTS , 2016/2017 ,June,BSc,National Veterinary Institute,"
+The chief aim of the course: I) To give the students basic
+knowledge in microbiology in relation to health and disease. II) To
+teach the students to work safely with microorganisms in the
+laboratory. III) To introduce the students to microbiological and
+molecular microbiological methods applied for the characterization
+of complex bacterial communities. 
+","Work safely with microorganisms in the laboratory. Describe growth requirements of the bacterial cell and
+determine growth of a bacterial population. Explain the structure and function of the bacterial cell wall
+and membrane. Use classical microbiological and molecular biological
+techniques in the laboratory including microscopy. Describe mechanisms of action of antimicrobial drugs and
+explain the development of resistant bacteria including horizontal
+gene-transfer. Evaluate experimental results in relation to expected
+outcome. Evaluate critically own and other students results, and discuss
+them in plenum. Find and use relevant scientific litterature to support own
+results.","
+Theory: This course gives an introduction to basal microbiology:
+Composition of the bacterial cell wall and membrane, requirements
+of nutrients and atmosphere, and growth of bacteria in a
+population. In addition, the course covers bacterial infections and
+virulence factors, inhibition of bacterial growth with
+antimicrobial drugs e.g. antibiotics and the development of
+resistant bacteria with e.g. gene transfer. Finally, the course
+covers an introduction to the identification of potentially
+pathogenic bacteria from a complex microbiological sample by
+various techniques, including next-generation sequencing (theory
+and data analysis).
+
+Experimental work: Classical microbiological techniques as
+streaking a plate for isolation of pure bacterial colonies,
+determination of CFU in a culture, OD-measurements and gram
+staining. Introduction to molecular microbiology methods such as
+PCR, quantitative real-time PCR (qPCR), sequencing, MALDI-TOF,
+Fluorescence in situ hybridization (FISH) and microscopy. 
+","27004,27002,26000","
+Kirstine Klitgaard Schou"
+24007 , Bioconjugate Chemistry,Danish , 5 ECTS , 2016/2017 ,June,"BSc,,MSc",National Veterinary Institute,"
+Bioconjugates are chemically modified biomolecules comprising
+peptides, proteins and carbohydrates, nucleotides and lipids.
+Bioconjugates are used as important tools in pharma-, nano- and
+biotechnology e.g. in the preparation of semisynthetic
+vaccinecomponents, labeling of proteins (enzymes and haptenes),
+development of diagnostics and biosensors etc. In this course we
+work with a variety of methods to prepare and analyze bioconjugates
+by chemical, biological and immunological methods. This course give
+the student theoretical and practical skills in the synthesis of
+peptides by solid-phase synthesis, and solution phase segment
+coupling, chemoselective ‘protecting group free’ synthesis of
+glycoconjugates by ligation together with techniques for
+fluorescence labeling of peptides, proteins and carbohydrates. In
+addition to the practical exercises the student will get a
+theoretical overview on the demands for performing chemistry on
+biomolecules, such as high selectivity, to retain the biological
+activity of the biomolecule. 
+","Suggest coupling strategies for the conjugation of a variety of
+compounds having different chemical functionalities to biomolecules
+such as peptides, proteins and carbohydrates Synthesize peptides by solid-phase synthesis and explain the
+basic principles herein Conduct labeling of proteins with small molecules and analyze
+the quality of this labeling Suggest strategies and conduct conjugation protocols for
+stabilization of the structure and bioactivity of antibodies Explain the chemical principles of the bioconjugation methods
+such as chemo- and regioselectivity and what are the demands to
+maintain the activity of the biomolecule Choose an appropriate analytical method for the molecular
+properties of the bioconjugate such as functional groups, mass,
+charge, antigenicity/bioactivity Carry out HPLC-MS, gel electrophoresis, bioanalysis via ELISA
+assays and explain the principles, and the applicability and
+limitations of these analytical methods Explain the use of labeled and conjugated biomolecules in
+different types of assays Explain the use of conjugated biomolecules in biology and
+pharmacology","
+The course involves work with a variety of methods for the
+preparation and analysis of bioconjugates by chemical, biological
+and immunological methods. The course consists of practical
+exercises in the solid-phase synthesis of peptides, with an
+overview of the most applied protective groups, synthjesis of
+peptides by segment coupling of smaller peptides by Native Chemical
+Ligation, chemoselective ‘protecting group free’ synthesis of
+glycoconjugates by ligation together with techniques for
+fluorescence labeling of peptides, proteins and carbohydrates. In
+addition to the practical exercises the student will get insight in
+the specific demands required for chemical methods applied on
+biomolecules, e.g., high selectivity, to maintain the biological
+activity of the biomolecule. The products will be analyzed by
+HPLC-MS, IR, gel electrophoresis and immunoassays to determine the
+purity, molecular composition and bioactivity 
+","26436,26407","
+Ulrik Boas,
+Peter M. H. Heegaard"
+24008 , Applied Peptide Synthesis,Danish , 5 ECTS , 2016/2017 ,January,MSc,National Veterinary Institute,"
+Peptides are the fragments that proteins are made of, and peptide
+synthesis by chemical means is an important tool in the preparation
+of pharmaceuticals such as medicine and vaccines, artificial
+epitopes for antibody preparation etc. In this course we attempt to
+prepare peptide based compounds which after the course period will
+be tested for biological activity. The student will, during the
+synthesis of the compounds, get aqquainted with various solid-phase
+synthetic strategies by using different linkers, use of common
+protection groups common in solid-phase synthesis. Furthermore,
+techniques for the formation of glycopeptides and native chemical
+ligation for the formation of larger peptide structures will also
+be applied 
+","Apply different syntheticv strategies for the synthesis of
+peptides and peptide derivatives using solid-phase synthesis Explain advantages and disadvantages in synthesizing peptides
+by solid-phase synthesis Explain the reaction mechanisms behind chemical amide bond
+formation in peptide chemistry (chemoselectivity and possible
+side-reactions), and the mechanisms of cleaving protective groups
+and linkers from the peptide Synthesize peptides having various C-terminal
+modifications Synthesize branched peptides (peptide dendrimers) Conduct various types of purification/work up depending on the
+structure and solubility of the peptide Conduct various 'on-resin' analytical methods
+(colorimetric tests and FT-IR), and analyze the peptide products by
+HPLC-MS Conduct C-terminal modification of peptides in solution and
+join peptide segments together via native chemical
+ligation","
+In this course we attempt to prepare peptide based compounds which
+after the course period will be tested for biological activity. The
+student will, during the synthesis of the compounds, get aqquainted
+with various solid-phase synthetic strategies by using different
+linkers, such as 'Backbone Amide Linker' (BAL) enabling
+preparation of C-terminally modified peptides, and linkers for the
+preparation of protected peptides for segmental coupling reactions.
+During the process, the student will use protection groups common
+in solid-phase synthesis. Furthermore, various techniques for the
+formation of glycopeptides and segmental coupling of peptides by
+native chemical ligation for the formation of larger peptide
+structures will be applied. The products will be analyzed by
+HPLC-MS, IR 
+","26411,26422,26407","
+Ulrik Boas"
+24101 , Assay Technology,English , 5 ECTS , 2016/2017 ,January and June,MSc,National Veterinary Institute,"
+The course will teach how to use and choose between assay for the
+whole chain of discovery, development and production of
+pharmaceuticals. Specific emphasis will be placed on the
+interaction between the different pharma steps and the assays
+associated with them, in other words how to always choose the
+fastest, most relevant, most easily implemented, interpreted and
+most cost-efficient assay. Basic assay principles, concepts and
+statistics for validation and development of assays and for
+evaluation of results will also be covered in detail as will the
+different types of equipment platforms and assay principles that
+are in use or will become available in the future. In addition some
+cases and examples of assays for personalised use for personalised
+medication will be presented. 
+","describe basic immunoassay principles and methods, quantitative
+as well as qualitative explain how to perform quantitative immunoassays and explain
+the different formats available describe principles and methods for high-throughput assays and
+their use in the drug discovery process describe how quantitative assays are validated and which
+criteria must be met to approve an assay for different
+applications understand the principles of cellular assays and other
+bioassays understand the principles of signal generation and signal
+detection in assays understand the use of microscopy for assay purposes, including
+the use of image treatment software describe the basic types of microarrays and their uses describe the principles and uses of the polymerase chain
+reaction (PCR) in different formats, including quantitative
+PCR explain the principles of miniaturization and the application
+of assays for personal use explain how to treat assay data in a statistically sound way
+and how to design testing to obtain specific objectives apply the knowledge obtained in the course to select optimal
+assays for the different steps in the pharma process","
+This course will provide the basic concepts for describing assay
+performance, will
+
+show how assays can be validated and how different types of assays
+can be used for different types of problems. In addition the
+principles and applications of
+
+different types of assays will be demonstrated, including
+immune-based assays, cellular assays, screening types of assays for
+compound library screening and quantitative molecular biology based
+assays (PCR type assays). Also signal generation methods including
+fluorescence and chemiluminescence will be explained. Finally the
+principles behind where to use which types of assays in the process
+of discovery, development and production of drugs will be shown. 
+",None,"
+Peter M. H. Heegaard"
+24102 , Development and production of vaccines,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,National Veterinary Institute,"
+The course will deal with the challenges connected with the design,
+development, production and registration of vaccines and
+therapeutic antibodies based on knowledge of the immune system in
+human and animals. The students will acquire knowledge on vaccines
+and antibodies for the treatment or prevention of infections,
+allergies, cancer and chronic inflammatory diseases. The students
+will understand the capacities and complexities of using the
+vaccinated host’s own immune system as both the target and the
+final executor of the desired effects of the drug. This biopharma
+approach to viewing vaccines as drugs is beneficial for
+understanding their discovery and production and also their use for
+therapeutic and post-exposure applications. 
+","Describe the basic nature of different vaccine types (live,
+inactivated, killed, subunit etc.) Explain the different methods available for antigen discovery
+and production Explain the method of action for adjuvants Design the construct of a vaccine with selection of antigen,
+adjuvant and delivery Design vaccine characteristics for a given application in
+practice, including the interplay with diagnostic assays Describe general principles for toxicology and hazard
+identification Explain the safety and efficacy aspects of vaccines and how
+these are tested Explain how to use, empower and produce immunoglobulins as one
+class of biopharmaceuticals Describe the principle governing preclinical and clinical
+testing of vaccines Design vaccines against allergy Design vaccines against cancer Apply the knowledge obtained in the course to describe the
+development of a new vaccine against a given topic","
+This course will teach basic vaccinology such as different types of
+vaccine, administration of vaccines, and the immunology behind
+vaccine and adjuvant effects and explain some of the practical
+considerations behind using vaccines in humans and animals.
+Fundamental concepts in toxicology and hazard identification will
+be taught. Special considerations in vaccination against
+infections, cancer, or in the treatment of allergy will also be
+taught. As an example of drug development and production, the
+process of developing and producing vaccines will be taught, from
+the definition of an antigen with the optimal characteristics of
+ease of production, stability and immunological relevance through
+the selection and/or development of adjuvants and testing in
+animals, to the final production and formulation of a vaccine for a
+specific use. This also includes requirements from authorities in
+the approval of a vaccine production and preclinical and clinical
+testing of vaccines. Finally, design and production of therapeutic
+antibodies will be taught. 
+",27321,"
+Gregers Jungersen"
+24201 , Diseases and veterinary aspects related to Aquaculture,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,National Veterinary Institute,"
+The student will be able to understand technical and biological
+causes for disease problems in different aquaculture systems (incl.
+organic farming) and how to prevent, treat and manage diseases in
+farmed aquatic animals. Animal welfare and legislative issues will
+be addressed as well. The course will provide theoretical
+understanding of health as an important production factor in
+aquaculture. Focus will be on rainbow trout and salmon, but also
+other relevant fish species and shellfish will be included. 
+","Identify and explain the major challenges in preventive health
+measures, diseases and disease treatment in cold-blooded
+animals. Evaluate hygiene procedures and diseases in different
+technological aquaculture production systems. Demonstrate knowledge about pollution of the environment with
+medicals, residues in fish and antibiotic resistance problems. Explain influence of environmental stressors as handling, water
+quality, nutritional status and feed formulation on health status
+and welfare of fish. Demonstrate knowledge on the biology of pathogenic organisms
+(bacteria, virus, fungi and parasites) and their interaction with
+the host organism and the production facilities. Explain control of infectious diseases by vaccination,
+administration and immune response. Describe and evaluate methods for detection, isolation and
+characterization of pathogens. Have insight into the legislation related to aquaculture,
+animal rights and disease management.","
+Introduction to pathogens and diseases found in aquaculture.
+Disease diagnosis. Methods for prevention of diseases. Stress
+related production challenges. Nutritional effects on disease
+status. National and international legislation in relation to
+aquaculture production and health. Control methods, e.g.
+antimicrobial agents and chemical additives. General aspects of
+ethics and welfare in aquaculture. Zoonotic diseases related to
+aquaculture. 
+",None,"
+Inger Dalsgaard,
+Niels Jørgen Olesen"
+24690 , Module 1: From idea to project plan in biotech and pharmaceutical research,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12) and E3B (Fri 13-17),MSc,National Veterinary Institute,"
+The aim of the course is to provide the participants with the
+necessary tools and framework for formulating and planning projects
+relevant to the biotech and pharmaceutical industry. 
+","A student who has met the objectives of the course will be able
+to: Demonstrate ability to systematically search, retrieve and
+critically assess relevant scientific, patent and market literature
+from the World Wide Web. Understand how to set timelines and define milestones, work
+packages and deliverables. Plan and perform task delegation, communication and following
+up among group members. Present, explain, discuss and defend project ideas orally and
+in writing to group members and to decision makers. Describe examples of typical real-life projects and strategies
+in the biotech and pharmaceutical industry. Understand and explain specific formal and practical
+requirements for biotech and pharma-related scientific
+projects. Transform a scientific idea into a coherent research grant
+proposal. Use basic project management tools in the development of a
+scientific project plan.","
+The course consists of lectures, in which we introduce the students
+to projects and strategy in the biotech and pharmaceutical industry
+and we provide them with a basic project management toolkit (SWOT
+analysis, Gantt chart, Work Breakdown Structure, Risk Assessment).
+In parallel, the students work in groups of 2 to 4, taking into
+consideration that course participants are students from different
+MSc lines. The students from the Pharmaceutical Design and
+Engineering MSc are presented with a number of real-life problems
+from industrial partners, from which they may choose one. Students
+can also define their own projects. Preferentially with an industry
+or university partner (supervisor). Students are asked to submit a
+report in the form of a research grant proposal. The report should
+highlight the aim of the suggested project and should describe how
+they approach, delimit and plan each project phase. It is highly
+encouraged, but not required, that the students will continue
+working on the selected project throughout all modules of the
+integrated project. Students from other MSc lines that are
+interested in following the course should be aware of that they
+should come with their own project ideas within biotech and
+pharmaceutical research or form a project group with Pharmaceutical
+Design and Engineering students. Project groups will be formed
+during the course based on interest and will encourage
+multidisciplinary collaboration. 
+",None,"
+Sine Reker Hadrup"
+24691 , Module 2: Pilot project in Pharmaceutical Design and Engineering,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12) and E3B (Fri 13-17),MSc,National Veterinary Institute,"
+The aim of the course is to train the students in defining
+achievable project-objectives, divide a complex project-objective
+into manageable sub-task, as well as in addressing the necessary
+scientific skills and background for carrying out the project and
+communicating the results as an oral presentation. 
+","Design and carry out a pilot study in connection to a research
+project. Understand and evaluate the content of a scientific paper or
+patent. Disseminate the content of a scientific paper or patent for
+fellow students and project partners Demonstrate understanding and overview of complex and
+multidisciplinary research projects. Compartmentalize a complex task into individual sub-tasks. Formulate and carry out tasks within a limited time frame. Describe and conduct an original and systematic scientific
+investigation. Choose between and implement methods necessary for conducting a
+research project.","
+The course is focused on the compartmentalization of a complex task
+into individual pieces that can form the basis of the students’
+thesis project. The focus of the teaching alternates between
+dealing with the individual project plans and the development of
+the overall project. At the same time, the students will be working
+on pilot projects connected to their thesis work. 
+",24690,"
+Peter M. H. Heegaard"
+24901 , Applied Immunology,English , 5 ECTS , 2016/2017 ,Fall,Ph.D.,National Veterinary Institute,"
+The overall goal of the course is to provide the students with
+theoretical and practical experience in :
+
+• The development of the humoral and cell mediated immune response
+after an infection
+
+• Methods to measure and characterize this response 
+","Purify antibodies from serum or culture supernatant Measure antibody concentrations before and after
+purification Label antibodies with relevant molecules Apply immunochemical techniques Characterize the humoral immune response Purify cells from blood Determine concentration of cells Perform cell stimulation assays Identify and measure cell populations by flow cytometry Perform measurements of released cytokines after
+antigen-specific stimulation of cells Characterize the cell mediated immune response to
+infection","
+Theoretical and practical application of basic and more advanced
+immunological techniques. Techniques will include purification and
+labelling of antibodies and cells from blood, flow cytometry, ELISA
+and Elispot. Invited lectures from academia and industry will
+expand the theory to applied research and development. 
+",,"
+Gregers Jungersen"
+24902 , How to write a scientific paper,English , 5 ECTS , 2016/2017 ,August,Ph.D.,National Veterinary Institute,"
+The course will give the student experience in writing scientific
+papers for international scientific journals with peer review. By
+the end of the course, the student will have gained hands-on
+experience on how to structure a scientific paper, how to submit,
+how the review process proceeds, and how to deal with reviewers’
+comments. In addition the student will be acquainted with
+bibliometric indices, Hirsh index, citation index, how to handle
+references, and various ethical considerations. 
+","Experience with the structure of Scientific papers Experience in finding relevant journals for own research
+results Experience in style for different journals Experience in finding relevant literature references for own
+manuscript Knowledge of submission procedures Knowledge of journals' review procedures Knowledge of revision and re-submission Knowledge of bibliometric indices Research ethical issues","
+The course will run for three weeks with alternating theory and
+practice. The course relies on active participation from students.
+
+Week 1
+
+How is a scientific paper structured. Storytelling. Choice of
+title, summary, introduction, materials & methods, results,
+discussion
+
+References, tables and figures/graphics, supplementary material.
+Statistics?
+
+Journals and publishers. Choice of journal. Style and language.
+Impact factor, citation index
+
+Hirsch index (H-index), what is that and how is it calculated?
+ResearchGate
+
+References. How to locate relevant literature for references. Use
+of Mendelay to manage references
+
+Work on own manuscript
+
+Week 2
+
+The submission proces
+
+The review process. How do you avoid entering a state of shock when
+you receive the comments from the reviewers. How to handle
+revision, revision report, and resubmission
+
+Copyright, Vancouver conventions, coauthorship and sequence of
+coauthors, coauthor declarations. Ethical guidelines
+
+Work on your own manuscript
+
+Week 3
+
+Work on your own manuscript, feed-back from tutors 
+",None,"
+Karl Pedersen,
+Peter M. H. Heegaard"
+24903 , Immunology Journal Club,English , 2.5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,National Veterinary Institute,"
+The main objective of this course is to improve the background
+knowledge of our students in both basic immunological concepts as
+well as cutting edge advances in the field. The interaction with an
+experienced immunologist and the background reading will greatly
+contribute to this. The active participation to the proposed
+Journal Club-based course will additionally give the student the
+opportunity to improve skills in: 1) literature research, 2)
+critical assessment of science, 3) oral presentation. By the end of
+the course the students should have enriched their background
+knowledge in Immunology, they will be able to critically assess
+primary research papers and will have improved their presentation
+skills. 
+","To improve the background knowledge of our students in basic
+immunology To familiarize with cutting edge advances in immunology To improve skills in literature research To improve skills in critical assessment of science To exercise skills in effective reading To improve skills in oral presentation To exercise the ability of data interpretation To become familiar with science discussion as part of a
+group","
+Each student will choose a primary Immunology paper to present
+orally to a group of experienced researchers and students. Each
+student will be paired with an experienced researcher (usually a
+PI) to prepare and discuss the paper in the form of one-to-one
+tutorials. The presentation will involve an introduction related to
+the background science of the paper followed by point-by-point
+discussion of the paper findings and conclusions. Thus, the basic
+teaching method will involve discussions and tutorials around a
+specific immunological topic and oral presentation. 
+",None,"
+Vasileios Bekiaris"
+24999 , Introduction to mechanistic Monte Carlo simulation in R: Applications in the veterinary field,English , 5 ECTS , 2016/2017 ,June,Ph.D.,National Veterinary Institute,"
+Simulation modeling is a discipline often used in the veterinary
+field to investigate epidemiological questions. To carry out this
+kind of simulation, basic knowledge of simulation methods is
+necessary. The objective for this course is to introduce the
+participants to simulation modeling in R. The first part of the
+course will focus on basic knowledge of R so the participants are
+familiar with programming syntax and fundamental concepts. In the
+on-site teaching part of the course, the participants will gain a
+general knowledge of how to structure a programming framework, and
+how to implement different mechanisms for different questions. The
+main focus will be on livestock production animals (pigs and cows)
+and disease spread modeling in these systems. An important part of
+simulation is presenting the results in a proper way. Participants
+will learn how to collect the results either during the simulations
+or after, and to present them in tables and graphics. 
+","Understand basic concepts about R Understand the basic principles in simulation modeling Construct simple deterministic simulation models Construct simple stochastic simulation models Construct simple stochastic and dynamic simulation models Model simple mechanisms of disease spread between units (e.g.
+individuals or populations) Collect the results from the simulations in a proper way and
+present them visually Read and understand more complicated papers using the taught
+techniques","
+Training in deterministic, stochastic and dynamic modeling.
+Participants will also acquire knowledge of the advantages and
+disadvantages of these simulation methods. 
+",None,"
+Tariq Hisham Beshara Halasa"

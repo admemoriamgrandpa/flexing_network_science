@@ -1,0 +1,52 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+13150 , Transport economics,English , 5 ECTS , 2016/2017 ,F1A (Mon 8-12),MSc,Department of Transport,"
+The course is intended as an overview of transport economics. A
+solid introduction to basic micro economic theory will be provided
+as well. The course covers contemporary transportation issues such
+as transport demand analysis, firm production and costs in
+transportation, market behaviour, social costs, and impact and
+welfare analysis. The course does not focus on a specific
+transportation mode but uses the various modes to apply the
+theoretical and analytical concepts presented in the lectures and
+readings. We concentrate on both basic material and theory models
+and on selected topics dealing with contemporary issues of
+transportation policy such as pricing and regulation. Finally the
+course provides an understanding of the economist's approach to
+evaluating transport investments or transport programs, i.e. the
+cost-benefit analysis (CBA). 
+","Explain the fundamental principles behind the transport
+economics Analyse transport demand Analyse transport costs structures Analyse transport policy reforms Analyse market power and efficiency in transportation Evaluate the effects on welfare of transport pricing Use models to welfare-analysis and cost-benefit analysis Argue concerning the usefulness of a specific model for a
+specific problem Discuss a paper applying transport economics","
+The course will include elements of micro economics and statistics.
+The course introduces the microeconomic concepts central to
+transportation systems. Topics covered include economic theory of
+the firm, consumer choice behavior, cost models and production
+function, market power in transportation, efficiency in
+transportation, and cost-benefit analysis (CBA). 
+",02402,"
+Mogens Fosgerau,
+Ismir Mulalic"
+13400 , Simulation in Transportation and Logistics,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Transport,"
+Discrete event-based simulation is a powerful tool often used
+within transportation and logistics for analysis of performance and
+robustness. The course will enable the students to design,
+implement and use discrete event-based simulation models. 
+","Explain the concept of discrete event-based simulation Design a discrete event-based simulation model Implement a discrete event-based simulation model Validate the proposed simulation model Design a simulation experiment Formulate relevant performance indicators Carry out a simulation experiment Analyse and assess simulation results Explain how external optimisation algorithms can be integrated
+with the simulation model Present and discuss the implemented simulation model and the
+results obtained through the experiments","
+The course focuses on teaching the students to use discrete
+event-based simulation models for analyses of problems within
+transportation and logistics. Based upon a wide range of specific
+complex planning problems it will be discussed how simulation
+models can be used to obtain knowledge on the system's
+operating performance. The students are taught to analyse complex
+systems within transportation and logistics and to define relevant
+Performance Indicators. Furthermore, it will be discussed how
+simulation models and optimisation models can compliment each
+other. The students are given an introduction to the simulation
+modelling language Arena through a number of small-scale practical
+assignments. Hereafter, the students are given a larger project in
+which a specific simulation problem is solved. 
+","02403,02402","
+Allan Larsen,
+Rune Larsen"

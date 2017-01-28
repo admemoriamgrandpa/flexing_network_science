@@ -1,0 +1,771 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+46000 , Introduction to Wind Energy,Danish , 5 ECTS , 2016/2017 ,F3A (Tues 8-12),BSc,DTU Wind Energy,"
+To establish a basic and rational understanding of wind energy and
+to introduce the primary scientific disciplines appied in wind
+energy. Further to carry out calculations using simple models. 
+","account for the role of wind energy in the Danish energy
+supply perform simple calculations of Cost of Energy for wind
+energy apply basic engineering models for wind speed, its distribution
+in time and space and determine the annual energy production for a
+wind turbine at a given location analyse measured data for a wind field and determine the mean
+wind speed and turbulence properties account for the configuration of a wind turbine and the
+background for the modern three-bladed wind turbine carry out calculations of thrust and power for a wind
+turbine determine drag and lift for a segment on the blade apply simple beam formulae for calculation of sectional forces
+and natural frequency describe and calculate the stiffness properties of composite
+materials applied in wind turbine blades account for the main generator types and carry out simple
+calculations for their operation describe the difference between AC and DC power and the
+mechanical-electrical coupling of rotor and grid","
+Cost of Energy, role of the electricity stock, economical
+feasibility versus political goodwill. Statistical distribution of
+mean wind speed, the atmospheric boundary layer and velocity
+profile, turbulence and the terrains influence on the local wind
+conditions, annual production. Methods for wind measurement. The
+evolution of wind turbine technology, the components of a wind
+turbine. 1D momentum theory for flow through the rotor, maximum
+energy yield, thrust and power coefficient, the velocity triangle
+for a wind turbine blade, the principle behind the BEM method.
+Simple beam-formulae for the tower motion, natural frequency and
+structural resonance, sectional forces and moments in blades and
+tower. Galileis square-cube law for stresses, design/choice of
+composite materials, principles for application of electron
+microscopy for characterization of metals and composite materials.
+Generator types and their working principle, the
+mechanical-electrical coupling between rotor and grid,
+transmission, the balancing problem on the grid. Introduction to
+advanced courses and research in wind energy. 
+","41312,41102,01005,41501,41065","
+Henrik Bredmose,
+Jens Nørkær Sørensen"
+46010 , Wind Turbine Racer,Danish , 10 ECTS , 2016/2017 ,F2A (Mon 13-17) and June,BSc,DTU Wind Energy,"
+To introduce students to conversion of wind energy, specifically in
+relation fastest possible speed of a wind driven car. To let the
+students apply learned theory into practice in solving a design
+task leading to construction / improvement of a wind car. The final
+goal is to participate in an international wind car race with the
+aim to drive as fast as possible in direct headwind. 
+","Work in teams and coordinate across multiple teams Analyze the aero-mechanics of a wind car based on basic
+physical principles and laws Evaluate uncertainty for the car performance Find the areas where you will have the greatest potential to
+improve the car's speed Use engnieering measuring methods Apply engineering design for functional solutions Choosing construction methods in relation to material and
+functionality Write a technical report","
+Today wind energy conversion takes place mainly on large scale
+using MW wind turbines, but the engineering physics and the
+aerodynamic principles are largely the same as for very small mills
+such as the turbine on the wind car. The idea is to build a wind
+powered car to drive as fast as possible in direct headwind.
+Previously built wind cars must be reviewed and based on new ideas
+/ concepts, construction of a new or part of a new wind car is
+built. Identified core issues for the car's structure are
+selected based on analysis of wind car aeromechanics and are solved
+in groups for each selected area (car aerodynamics, wings, shroud,
+hub mechanics, transmission, control, instrumentation, electrical
+system, etc.). A key objective is the integration of the various
+components into a functional wind car construction. The students
+are introduced initially to the aero mechanics of the car, wind
+energy conversion and disciplines related to design and
+construction for building a wind turbine car for example, machinery
+elements , fiber composite , experimental testing , etc. 
+",,"
+Robert Flemming Mikkelsen,
+Mac Gaunaa"
+46100 , Introduction to Micrometeorology for Wind Energy,English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,DTU Wind Energy,"
+To give a general understanding of atmospheric turbulence and wind
+resources. 
+","Apply simple statistical concepts in the description of time
+series of the wind, e.g. the mean, moments and probability density
+functions Analyze meteorological time series using more advanced
+statistical tools such as the correlation function, spectra and
+cross-spectra Explain the basic mechanisms responsible for winds in the
+atmosphere Explain the concept of the atmospheric boundary layer and how
+it is affected by atmospheric stability and the Coriolis force Use micrometeorological concepts such as roughness length,
+momentum flux and the geostrophic drag law Qualitatively explain how various types of terrain and the
+topography affect the atmospheric flow Apply the above-mentioned concepts to estimate the wind energy
+resource in a simple terrain Describe atmospheric turbulence by means of variances, spectra
+and coherences, and explain the connection to dynamic loads on
+structures Characterize a few in situ and remote sensors of wind Explain some possibilities and limitations of using wind
+tunnels to model the flow around turbines Explain wind-related aspects of the IEC 61400-1 standard for
+wind turbine safety","
+Introduction to atmosphere physics. The atmospheric boundary layer:
+stability, roughness and topography, mean and extreme wind
+statistics. Turbulence and gusts: spectra, coherence and
+probability density functions. Anemometry of wind fields.
+Structural loads. Wind resources. Numerical programming tools will
+be used for exercises, e.g. Mathematica or MatLab. 
+","02631,02633","
+Jacob Berg,
+Mark C. Kelly"
+46110 , Basic Aerodynamics,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,DTU Wind Energy,"
+To give the theoretical background for formulation and solution of
+aerodynamic flow problems, including designing a drone, and be able
+to calculate and design airfoils and plan forms for fixed wing and
+propeller powered aircrafts. 
+","Make a conceptual design of a drone Describe the basic concepts of lift, drag and vorticity Describe the basics of potential flow theory Use conformal mapping to calculate flows past two-dimensional
+bodies Use a panel code for airfoils Explain the basics of airfoils and airfoil theory Derive the Kutta-Joukowsky theorem Implement the lifting line method on finite wings in a MatLab
+script Implement thin airfoil theory in a MatLab script Apply momentum theory on rotors Document a technical calculation in writing in a short and
+precise form Present orally a complex problem in a poster","
+Design of airfoils and wings, including the conceptual design of a
+drone. Introduction to the fundamental priciples and equations in
+aerodynamics. Incompressible airfoil theory. Potential flow -
+conformal mapping. the Kutta-Joukowsky theorem. Two-dimensional
+panel methods. Incompressible flow over finite wings. Lifting
+line/lifting surface models. Fundamentals of rotor aerodynamics. 
+","41312,41102,02633,41065","
+Jens Nørkær Sørensen,
+Martin Otto Laver Hansen"
+46200 , Planning and Development of Wind Farms,English , 5 ECTS , 2016/2017 ,January,MSc,DTU Wind Energy,"
+The student is provided with an overview of the steps in planning
+and managing the development of a new wind farm. The student is
+introduced to wind resource assessment and siting, wind farm
+economics and support mechanisms for wind energy. An overview of
+the various environmental impacts from wind farms is offered. 
+","Describe the methodologies of wind resource assessment and
+their advantages and limitations Explain the steps in the selection of a site for measurement of
+the wind resource and good practice for measurement of the wind
+resource Calculate the annual energy production using the WAsP software
+for simple wind farm cases in terrain within the operational
+envelope of the WAsP model Identify and describe factors adding to the uncertainty of the
+wind resource and wind farm production estimates Estimate the most important key financial numbers of a wind
+project and explain their relevance Identify the main environmental impacts from a wind farm and
+suggest mitigation measures List the three most common policy tools for support of wind
+energy projects Explain the steps in the development of a wind farm layout
+considering annual energy production, wind turbine loads and
+environmental impact Explain the main steps in developing the grid connection of a
+wind farm","
+An introduction to market, policy and support mechanisms relevant
+to wind energy. Wind resources and wind conditions: anemometry;
+design and siting of meteorological stations; wind distributions;
+observed, generalised and predicted wind climates; observational
+and numerical wind atlases, elevation maps and land cover,
+roughness classes and roughness maps; sheltering obstacles; wind
+farm wake effects, micro-scale flow modelling (WAsP), wind resource
+mapping; wind farm layout; wind farm annual energy production.
+
+The procedure for obtaining an environmental permit for a wind
+farm. The various types of environmental impacts from a wind farm.
+Introduction to wind farm economics. Introduction to grid
+connection. The students will work in groups of 3 or 4. The group
+work will be documented in a report and will be presented orally by
+all course participants. 
+","46300,02633","
+Niels-Erik Clausen,
+Niels Gylling Mortensen,
+Tom Cronin"
+46211 , Offshore Wind Energy,English , 10 ECTS , 2016/2017 ,"E4 (Tues 13-17, Fri 8-12)",MSc,DTU Wind Energy,"
+To be able to calculate hydrodynamic and aerodynamic loads specific
+for offshore wind turbines. 
+","Describe the typical foundation types for bottom-fixed offshore
+wind turbines and summarize the content of the IEC 61400-3 design
+norm Apply the elements of a design basis and use statistical data
+to determine e.g. a 50-year sea state Calculate a force time series from linear irregular waves and
+determine which forces that dominate Explain the basic dynamics of bottom fixed offshore wind
+turbines, the method for fatigue calculations and perform a simple
+substructure design Apply 1D momentum theory for analysis of wind turbine
+wakes Implement closed-form wake models in Matlab Analyse the production and loads in rows of wind turbines with
+application of closed-form wake models and determine the optimal
+spacing between the wind turbines Describe the basic process in planning an offshore wind farm
+and the interaction between the involved parties Understand and suggest simple strategies for operation and
+maintenance Derive the equations of motion for typical floating wind
+turbine configurations Implement time domain models for the dynamics of floating wind
+turbines subject to wind and wave forcing Analyse the dynamic stability of floating wind turbines and
+propose modifications of the control system to improve
+stability","
+Design codes for bottom fixed offshore wind turbines. Design basis
+for wind and wave climate. Extreme value prediction by fitted
+distributions.
+
+Substructure types for offshore wind turbines. Design of a
+substructure.
+
+Hydrodynamic loads from linear irregular waves. Wave kinematics and
+the Morison equation. Wheeler stretching and the MacCamy Fuchs
+diffraction theory. Simplified aerodynamic load model.
+
+The 1P and 3P dynamic criteria and basic technique for fatigue
+calculation.
+
+Wake aerodynamics and vortex structures behind a wind turbine
+rotor. 1D momentum theory for wakes. Wake interaction in wind farms
+and between wind farms. Methods for computation of wakes in wind
+farms.
+
+Introduction to planning and environmental decisions for offshore
+wind farms. Introduction to operation and maintenance management
+for offshore wind farms.
+
+Basic concepts for floating wind turbines and calculation of
+mooring forces. Linearised equations of motion for floating wind
+turbines. Dynamic stability and control of floating wind turbines. 
+","46300,41101,41106,41312,02601,02631,02633","
+Henrik Bredmose,
+Jens Nørkær Sørensen"
+46230 , Power system balancing with large scale wind power,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,DTU Wind Energy,"
+To give the students an understanding of the basic principles of
+mathematical modeling of an energy system. With a non-electrical
+perspective, the course introduces the students to the modeling and
+control of the balance between generation and consumption of a
+power system with many wind turbines. The students will learn and
+be technically challenged understanding how wind turbines can
+influence and contribute to the power balance of the power system.
+To address these challenges, an important part of the course is
+devoted to theory and practice of modeling and computer
+simulations. The students are expected to develop competences in
+formulating simple mathematical models, preparing data,
+implementing, explaining the models and analyzing the results (this
+will partly be achieved by working in groups during the computer
+exercises). 
+","Explain and apply the basic concepts of power balance control
+in power systems Describe the simple dynamic models of generators, loads,
+governors as well as wind turbines Explain the basic concepts of different types of wind
+turbines Develop and implement dynamic models in Simulink. Implement simple dynamic simulation models for power balance
+control with different wind turbines concepts in Simulink. Asses the models under different assumptions such as various
+load and wind scenarios in the power system. Analyze, explain and present model results. Interpret/evaluate wind turbines contribution to the frequency
+control in the power system","
+• General introduction to power balance/frequency control.
+
+• Brief description of modelling representations.
+
+• Introduction to Matlab and dynamic modelling in Simulink.
+
+• Dynamic modeling of a power system, with simple models for
+generators, loads and governors.
+
+• Introduction to wind power modeling.
+
+• Simple dynamic modeling and control of fixed and variable speed
+wind turbines.
+
+The main focus in the course is on the dynamic modeling of the
+power balance/frequency control in an island power system with many
+wind turbines. 
+","10024,01005,02631,10020,02633","
+Anca Daniela Hansen,
+Müfit Altin,
+Kaushik Das"
+46300 , Wind Turbine Technology and Aerodynamics,English , 10 ECTS , 2016/2017 ,"E1 (Mon 8-12, Thurs 13-17)",MSc,DTU Wind Energy,"
+To give a general introduction to the aerodynamics and elastic
+behaviour of a modern wind turbine. Further, the placement of wind
+turbines with respect to fatigue, annual power production and noise
+will be addressed. Also, the elastic interaction of the blades with
+the flow around the blades is introduced.
+
+Furthermore, the students will be introduced to basics of
+generators, transformers and power converters relevant to wind
+turbines.
+
+Historical, economical as well as political issues related to wind
+energy will be part of the course emphasising the technical concept
+and the conditions for innovation. This involves aspects related to
+costs and trading of electricity produced by wind turbines. 
+","Define airfoil data Define induced velocities Develop a computer code to calculate aerodynamic loads Calculate internal loads and the deformation of a loaded wind
+turbine blade Compute the eigenmodes and associated eigenfrequencies for a
+wind turbine blade Draw velocity triangle incl. induced velocities Determine annual energy production for a wind turbine Carry out calculations on electromagnetic components and
+explain their purpose and functionality Distinguish between different types of generators and explain
+how they work Carry out calculations on the different drive-train typologies
+used in wind turbines Analyses of historical development of wind turbines, wind
+industry structure, and the challenges for industrial
+innovation. Calculate induced wind speed and loads for a vertical axis wind
+turbine","
+Placement: wind atlas, atmospheric boundary layer and turbulence,
+influence of the terrain and annual wind distribution.
+Aerodynamics: two-dimensional aerodynamics and three-dimensional
+effects. Use of strip theory to determine the energy production for
+a rotor with a given twist and chord distribution. Control of a
+wind turbine (stall-, pitch-, and variabel speed control).
+Structure: aerodynamic and inertial loads. Computation of the
+fatigue loads. Grid connections or standalone application as wind
+diesel or pumps.
+
+Electrical conditions:
+
+3 phase power system and concept of active and reactive power,
+calculation of electromagnetic components. Generator typologies
+including geared generators vs. direct drive generators, and
+converter connection vs. direct grid connection.
+
+Societal and industrial context, innovation and economics:
+
+history of wind power and industrial structure, energy and
+innovation policy context, innovation. 
+","41312,02102,02631","
+Martin Otto Laver Hansen,
+Nenad Mijatovic"
+46310 , Projects in Wind Turbine Aeroelasticity,English , 10 ECTS , 2016/2017 ,F5A (Wed 8-12) and F5B (Wed 13-17),MSc,DTU Wind Energy,"
+To give a thorough insight to the structural modeling of a wind
+turbine in order to calculate the aeroelastic response of the
+construction including the time varying loads stemming from
+atmospheric turbulence, wind shear, yaw, tower shadow as well as
+gravity and inertial loads. 
+","Write a computer code to determine the unsteady aerodynamic
+loads Implement a dynamic wake model Solve equations for unsteady rotor aerodynamics Implement a yaw model Establish the equations of motion for a wind turbine
+construction Integrate the equations of motion to obtain time history of
+loads Explain the contribution of the different models on the
+resulting time series and validate the code Verify that the structural and aerodynamic models are coupled
+correctly Apply a beam model for wind turbine substructures such as
+tower, shaft, and blade with a finite element method
+(FEM)","
+Structural modeling of wind turbine using finite element method,
+3-D corrections to stationary airfoil data, implementation of
+dynamic stall models, implementation of instationary BEM model,
+modeling of atmospheric turbulence, wind shear, numerical time
+integration of governing equations for motion of wind turbine,
+computer simulation of the time varying behavior of a wind turbine,
+modern control of wind turbine. 
+","46300,28864,02637,02393,02633","
+Martin Otto Laver Hansen,
+Taeseong Kim"
+46320 ," Loads, Aerodynamics and Control of Wind Turbines",English , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,DTU Wind Energy,"
+To give the students advanced competencies in modeling and
+analyzing the structural dynamics, aerodynamics, aeroelastic
+characteristics, and control of wind turbines using analytical and
+numerical methods, and thereby create a basis for computing the
+loads on wind turbines in a design process. 
+","Set up a structural model of a wind turbine, and analyze its
+structural dynamical properties Describe the mode shapes of wind turbines, and identify these
+in computed time series of the aeroelastic response of a wind
+turbine Describe the Blade Element Momentum theory to calculate the
+aerodynamic forces on a wind turbine rotor, and describe its
+limitations and the added submodels that are necessary for
+calculation of realistic unsteady forces Apply methods for aerodynamic design of an optimal wind turbine
+rotor, and discuss the practical limitations related to, e.g.,
+structural stiffness, noise and manufacturing Describe the aeroelastic responses e.g. stability, resonance,
+and their influence on loads Describe different concepts for regulating wind turbines Implement a simple wind turbine controller in an aeroelastic
+simulation model Find the relevant standard for certification of a wind turbine,
+and use this to compute a reduced load basis Apply methods for re-designing a turbine for changed
+requirements Document and explain the designed wind turbine models,
+analyses, and design choices","
+The students design their own wind turbine, compute its design
+loads, and thereby work with the following topics: methods for
+analyzing the structural dynamics of wind turbines, Blade Element
+Momentum (BEM) theory coupled with unsteady aerodynamics,
+aeroelastic stability of wind turbines using eigenvalue analysis,
+methods for aerodynamic design of wind turbine rotors, regulation
+concepts for wind turbines, tuning of wind turbine controllers, the
+certification standard for wind turbines, and calculation of a
+reduced load basis for a wind turbine.
+
+The theories, submodels, and methods introduced in this course will
+generally be applicable for modeling and analysis of wind turbines;
+however, the students will work with the multi-body code HAWC2 for
+aeroelastic simulations, the tool HAWCStab2 for aero-servo-elastic
+mondal analysis of wind turbines. Parts of this course will be
+provided through E-learning. The E-learning lessons correspond to a
+workload of approx. 10 hours. 
+","46300,46310","
+Taeseong Kim,
+Morten Hartvig Hansen"
+46400 , Wind Turbine Measurement Technique,English , 10 ECTS , 2016/2017 ,"E1 (Mon 8-12, Thurs 13-17)",MSc,DTU Wind Energy,"
+To give an overview of measurement techniques used in and around
+wind turbines. 
+","record time series of signals from a wind turbine using a data
+acquisition system perform and report a cup calibration in a wind tunnel including
+assessment of uncertainty measure and analyse wind speed measurements including
+uncertainty estimation organize wind measurements in a database determine wind resources at a given location determine wind turbine performance including uncertainty, based
+on power measurements determine structural properties for a wind turbine, based on
+structural measurements assess the impact of a wind turbine to the power grid explain relevant standards for wind turbine
+measurements","
+The course will present an introduction to theory and methods for
+the experimental determination of wind characteristics, remote
+sensing of wind speed, wind turbine power performance, mechanical
+loads and vibrations together with the assessment of electric power
+quality and noise emission. These topics will be presented in
+relation to the relevant IEC-standards.
+
+The lectures are combined with exercises based on real wind turbine
+measurements, calibration of sensors in the laboratory and
+recording of real-time data from a 500 kW wind turbine sited at
+Risø Campus, Roskilde. This wind turbine, which will be visited
+during the course, is fully instrumented for load and power
+measurements.
+
+During the course, measurements will be carried out using Labview
+programs, providing the student with an introduction to basic data
+acquisition methodology. 
+","46300,02631,02633","
+Kurt Schaldemose Hansen,
+Michael Courtney"
+46411 , Design of large composite structures,English , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),MSc,DTU Wind Energy,"
+Composite materials are increasingly being used in the design of
+advanced and lightweight structures, such as wind turbine blades,
+airplanes, land vehicles, marine and space structures.
+
+The course aims at providing students with the necessary background
+for designing and analyzing components and large structures made of
+lightweight composite materials. 
+","Account for and apply the basic methods within classical
+lamination and sandwich theory Account for the general relations between cross sectional
+forces and stresses for laminate and sandwich construction
+elements Use beam and plate theory with standard solutions to compute
+deflections of beams and plates Account for available construction materials within fiber
+reinforced polymer structures and their properties, advantages and
+disadvantages Account for structural design methods and understand the effect
+of loading and boundary conditions on the structural design Apply state-of-art criteria to compute failure of composite and
+sandwich construction elements Apply design and analysis tools in order to dimension specific
+composite structures Evaluate results achieved using standard or own developed
+design and analysis tools against an expected structural
+response Model and analyze composite structures in ABAQUS or similar
+finite element software, by considering static load cases and
+buckling","
+The course will focus on the understanding of the structural
+response and failure of composite structures when exposed to
+loading. This will be done by providing the students with practical
+and computational methods to analyze and design these structures.
+Focus will partly be on the design of wind turbine blades, but the
+obtained knowledge will be relevant for the design of other types
+of composite structures.
+
+The course content is equally distributed between theoretical
+methods for analysis and the practical application of these methods
+in design. The following theoretical topics will be covered during
+this course:
+
+- Overview of composite science and technology (materials,
+manufacturing, applications);
+
+- Mechanics of a lamina (anisotropy, stress/strain tensors,
+constitutive relations, kinematics);
+
+- Mechanics of laminates (emphasis on classical laminate theory,
+other theories in brief);
+
+- Failure analysis (failure criteria, progressive damage/failure
+analysis, buckling);
+
+- Beam and plate theory for monolithic fiber-reinforced composites;
+
+- Beam and plate theory for sandwich structures;
+
+- Finite Element Analysis (FEA) of composite structures
+(formulation, element technology);
+
+- Design and analysis of composite structures.
+
+Understanding and application of the above topics is achieved
+through practical exercises in design and failure of composite and
+sandwich components (FEA and programming in MatLab or similar). 
+","41501,41516,46420,41812,41215,11305","
+Kim Branner,
+Vladimir Fedorov"
+46415 , Structural analysis and design optimization of wind turbine blades,English , 5 ECTS , 2016/2017 ,June,MSc,DTU Wind Energy,"
+Optimal design workflows are increasingly being used in the design
+of advanced and lightweight structures, such as wind turbine
+blades, airplanes, land vehicles, marine and space structures.
+Numerical opitmization algorithms are routinely employed for
+determining the optimal combination of material properties and
+structural topology which maximize the performance of such
+structures.
+
+The course aims at providing students experience on structural
+analysis and design optimization of a wind turbine blade. The
+experience is relevant for the design of a general class of large
+and complex structures. 
+","Formulate an optimal design problem, i.e., identify the design
+variables and corresponding parameterization technique, choose
+suitable constraints and objective functions Perform sensitivity analysis of the proposed problems Estimate the optimal structural properties of a wind turbine
+rotor blade using some simplifying assumptions and basic load
+cases Compute the detailed local (stresses and strains, and check
+composite failure criteria) and global (tip displacement and blade
+eigenfrequencies) structural response of the blade based on
+realistic load cases Numerically solve structural optimization problems and conduct
+sensitivity analysis using specific optimization algorithms and
+techniques Perform optimal structural design of laminated composite wind
+turbine blades using modern and robust optimization algorithms and
+structural analysis tools Interpret and analyze the results from the optimization
+process Write a technical report describing the work carried out
+throughout the course","
+A brief introduction is presented to optimization and structural
+analysis methods applicable to a broad range of structures and
+materials. The course content focuses mostly on the practical
+application of these methods in design optimization of a wind
+turbine blade. The design workflow will be based on robust and
+well-documented optimization and structural analysis software.
+
+The following theoretical topics will be covered during this
+course:
+
+- Optimization theory and algorithms.
+
+- Structural analysis of wind turbine blade using the finite
+element method - from a user’s and developer’s perspective.
+
+- Overview of the iterative process underlying the design
+optimization of wind turbine blades with special focus on the
+structural design.
+
+- Determination of the design driving load cases and its relation
+with the different failure phenomena observed in wind turbine
+blades.
+
+Understanding and application of the above topics is achieved
+throughout a project where specific structural analysis tools and
+optimization algorithms are used in the structural design of a wind
+turbine blade. 
+","46411,46320,02637,02632,02633","
+Mathias Stolpe,
+José Pedro Albergaria Amaral Blasques"
+46420 , Composite Materials and Fibres,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,DTU Wind Energy,"
+- To give the students thorough knowledge of materials structures
+and properties, with special emphasis on fibres and their function
+in composite materials
+
+- To give the students insight into the micromechanical models
+describing the function and properties of composite materials
+
+- To make the students capable of selecting composite materials
+with specific property profiles
+
+To give the students improved skills in oral communication of
+engineering topics 
+","Describe and calculate the mechanical properties of materials
+based on their chemistry and structure Explain and calculate the effect of defects on material
+strength, and identify the methods of obtaining strong fibres Describe the chemistry and structure, processing and properties
+of practically relevant fibres in composites (i.e. glass, carbon,
+cellulose, polyethylene, and aramid) Explain scatter in strength of fibres by a statistical method
+(Weibull), and use the method to calculate the scale effects of
+fibre strength Convert between weight and volume fractions in composites, and
+understand the relationship between volume fractions of fibres,
+matrix and porosity, in composites with different fibre weight
+fractions Describe and calculate the load distribution and load transfer
+in unidirectional composites with continuous and non-continuous
+fibres Calculate stiffness of composites with a given composition and
+configuration, and design of composites in relation to specific
+property profiles Explain and calculate the strength of unidirectional composites
+with micromechanical models predicting single and multiple
+fracture Identify and estimate the work of fracture of unidirectional
+composites from the mechanisms of debonding, elastic stretching and
+fibre pull-out","
+Introduction to and history of strong and light materials;
+theoretical maximum strength of materials; the effect of defects on
+practical lower strength; reinforcement of materials; principles of
+reinforcement with inclusions, in particular fibres; relevant
+fibres, their structure, fabrication, and properties; statistical
+analysis of fibre strength; volumetric composition of composite
+materials, in particular porosity; micromechanical models for
+composite materials; interface between fibres and matrix; load
+transfer between fibre and matrix; critical fibre length; debonding
+and fibre pull-out energy for composite materials; single and
+multiple fracture; stiffness, strength and fracture energy for
+composite materials. 
+","46410,46430,46440,41015,41501","
+Bo Madsen,
+Hans Lilholt,
+Bent F. Sørensen"
+46430 , Experimental Material Characterization,English , 5 ECTS , 2016/2017 ,June,MSc,DTU Wind Energy,"
+Experimental determination of the mechanical behavior of materials
+(metals, polymers and composites). Test methods to investigate the
+mechanical properties under tensile, bending and shear deformation.
+Determine stiffness and strength. Determine the governing
+parameters in common material models. Numerical data analysis based
+on small Matlab (eventually Python) programs. 
+","Explain the meaning of different linear and non-linear material
+models Plan experiments to determine material parameters used in
+common material models Apply test standards critically Perform data analysis for different test types Use a numerical system to data treatment in Matlab/Python Perform an uncertainty budget on the measured data Explain the principles behind extensometers, load cells, strain
+gauge and data acquisition systems Explain the principles behind numerical data sampling","
+The course will cover theory and report writing taught at DTU in
+Lyngby and experimental test methods and data analysis at Risø
+Campus. The experimental tests will be performed in groups of 4-5
+students, and the reports will be written in groups of 2-3
+students.
+
+The theory will cover an introduction to commonly used
+linear-elastic, visco-elastic and anisotropic elastic material
+models as well as simple elastic-plastic material laws. In
+addition, the theory will
+
+address the technical principle behind experimental measurements
+and software coding used for numerical data analysis.
+
+The experimental measurements at Risø Campus will cover uniaxial
+tensile tests, shear tests, creep, stress relaxation and various
+methods for deformation measurements. 
+","41533,02633,41234,41501,02631","
+Lars Pilgaard Mikkelsen,
+Steffen Rasmussen"
+46440 , Manufacturing of Advanced Fiber Composites,Danish , 5 ECTS , 2016/2017 ,January,BSc,DTU Wind Energy,"
+Based on the production of a selected component, a review is given
+of materials and methods of manufacture of advanced fiber
+composites with polymer matrix combined with a review of methods of
+control of material quality. Focus will be on manufacturing and
+control of advanced fiber composites, i.e. fiber composites with
+high content of long direction-oriented fibers. Matrix materials
+will be thermosetting for manufacturing by vacuum infusion or
+autoclave consolidation of a prepreg material. Composites based on
+thermoplastic matrix materials can be manufactured by press
+consolidation. 
+","Structure and plan experimental work within the group of
+students Set out the available materials for fiber-reinforced composites
+and their properties, advantages and disadvantages Select and customize an appropriate manufacturing method for a
+specific fiber composite component Take into account the potential conflict between the desired
+fiber orientations and fiber content from a structural perspective,
+in relation to possible fiber orientations and fiber content from a
+manufacturing-technological viewpoint Select the process parameters that will lead to the production
+of fiber composites with good material quality Calculate the weight of fiber and matrix and compare with
+measured values and volume-related content Explain the advantages and disadvantages of manufacturing
+composites by press consolidation, autoclave consolidation or
+vacuum infusion Develop a plan for control of material quality of fiber
+composite components","
+There will be preliminary experiments to demonstrate relevant
+manufacturing methods used for assessment and choice of method and
+process parameters for the given component. The group should set up
+a plan for the experimental work and realization of the subject
+within the frame of the course. An introduction to basic design
+criteria for fiber composites will be given. Calculation of the
+stiffness of the composite will be compared with the specific
+stiffness of the test subjects to assess the plan for the
+manufacture of composite items. Thus, students will be able to
+explain the necessary quantity of material and plan a manufacturing
+process based on relevant process parameters. 
+",None,"
+Tom Løgstrup Andersen,
+Christen Malte Markussen,
+Lars Pilgaard Mikkelsen,
+Jesper Schramm,
+Robert Flemming Mikkelsen"
+46500 , Probabilistic Methods in Wind Energy,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,DTU Wind Energy,"
+The purpose of the course is to learn the basics of probabilistic
+modeling in the context of wind engineering and structural
+engineering design applications. The students are provided with the
+opportunity to apply probabilistic methods to different examples
+from wind energy. 
+","Carry out statistical analysis of measured wind speed time
+series and mechanical property data of materials Apply probability distributions and random variables in
+structural engineering problems Apply uncertainty quantification and propagation on commonly
+used probabilistic models Formulate and calibrate probabilistic engineering models Apply statistical extrapolation to estimate return periods of
+extreme wind speeds and wind turbine extreme design loads Generate random time series based on power spectral density and
+Markov chain models Apply structural reliability analysis methods on simple design
+equations Explain the meaning of safety factors in wind turbine design
+and how to calibrate them using reliability methods Represent graphically and analyze the dependencies between wind
+turbine system components by means of Bayesian networks Defining the scope, executing and presenting the solution of an
+engineering challenge","
+- Introduction to probability theory in the context of wind
+engineering.
+
+- Sample statistics. Student’s T-distribution. Central limit
+theorem. Confidence intervals. Application on measured wind speed
+data.
+
+- Probability distributions: properties, estimation of parameters.
+Multivariate distributions.
+
+- Random processes. Distribution of extremes. Statistical
+extrapolation - applications on extreme wind speeds and extreme
+loads.
+
+- Frequency spectrum. Generating random time series.
+
+- Multivariate analysis. Load combinations. The i-FORM method.
+
+- Mathematical models with uncertainty. Estimation of model
+parameters. Likelihood & Bayesian methods. Calibration of a
+probabilistic fatigue model.
+
+- Limit states. Concept of reliability analysis. Exercises with
+FORM and Monte Carlo methods.
+
+- Reliability-based design. Safety factor calibration.
+
+- Introduction to Bayesian networks. Exercise on modelling the
+gearbox failure probability.
+
+- Presentation of the students' final projects. Peer
+discussions and suggestions for improvements.
+
+The course begins with lectures and exercises introducing the basic
+concepts. Students are also introduced to the requirements for the
+final project and are given access to student projects from
+previous years. After several lectures, the students will begin
+working on a project assignment, individually or in groups of 2.
+The topic of the assignment is defined in a discussion between the
+student and the teacher so it reflects the student's interests
+and helps solve an actual engineering challenge. The project topics
+are then presented in front of fellow course participants. For the
+remainder of the course, the students will in parallel attend
+lectures and work on their projects. At the end of the course, the
+students will make a presentation of the results of their project,
+and submit a report containing their assignments as well as a
+solution to the three chosen in-class exercises. 
+","46300,02406,02402","
+Nikolay Krasimirov Dimitrov,
+Mark C. Kelly"
+46800 , Research Immersion ,English , 5 ECTS , 2016/2017 ,August,MSc,DTU Wind Energy,"
+Through participation in a research project for a shorter period of
+time, the student will try to answer a question or solve a problem,
+which is connected to the work of the supervising PhD student. The
+student will gain forefront knowledge within an area of wind
+energy, while gaining insight into how the scientific method is put
+into practice to solve topical issues for society. The student will
+also gain general competencies, e.g. the ability to participate in
+a constructive mentor-mentee relationships and the ability to
+communicate science – in writing as well as orally 
+","Work in a focused and strategic manner to retrieve scientific
+literature Read and summarise scientific articles and extract information
+of relevance to a scientfic project Critically evaluate own and others designs, models, tests
+etc. Plan, carry out and finalize a project under tight time
+constraints Orally communicate the main features of a scientific issue Communicate the results of a scientific project in a
+report Constructively participate in a student-supervisor
+relationship Explore and select relevant technologies for solving the given
+problem","
+Participation in a research project in close collaboration with a
+supervising PhD student. The exact content of the project will be
+further agreed upon with the supervising PhD student. The main
+points of the scientific issue must be communicated orally to the
+other participants of the course. The project results and method
+must be communicated in a final, written report. 
+",,"
+Morten Hartvig Hansen,
+Mac Gaunaa"
+46900 , Ph.D. Course in Wind Turbine Dynamics and Aeroelasticity,English , 2.5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,DTU Wind Energy,"
+This course is aimed at graduate students interested in wind energy
+research and at engineers in the wind turbine industry with the
+purpose to learn how to describe, analyze and optimize the modal
+dynamics and aeroelastic stability of wind turbines. The
+participants must have pre-knowledge of vibration analysis and
+linear dynamics of mechanical systems. No particular knowledge of
+wind turbines is needed; however, a general knowledge of structural
+dynamics and/or aerodynamics is required. 
+","List and describe the mode shapes of a horizontal-axis wind
+turbine at standstill and in operation Explain the methods of computing the modal frequencies, damping
+and shapes of the structural and aeroelastic modes of operating
+wind turbines Apply these methods for modal analysis of wind turbines with
+and without the effect of aerodynamic forces Analyze and optimize modal dynamics of three-bladed wind
+turbines, and to identify these structural modes in the aeroelastic
+response of operating wind turbines Explain the mechanisms of the aeroelastic instabilities called
+stall-induced vibrations and classical flutter Analyze the risk of these instabilities for a given wind
+turbine Present and disseminate the important issues of wind turbine
+modal dynamics and aeroelastic stability to colleagues and fellow
+students Perform further state-of-the-art research within dynamics and
+aeroelastic stability of wind turbines","
+Modal frequencies, damping and shapes of the vibration modes of
+operating wind turbines can be computed with and without the
+influence of the aerodynamic forces from the surrounding flow. The
+vibration modes of the unforced turbine (excluding the aerodynamic
+forces) constitute a dynamic fingerprint that defines its modal
+dynamics. These structural modes form the basis of the aeroelastic
+response of wind turbines due to the aerodynamic forces. The
+vibration modes of the turbine including the aerodynamic forces
+determine its aeroelastic stability properties through the damping
+of these aeroelastic modes. Stall-induced vibrations and classical
+flutter are the two main mechanisms that may lead to aeroelastic
+instabilities of wind turbines with negative damping of an
+aeroelastic mode. 
+",,"
+Morten Hartvig Hansen"
+46910 , Advanced Finite Element Simulations Using Abaqus,English , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),Ph.D.,DTU Wind Energy,"
+The course will introduce the use of the commercial finite element
+code Abaqus in a research oriented use where a number of non-linear
+problems will be addressed. The focus will be on non-linear
+material simulation, simulation of fibre reinforced composites and
+crack growth predictions. 
+","Build up a finite element model in Abaqus Explain the background behind and the possibilities of the
+finite element method Include the effects of non-linear material models Predict the influence of orthotropic materials Work with layup of ply in a composite structure Predict crack tip properties Simulate crack growth using cohesive material laws in a finite
+element model Use extended finite element (XFEM) in order to make realistic
+crack growth predictions Use Python scripting, parametric studies and user-defined user
+subroutines","
+The workload in the course will focus on the study of a number of
+non-linear problems which include building up, solving and
+evaluating the solutions from realistic finite element problems.
+Throughout the work with the finite element exercises, important
+points using a commercial finite element code will be addressed.
+Cases involving isotropic elastic, anisotropic elastic and
+elastic-plastic material laws will be studied. In addition will
+user defined subrutines and Pythom scripting be used. 
+","41502,41501,31526,11371,46410,45206,41812,41820,41525,41526","
+Lars Pilgaard Mikkelsen"

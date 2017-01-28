@@ -1,0 +1,3024 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+,,,,,,,,,,,,
+28001 , Introduction to chemistry and chemical engineering,Danish , 10 ECTS , 2016/2017 ,"E5 (Wed 8-17) ,  January and F3A (Tues 8-12)",BSc,Department of Chemical Engineering,"To give an introduction to chemical and biochemical products and processes from primarily Danish industry and on this basis to illustrate the use of chemical, physical and mathematical basic subjects as well as the technical and chemical disciplines such as chemical engineers must be able to contest. In inorganic chemistry identified mainly focus on the production and use of compounds of the transition metals.","A student who has met the objectives of the course will be able to:
+Describe typical tasks for a chemical engineer.
+account for a number of products and processes for Danish companies in chemistry, bioteknolgi, pharmaceuticals and energy.
+formulate and solve simple mass balances for stationary processes.
+formulate and solve simple energy balances for stationary processes.
+resolve and report greater technical preparation task in collaboration with other students.
+perform dimension analysis
+conduct and report experiments with manufacturing and applications of transition metal compounds.
+assess the safety risks of chemical experiments from material safety data sheets
+perform data processing of larger data sets
+Analyze and discuss various examples of technological innovation and user-driven innovation
+Explain the various materials applications","
+Introduction to chemical and biochemical industry and the related
+disciplines. A number of products and processes from Danish
+companies will be discussed. Solution of exercises related to these
+products and processes involving simple process models and reaction
+engineering.
+
+Inorganic and bio-inorganic compounds, their synthesis and
+applications. Excursions. 
+",None,"
+Kim Dam-Johansen,
+Anne Ladegaard Skov,
+Kenny Ståhl"
+,,,,,,,,,,,,
+28012 , Chemical and Biochemical Process Engineering,Danish , 7.5 ECTS , 2016/2017 ,E3A (Tues 8-12) and January  or  F5A (Wed 8-12) and June,BEng,Department of Chemical Engineering,"
+Through the analysis of a particular chemical and biochemical
+productions, to give the students an introduction to the nature,
+structure and methods of the chemical engineering profession. 
+","Draw process flow sheets Describe chemical and bio processes Set up and solve mass balances Set up and solve energy balances Calculate equilibrium composition Use the terms conversion and fractional conversion in
+calculations Calculate the consumption of chemicals used for water
+treatment Use kinetic expressions for process calculations Solve projects in groups and present the results in a report
+and orally Take environmental issues in consideration in project
+work","
+Introduction to the chemical and biochemicalprocess industries.
+Flowsheets for setting up material and energy balances. Mass and
+energy balances for continuous and batchwise processes and
+operations. Introduction to chemical equilibrium and chemical and
+biochemical kinetics. Elementary energy balances. 
+",None,"
+Karsten Clement,
+Peter Szabo,
+Hariklia N. Gavala"
+,,,,,,,,,,,,
+28016 , Mathematical models for chemical and biochemical systems,Danish , 7.5 ECTS , 2016/2017 ,"E4 (Tues 13-17, Fri 8-12)  or  F4 (Tues 13-17, Fri 8-12)",BEng,Department of Chemical Engineering,"
+For an engineer it is important to analyse practical problems by
+simplified models, each of which simulates different aspects of the
+problem. In the course, the students learn to formulate models for
+simple chemical and biochemical systems. Furthermore, the students
+must obtain knowledge and capabilities within a number of central
+mathematical concepts and methods in order to solve the models
+analytically or by approximate methods. 
+","Identify relevant system boundaries and select an appropriate
+control volume in simple (bio)chemical systems. Identify mass and energy interactions between the system and
+the surroundings. Use the fundamental balance equations for mass and energy to
+derive a differential equation for the system. Introduce and apply dimensionless variables in the analysis of
+the mathematical model for the system. Determine the type of a system of linear differential equations
+and perform a phase space analysis. Find the stationary points for two coupled non-linear
+differential equations, linearise around each stationary point,
+determine the type of the linearised system, find the nullclines,
+plot the vector field and perform a phase plane analysis. Analyse how a phase plane is changed when the parameters in a
+(bio)chemical system is changed. Perform the necessary calculations for a mathematical analysis
+of a (bio) chemical system. Normally using symbolic and numerical
+computer tools, (especially the program Maple). Keep track of units and orders of magnitude of the variables in
+a mathematical model of a (bio) chemical system.","
+Differentiability and linearization. The development of
+steady-state and non-steady-state differential mass- and energy
+balances. Mathematical models for systems with chemical and
+biochemical reaction, including enzymatic processes, together with
+convective and diffusive mass- and heat transport. The formulation
+of boundary conditions. Ordinary differential equations and systems
+of such equations. The application of Maple. Laboratory exercise
+with model formulation. 
+","01907,01906,28022","
+Peter Szabo,
+Karsten Clement"
+,,,,,,,,,,,,
+28017 , Chemical and Biochemical Process Engineering,Danish , 7.5 ECTS , 2016/2017 ,E3A (Tues 8-12) and Spring,BEng,Department of Chemical Engineering,"
+Through the analysis of a particular chemical and biochemical
+productions, to give the students an introduction to the nature,
+structure and methods of the chemical engineering profession. 
+","Draw process flow sheets Describe chemical and bio processes Set up and solve mass balances Set up and solve energy balances Calculate equilibrium composition Use the terms conversion and fractional conversion in
+calculations Calculate the consumption of chemicals used for water
+treatment Use kinetic expressions for process calculations Solve projects in groups Take environmental issues in consideration in project
+work","
+Introduction to the chemical and biochemicalprocess industries.
+Flowsheets for setting up material and energy balances. Mass and
+energy balances for continuous and batchwise processes and
+operations. Systems with recycle. Introduction to chemical
+equilibrium and chemical and biochemical kinetics. Elementary
+energy balances. 
+",None,"
+Karsten Clement"
+,,,,,,,,,,,,
+28020 , Introduction to Chemical and Biochemical Engineering,Danish , 10 ECTS , 2016/2017 ,E3A (Tues 8-12) and F3A (Tues 8-12),BSc,Department of Chemical Engineering,"
+The aim of the course is to give an introduction to chemical
+
+engineering concepts that are used in the chemical,
+biotechnological, and the pharmaceutical industry. This
+introductory course will make the student able to
+
+understand the description of an engineering problem and be able to
+solve the problem by using the given information or information
+found in the literature
+
+understand and sketch flowsheets for plants
+
+calculate size, composition, temperature and pressure of streams in
+plants
+
+calculate energy transfer in systems with pumps and in pipes
+
+know the fundamental principles behind a number of important types
+of process equipment and to get a general knowledge of such
+equipment
+
+make quantitative calculations to design process equipment and to
+predict performance and capacity of existing equipment when
+operating conditions are changed 
+","Draw proces flow sheets for chemical and biological
+processes Set up and solve mass and energy balances for chemical and
+biological processes Set up and solve transient mass balances for chemical and
+biological processes Calculate equilibrium composition, dew point and boiling point
+for a two phase gas liquid system based on Raoult and Henry's
+laws Apply phase diagrams to calculate equilibrium composition and
+amounts for two-phase systems Apply mass balances and equilibrium calculations to make design
+calculation on equilibrium stage processes such as distillation and
+extraction Calculate required number of equilibrium stages by
+McCabe-Thiele's method Apply the mechanical energy balance to calculate the exchange
+of energy in pumps and other process equipment Calculate the friction pressure drop due to flow in pipes,
+fittings and fixed beds Design frequently encountered process equipment such as
+filters, cyclones, fluid beds, heat exchangers, columns for
+absorption and stripping Solve a chemical engineering problem and formulate the
+calculation method and the results in a report","
+The course is extended over two semesters and combines theory,
+
+and a major course problem. Systematic mass and energy balances for
+chemical processes with and without chemical reaction and with and
+without multiple phases.
+
+Stage processes exemplified by absorption, distillation and
+extraction columns. Applications of phase equilibria, bubble point
+and dew point calculations in multicomponent systems. Design of
+distillation columns.
+
+Examples: A number of typical problems from industrial processes
+are presented to illustrate practical applications and to form a
+background for understanding the quantitative methods described in
+the course. Practical examples on solution of environmental
+problems.
+
+Flow: The mechanical energy balance, flow of gases and liquids,
+calculation of friction losses in pipe systems. Pumps and design of
+pipe systems. Filtration and sedimentation processes including
+fluidization.
+
+Heat transfer: Heat transfer by conduction, convection and
+condensation.
+
+Design of heat exchangers.
+
+Mass transfer: Differential mass balances, batch distillation,
+diffusion, rate dependent mass transfer operations (absorption,
+stripping). 
+","26201,10020","
+Anker Degn Jensen,
+Kaj Thomsen"
+,,,,,,,,,,,,
+28022 , Unit Operations of Chemical Engineering and Biotechnology,Danish , 12.5 ECTS , 2016/2017 ,"F1 (Mon 8-12, Thurs 13-17) and June  or  E1 (Mon 8-12, Thurs 13-17) and January",BEng,Department of Chemical Engineering,"
+The aim of the course is to give an introduction to chemical
+engineering concepts that are used in the chemical,
+biotechnological, and the pharmaceutical industry. This
+introductory course will make the student able to calculate energy
+transfer in systems with pumps and in pipes.
+
+Understand the fundamental principles behind a number of important
+types of chemical process equipment, and to get a general knowledge
+of such equipment.
+
+Make quantitative calculations to design process equipment, and to
+predict performance and capacity of existing equipment when
+operating conditions are changed.
+
+Get a better understanding of the basic features for a number of
+important chemical engineering operations through experimental
+exercises. 
+","describe the operating principle of certain types of process
+equipment explain how process equipment relies on fundamental physical
+and thermodynamic laws plan small scale experiments with large scale dimensioning in
+mind find process and product data in Danish and foreign-language
+litterature suggest suitable types of process equipment for a given
+task make quantitative process calculations write a technical report organize group work","
+Absorption- and destillation columns, humidity, drying, extraction,
+liquid- and gas flow, pumps, filtration, stirring, sedimentation,
+heat transfer. 
+","28018,28019,01907,01906,28016,28322","
+Philip Loldrup Fosbøl,
+Søren Kiil,
+Jakob Munkholt Christensen"
+,,,,,,,,,,,,
+28025 , Bio Process Technology,Danish , 5 ECTS , 2016/2017 ,F3A (Tues 8-12),BSc,Department of Chemical Engineering,"
+The aim of this course is to give an introduction to the principles
+of bioprocess engineering in a way that is accesible to biological
+scientists. The material presented in this course is suited to
+teach undergraduate students with diverse backgrounds in biology,
+chemistry and medical science. The lectures are organised around
+broad engineering subdisciplines such as mass and energy balances,
+fluid dynamics, transport phenomena and reaction theory. The
+students will after the course be able to work with the description
+of an engineering problem and be able to solve the problem by using
+the given information (e.g. in literature). They will be familiar
+with the fundamental principles behind a number of important types
+of process equipment and to get a general knowledge of such
+equipment. They will be able to make quantitative calculations to
+design process equipment and to predict performance and capacity of
+existing equipment when the operating conditions are changed. 
+","Describe the basic principles of fermentation Explain the basic principles of biocatalytic reactions Descirbe the basic principles of downstreamprocessing Set up and solve mass and energy balances for chemical and
+biological processes Set up and solve transient mass balances for chemical and
+biological processes Apply the mechanical energy balance to calculate the exchange
+of energy in pumps and other process equipment Calculate the friction pressure drop due to flow in pipes,
+fittings and fixed beds Design frequently encountered process equipment such as
+filters, heat exchangers and reactors Solve chemical engineering problems and formulate the
+calculation methods Describethe basic concepts of reactors and reactions Evaluate the unit operations applied in chemical and
+biochemical engineering Set up the basic energy balances in bioprocesses","
+This compact course will be taught in one semester and focuses at
+the basic principles of chemical process engineering applied to
+examples from chemical and biochemical engineering and medicine
+techniques.
+
+It covers the systematic mass and energy balances for chemical and
+biochemical processes with and without chemical reactions. A number
+of typical problems from industrial biochemical processes serve as
+examples. The intention is to illustrate practical applications and
+to form a background for understanding of the quantitative methods
+described in the course.
+
+Flow: The mechanical energy balance, flow of gases and liquids,
+calculation of friction losses in pipe systems. Pumps and design of
+pipe systems. Filtration and sedimentation processes.
+
+Heat transfer: Heat transfer by conduction, convection and
+condensation.
+
+Design of heat exchangers.
+
+Mass transfer: Differential mass balances, diffusion, rate
+dependent mass transfer operations. 
+",None,"
+Ulrich Krühne"
+,,,,,,,,,,,,
+28121 , Chemical Unit Operations Laboratory,Danish , 5 ECTS , 2016/2017 ,Fall  or  Spring,BSc,Department of Chemical Engineering,"
+To show the possibilities and limitations of the theory and achieve
+practical experience and improved understanding of the processes.
+This is performed by experiments in semitechnical and technical
+scale with process equipment, which is used in the chemical,
+biochemical and pharmaceutical industry. 
+","Apply theory on practical experimental problems. Analyse results and formulate conclusions concerning the
+quality and applicability of the results and to draw consequences
+for the process operation, plant design and functionality of the
+components. Operate process units incl. data acquisition systems and
+measuring equipment in pilot scale size. Explain the design of processes. Recognize technical components on real life plants. Identify and explain practical tasks concerning sampling and
+measuring techniques. Make a report on an experimental job in an organized way, which
+make it easy to read and understand calculations and
+conclusions. -","
+Perform and report on 4 exercises within the following areas: Gas
+and liquid flow in pumps, pipes and fittings, flow through particle
+beds, flow of bulk solids, agitation and aeration, heat
+transmission, distillation, absorption, ion exchnage, extraction,
+filtration, membrane separation, centrifugation, drying,
+evaporation, crystallization, organic synthesis, high temperature
+technology and CIP processes.
+
+In the report special focus on the engineering evaluation of the
+results. 
+","28020,28022","
+Philip Loldrup Fosbøl,
+Ivan Hundebøl,
+Lars Georg Kiørboe"
+,,,,,,,,,,,,
+28122 , Chemical Unit Operations Laboratory ,English , 5 ECTS , 2016/2017 ,July,BSc,Department of Chemical Engineering,"
+To show the possibilities and limitations of the theory and achieve
+practical experience and improved understanding of the processes.
+This is performed by experiments in semitechnical and technical
+scale with process equipment, which is used in the chemical,
+biochemical and pharmaceutical indústry. 
+","Apply theory on practical experimental problems Analyse results and formulate conclusions concerning the
+quality and applicability of the results and to draw consequences
+for the process operation, plant design and functionality of the
+components. Operate process units incl. data acquisition systems and
+measuring equipment in pilot scale size. Explain the design of processes. Recognize technical components on real life plants. Identify and explain practical tasks concerning sampling and
+measuring techniques make a report on an experimental job in an organized way, which
+make it easy to read and understand calculations on
+conclusions -","
+In groups of two perform and report on 4 exercises within the
+following areas: Flow in pumps, pipes and fittings, flow through
+particle beds, heat transmission, distillation, absorption,
+extraction, filtration, membrane filtration, centrifugation,
+drying, ion exchange, evaporation/​crystallization, agitation,
+aeration, high temperature processes, organic synthesis, solid
+transport and separation, CIP-processes.
+
+The course is identical to course 28121 and 28125. 
+","28020,28022","
+Lars Georg Kiørboe,
+Anna Eliasson Lantz,
+Ivan Hundebøl"
+,,,,,,,,,,,,
+28123 , Laboratory in Chemical/Biochemical Engineering ,English , 8 ECTS , 2016/2017 ,July,BSc,Department of Chemical Engineering,"
+To show the possibilities and limitations of the theory and achieve
+practical experience and improved understanding of the processes.
+This is performed by experiments in semitechnical and technical
+scale with process equipment, which is used in the chemical,
+biochemical and pharmaceutical industry. 
+","Apply theory in practical experimental problems Analyse results and formulate conclusions concerning the
+quality and applicability of the results and to draw consequences
+for the process operation, plant design and functionality of the
+components Operate process units incl. data acquisition systems and
+measuring equipment in pilot scale size Explain the design of processes Recognize technical components on real life plants Identify and explain practical tasks concerning sampling and
+measuring techniques Make a report on an experimental job in an organized way, which
+make it easy to read and understand calculations on
+conclusions - - - - -","
+In groups of two perform and report on 7 exercises within the
+following areas: Flow in pumps, pipes and fittings, flow through
+particle beds, heat transmission, distillation, absorption,
+extraction, filtration, membrane filtration, centrifugation,
+drying, evaporation/​crystallization, agitation, aeration, fixed
+bed reactor, solids transport and separation, high temperature
+processes, organic synthesis, CIP-processes and process control.
+
+Oral presentation of a cultural/​historic/​practical subject with
+reference to Denmark 
+","28020,28022","
+Lars Georg Kiørboe,
+Anna Eliasson Lantz,
+Ivan Hundebøl"
+,,,,,,,,,,,,
+28124 , Summer course in chemical process and plant design,English , 2 ECTS , 2016/2017 ,Outside schedule structure,BSc,Department of Chemical Engineering,"
+To use the experience and results from the 4 week international
+summer course 28123 to make a conceptual design of a certain
+process and a full scale plant. The solution shall include major
+chemical engineering aspects and constitute a holistic entity. 
+","Apply experimental results in scaling up of a process and
+plant Identify conditions for process steps related to the main
+operation in order to get a full production process Identify important plant design details in a proposal for a
+full scale construction Describe a complete process by making a PI diagram, also
+identifying components needed for continuous plant operation and
+safety Select types of instruments, pumps, valves etc and construction
+materials of all components for a selected chemical process Calculate capacities, operating parameters, component sizes and
+utility quantities for a complete process Orally present the entire technical solution in a condensed
+power point show and discuss and defend the details in a mixed
+audience. Identify and understand complete production processes based
+upon a single step","
+In groups of two the students will have one assignment demanding
+them to use previous pilot plant results to conceptually design a
+full size process. The results are presented orally for all
+participants in the course. 
+",28123,"
+Kaj Thomsen"
+,,,,,,,,,,,,
+28125 , Chemical Unit Operations Laboratory,Danish , 5 ECTS , 2016/2017 ,January,BSc,Department of Chemical Engineering,"
+To show the possibilities and limitations of the theory and achieve
+practical experience and improved understanding of the processes.
+This is performed by experiments in semitechnical and technical
+scale with process equipment, which is used in the chemical,
+biochemical and pharmaceutical industry. 
+","Apply theory on practical experimental problems. Analyse results and formulate conclusions concerning the
+quality and applicability of the results and to draw consequences
+for the process operation, plant design and functionality of the
+components. Operate process units incl. data acquisition systems and
+measuring equipment in pilot scale size. Explain the design of processes. Recognize technical components on real life plants. Identify and explain practical tasks concerning sampling and
+measuring techniques. Make a report based on experimental data in an organized way,
+which makes it easy to read and understand calculations and
+conclusions. -","
+Perform and report on 4 exercises within the following areas: Gas
+and liquid flow in pumps, pipes and fittings, flow through particle
+beds, flow of bulk solids, agitation and aeration, heat
+transmission, distillation, absorption, ion exchnage, extraction,
+filtration, membrane separation, centrifugation, drying,
+evaporation, crystallization, organic synthesis, high temperature
+technology and CIP-processes.
+
+In the report special focus is on the engineering evaluation of the
+results. 
+","28020,28022","
+Lars Georg Kiørboe,
+Anna Eliasson Lantz,
+Ivan Hundebøl"
+,,,,,,,,,,,,
+28140 , Introduction to Chemical Reaction Engineering,English , 5 ECTS , 2016/2017 ,E5A (Wed 8-12),BSc,Department of Chemical Engineering,"
+To give the student basic knowledge of the coupling between
+chemical kinetics and the design of chemical reactors. The student
+will be able to design and optimize chemical and biochemical
+reactors. It is further the purpose to give knowledge of the most
+important reactors for homogeneous, heterogeneous and biochemical
+reactors and their use in the industry. 
+","Explain the difference between rate expressions for elementary
+reactions and non-elementary reactions, and write down the rate
+expression for elementary reactions Explain the principles of the ideal reactor models: plug flow
+reactor, continuously stirred tank reactor, ideally stirred batch
+reactor Set up and solve mathematical models for the ideal reactors
+under isothermal conditions for a single reaction, for multiple
+reactions Set up and solve mole balances for other reacting systems than
+the three ideal reactor types Set up and solvemass balances for bio-reactors Set up the energy balance for reacting systems for single and
+multiple reactions with and without cooling Calculate the equilibrium conversions for multiple reactions
+for isothermal and non-isothermal reactions Explain how multiple steady states occur in stirred
+reactors Design reactors for optimum and safe operation Set up and solve mathematical models for diffusion and reaction
+in porous catalyst pellets and calculate the effectiveness factor
+for a 1st order reaction Design optimal reactor konfiguration for reactor
+chains","
+The course treats: Gas- and liquid phase reactions in ideal
+reactors, including reactor chains and recirculation reactors.
+Catalytic reactions in combination with physical transport inside
+catalyst pellets. Bioreaction kinetics and reactors. Multiple
+reactions and choice of reactor type and proces conditions for
+optimal production. Coupling of the energy and mass balance for
+reactors.
+
+The exercises illustrate mainly the applications within chemical,
+biochemical and pharmaceutical production and environmental
+technology. 
+","28160,28020","
+Anker Degn Jensen"
+,,,,,,,,,,,,
+28150 , Introduction to Process Control,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),BSc,Department of Chemical Engineering,"
+The overall aim is to provide the students an understanding of:
+
+- process dynamics
+
+- the operation and application of simple feedforward and feedback
+control
+
+- how measurements and actuators can be connected in a process
+plant
+
+The course should thus provide the student the ability to design
+single input - single output (SISO) control systems for chemical
+and biotechnical processes with continuous and batchwise operation.
+
+","Linearise a non-linear system of differential equations Solve linear differential equations using Laplace
+transforms Convert a system of differential equations to transfer function
+and state-space notation Represent a system as a block diagram Design and tune a feedback controller Design and tune a feedforward controller Evaluate the stability of a system Simulate a system in Matlab/Simulink - - - -","
+basic modelling principles - model linearisation - Laplace
+transform - transfer functions - state space models - process
+dynamics - feedback control - PID controller (design and tuning) -
+frequency response analysis - feedforward control - ratio control -
+cascade control 
+","28160,28020,28260,28864,28861,28120","
+Krist Gernaey"
+,,,,,,,,,,,,
+28157 , Process Design,Danish , 5 ECTS , 2016/2017 ,E4A (Tues 13-17) and F5A (Wed 8-12),BEng,Department of Chemical Engineering,"
+The purpose of the course is to enable the student to handle
+relatively complicated process development tasks in the chemical,
+biochemical, pharmaceutical and food industries. The course
+simulates work situations that occur in engineering practice. The
+course builds on experience and knowledge gained by the student in
+the earlier part of the study and from practical work placement.
+The course prepares the student to work as an engineer with process
+design and development. 
+","Carry out project work in groups and identify and divide large
+process design projects which at first glance may appear impossible
+into smaller, manageable tasks. Write project reports. Possess an engineering consciousness and responsibility in
+problem solving and apply engineering, chemical, physical and
+mathematical principles to the design of chemical processes. Develop, optimize, evaluate and design processes taking into
+account economic, environmental and safety factors Observe and identify problem situations and subsequently define
+a problem solution. Select and develop an optimal process concept based on the
+problem requirements and quantitative arguments. Create flowsheets for chemical processes, both conceptually and
+using appropriate software. Explain design principles and operation of the important unit
+operations in a process Select and design the unit operations in a process Use a commercial process simulator (PRO/II) to solve process
+design problems","
+Learning methods for development, flowsheeting and design of
+chemical and biochemical processes with regard to technical,
+economic and environmental criteria. These methods will be
+demonstrated through 3 project reports. 
+","28022,28341,28012,28322,28342,28321","
+Xiaodong Liang,
+Ioannis V. Skiadas"
+,,,,,,,,,,,,
+28160 , Mathematical models in chemical engineering,Danish , 5 ECTS , 2016/2017 ,F2B (Thurs 8-12),BSc,Department of Chemical Engineering,"
+To enable the students to formulate and solve mathematical models
+for chemical systems such as they occur in chemical and
+biotechnological process equipment. 
+","Draw a simple figure of a chemical engineering system based on
+the available description, and point out important simplifying
+assumptions, including the proper system boundaries. Decide if a process is stationary or non-stationary, and decide
+if concentrations, temperature and pressure vary internally in the
+system, all in consideration of the simplifying assumptions. Choose dependent and independent variables for model set-up and
+decide if a differential or an integral control volume has to be
+used, choose shape of control volume based on system geometry, and
+distinguish between system and control volume. Account for the four different terms in mass and energy (heat)
+balances for the control volume and state which processes in the
+system contribute to each of those terms. Formulate mass and heat balances for both differential and
+integral control volumes, and use expressions for transport
+processes, be it in the form of convective contributions or as flux
+expressions. Convert balances (in different geometries) to differential
+equations, and specify boundary and/or initial conditions based on
+the system description. Formulate mathematical expressions for system characterizing
+quantities defined verbally. Transform a raw model to dimensionless form by normalizing
+variables and variable expressions, and afterwards explain and
+interpret the appearing dimensionless parameters in relation to
+system behavior. Examine concurrently with the modeling process if a model is
+clearly in error. Use mathematical methods from the prerequisite mathematics
+course and technical aids of own choice to solve differential
+equation models, including the use of Bessel functions as
+intermediate quantities. Analyze, explain and predict the behavior of modeled systems,
+including defining steady states and examining those for
+stability. Do all of the above on simple partial differential equation
+models, including using the separation of variables method and
+basic results of Sturm-Liouville theory to express solutions in
+series form.","
+A mathematical model is a set of equations describing the behaviour
+of a real system, and how the behaviour may be influenced by
+external stimuli. A mathematical model enables the engineer to
+design a process, to optimize designs, and to control the resulting
+working process.
+
+The formulation of a mathematical model is based on the following
+principal elements: Conservation of mass and energy, known
+relations between transport rates and physico-chemical conditions
+(flow, diffusion, conduction, mass and heat transfer), and
+knowledge about the concentration and temperature dependence of the
+rates of the involved chemical reactions.
+
+Based on examples the course covers
+
+- choice of control volume,
+
+- steady and non-steady state differential mass and energy
+balances,
+
+- formulation of boundary conditions through balance equations,
+
+- fluxes,
+
+- transport through variable control volume surfaces,
+
+- linearization and stability
+
+with the intent of exploring the interaction between different
+transport mechanisms as well as between chemical reaction and
+transport of mass and heat. 
+","28160,28020,01009,01005,01035,01025,28120","
+Stig Wedel"
+,,,,,,,,,,,,
+28182 , Engineering Trainee,Danish , 30 ECTS , 2016/2017 ,Spring and June  or  Fall and January,BEng,Department of Chemical Engineering,"
+Through 20 weeks of full time work in a chemical or biochemical
+firm or a public institution to give the student one or more of the
+following qualifications: 1) - practical experience with chemical
+or biochemical analytical techniques, development of new analytical
+methods, - practical experience with chemical product and process
+development, - practical experience with chemical plants in pilot
+or production scale - their function and maintainance, - practical
+experience with public control of the chemical and biotechnological
+industries, 2) understanding of financial, social, environmental
+and working environmental problems in the chemical and biochemical
+world, 3) insight into the social and administrative environment of
+a firm or an institution (communication and co-operation of staff
+members at different levels, rules and administrative routines
+etc.) 4) experience with presenting work results in reports of
+varying degrees of detail. 
+","Relate to work of engineering relevance in a company. Work with economical, social, or environmental issues in
+practical situations. Present results orally. Report results in a technical report. Provide an overview of the pertinent companys products and ways
+of working. Work in a team. Work on a large project in an exteneded period of time. Establish contacts to industrial companies.","
+Through discussions between the firm/institution, student(s) and
+possibly the responsible department at DTU (i.e. the department
+where the supervisor belongs) one or two suitable projects are
+defined. Apart from reporting the project work, the students
+prepare a report, consisting of a general description of the
+firm/institution or part(s) thereof. A maximum of 2 students may
+work together in each firm (institution). 
+",None,"
+Søren Kiil"
+,,,,,,,,,,,,
+28212 , Polymer Chemistry,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Chemical Engineering,"
+The superior goals of the course is to make the students familiar
+with preparation methods for synthetic polymers including
+mechanisms, kinetics, modification of polymers by chemical
+reactions, and polymer degradation. Furthermore, the students
+should be able to evaluate the proper analytical tools for
+characterization of the synthesized polymers and their properties. 
+","Describe the most important processes in a radical
+polymerization (initiation, propagation, chain transfer, and
+termination) Perform kinetic calculations for radical polymerization both
+homo- and copolymerization Give an account of the differences between conventional radical
+polymerization and the controlled radical polymerization
+techniques, Atom Transfer and Nitroxide mediated Interpret amorphous and semi-crystalline polymers’ thermal
+transitions, glass transition and crystalline melting point, and
+relate these to the polymers’ structure and properties Predict the application of polymer analyses performed by size
+exclusion chromatography (SEC), FTIR, NMR, differential scanning
+calorimetric (DSC), and thermogravimetric analysis (TGA) for
+selected polymers and evaluate the results Distinguish between and be able to calculate different
+molecular weight distributions and their influence on
+polymerization kinetics, mechanism and properties of the
+polymers Identify necessary monomers and suitable, imperative
+polymerization techniques to produce selected polymers Describe condensation and ring-opening polymerizations and
+evaluate the most prominent polymer classes, the polyesters,
+polamides and polyethers Estimate the assumptions and possibilities for application of
+anionic, cationic, Ziegler-Natta, metallocene, and metathesis
+polymerization Give an account of the preparation of polyurethanes,
+polysiloxanes and polyimides Identify special polymerization conditions for the
+thermosetting polymer systems Predict the possibilities for preparation of new functional
+polymers by reactions onto existing polymers including application
+of CuAAC and thiol-ene chemistry.","
+Polymer reactions including step-reactions, free radical (incl.
+controlled) and ion initiated chain reactions, are thoroughly
+deduced. Special emphasis will be given to the understanding of
+reaction parameters important in the control of rate of
+polymerization, molecular weight distributions, and the structural
+composition like branching, cross-links and stereo-chemical
+aspects. The reaction mechanisms associated with the different
+polymerization reactions will be profoundly treated. 
+","26410,26411","
+Anders Egede Daugaard"
+,,,,,,,,,,,,
+28213 , Polymer Technology,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),MSc,Department of Chemical Engineering,"
+To enable the participants to:
+
+* Predict the chemical and physical properties of polymers from
+their chemical structure.
+
+* Use laboratory methods for the physical and chemical
+characterization of polymers. 
+","Compute number- and mass average molar masses from given
+distributions (Poisson, Flory, ...) Describe the statistics of polymer configurations. Describe the connection between chemical structure and
+crystallinity Use the Flory-Huggins model for the thermodynamics of polymer
+solutions Describe critical conditions for formation of networks
+(percolation, Bethe lattice) Predict the shear modulus for polymer networks from the
+crosslink density and functionality Explain experimental methods for determination of thermal
+properties (glass transition ...) Model the mechanical behavior of polymer networks in large
+strain Use viscoelastic models to compute the complex moduli (G'
+and G'') Compute the viscosity of polymer melts as function of molar
+mass and temperature","
+Classification, structure and molar mass distribution of polymers.
+Statistical mechanics of polymer conformations. Thermodynamics of
+polymer solutions and mixtures, phase equilibria (Flory Huggins
+theory). Measurements of molar mass. Solid state properties, glass
+transition, crystallinity. Viscoelasticity, time-temperature
+superposition. Rubbers and gels. Polymer degradation, additives
+blends, nanocomposites. 
+","26400,26222","
+Ole Hassager,
+Anne Ladegaard Skov"
+,,,,,,,,,,,,
+28214 , Polymer Synthesis and Characterization,English , 5 ECTS , 2016/2017 ,June,MSc,Department of Chemical Engineering,"
+To practice experimental techniques applied in common
+polymerization methods such as suspension, emulsion, controlled
+free radical or ring opening polymerization and to achieve
+practical experience in characterization of polymers both
+chemically and physically. 
+","Construct standard polymerization setups on a laboratory
+scale Account for the use of inhibitors in monomers and perform
+purification of monomers Perform suspension, emulsion, controlled free radical or ring
+opening polymerizations. Conduct kinetic studies of the selected polymerization
+technique and apply this to obtain a desired product. Apply and describe the principles behind standard purification
+techniques applied in polymer science. Characterize polymers chemically by SEC, FT-IR, NMR and prove
+the structure of the product based on these techniques. Perform analysis and relate these to the physical properties of
+polymers by DSC, TGA and Rheology. Combine theory and experimental work to propose new systems and
+new polymers. Discuss and present state of the art literature on a specific
+polymer- ization method. Reflect over the performed experiments and document this in a
+scientific manner.","
+Synthesis of either linear or block copolymers in the laboratory by
+the most common techniques. Purification of polymers by simple unit
+operations. Analysis of prepared polymers by SEC, FT-IR, NMR, DSC,
+TGA and Rheology. Structure elucidation based on the performed
+analyses. Documentation and reporting of experiments in a
+scientific manner. 
+","28212,28213","
+Anders Egede Daugaard"
+,,,,,,,,,,,,
+28221 , Chemical Engineering Thermodynamics,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),BSc,Department of Chemical Engineering,"
+The overall objective is to enable the students to apply chemical
+engineering thermodynamics in the solution of practical, industrial
+problems. 
+","Use an Equation of State to calculate PVT-properties for a pure
+compound Derive expressions for fugacity, enthalpy and entropy from an
+Equation of State Perform process calculations for refrigeration units and
+liquefaction plants Optimize a multistage compression process Parameterize a vapour pressure equation and similar from
+experimental data Use, and account for, the requirements and limitations the
+fundamental laws of thermodynamics impose on a given proces. Choose thermodynamic models for liquid- and vapour mixtures
+with the aim of calculating phase equilibrium Account for the assumptions behind the choice of models Perform simple vapour-liquid equilibrium calculations for
+multicomponent mixtures using activity coefficient models, as well
+as equations of state Choose models for calculation of liquid-liquid and liquid-solid
+equilibria and perform such calculations To determine model parameters by regression of experimental
+equilibrium data for mixtures.","
+Tools for calculation of physical properties, including residual
+properties, from Equations of State and from generalized method are
+developed by means of spreadsheets. These tools are used for
+designing processes for cooling and for liquefaction of gasses.
+Finally, the physico-chemical model description of fluid mixtures
+is essential for most separation processes. The course deals with
+models for the excess properties of the liquid phase and their
+application for simple phase equilibrium calculations for
+gas-liquid, liquid-liquid and liquid-solid systems. 
+",26222,"
+Nicolas von Solms"
+,,,,,,,,,,,,
+28231 , Laboratory in Chemical and Biochemical Engineering,English , 5 ECTS , 2016/2017 ,June,MSc,Department of Chemical Engineering,"
+To extend the students understanding of making solutions of
+technical or chemical problems by exercises and calculations. The
+course is of considerable value for further studies of chemical and
+biochemical process engineering. 
+","Carry out selected exercises in pilot scale (document awareness
+of how to behave in a lab as well as plan and implement
+experiments). Interpret and evaluate experimental data. Carry out technical calculations based on the experimental data
+obtained during the exercises. Compare experimental results with theoretical
+calculations. Act responsibly in the lab. Describe the selected exercises in detailed and clear
+reports. Plan experiments. Identify sources of error.","
+Different lab exercises are offered (of which 3 are to be carried
+out by each student). Current examples are 1) Freezing point
+depression 2) Rheological characterisation of structured materials
+3) Distillation column control 4) Production of instant coffee 5)
+Production of pectin 6) Production of beer wort 7) Production of
+pure water 8) Production of potato protein 9) Multivariable process
+vontrol 10) Pellet model testing 11) Suspension and
+Emulsionpolymerization 12) Protein isolation 13) Desulphurization. 
+","28121,27944","
+Jens Abildskov"
+,,,,,,,,,,,,
+28233 , Recovery and purification of biological products,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,Department of Chemical Engineering,"
+The objective of this course is to introduce the student to the
+downstream processing and recovery of biological products of
+relevance to the pharmaceutical, technical, food and bio-based
+chemical industries. 
+","Arrange unit operations into an appropriate sequence for the
+recovery of a given type of biological product. Clarify the interplay between upstream and downstream
+processes. Argue the need for bio-intensification. Understand use of hybrid and integrated processes Understand the principles for the recovery of
+small-molecules Understand the principles for the recovery of monoclonal
+antibodies Understand the principles for the recovery of enzymes Understand the principles for the recovery of growth
+hormone","
+General introduction to industrial downstream processing.
+Principles of process design and development of downstream
+processing strategies. Effect of fermentation development on
+downstream processing (upstream versus downstream). Separation
+principles and their effectiveness. Four case studies: recovery of
+monoclonal antibodies, recovery of enzymes, recovery of growth
+hormone, recovery of small molecules. 
+",,"
+John Woodley,
+Timothy John Hobley"
+,,,,,,,,,,,,
+28242 , Chemical Kinetics and Catalysis,English , 5 ECTS , 2016/2017 ,E1A (Mon 8-12),MSc,Department of Chemical Engineering,"
+To give the participants the theoretical basis of chemical kinetics
+and catalysis, so that they can use these basic concepts in the
+planning and operation of industrial chemical processes. 
+","Derive a rate expression based on catalytic reaction mechanisms
+(elementary steps) Calculate the apparent reaction order and activation energy for
+a catalytic mechanism Derive a mathematical model for the combined diffusion and
+reaction in a catalyst pellet Calculate an approximate value of the effectiveness factor for
+any reaction in any geometry Understand trends of the catalytic performance of heterogeneous
+catalysts Describe a number of important mechanisms for catalyst
+deactivation Calculate the reaction order and activation energy for a gas
+phase reaction based on experimental data; Calculate Arrhenius
+parameters for an elementary reaction from experimental data Apply steady state and partial equilibrium analysis on a
+detailed reaction mechanism Calculate kinetic or thermodynamic parameters based on the
+relationship between rate constants and equilibrium constants Apply collision theory and transition state theory to estimate
+rate constants Establish a reaction mechanism for a chemical process based on
+data bases Explain some often used tools for characterization of
+heterogeneous catalysts","
+Basic kinetic concepts, theories of reaction rates, elementary
+gas-phase reactions, reaction mechanisms and kinetic modeling,
+elementary reactions in solution, reactions on surfaces and
+heterogeneous catalysis, characterization of real catalysts and
+single crystal surfaces, microkinetic modeling and comparison to
+experimental rate expressions, basics on testing of heterogeneous
+catalysts including heat and mass transfer in catalytic reactions,
+discussion of selected bulk chemical heterogeneously catalyzed
+processes. 
+","28160,28020,28140,26222,01035","
+Peter Glarborg,
+Anker Degn Jensen"
+,,,,,,,,,,,,
+28244 , Combustion and High Temperature Processes,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12),MSc,Department of Chemical Engineering,"
+To provide the participants with a fundamental knowledge about
+combustion and other high temperature processes, including
+formation and reduction of harmful emissions. 
+","Set up mass and energy balances for combustion systems Estimate flue gas amount and composition from stoichiometric
+calculations Use simplified and detailed chemical models to estimate
+combustion rate and formation of pollutant species Couple chemical and thermal analyses of reacting systems Set up simplified conservation equations for reacting
+flows Explain conceptual and practical differences between premixed
+and diffusion flames Assess the impact of turbulence on combustion rates Set up and use simplified model for droplet evaporation and
+combustion Set up and use simplified model for particle heating and
+pyrolysis Set up and use simplified model for char oxidation Use the above tools together with numerical solvers to evaluate
+and optimize industrial high-temperature processes","
+The course is related to both chemical and mechanical engineering,
+as both of these types of engineers work with fuels and emissions.
+Topics covered include combustion of gaseous, liquid and solid
+fuels in different combustion systems such as gas turbines, motors,
+pulverized fuel combustors, fixed bed and fluid bed, as well as
+related industrial high temperature precesses. The different
+systems are treated theoretically and the students solve larger,
+practically oriented problems during the course. For non-chemical
+engineers, introductory material is presented at the start of the
+course. 
+","28020,41401","
+Peter Glarborg,
+Jesper Schramm"
+,,,,,,,,,,,,
+28246 , Applied Enzyme Technology and Kinetics,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),MSc,Department of Chemical Engineering,"
+The overall aim of the course is to provide the course participants
+a comprehensive, quantitative and mechanistic understanding of
+reactions within applied biocatalysis. This objective encompasses:
+
+•That the students obtain fundamental knowledge of the principles
+and mechanisms of enzyme catalyzed reactions and processing steps
+in genuine applications.
+
+•That the students obtain a detailed quantitative understanding of
+the parameters that influence enzyme catalyzed reactions in
+technological applications.
+
+•That the students become confident with quantitative enzyme
+kinetics in theory and practice, and become able to calculate and
+predict reaction rates, substrate consumption, product formation,
+extent of reaction, reaction time, and enzyme dosage in realistic,
+industrial enzyme processes.
+
+•That the students become confident with the engineering aspects,
+including scaling and decision logistics, necessary for
+introduction of biocatalysed reactions in industrial processes.
+
+The competences obtained will equip the students to take jobs in
+bio-, food, pharma and/or agroindustrial companies, but are also
+targeted at biochemical and biotechnological research. 
+","Classify enzymes according to the chemical reaction they
+catalyze and to recognize and name a limited number of especially
+important technical enzymes. Describe the principles for either using soluble or immobilized
+enzymes, batch reactions or reactors and evaluate advantages vs.
+disadvantages of each technique. Calculate enzyme activity, Vmax and Km from relevant
+datasets. Use Michaelis-Menten based enzyme kinetics incl. integrated
+rate equations for the calculation of rates, substrate depletion,
+product formation, degree of reaction, necessary reaction time and
+enzyme dosage in genuine enzyme processes. Calculate the effect of temperature- and pH changes on the
+stability of enzymes and on the reaction rate and the yield of
+enzyme catalyzed reactions. Calculate the influence of inhibitors on the rate and yield of
+enzyme catalyzed reactions. Analyze and evaluate experimental enzyme kinetic data from
+scientific papers concerning technological applications/effects of
+enzymes. Describe a number of important technical, industrial enzyme
+applications and -processes.","
+The course introduces the fundamental concepts and practical use of
+quantitative enzyme kinetics in biocatalytic processes, with
+particular focus on: enzyme activity, assays, catalytic
+specificity, high extents of substrate conversion, and reactions
+ocurring at extreme reaction conditions. Fundamentals of
+Michaelis-Menten and non-Michaelis-Menten kinetics with emphasis on
+handling and interpretation of quantitative data and mathematical
+expressions in genuine reactions and processes: mono-substrate
+transformations, depolymerization, insoluble substrates, and
+immobilised enzymes. The quantitative influence of pH, temperature,
+inhibitors, and other critical factors. Classic, new, and future
+biocatalytic processes are discussed. Application technology is
+described from the perspective of the chemical type of substrate
+and from the perspective of the relevant industrial sector. The
+examples thus relate to a large number of different industrial
+applications. 
+","27334,28140,27022","
+Anne S. Meyer"
+,,,,,,,,,,,,
+28247 , Advanced Enzyme Technology,English , 5 ECTS , 2016/2017 ,E1A (Mon 8-12),MSc,Department of Chemical Engineering,"
+To introduce the students to enzyme kinetics in practice and
+research methods in applied enzyme technology. The course is based
+on practical experimental methods and analyses within applied
+biocatalysis and enzyme technology. After completion of the course,
+the course participants will be able to:
+
+•Design, conduct and interpret various types of enzyme activity
+assays.
+
+•Examine and interpret quantitative, experimental data from
+biocatalytic reactions, and understand the importance of
+considering blanks, substrate specificity, artificial vs.
+complex/component substrates, heterogeneous enzyme preparations.
+
+•Plan and conduct experiments to estimate kinetic parameters and
+analyse progressing biocatalytic reactions.
+
+•Design a biocatalytic process for a large scale application.
+
+The academic qualifications obtained are targeted towards jobs
+research and development jobs within biochemical, pharmaceutical
+and biotechnological companies as well as in academia. 
+","Design experiments for the determination of enzyme kinetic
+parameters. Conduct various types of enzyme activity assays on the basis of
+general methodological descriptions. Analyze results from these assays in order to estimate enzyme
+activity, enzyme stability, thermal activation of enzymes,
+substrate saturation and inhibition constants. Evaluate the validity of the enzyme kinetic results such i.e.
+considerations concerning the use of blank samples, substrate
+specificity, use of artificial or multiple component substrates and
+heterogenous enzyme preparations. Analyze progressive enzyme reactions. Critically read and evaluate scientific articles related to the
+subject area. Work constructively in a team of two persons. Report experimental results in a written form in a condensed
+scientific report structure: Introduction, Methods, Results and
+Discussion, Conclusions.","
+The course is built around a number of specific themes that include
+research/theoretical study as well as conduction of practical
+experiments that involve biocatalytic reactions. Emphasis is put on
+unravelling the theory behind the reactions and on designing and
+conducting the practical experiments. The course curriculum
+includes assessment of selected large scale processes in which
+biocatalytic steps are involved. Complex processes that involve
+advanced exploitation of biocatalysed conversions are also
+examined. The reactions to be covered relate to specific scientific
+phenomena, selected industrial applications, and to current
+research topics. The experimental work is carried out in teams of
+two, and each team will work with a selection of cases (teams
+circulate among cases). In addition to the laboratory work, time is
+allocated for discussing the scientific fundamentals, data
+interpretation, and for understanding the reaction mechanisms:
+kinetics, substrate specificity, enzyme stability and synergism
+between different enzyme activities. Each case must be summarized
+in a short report including answering of specific questions
+relating to the particular case. 
+","28140,27734,27506,27022,28246","
+Anne S. Meyer"
+,,,,,,,,,,,,
+28271 , Thermal gasification and sustainability,English , 5 ECTS , 2016/2017 ,June,MSc,Department of Chemical Engineering,"
+There is a great need to develop efficient and sustainable energy
+technologies that can utilize the limited amount of available
+biomass and wastes. Thermal gasification is a promising
+technological platform that can increase the conversion efficiency
+and availability of several difficult low-value fuels from a
+variety of sectors in the society, by producing e.g. high-efficient
+power and district heating. The course will provide a hands-on
+approach to the full value chain of thermal gasification of biomass
+by including experimental exercises. This enables the students to
+evaluate and assess complex aspects of sustainability in connection
+to production of bioenergy and associated technical challenges –
+including utilization of ash products as a fertilizing and
+soil-improving product that can be used in future farming systems. 
+","understand the principles of thermal gasification and the most
+important technical challenges calculate the performance of a gasification process understand the effect of the most important fuel properties and
+there effect on the gasification process characterize the chemical composition of fuel ashes and there
+effect on the fertilizing and soil-improving properties carry out scientific experiments related to thermal
+gasification and describe the operational principles describe the fundamental principles of industrial ecology compare the sustainability of different biomasses for
+energy/material purposes participate actively in a multi-disciplinary research team give constructive feedback to written and oral student
+presentations present short and precise results obtained in experimental
+exercises at a mini-conference write reports that are relevant for all parties in a
+multi-disciplinary research team","
+The course builds upon gasification process and technology
+fundamentals. Simple calculations of gas composition, mass balance
+and energy balance for selected gasifiers will be carried out. The
+principals for industrial ecology will be explained. The course
+includes lectures, student presentations, facilitated discussions,
+workshops and scientific experimental exercises. The course will
+cover subjects on: 1. Thermal gasification technologies, 2. Simple
+mathematical modelling of a gasification process, 3. The full value
+chain of bioenergy to energy/materials including recirculation of
+by-products, 4. Determination of which factors and components that
+a sustainability assessment should include, 5. Ash as a potential
+sustainable fertilizing/​soil-improving product. 
+",,"
+Jesper Ahrenfeldt,
+Ulrik Birk Henriksen"
+,,,,,,,,,,,,
+28310 , Chemical and Biochemical Product Design,English , 10 ECTS , 2016/2017 ,E2A (Mon 13-17) and January,MSc,Department of Chemical Engineering,"
+Chemical engineers often work with research, product development,
+production, marketing and sale of chemical or biochemical products.
+Product design relates to all of these areas. After this course you
+will be familiar with situations which are typical in product
+innovation in the chemical, biochemical and farmaceutical
+industries. Generally, you will be capable of organising and
+handling new product design. You will be able to analyse products
+and the needs of the customers. You will know how to generate
+innovative new product concepts and execute decision-making based
+on product performance. You can evaluate products quantitativly and
+select the optimal product concepts. Finally, you will be ready to
+develop product specifications, manufacture recipe and process
+conditions, as well as dealing with the marketing and selling of
+the product. To put it briefly,you will be able to conduct a
+focussed product design project. 
+","work profesionally in teams while relating to own personal
+strengths and weaknesses conduct analyses and orientations around a product, especially
+design simple experiments to illuminnate product behaviour analyse for customer needs develop simple quantitative models for describing product
+behaviour set up a product specification be innovative, i.e. generate ideas and create product
+concepts develop and select the best concepts amongst many concepts describe and characterize a product concept generate a lab-scale recipe for a product discuss issues of relevance for production of chemical
+products","
+This course will teach you to follow a specific approach to product
+design. During the course you work in teams and make 2 reports
+focussing on various chemical and biochemical products. The teams
+choose some of the products on their own.
+
+You will work with the following issues: The role of the chemical
+engineers in product design. Organisation of the process of product
+development. Organisation in teams of colleagues and project
+groups. Project management. Brainstorming to generate ideas.
+Patenting of products. Cooperation with customers. The development
+process. Development and use of simple mathematical models to
+estimate product performance. Selection between product ideas and
+concepts. Performing engineering calculations on products in order
+to make a quantitative evaluation of product concepts. The use of
+lab-scale and full-scale test. Finding recipe for production scale
+manufacture and requirements for production facility. 
+",,"
+Georgios Kontogeorgis,
+Søren Kiil"
+,,,,,,,,,,,,
+28315 , Applied Colloid and Surface Chemistry,English , 5 ECTS , 2016/2017 ,E5B (Wed 13-17),MSc,Department of Chemical Engineering,"
+This introductory master course presents colloid and surface
+chemistry. The course deals with important principles and phenomena
+related to colloid systems and surface chemistry. These subjects
+are fundamental to the understanding and design of a range of
+processes like e.g. adhesion, lubrication, cleaning, oil recovery,
+water and air purification. Furthermore the subjects are essential
+for the application and design of a number of chemical products
+like e.g. paint, glue, detergents, cosmetics, drugs and foods.
+Finally, the course offers understanding of several naturally
+occurring phenomena like e.g. fog, rain drops, the capillary effect
+the red sunset, the blue sky and the rainbow, and beer foam. 
+","evaluate and describe colloidal nano-technological and chemical
+systems, processes and products use different theories to calculate surface and interfaces
+tensions and use this to estimate e.g. wetting and other system
+characteristics identify mechanisms for adhesion between surfaces and materials
+and use different methods to estimate this describe the most important and fundamental theories in surface
+chemistry explain micellation of surfactants, know how to measure this
+and calculate dependencies of salt concentration, system
+temperature and surfactant chain length compare and understand adsorption in gas-liquid and
+solid-liquid surfaces and perform quantitative adsorption
+calculations calculate molar mass and molecular shape of colloid particles
+and polymers based on experimental data describe the interactions between colloidal particles and
+identify similarities and differences for the governing molecular
+forces and interactions explain the most important parameters for the theories of
+colloidal interaction and perform calculations using the
+theories describe the conditions for stability of colloidal systems and
+discuss and compare different mechanisms for stabilization describe mechanisms for stabilization of emulsions and foam,
+and design emulsions and foam by using various semi-empirical
+methods","
+i. Common presentation of colloidal and surface phenomena
+
+ii. Theories for calculating surface tension (in air),
+liquid-liquid interfacial tensions as well as interfacial tensions
+for solid surfaces
+
+iii. Fundamental theory (Young-Laplace, Kelvin equation, Young’s
+equation for contact angle and Gibbs adsorption theory)
+
+iv. Surfactants – detergents: micellation (critical micellar
+concentration, CMC) adsorption of surfactants on surfaces
+
+v. Adsorption at gas-liquid, liquid-liquid and solid-liquid
+surfaces. Langmuir and BET theories
+
+vi. Wetting and adhesion – mechanisms and calculations including
+Zisman's plot
+
+vii. Kinetic, optical and electric properties of colloidal
+particles
+
+viii. Experimental metods for characterising colloidal particles –
+estimation and measurement of structure, size and shape
+
+ix. Intermolecular og interparticle forces: van der Waals and
+double-layer forces (zeta potential, Debye thickness, Hamaker
+constant)
+
+x. Stability of colloidal systems. DLVO theory and steric
+stabilization
+
+xi. Emulsions and foam, (HLB, Bankroft-rule, etc.) 
+","42110,26201","
+Georgios Kontogeorgis,
+Søren Kiil"
+,,,,,,,,,,,,
+28316 , Laboratory Course in Colloid and Surface Chemistry,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Chemical Engineering,"
+In order to support the understanding of colloid systems as well as
+interfacial phenomena in multiphase systems the participants learn
+about relevant types of measurements. These systems are highly
+complex and experimental investigation and testing is very common
+in companies that produce colloid products and products that are
+based on interfacial phenomena. This is true for the paint, food,
+farmaceutical, and many other industries. The overall objective of
+the course is to give the participants an understanding of a range
+of phenomena within colloid and surface chemistry with the use of
+experimental methods of industrial importance. 
+","perform different types of measurements on colloid systems judge the relevance og different experimental methods for
+colloid systems combine qualitative observations and quatitative measurements
+for characterization of colloid systems characterize colloid systems with respect to stability perform measurements of different interfacial phenomena judge the revance of different methods for measuring
+interfacial phenomena measure sureface and interfacial tension describe capillarity in porous materials from a combination of
+measurements oral and written reporting of scientific data.","
+In small teams the participants carry out approximately 5 exercises
+within the topics: Colloids (including dispersions, macromolecular
+solutions and micelles) and surfaces. Through independent exercises
+combined with relevant literature the possibilities and limitations
+for different measuring techniques. The exercises are closely
+linked to ongoing research. Among the topics that the exercises can
+cover are a.o. emulsion stability, capillarity, surface tension,
+contact angle, micro emulsion, interfacial tension, rheology and
+solubilization. Reports are prepared on all exercises. 
+",28315,"
+Ole Hassager,
+Alexander Shapiro,
+Anders Egede Daugaard"
+,,,,,,,,,,,,
+28322 , Chemical Engineering Thermodynamics,Danish , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12)  or  F2B (Thurs 8-12),BEng,Department of Chemical Engineering,"
+Sizing and optimization of process units (distillation, extraction,
+compression, cooling etc.) requires thorough knowledge of the
+thermodynamic properties of the chemical species (pure/mixture)
+present. Physical chemistry provides the theoretical framework
+which makes the calculation of these properties possible with
+approximate models, even with limited availability of experimental
+data. The goal of this course is to enable the participants to
+estimate thermodynamic properties of pure species and mixtures for
+application in sizing and optimization of process units. 
+","use selected equations of state to calculate properties of
+pure, real fluids. determine the operating conditions for cooling and liquefaction
+processes. determine Henry's constants for two-component solutions,
+using experimental data. calculate partial molar quantities for two-component solutions,
+based upon experimental data. calculate excess quantites for two-component solutions, using
+experimental data. use selected models for activity coefficients to calculate
+vapor-liquid and liquid-liquid phase equilibrium for
+multi-component solutions. draw and interprete phase diagrams for vapor-liquid and
+liquid-liquid equilibrium with special emphasis on their use in
+separation processes. draw and interprete phase diagrams for solid-liquid and
+solid-vapor equilibrium, where the components can form compounds
+and/or solid-phase solutions. calculate colligative properties for binary mixtures. use spreadsheets for chemical engineering calculations. write a technical report.","
+Application of equations of state to calculate thermodynamic
+properties, including residual properties, of pure fluids. Sizing
+and optimization for cooling and liquefaction processes. Physical
+chemical models applicable for separation of most liquid solutions.
+Models for real liquid solutions and their use in equilibrium
+calculations of liquid-vapor, liquid-liquid and solid-liquid
+systems. Experimental data is used to evaluate the models. 
+","28022,26271","
+Karsten Clement,
+Kaj Thomsen,
+Wei Yan"
+,,,,,,,,,,,,
+28342 , Chemical Reaction Engineering,Danish , 5 ECTS , 2016/2017 ,E3A (Tues 8-12) and F3A (Tues 8-12),BEng,Department of Chemical Engineering,"
+The aim of the course is to give the students a basic knowledge of
+the coupling between chemical kinetics and reactor design so that
+they will be able to conduct calculations to solve chemical
+reaction engineering problems. These involve planning of laboratory
+investigations, analysis of experimental results, and dimensioning
+of simple reactors for homogeneous, heterogeneous and
+biotechnological reactions. The student should know the most
+important types of reactors and their technical design and
+operation in industrial processes. 
+","Account for the treament of reaction kinetics, including the
+difference between elementary and non-elementary reactions Account for the ideal reactor models: plug flow reactor,
+continuous stirred tank reactor, and ideally stirred batch
+reactor Formulate mathematical models for the ideal reactor types under
+isothermal conditions for both single and multiple reactions,
+including homogeneous, heterogeneous, and catalyzed reactions Formulate material balance equations for other reacting systems
+than the ideal types Plan how kinetic investigations should be made and how such
+measurements must be treated to deduce the reaction kinetics Formulate the energy balance for a single reaction in the three
+ideal reactor types Solve the energy balance in combination with the material
+balances Formulate mathematical models for porous catalysts and use the
+models in reactor design Design reactors for chemical and biotechnological
+processes","
+Chemical kinetics. Reaction mechanisms for homogeneous and
+heterogeneous reactions. Laboratory investigations in batch and
+flow reactors, determination of the rate equation. Determining size
+and design of ideal reactors and optimum temperature progression.
+Catalytic reactors and bioreactors. Important industrial reactor
+types and processes, calculations on industrial reactors. 
+","28022,28322,28015","
+Peter Glarborg,
+Ulrich Krühne"
+,,,,,,,,,,,,
+28344 , Biotechnology and process design,Danish , 15 ECTS , 2016/2017 ,"F2A (Mon 13-17) ,  F5 (Wed 8-17) and June  or  E2A (Mon 13-17) ,  E5 (Wed 8-17) and January",BEng,Department of Chemical Engineering,"
+The individual student will be able to develop a solution to a
+biotech process problem and consequently be able to participate in
+operation and development within this area. More specifically the
+student will after the course be capable of suggesting strategies
+for design of a fermentation process based on knowledge about
+kinetics and microbial metabolism. Skills in selection of
+appropriate unit operations for the downstream process will be
+acquired. Furthermore, the student will be able to conduct simple
+lab techniques and obtain physical, chemical and biochemical data
+for use in calculations. 
+","Describe the basis for modern biotechnological processes Relate the metabolism of different types of microorganisms to
+the corresponding biotechnological products Select suitable medium components and design quantitatively a
+medium in a given case study Solve fermentation kinetic problems and mass-transport problems
+as well as evaluate the results Extract information from the scientific literature Perform pilot plant experiments and use the results for simple
+design of down stream processing equipment Calculate parameters for evaluation of experimental data,
+including determination of measurement errors Design a simple fermentation process based on knowledge of
+process kinetics and microbiology Choose the most suitable unit operations for down stream
+processing in a given biotechnological production process Write technical reports and present results from practical
+work","
+The CDIO concept is applied at the course: Conceive, design,
+implement and operate using engineering methods to problem solving.
+Laboratory experiments and theory on fermentation kinetics and
+technology, as well as downstream processing of fermentation
+products using different methods, such as membrane processes,
+filtration, crystallization and centrifugation, with focus on the
+unit operations involved.Batch, fed-batch and chemostat. Bioreactor
+design. Mixing and aeration. Media design and sterilisation.
+Instrumentation and control of fermentation processes. There will
+be developed a definition of the problem to be examined,
+experimental plan, statistical treatment of results and literature
+searching.
+
+The students will work individually as well as in groups with
+theoretical and practical exercises and a project. The project is a
+theoretical project that concerns design of a fermentation process
+including downstream processing. 
+",28022,"
+Ioannis V. Skiadas,
+Anna Eliasson Lantz,
+Krist Gernaey"
+,,,,,,,,,,,,
+28345 , Industrial BioReaction Engineering,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Chemical Engineering,"
+The reactors used in the bio-industries are designed according to
+the same general principles as those elsewhere in the chemical
+industry. However, there are some specific characteristics of
+bio-reactions which require specialist treatment, such as the
+complex stoichiometry and thermodynamics. Using a quantitative
+approach, fermentation processes are analyzed with respect to
+feasibility and scale-up for the production of bio-based chemicals.
+Biochemistry, microbiology, sustainability and chemical engineering
+are all used to obtain a deeper insight into the complex world of
+bioreactions and their associated processes. 
+","Describe the role of fermentation processes in the context of
+bioprocesses for production of industrial products Calculate mass balances for fermentations including gas-liquid
+mass transfer Calculate carbon and degree of reduction balances for
+fermentation processes Evaluate the feasibility of fermentation processes in an
+industrial context Analyze the consistency of experimental data by using simple
+models Describe different types of growth kinetic models Calculate the heat of production of fermentation process Describe the principles for design and scale-up of a
+bioreactor.","
+Role of fermentation in manufacture of industrial chemicals.
+Stoichiometry of cellular reactions, degree of reduction belances,
+yield coefficients and black box models. Evaluation of the
+feasibility of fermentation processes in an industrial context.
+Growth kinetics. Thermodynamics of bioreactions and heat balances.
+ATP balances and energetics. Scale-up and design of fermentation
+processes. Process evaluation project. 
+","27932,27002,27022","
+John Woodley"
+,,,,,,,,,,,,
+28350 , Process Design: Principles and Methods,English , 10 ECTS , 2016/2017 ,F3A (Tues 8-12) and F3B (Fri 13-17),MSc,Department of Chemical Engineering,"
+The objective of the course will be to introduce the students to
+the principles and methods associated with the various stages of
+process design life cycle. Process design starts with a business
+decision to study the feasibility of process alternatives followed
+by a preliminary design, a conceptual design, and after several
+more stages, ends with the commissioning of the designed process.
+In this course, the stages dealing with preliminary design and
+conceptual design will be covered. In the preliminary design,
+emphasis will be given on how to generate and evaluate data
+(information) and on how to make simple calculations for
+preliminary design decisions and economic analysis. In the
+conceptual design, emphasis will be given to process integration
+(such as heat integration), pollution prevention and waste
+minimization in addition to computer-aided techniques for process
+synthesis and design. In addition, significance of instrumentation,
+operability and safety will also be introduced. 
+","Make design related decisions Use knowledge to solve practical engineering problems Analyze data Work in groups Use computer aided tools Generate and screen alternatives Verify and analyze simulation results Formulate process design problems and to develop systematic
+solution strategies Apply chemical engineering principles learned from other
+courses Apply ""green"" or environmental issues in process
+design","
+The course will be divided into two parts. The first part will deal
+with introduction to process design principles, the stages of the
+process design life cycle and the preliminary design steps
+(flowsheet synthesis, equipment sizing/costing, economic
+evaluation, scheduling of batch operations, distillation sequences,
+pinch analysis). The second part will deal with conceptual design
+(advanced process synthesis (such as heat integration, heat
+exchanger networks, reactor networks, reaction-separation
+sequences, solvent selection), equipment selection, flowsheet
+optimization). Emphasis will be given to evaluation of data with
+respect to process design. Advanced topics such as mass
+integration, waste minimization, pollution prevention through
+better design, structural optimization and hazards/safety will also
+be considered in this part. Special emphasis will be given to
+solution of synthesis and design problems of interest to the
+industry.
+
+The lectures in the two sections will be supplemented by case
+studies highlighting the design principles and the methods and
+tools used to obtain the design. The methods and tools will include
+both short-cut hand calculation techniques as well as state of the
+art computer aided tools (such as commercial simulators and
+in-house integrated computer aided systems). 
+","28020,28140","
+Rafiqul Gani"
+,,,,,,,,,,,,
+28352 , Chemical Process Control,Danish , 5 ECTS , 2016/2017 ,F1A (Mon 8-12) and E1A (Mon 8-12),BEng,Department of Chemical Engineering,"
+Most of the chemical engineering curriculum concerns processes
+operating at steady state. But plants are put into operation, are
+shut down, are subjected to differing operating conditions and
+disturbances. Process control addresses these situations. The
+course aims at an understanding of how process dynamics and process
+control is related, and of the construction and significance of
+control systems. This includes the underlying theory and certain
+components employed. The course emphasizes the application and
+setting of a standard PID-controller used in simple feedback
+control and other enhanced control strategies. Also, students
+should be enabled to plan instrumentation of simple plants. 
+","Formulate dynamic models for simple engineering processes Solve initial value problems using suitable software Linearize and introduce deviation variables into non-linear
+initial value problems Apply Laplace transformation to the solution of linear
+differential equations Draw block diagrams based on models for dynamic processes Describe the most important types of systems and their
+characteristic features Propose settings of PID-controllers in simple control
+loops Assess the stability of control loops based on
+calculations Plan instrumentation of simple processes: Select and place
+measurements and controllers Assess the applicability of enhanced control strategies:
+Feedforward, Ratio- and Cascade Control Draw and interpret simple PI diagrams","
+Dynamic balance equations. Simulation. Linearization. Deviation
+variables. Solution of linear differential equations using Laplace
+transforms. 1st and 2nd order systems, time constants, gain,
+overshot, transfer function. Feedback control: P-, I- og D-control.
+Stability of loops. Enhanced control strategies: Feedforward-,
+ratio and cascade control. Instrumentation, PI diagrams.
+Experimental project work. Reporting. 
+","28012,28022,01901,01902,28016","
+Jens Abildskov,
+Jakob Kjøbsted Huusom"
+,,,,,,,,,,,,
+28361 , Chemical Engineering Model Analysis,English , 7.5 ECTS , 2016/2017 ,F5B (Wed 13-17),MSc,Department of Chemical Engineering,"
+The basic formulation of the models of chemical engineering is
+supposed to be known from the introductory course 28160. The main
+goal of the present course is to prepare a student for development
+of the mathematical models for a large number of the complex and
+realistic chemical and biotechnical problems, and for carrying out
+numerical solutions of such probems. 
+","To develop a mathematical model for description of stationary,
+as well as non-stationary processes, involving transport of matter
+and energy by convection and diffusion, as well as chemical
+reactions, with several spatial variables involved; To formulate initial and boundary conditions for a mathematical
+problem applying relevant physical considerations, including the
+moving boundaries; To learn and to be able of working with the population
+balances. To set mathematical problem formulations for the systems
+involving the population balances. To select the solution methods
+for such systems; To apply the method of finite differences for discretization of
+the differential equations; To apply the methods for qualitative analysis and numerical
+solution of the coupled first order differential equations,
+including stiff differential equations and differential-algebraic
+equations; To learn the analytical solution methods for the systems
+described by the first order hyperbolic partial differential
+equations; To apply numerical tools for solutions of the hyperbolic
+partial differential equations, including application of the
+concept of numerical dispersion; To be capable of applying MATLAB for numerical solution of the
+practically relevant statements and for visualisation of such
+solutions.","
+Teaching is built around a number of model examples, which broadly
+describe the statements of the problems with the chemical- and
+biotechnical contents. The problems are solved numerically,
+applying MATLAB as a tool. The possible typical model examples are:
+
+Modelling of the enzymatic hydrolyses of cellulose.
+
+Modelling of the coupled enzymatic processes for preparation of the
+chemical substances.
+
+Enhancement factors for CO2 absorption in amine solutions.
+
+Governing of an exothermal chemical reaction in a batch reactor.
+
+Modelling of the fluid-bed combustion processes.
+
+Modelling of coating, with agglomeration.
+
+Chromatografical separation. Linear and nonlinear isotherms
+
+Multiphase flows in porous media. 
+","28160,28864,01035","
+Alexander Shapiro,
+Xiaodong Liang"
+,,,,,,,,,,,,
+28415 , Oil and gas production,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Chemical Engineering,"
+To provide scientific background necessary for a reservoir
+engineer. The course describes: 1) PHYSICAL PHENOMENA occurring in
+a petroleum reservoir during its development, and 2) MATHEMATICAL
+MODELS that are applied for simulation of different processes of
+oil and gas recovery. 
+","describe the classes of the components of reservoir fluids,
+their properties, phase diagrams of reservoir fluids: saturated or
+undersaturated oil, gas and gas-condensate. To compute the
+properties of reservoir fluids with an appropriate software evaluate basic properties of the porous media: porosity,
+permeability, internal surface. To describe concepts of
+micromodelling of the porous media evaluate basic forces responsible for fluid-rock interaction:
+capillary forces, wettability, and their influence on fluid
+distribution on microlevel. To describe physical effects caused by
+these forces and their influence on the recovery evaluate pressure and fluid distributions along reservoir
+depth perform calculations on the basis of the main law of flow in
+reservoirs – the Darcy law. To evaluate inflow to an isolated well
+in steady and non-steady regimes describe underlying assumptions and the procedure of the
+derivation of basic flow equations in porous media and principles
+of reservoir simulation. To derive the pressure conductivity
+equation for inflow to an isolated well interpret the simplest diagrams of well testing and to describe
+its general principles be familiar with the methods of advanced reservoir development:
+waterflooding and enhanced oil recovery, and principles of their
+selection for a particular reservoir","
+Properties and models of the porous rocks. Thermodynamic properties
+and phase equilibria of hydrocarbon mixtures. Laboratory studies of
+hydrocarbon mixtures (visiting the laboratories). Capillary forces
+and fluid distribution in porous space. Fluid distribution on the
+reservoir scale. Governing equations of flows in porous media. The
+Darcy Law. Inflow to an isolated well Steady and unsteady flows.
+The pressure conductivity equation. Well tests. Multiphase flows in
+porous media. Introduction to waterflooding and enhanced oil
+recovery. Visualization of the flows with the X-ray computer
+tomography scanner. Peculiarities of the Danish petroleum
+reservoirs. Overall picture of the world oil recovery. 
+",,"
+Alexander Shapiro"
+,,,,,,,,,,,,
+28420 , Separation Processes,English , 7.5 ECTS , 2016/2017 ,E3A (Tues 8-12),MSc,Department of Chemical Engineering,"
+To enable the participants to select and construct technically
+important separation processes, in particular distillation and
+liquid-liquid extraction, to evaluate thermodynamic models for
+calculation of the properties of pure components and mixtures and
+to work with numerical, computer based methods for dimensioning and
+designing separation processes. 
+","Describe the importance of separation processes in chemical and
+biochemical industries Describe the importance of physical properties in separation
+techniques Apply graphical techniques for evaluating separation tasks Apply modelling in separation task evaluation Apply principles of separation Apply systematic approaches to solve problems related to
+separation processes Describe and apply the use of solvents in separation
+processes Describe the importance of environmental concerns in separation
+task selection Select a suitable separation technique Use computer aided tools in separation process
+evaluation","
+Basic separation processes: Single stage separation. Flash
+separation. Binary and multicomponent distillation. Liquid-liquid
+extraction. Extraction cascades.
+
+Special separation processes: Selected topics, such as azeotropic
+distillation, extractive distillation, reactive distillation,
+supercritical extraction and non-equilibrium separation processes.
+
+Thermodynamic model description: Vapour pressure, activity
+coefficient models, equations of state. Vapour-liquid and
+liquid-liquid equilibrium.
+
+Databar exercises with programming. Flash and saturation points.
+Binary and multicomponent distillation. Liquid-liquid extraction.
+Simulation of special and selected processes. 
+","28020,28322,28221,26222,28120,28321","
+Rafiqul Gani"
+,,,,,,,,,,,,
+28423 , Phase Equilibria for non,English , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),MSc,Department of Chemical Engineering,"
+The overall purpose of the course is for the students to obtain
+knowledge of the most important thermodynamic principles, models
+and tools which are used in the industry. These models are
+available in the process simulators for calculating phase
+equilibria and other thermodynamic properties both at low and high
+pressures. The students will be able to use models for property
+estimation at various process conditions and for a wide range of
+compounds, from simple hydrocarbons, polar and hydrogen bonding
+compounds up to complex materials like polymers, electrolytes and
+pharmaceuticals. The calculated thermodynamic properties are of
+crucial importance in the petroleum, chemical and biochemical
+industries as well as for the design of chemical products and
+environmental assesments. 
+","Choose appropriate models for phase equilibrium calculations of
+different types of mixtures e.g. with non-polar, polar and
+associating compounds as well as mixtures with electrolytes and
+polymers at different conditions Describe the most important ""common"" principles of
+many thermodynamic models (local compositions, corresponding
+states, regular solutions, group contributions, free volume) as
+well as their relationships Use the basic equations for various types of phase equilibria
+(VLE, LLE, SLE, VLLE, GLE, SGE,...) and estimate experimental
+activity coefficients from VLE or SLE data Perform phase equilibrium calculations for mixtures using
+thermodynamic models e.g. via suitable software as well as analyse
+the obtained results Identify the most important intermolecular forces and based on
+them choose appropriate thermodynamic models for specific purposes
+and applications Describe and analyse phase diagrams and choose appropriate
+models that could be used for their calculation Describe the various methods for the estimation of both
+pure-component and mixture parameters in thermodynamic models (both
+equations of state and activity coefficient models) Know the difference between correlative and predictive
+models Use the so-called EoS/GE mixing rules Explain the association principle and perform simple
+calculations with association models as well as predict the
+association schemes based on the structure of the compounds Explain the strengths and weaknesses of the various models and
+evaluate the capabilities of different models in describing various
+types of phase equilibria Calculate the distribution of chemicals in the environment
+(water-air-ground-living organisms)","
+i. Thermodynamics in relation to separation processes - need for
+thermodynamic data - development of thermodynamic models and
+theories
+
+ii. The most important concepts and definitions from physical
+chemistry (ideal mixture, fugacity, activity coefficient, phase
+equilibrium calculations: vapor-liquid, liquid-liquid,
+solid-liquid, solid-gas)
+
+iii. The various types of intermolecular forces and their use in
+the development and understanding of theories and models, the
+theoretical basis of the most important models
+
+iv. Cubic equations of state with classical and advanced mixing
+rules -applications in the oil & gas and chemical industries
+
+v. Activity coefficient models with emphasis on ""local
+composition"" models and group contribution principle -chemical
+and pharmaceutical industries
+
+vi. Theories and models for electrolytes, associating mixtures and
+polymer solutions -applications in the petroleum and polymer
+industries
+
+vii. Octanol-water partition coefficients and environmental
+applications of thermodynamics 
+","28221,28321","
+Georgios Kontogeorgis,
+Kaj Thomsen"
+,,,,,,,,,,,,
+28434 , Membrane Technology,English , 5 ECTS , 2016/2017 ,F1A (Mon 8-12),MSc,Department of Chemical Engineering,"
+To enable the students to understand the mechanisms for solute
+transport in different membrane types and to estimate the
+possibilities to use separation processes based on the application
+of semipermeable membranes. 
+","Identify and describe the main unit operations associated with
+membrane technology Describe the main industrial applications of membrane
+technology. Derive equations for solvent and solute transport in pressure
+driven membrane processes. Calculate how concentration and eventually temperature
+polarisation influence the solute transport for the different
+membrane processes Describe the main polymeric materials used for membrane
+synthesis Describe the function of the main used membrane modules and how
+they are used in different membrane processes. Calculate mean flux, selectivity and membrane area for the
+different membrane processes. Describe process layout and eventually pre- and post treatment
+in relation to the fouling problems for the different membrane
+processes. Employ membrane technology knowledge to discuss recent journal
+articles in the membrane field and compare the with similar
+separation processes.","
+The course is divided into four main modules:
+
+1)Basics and principles: Operation modes in membrane operations.
+Membrane modules. Membrane materials. Mathematical models for
+porous and nonporous membranes. Concentration polarization and
+fouling. Models to describe fouling. Technical evaluation of
+different membrane processes compared to traditional separation
+processes. Main applications of membrane technology.
+
+2)Liquid operations: Reverse osmosis, nanofiltration,
+ultrafiltration and microfiltration. Application of the basic
+principles to liquid operations.
+
+3)Gas and special operations: Gas separation, pervaporation,
+membrane contactors, membrane distillation, electrodialysis,
+membrane bioreactors.
+
+4)Particular applications of membrane technology: Membranes in
+biotechnology, membranes in the chemical industry, membranes in the
+food industry, membranes used as reactors, membranes in wastewater
+treatment. 
+","28160,28020,28120","
+Manuel Pinelo"
+,,,,,,,,,,,,
+28443 , Industrial Reaction Engineering,English , 7.5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,Department of Chemical Engineering,"
+To provide the students with a fundamental and practically
+applicable understanding of industrial important types of reactions
+and reactors that can be used in chemical and biochemical
+production processes and in pollution control. 
+","characterize solid particulates with respect to size, size
+distribution, shape, porosity, texture etc. calculate effective diffusion coefficients in simple
+structures. establish and solve mathematical models for gas-solid reactions
+(transport phenomena coupled to chemical reactions) evaluate structure models for gas-solid reactions. establish and solve models for gas-liquid-solid reactions. explain the enhancement factor for gas-liquid reactions. analyse and simplify complicated reaction engineering problems
+in order to establish mathematical models for the main
+phenomena. evaluate calculations for reaction engineering problems in
+order to use the results for practical design.","
+A major part of chemical reactions in production processes and in
+gas cleaning processes takes place in multi-phase reactors, e.g.
+Production of Pharmaceuticals, calcination of lime in the
+production of calcium hydroxide, production of cement, combustion
+of solid and liquid fuels in the production of power and heat,
+catalytic and non-catalytic cleaning of flue gas and catalytic
+production of important products in different reactors including
+two or more phases. The examples are homogeneous or heterogeneous
+catalysed, gas-solid, gas-liquid, liquid-solid and gas-liquid-solid
+reactions that take place in a number of different reactor types
+(batch fixed bed, moving bed, spray absorbers, packed towers,
+membrane reactors, fluidized bed reactors, entrained flow reactors
+etc.). The theory covering the different types of reactions and a
+number of the reactors is expounded together with examples. During
+the semester the students cooperate in teams solving practical
+oriented reactor design problms. 
+","28240,28140,28341","
+Kim Dam-Johansen"
+,,,,,,,,,,,,
+28451 , Optimising Plantwide Control,English , 7.5 ECTS , 2016/2017 ,F2A (Mon 13-17),MSc,Department of Chemical Engineering,"
+Typical chemical plants may contain hundreds of measurements and
+control loops. Most control theories (those you have seen in the
+introduction to process control) assume that a control structure is
+already given at the start, which reduces the problem to tuning and
+calculation of a control law. In practice, however, given a plant
+design with its process flow diagram, a control engineer faces the
+following problems: i)Which variables should be controlled, ii)
+which variables should be measured, iii) which inputs should be
+manipulated, and iv) which links should be established between
+them?’
+
+These are the questions that the plantwide control course
+addresses. To this end, a systematic methodology based on
+hierarchial decomposition of the control problem into layers is
+used for designing a plantwide control structure based on process
+understanding. The performance of the control structure is then
+evaluated and further refined using dynamic simulations of the
+process in question in an iterative manner.
+
+The goal of the course is thus to learn i) to manage the
+complicated task of designing a control strategy for the entire
+plant; ii) to understand process dynamics using dynamic
+simulations; iii) to develop and implement a control strategy that
+meets control design objectives (stabilize the system, optimize the
+economics and satisfy the constraints); and vi) evaluation of
+alternative solutions. Ultimately all these efforts are to help
+develop and operate better, safer, and optimal processes for
+chemical and biochemical industries. 
+","Perform a systematic analysis of the operation of Chemical and
+biochemical process plants Derive a control structure based upon the process analysis Calculate the optimal point of operation for the control
+system Derive simple linear models for control design from komplex
+process systems Analyse observability and controlability of a dynamical
+system Design multivariable PID control structures Formulate and design model based multivariable controllers,
+incl. LQR, LQG and MPC Evaluate controller's performance using simulation and
+dynamic process model","
+The course base is the synthesis of the plant and its derived
+operational goals which illustrate that process design and
+operation are two sides of the same fundamental problem. Selection
+of actuators and measurements for a basic control structure at the
+single variable layer is introduced from a systematic model
+analysis. In a subsequent synthesis step a pairing of actuators and
+measurements is selected. How the operational goals may be achieved
+in practice through control is illustrated for selected examples.
+These examples will also demonstrate characteristic control
+structures. 
+","28150,28351,28864","
+Jakob Kjøbsted Huusom"
+,,,,,,,,,,,,
+28515 , Enhanced Oil Recovery,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,Department of Chemical Engineering,"
+To provide knowledge of the modern methods of enhanced oil recovery
+(EOR). The course describes: 1) PHYSICAL PHENOMENA occurring in a
+petroleum reservoir during its development by an EOR; 2)
+Engineering ideas behind the EOR, and 3) MATHEMATICAL MODELS of the
+EOR processes. 
+","Describe classification of the methods of EOR, and necessity
+for their application Describe the underlying physical concepts and the derivation of
+the basic transport equations for multiphase flows in porous media,
+and in particular, the classical Buckley-Leverett (BL) theory of
+waterflooding Describe the methods of reservoir simulation Solve graphically the BL equation in one dimension and
+calculate basic parameters of waterflooding, like time of the water
+breakthrough, saturation at the breakthrough front etc. Evaluate criteria for physically reasonable laboratory studies
+of the waterflooding. Describe practical problems and new phenomena
+occurring under the visualization experiments with application of
+the X-ray computer tomography scanner Evaluate the effect of gravity on waterflooding and other
+methods of the EOR, in particular, on the stability of
+displacement Evaluate the effect of heterogeneity; classify the reservoirs
+according to the flow regimes (viscous-dominant, capillary-dominant
+etc.); apply analytical methods of upscaling Describe the principles of application of miscible and
+immiscible gas injection, their advantages and shortcomings;
+Predict the main parameter of the gas injection, the minimum
+miscibility pressure, with the help of a software Describe the principles of engineering application and
+underlying physical mechanisms of carbon dioxide injection and
+water-alternate-gas (WAG) injection Select a chemical (surfactant, polymer/micellar) etc. for
+chemical flooding, on the basis of their known properties Describe the principles of engineering application and
+underlying physical mechanisms for such methods as in-situ
+combustion and microbial flooding","
+Properties of reservoir fluids and porous rocks (repetition). Flow
+equations in porous media. Constituting dependencies: relative
+permeabilities, capillary pressure. Buckley-Leverett theory of
+waterflooding: fractional-flow function; Graphical solution of the
+Buckley-Leverett equation in one dimension; calculation of the
+basic parameters of oil recovery; systems of wells and streamlines;
+laboratory experiments on waterflooding, involving visualization
+with X-ray computer tomography; gravity; stability of
+waterflooding; effects of heterogeneity; miscible gas injection:
+minimum miscibility pressure, forward-, backward- and multicontact
+miscibility mechanisms, predictions and experiments; peculiarities
+of carbon dioxide injection and water-alternate-gas flooding;
+chemical flooding; in situ combustion; microbial flooding. 
+","28160,28415,28885","
+Alexander Shapiro"
+,,,,,,,,,,,,
+28530 , Transport Processes,English , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,Department of Chemical Engineering,"
+To introduce the participants to the modeling and numerical
+description of flow, heat and mass transport. 
+","Describe the molecular processes behind viscosity, thermal
+conduction and diffusion. Obtain analytical solutions for flow problems with simple
+boundary and initial data. Formulate and analyze models for combined flow and heat
+transport Formulate and analyze models for combined flow and
+diffusion Formulate and analyze models for combined flow and chemical
+reaction Make order of magnitude estimates for key quantities such as
+fluxes, reaction rates and equilibration times. Use Computational Fluid Dynamics for the simulation of flow
+with combined heat and mass transport (COMSOL) Evaluate the accuracy of approximations obtained by
+Computational Fluid Dynamics. Formulate models for transport with a small or large parameter
+(boundary layers)","
+Mechanisms for the transport of momentum (flow), nergy and mass in
+chemical and biological systems. Introduction to Computational
+Fluid Dynamics as basis for transport processes. Applications in
+the design of equipment and analytical instrumentation in the
+chemical, biotechnological and pharmaceutical industry. 
+","28160,01035","
+Ole Hassager,
+Stig Wedel"
+,,,,,,,,,,,,
+28811 , Polymers in Processes and Products,English , 5 ECTS , 2016/2017 ,August,MSc,Department of Chemical Engineering,"
+The superior goals of the course are to give the students an
+introduction to the polymer related area - starting with a company
+visit and succeeded by project work. Through practical
+investgations that are employed in industry and are of significance
+for preparation and development of polymeric products, the
+experimantal methods are enlightened and rehearsed. 
+","Describe an industrial way of presenting a polymer problem Plan tests to solve the defined problem Develop relevant methods of examinations Organize the work in a heterogeneous group Carry out the planned investigations Judge partial results and modify the continued work Interpret and describe the performed investigations and
+experiments Add up and report the results of the group in a poster
+format Present partial results of the group’s entire work","
+First day of the course is an elementary introduction to polymer
+properties. The second day each group will visit an industrial
+company and here recieve a problem, which is related to real life.
+The groups will plan and delegate their own experimental work
+necessary to solve the problem. Prerequisites for the individual
+problems may vary to suit the profiles of individual students. It
+is expected that approximately half of the course time is spent
+using laboratory equipment at the Danish Polymer Centre, which
+includes polymers synthesis, determination of molar mass, melting
+temperatures, glass transitions and identification of polymer
+types, as well as mechanical testing. On the last but one day a
+poster in Powerpoint format is handed in. On the last day the
+groups give oral presentations. This ensures that course
+participants will obtain a broad image of the polymer field. 
+","41736,41737,28212,28213","
+Anne Ladegaard Skov,
+Yang Zhang"
+,,,,,,,,,,,,
+28831 , Computational Fluid Dynamics in Chemical Engineering,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Chemical Engineering,"
+The aim of the course is to give the students hands-on experience
+of a modern software tool for computational fluid dynamic
+simulations (ANSYS-CFX). The software will be applied in Chemical
+Engineering case studies, which will include material transport
+limitations and mixing studies, heat transfer, adsorption and
+desorption phenomena as well as the implementation of basic
+chemical reactions in three-dimensional geometries. The course will
+be based on the theoretic knowledge of course 28530 Transport
+Processes, which is strongly recommended as prerequisite course.
+The focus of the course will however be on the practical use of the
+software modules that are necessary to implement the fluid dynamic
+problem. This will include the sketching with help of SolidWorks,
+meshing, predefinition of the cases, the solving and finally the
+post processing of the results. 
+","Construct and sketch three dimensional technical drawings with
+help of SolidWorks Create structured and unstructured meshes with help of the
+software module ANSYS ICEM Account for numerical influences like numerical diffusion and
+the correlation with the mesh quality Implement the physical and Chemical initial and boundary
+conditions info the software module and perform the solving of the
+partial differential equations with subsequent post processing of
+the results Generate advanced visual presentations of the results (vector
+plots, contour and streamline plots, videos and chart plots
+etc.) Apply the CFD software to steady state and transient
+simulations in problems of diffusion, heat transfer, laminar and
+turbulent flow, multiphase flow, adsorption and desorption of
+material, basic chemical reactions, free surface flow, flow through
+porous material and rotating geometries Apply the learned methods to a selv-defined project -","
+Computational Fluid Dynamics Applied to Chemical Engineering
+problems. Material transport limitions and mixing studes, heat
+transfer, adsorption and desorption phenomena as well as the
+implementation of basic chemical reactions in three-dimensional
+geometries. Transient and steady state simulations for single
+component, multicomponent, single phase and multiphase flow. Porous
+Material and rotating geometries. Retention Time Distribution
+Analysis. 
+","88701,28361,28530","
+Ulrich Krühne"
+,,,,,,,,,,,,
+28845 , Chemical Reaction Engineering Laboratory,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Chemical Engineering,"
+To illustrate the theory taught in a basic chemical reaction
+engineering course (such as 28140 Introduction to Chemical Reaction
+Engineering or 28342 Chemical Reaction Engineering) by experimental
+exercises with accompanying calculations and simulations. 
+","Plan short series of experiments in lab reactors with the
+intent of satisfying preset goals. Analyze reactor models in order to be able to compare model
+predictions with experimental evidence. Modify standard models for simple chemical reactors to get
+agreement between model description and experimental
+conditions. Combine standard models for simple chemical reactors to a model
+for the behaviour of non-ideal lab reactors. Characterize lab reactors through residence time distributions
+(measured or model based). Calculate upper and lower limits for conversion based on
+knowledge of residence time distributions. Process experimental data in spreadsheets to carry out data
+analysis, reactor simulation, and graphical representation of data
+and computational results. Compare measured data with reactor calculations carried out
+through use of simulation software such as Maple or Matlab. Judge the accuracy of experimental data, and explain deviations
+from theoretical predictions. Collect the descriptions of exercise planning, execution,
+results and comparison with theory in well structured
+reports.","
+The operation of chemical and catalytic reactors are investigated
+experimentally: the dynamic startup of an adiabatic tank reactor,
+residence time distribution, multiple steady states, operation of a
+catalytic fixed bed reactor. The experimental results are analysed
+on the basis of theory taught in the introductory course in
+chemical reaction engineering. Models for the dynamic approach to
+steady state are developed and implemented in numerical solvers.
+Application of programs like Excel and Maple is an integrated part
+of the course (see Qualified Prerequisites and Remarks). 
+","28160,28140,28342,28016","
+Hao Wu"
+,,,,,,,,,,,,
+28850 , Pharmaceutical Process Development,English , 5 ECTS , 2016/2017 ,F5A (Wed 8-12),MSc,Department of Chemical Engineering,"
+1. Explain the basis for current and future pharmaceutical
+production processes and their development.
+
+2. Describe the principles of the QbD/PAT philosophy as defined by
+FDA, as well as LEAN and GMP. 
+","Describe the production process for typical small-molecule
+pharmaceuticals. Describe the production process for typical
+biopharmaceuticals. Explain the principles of QbD and PAT Describe the development process and 'life-cycle' of a
+new pharmaceutical. Describe the latest developments in the field of pharmaceutical
+development and production processes. Explain the principles of LEAN manufacturing. Describe the different classes of pharmaceutical,
+biopharmaceutical, biosimilars and generics. Explain the principles of GMP manufacturing","
+Introduction - future pharmaceuticals with increased complexity;
+trend towards therapeutic proteins; trend towards continuous
+processes based on FDA requirements; Small molecule production -
+future pharmaceutical production, including biological production
+(fermentation and biocatalysis); Biopharmaceutical production -
+future biopharmaceutical production, including fermentation, cell
+culture, antibody processing and downstream processing; Process
+Development - pharmaceutical process development paradigms; PAT and
+QbD: Process Analytical Technology (PAT) and Quality-by-Design
+(QbD), GMP, LEAN. 
+",None,"
+John Woodley"
+,,,,,,,,,,,,
+28852 , Risk Assessment in Chemical and Biochemical Industry,English , 5 ECTS , 2016/2017 ,E4A (Tues 13-17),MSc,Department of Chemical Engineering,"
+To learn systematic methods and tools for questioning, identifying,
+analysing and managing safety and risk issues in industrial
+operations. These are useful for the preparation of a safety
+report. as required by the Seveso II Directive on the control of
+major-accident hazards involving dangerous substances, as found in
+pharmaceutical, biochemical, chemical and petrochemical industries.
+
+","Define hazard, risk, risk assessment and management in relation
+with chemical and biochemical process industries Identify the main steps involved in risk assessment of chemical
+and biochemical processes Identify key legal frameworks in USA and Europe relating to
+process safety as well as key relevant international
+standards. Describe how different groups perceive risk related to chemical
+and biochemical facilities Create a plant layout which respects safety distances as
+defined by either company standards or insurance company
+guidelines. Evaluate the results based upon Dow Fire &
+Explosion Index (Dow F&EI) Perform release calculations based on Dow Chemical Exposure
+Index (Dow CEI). Use HAZOP for hazard identification and risk assessment in a
+chemical or biochemical facility Perform quantitative risk assessment of chemical and
+biochemical plants for simple scenarios using event tree analysis
+and fault tree analysis Write sections of a safety report as required by key legal
+frameworks involved in Europe Identify key elements of a safety management system and how
+this can be integrated with other company management systems Perform consequence analysis including source modeling,
+dispersion modeling, fire and explosion modelling and effects
+modeling","
+The course consists of 3 parts. Part one is concerned with the
+topic of land use planning including criteria for selection of a
+site for a new facility, evaluation of potential impact of
+incidents at the facility on neighbors and methods for the design
+of the facility layout to reduce the risk of undesired incidents.
+
+At the end of part one you will be able to select a site for a new
+facility using a number of qualitative criteria, and to develop a
+layout from a process description, as well as estimate impact on
+neighbors.
+
+Part two is concerned with tools for hazard identification and risk
+assessment, such as HAZID, HAZOP, ETA, FTA, QRA and consequence
+analysis including source modeling, dispersion modeling, fire and
+explosion effect modeling. The use of these methods and tools are
+trained individually and in groups as appropriate.
+
+At the end of part two you will be able to participate in
+brainstorming meetings about hazards, construct simple event and
+fault trees, and quantify these, as well as perform a simple QRA
+and consequence analysis.
+
+Part three is concerned with the systems and training needed to be
+prepared for handling undesired incidents such that the
+consequences for the facility and surroundings are minimized. This
+will include discussion of management of safety critical
+operations.
+
+At the end of this part you will be able to specify elements for a
+Safety Management System, as well as plan and participate in a
+small table top emergency exercise. 
+","28020,28120,28121","
+Gürkan Sin"
+,,,,,,,,,,,,
+28855 ," Good Manufacturing Practice (GMP) and quality in pharma, biotech and food industry",English , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),MSc,Department of Chemical Engineering,"
+To supply the students with a wide knowledge and prepare them for
+the special requirements which are imposed to companies working
+under GMP regulations or ISO quality systems. Training in team
+work. 
+","Identify the superior quality requirements imposed to the
+organisation, buildings, production equipment and procedures of a
+company which is subject to follow GMP regulations or ISO quality
+standards. Compare GMP rules from various national and international
+authorities and be familiar with their document structure. Apply ISO standards and GMP rules during performing new process
+design projects as well as ordinary production, including making
+SOP’s (standard operation procedure). For a production process draw up a P&I diagram which
+identifies the important details as far as GMP is concerned. Identify errors and imperfections of the hygienic design of a
+production plant and propose improvements. In detail describe sanitary utility systems which are applied
+in the food, biotech and pharmaceutical industries. Propose selection of cleaning principle and cleaning chemistry
+for hygienic plants. Prepare quality documentation and plant documentation. Determine if a plant is subject to qualification. Work out documents for and accomplish tests for qualification
+of GMP plants.","
+The course comprises basic GMP requirements from various
+authorities, ISO quality standards, risk assessment, hygiejnic
+process design, CIP systems and other GMP utilities, sanitation and
+cleaning, application of GMP in pharmaceutical production,
+qualification and preparation of quality documents.
+
+The course intends to cover requirements for production of food
+products, API and finished pharmaceuticals, medical devices and
+biotechnological products. The course is meant as a base from which
+a student can specialize in various topics such as hygienic design,
+qualification, quality management etc.
+
+The course is focussed on process and plant related topics.
+
+The teaching will be a mix of lectures, homework, presentations,
+exercises in pilot plant with reports and case stories with
+simulated process plants. Exercises are mandatory and performed in
+groups and concern P&I diagrams, hygienic design, preparation
+of GMP-documents and performing qualification. The exercises
+results in mandatory reports.
+
+Excursion to a pharmaceutical production plant is included.
+
+NB: Exercises and home work will require various kinds of
+expertice, which can be identified in terms of job titles:
+Production engineer, QA/QC manager, analytical chemist, project
+engineer, managing director, R&D process engineer etc. 
+","28020,28022,27022,27032","
+Lars Georg Kiørboe,
+Tina Beck Hansen,
+Anna Eliasson Lantz,
+Ivan Hundebøl"
+,,,,,,,,,,,,
+28864 , Introduction to Matlab programming,English , 1 ECTS , 2016/2017 ,Fall and Spring,MSc,Department of Chemical Engineering,"
+The general purpose of the course is to introduce Matlab to the
+course participants, and to provide participants with a number of
+basic skills that are needed to develop simple Matlab programs. 
+","Write simple scripts and functions (m-files) Make plots of data in Matlab Implement a system of differential equations in Matlab (m-file
+implementation) Simulate a system of differential equations Estimate parameters in a system of differential equations - - - - - - -","
+Matlab syntax - Matlab programming (m-file scripts and functions) -
+Numerical solution of systems of differential equations - Curve
+fitting - Parameter estimation for systems of differential
+equations - Matlab graphics (2D plots, 3D plots) - Simulink demo 
+",None,"
+Krist Gernaey,
+Gürkan Sin"
+,,,,,,,,,,,,
+28870 , Energy and Sustainability,English , 5 ECTS , 2016/2017 ,E5B (Wed 13-17),MSc,Department of Chemical Engineering,"
+The course gives insight into various aspects of sustainability and
+life cycle assessment of energy technologies as well as how energy
+technologies may contribute to a sustainable future development.
+This insight will be applied to plan a desirable energy future for
+a specific geographical region and with focus on a specific energy
+service. Further, it can serve as inspiration for how to consider
+sustainability issues in your later specialization. 
+","Identify and discuss consequences of resource scarcity for the
+choice of future energy technologies Explain the principles of life cycle assessments and identify
+and discuss challenges and limitations in their application Critically apply results from life cycle inventories to
+evaluate a number of energy technologies Characterize and apply different principles of sustainability
+and sustainable development with focus on resouce use and
+environmental impacts Apply and evaluate different accounting methods for energy and
+material flows and their environmental impacts Describe and discuss the sensitivity of the climate system to
+GHG emissions from energy conversion and use Understand physical and biological feedbacks in the climate
+system in relation to GHG emissions using a teaching model Understand principles for global development with respect to
+population, living standard, energy consumption and GHG
+emissions Plan a strategic sustainable development of a specific
+geographical region with focus on a specific energy service using
+backcasting from sustainability principles Use a number of tools for assessing sustainable development
+based on system thinking in interdisciplinary international
+groups Search for and critically apply data from different
+sources Summarize a subject within energy and sustainability in oral
+presentation, on poster and in reports, respectively","
+The focus of this course is on sustainability in relation to energy
+conversion and use. We deal with various energy technologies in a
+system perspective based on general principles of sustainability
+and sustainable development. The focus is on energy and material
+flows of relevance to selected renewable energy technologies
+(mainly based on solar, wind and biomass) and comparison with
+fossil energy technologies. We will introduce how the climate
+system works and how it responds to greenhouse gas (GHG) emissions
+as consequences of fossil fuel emissions and land use change. We
+will discuss the implications of the interactions between
+population, energy consumption, living standard and climate change
+for sustainable development. The selected technologies will be
+evaluated in a life cycle perspective in specific socio-ecological
+contexts. Different tools for assessment of sustainable development
+based on energy and material flows will be addressed, including
+life cycle assessments, carbon footprint, emergy assessment, net
+energy analysis and ecological footprint. These tools will be used
+in planning a sustainable development of a specific energy service
+in a particular geographic area. Results mainly combined from
+available literature will be evaluated in group exercises, in a
+poster presentation and in a report. 
+",,"
+Hanne Østergård,
+Andreas Ibrom"
+,,,,,,,,,,,,
+28871 , Production of Biofuels,English , 10 ECTS , 2016/2017 ,F2A (Mon 13-17) and F2B (Thurs 8-12),MSc,Department of Chemical Engineering,"
+The course aims at qualifying the students to apply previously
+acquired basic knowledge in microbiology, biotechnology and process
+engineering to biological conversion of different kinds of biomass
+into biofuels by combining theoretical (lectures) and experimental
+(laboratory exercises) means. The focus will be on biomass
+availability, biofuels production processes and their feasibility.
+Obstacles and possible solutions for the technical implementation
+of biofuel production from different biomass resources will be
+analyzed too. Furthermore there will be basic training on applying
+sustainability assessment methods in relation to biofuels
+production. The course will also include experimental project work
+and the students will be familiarized with the biomass-to-biofuel
+process through own obtained experimental data and calculations. 
+","Identify the characteristics of biomass from different
+resources Describe the different microbial processes for different
+biomass resources to produce specific biofuels Describe a few of the existing industrial-scale facilities
+producing biofuels Explain the bottlenecks and/or inhibition effects for the
+different biomass-biofuel conversion processes Use the literature databases to find novel technologies within
+the field of biofuel production Explain the importance of sustainability issues in the
+production of biofuels from different biomass resources Calculate the theoretical potential for the different biomass
+resources to produce corresponding biofuels Design innovative production processes for converting a given
+biomass resource into a specific biofuel Evaluate the sustainability of biofuels from different biomass
+resources using a life cycle perspective with focus on greenhouse
+gas emissions and energy consumption","
+The course deals with biological conversion of different biomass
+resources into biofuels such as methane, hydrogen, ethanol,
+butanol, biodiesel. Microbial fuel cells and hybrid processes i.e.
+gasification and subsequent biological gas fermentation are also
+included in the course in the context of bio-based production of
+energy. The major elements of the course are: defining the concept
+of bioenergy production and sustainability, biomass
+characterization, mapping of biomass potential for biofuel
+production, microbial processes in relation to biofuels production,
+bottlenecks and inhibition effects and downstream processing.
+Examples from both research and industry will be presented in order
+to put the above concepts into perspective.
+
+The course will provide the student with an overview of the
+biological processes that are used for conversion of biomass to
+biofuels. It focuses on fundamental biochemical concepts such as
+enzyme technology related to biomass composition and the use of
+enzymes for biomass degradation, thermodynamics and kinetics in
+relation to microbial growth and product formation and use of
+microorganisms for production of biofuels as well as on
+sustainability assessments where factors like geographical
+location, biomass availability and economic conditions (including
+scale-up factors, efficiencies and yields) will be considered into
+the analysis.
+
+The course will also include experimental project work and the
+students will be familiarized with the biomass-to-biofuel process
+through own obtained experimental data and calculations. This will
+form the basis of a written report where the production process
+will also be evaluated using a life cycle perspective with focus on
+greenhouse gases emissions and energy consumption. 
+","28872,28025,27034","
+Hariklia N. Gavala,
+Hanne Østergård"
+,,,,,,,,,,,,
+28872 , Biorefinery,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12),MSc,Department of Chemical Engineering,"
+To provide the students with basic knowledge about the biorefinery
+concept and integrated processes that convert biomass into multiple
+products of bioenergy, biomaterials and biochemicals. 
+","Describe the physical and chemical structures of biomass and
+their potential use for production of bioenergy, biomaterials and
+biochemicals Identify and describe biomass resources (forest, agricultural,
+municipal and marine biomass), their occurrence and application in
+a biorefinery concept Identify and describe biomass constituents (starch, cellulose,
+hemicellulose, lignin, pectin, protein, lipids) Outline the principles of a biorefinery including chemical,
+biological and thermo-chemical conversion methods Outline and compare various methods of biomass processing for
+production of bioenergy products, biomaterials, chemicals and
+building blocks for chemical synthesis Write a scientific report Design a theoretical and creative biorefinery based on
+scientific references Use literature databases concerning renewable resources and
+sustainable management","
+The course will give a broad perspective over the biorefinery
+concept by introducing the key integrated processes, such as
+biomass production, pretreatment, and chemical-, biological- and
+thermo-chemical- conversion. The lectures will focus on
+bioresources and single processing steps and will include
+industrial and scientific examples. In the case study the students
+will combine multiple processing steps into a novel biorefinery
+concept. There will be emphasis on sustainable systems throughout
+the course.
+
+The course is divided into four main blocks:
+
+1. Chemical characterization of biomass and recovery of
+biochemicals of industrial interest. Calculations include mass
+balances and stoichiometry.
+
+2. Green processes/techniques used in biorefineries: Enzyme
+technology, Membrane technology, Clean solvents, Integration
+reaction-separation, Use of microwaves/ultrasound.
+
+3. Introduction to Energy from Biomass: Physical, microbiological,
+and thermodynamical processes. Gasification and pyrolysis. Biogas.
+(to be continued in the course ""Production of Biofuels"").
+
+4. Other applications: Biomaterials. 
+",27002,"
+Manuel Pinelo"
+,,,,,,,,,,,,
+28885 , Technology and Economy in Oil and Gas Production,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,Department of Chemical Engineering,"
+The course gives students from all fields of engineering an
+understanding of the technical and economical conditions governing
+the oil and gas industry. The complexity of the business and the
+need for a broad range of technical skills is illustrated. The
+participants will become familiar with the terminology of the
+various disciplines related to oil and gas production to a level
+that facilitates the communication with industry specialists. The
+course forms the basis for further studies in petroleum technology
+at DTU, including thesis projects in all engineering fields. 
+","perform a basic economic evaluation of production of oil and
+gas from a given discovery perform a basic technological evaluation of production of oil
+and gas from a given discovery present the technological options for production of oil and gas
+at different water depths calculate the net present value and internal rate of return for
+investmenst in oil and gas production calculate the consequenses of different production scenarios on
+the project economy evaluate the risks for and actions to prevent production
+problems perform basic material selection for oil and gas production
+from the given production conditions optimize the production profile with respect to the net present
+value and the internal rate of return discuss the complete range of events: exploration, development,
+production and decomissioning of an oil field evaluate the special economic and technological challenges
+related to offshore oil and gas production","
+Oil and gas production makes a significant contribution to the
+Danish economy. The oportunity to produce obviously depends on the
+technological conditions, e.g. the behavior of hydrocarbons under
+pressure and temperature, the different reservoir types and the
+applied production technology, but the economy of the projects are
+severely affected by the choice of technological solutions. The
+course focuses on the interplay between technology and economy. A
+number of lectures are given by visiting lecturers from the oil
+industry. The technological part consists of e short description of
+reservoir types and recovery processes. Further more drilling
+technology, production platforms and ships, selection of materials,
+corrosion and other production problems are described. In
+connections with production systems the utility and safety systems,
+instrumentation and communication systems, ad well as safety and
+environmental aspects are covered. In the economic part the
+expenses for exploration, capital, and operational as well as rate
+of return on investment are discussed for the special conditions of
+oil and gas production with emphasis on offshore production
+including the legal terms and conditions. During the course the
+economic impact of the technical solutions will be emphasized. 
+",12411,"
+Nicolas von Solms"
+,,,,,,,,,,,,
+28891 ," Research Immersion, DTU Chemical Engineering, July",English , 5 ECTS , 2016/2017 ,July,MSc,Department of Chemical Engineering,"
+Through participation in a research project in a shorter period of
+time, the student will try to answer a question or solve a problem,
+which is connected to the work of the supervising PhD student/post
+doc. The student will gain knowledge within a topic related to the
+research area of the Department of Chemical & Biochemical
+Engineering, while gaining insight into how the scientific method
+is put into practice to solve a given problem. The student will
+also gain general competencies, e.g. the ability to participate in
+a constructive mentor-mentee relationships and the ability to
+communicate science – in writing as well as orally. 
+","Work in a focused and strategic manner to retrieve scientific
+literature Extract information from scientific articles of relevance to a
+scientific project Critically evaluate own and others experimental designs Plan, carry out and finalise a project under tight time
+constraints Communicate the results of a scientific project in a report
+that could be shaped like a scientific article Constructively participate in a student-supervisor
+relationship Explore and analyse relevant technologies for solving the given
+problem -","
+Participation in a research project in close collaboration with a
+supervising PhD student/post doc. The exact content of the project
+will be further agreed upon with the supervisors. The project must
+be communicated in a final, written report. 
+",,"
+Anker Degn Jensen"
+,,,,,,,,,,,,
+28892 ," Research Immersion, DTU Chemical Engineering, August",English , 5 ECTS , 2016/2017 ,August,MSc,Department of Chemical Engineering,"
+Through participation in a research project in a shorter period of
+time, the student will try to answer a question or solve a problem,
+which is connected to the work of the supervising PhD student/post
+doc. The student will gain knowledge within a topic related to the
+research area of the Department of Chemical & Biochemical
+Engineering, while gaining insight into how the scientific method
+is put into practice to solve a given problem. The student will
+also gain general competencies, e.g. the ability to participate in
+a constructive mentor-mentee relationships and the ability to
+communicate science – in writing as well as orally. 
+","Work in a focused and strategic manner to retrieve scientific
+literature Extract information from scientific articles of relevance to a
+scientific project Critically evaluate own and others experimental designs Plan, carry out and finalise a project under tight time
+constraints Communicate the results of a scientific project in a report
+that could be shaped like a scientific article Constructively participate in a student-supervisor
+relationship Explore and analyse relevant technologies for solving the given
+problem -","
+Participation in a research project in close collaboration with a
+supervising PhD student/post doc. The exact content of the project
+will be further agreed upon with the supervisors. The project must
+be communicated in a final, written report. 
+",,"
+Anker Degn Jensen"
+,,,,,,,,,,,,
+28901 , Advanced Computer Aided Modelling,English , 7.5 ECTS , 2016/2017 ,July,Ph.D.,Department of Chemical Engineering,"
+This course is aimed at introducing the underlying principles of
+system modelling and subsequent model analysis and simulation. The
+importance of a modelling methodology will be emphasized, covering
+the development of the basic conservation principles and
+constitutive relations as well as the importance of plant data
+analysis for model validation. The use of computer aided tools for
+modelling, analysis and simulation will be emphasized and access to
+the latest systems will be a feature of the practical sessions.
+Finally, using modelling exercises from real processes and
+operations, the course will train the participants to successfully
+complete any modelling project in a systematic, efficient and
+mathematically consistent manner. 
+","derive mathematical models analyze mathematical models solve mathematical models record model assumptions link model development, model objective and model solution use computer aided tools related to modelling use a systematic modelling approach olve different types of modelling tasks reuse models Learn about model aggregation and decomposition","
+Mathematical models are fundamental to the design, control and
+optimisation of process systems. Nearly all-current techniques in
+these areas as well as related topics such as safety and loss
+prevention use mathematical models for the prediction of system
+behaviour. It is vital for process engineers, control specialists
+and scientists involved with these activities to have a clear
+understanding of dynamic modelling principles and the use of those
+models in simulation. Topics to be covered will include: advanced
+process modelling and solution concepts for distributed parameter
+systems, discrete event and hybrid systems with special emphasis on
+modelling problem formulation, model assumptions, model analysis
+and model solution. 
+",,"
+Rafiqul Gani"
+,,,,,,,,,,,,
+28902 , Process & Tools Integration,English , 7.5 ECTS , 2016/2017 ,July,Ph.D.,Department of Chemical Engineering,"
+The course is of relevance for researchers engaged in process and
+product development with emphasis on sustainability. The main
+issues include environmental aspects, operability aspects and
+economic aspects. Emphasis is given to the use of systematic
+methods and state of the art computer-aided tools. 
+","Set target for Mass integration Set target for Heat integration Aim at setting target for Work integration Design mass and heat integrated process Aim at designning maximal work integration Use computational tools for process integration Evaluate the dynamic consequences of the different types of
+integration Suggest control structures to ensure an operable plant Investigate the possibilities for Optimizing Control","
+Definition and framework of process & tools integration,
+sustainability, and environmental impact factors; Integration of
+process/product synthesis and design; Heat & mass integration;
+Visual graphical techniques versus mathematical programming
+techniques; Integration of design and control; Process operability
+and control structuring; Hazards and safety analysis; Indicator
+based analysis and identification of process/product alternatives;
+Design support systems.
+
+The computer exercises will introduce state of the art integrated
+computer aided tools and highlight the use of these tools in an
+integrated manner to solve problems related to process-product
+integration. 
+",,"
+Rafiqul Gani,"
+,,,,,,,,,,,,
+28904 , Polymer Physics,English , 7.5 ECTS , 2016/2017 ,F5A (Wed 8-12),Ph.D.,Department of Chemical Engineering,"
+To introduce the participants to the theory of polymer physics. 
+","Identify common properties in soft matter (polymers, colloids,
+surfactants) Interpret scattering experiments with soft matter Model the thermodynamics of soft matter solutions Model phase behavior of soft matter. Model elasticity of molecular Networks by statistical
+theories. Describe diffusion in polymeric systems by Brownian
+dynamics Describe diffusion in polymeric systems by Fokker Planck
+equations Model relaxation behavior in polymer melts Model the linear viscoelastic properties of polymer
+solutions","
+The random walk model, pair correlation functions, radius of
+gyration, non-ideal chains, excluded volume, thermodynamic
+properties of polymer solutions, correlation fluctuation in polymer
+solutions, scaling theory, polymer blends, block copolymers,
+elasticity of rubber, the stress optical law, swelling of gels,
+Brownian motion, Rouse theory, Zimm theory, dynamic light
+scattering, reptation, entanglement effects and the tube model,
+viscoelasticity of polymers. 
+",,"
+Ole Hassager,Kell Mortensen"
+,,,,,,,,,,,,
+28905 , Advanced Topics in Process Systems Engineering,English , 7.5 ECTS , 2016/2017 ,August,Ph.D.,Department of Chemical Engineering,"
+This course is aimed at introducing special topics from the current
+state of the art in process systems engineering. The objective is
+to give the participants a quick and thorough introduction to the
+latest developments in process systems engineering, which otherwise
+would not be possible due to lack of formal courses on such topics.
+At the same time, the course will help the participants in getting
+a broader view on the art of systematic analysis for efficient,
+robust and innovative solution strategies. 
+","Describe advances in process systems engineering Apply a systems approach Use of computer aided methods and tools Develop systematic solution approaches Apply new techniques Perform product-process engineering Perform process integration Perform product design Perform tools integration Describe data-flow and work-flow during problem
+solution","
+Efficient, reliable and robust solution of engineering problems
+require solution strategies that have been developed through a
+systematic analysis of the needs of the problems being solved and
+the development and use of methods and tools that can match these
+needs. In process and product design, the solution strategies also
+need to provide innovative and new solutions. A systems approach
+allows the development of the necessary solution strategies through
+a systematic analysis of all aspects of the specified problem or a
+set of problems. Because of the potentially large range of topics
+that can be covered, a selection of topics will be considered each
+year, based on the background of the participants and the current
+state of the art. Some examples of the topics are listed below:
+systematic computer aided product formulation; computer aided
+molecular design; systematic model identification & design of
+experiments; a systems approach to development of sustainable
+process technologies; systematic integration of chemistry, biology
+& etc. Each topic will be analysed in terms of the generic
+problem definition and solution strategy, verification of the
+proposed systems approach, the advantages/disadvantages of the
+approach, identification and testing of possible improvements.
+Finally, a systems approach to solving of process and product
+engineering problems will be highlighted together with the latest
+developments in terms of computer aided methods & tools. 
+",,"
+Rafiqul Gani"
+,,,,,,,,,,,,
+28908 , Rheology of complex fluids,English , 7.5 ECTS , 2016/2017 ,Fall,Ph.D.,Department of Chemical Engineering,"
+To introduce the participants to rheology of complex fluids, in
+particular polymeric liquids and suspensions. The participants will
+learn how to characterise complex fluids and understand their flow
+behaviour. 
+","express vectors and tensors in component form in relevant
+orthogonal co-ordinate systems and explain the principles in
+non-orthogonal co-ordinate systems. analyse simple flow problems with the generalised Newtonian
+fluid model. use the lubrication approximation to simplify 2D and 3D flow
+problems and explain the conditions for use. explain the importance of homogeneous flows such as shear and
+elongation for measuring stress components and express the stress
+tensor in these flows. explain the analysis and the necessary assumptions for the
+common measurement geometries: Cone/plate, plate/plate, capillary
+and elongation (uniaxial and biaxial). explain the basic principles of the linear viscoelastic fluid
+and the domain of validity. determine a spectrum of relaxation times from experimental data
+for polymeric liquids. use the time-temperature superposition principle to analyse
+experimental data for polymeric liquids. explain the basic principles of simple rheological models for
+suspensions and emulsions. explain the basic theory of non-linear models for
+viscoelasticity: differential and integral constitutive equations
+and micro-mechanical models. explain the basic theory of optical birefringence and its use
+for measuring rheological and structural parameters. apply different numerical techniques for simulation of
+non-Newtonian flows.","
+The course will contain the following main topics:
+
+1. Introductory fluid mechanics: Equations of change on the basis
+of fluxes. Equations of change with transport properties. Solution
+of isothermal and nonisothermal flow problems.
+
+2. Rheology of non-Newtonian fluids. Measurements and material
+functions.
+
+3. Simple and advanced models for polymeric fluids: the generalized
+Newtonian fluids, linear viscoelasticity, nonlinear
+viscoelasticity.
+
+Simple models for suspensions and emulsions.
+
+4. Solution of flow problems: Rheometry, extrusion, formation of
+fibres and film, injection moulding, heat treatment of foodstuffs
+etc.
+
+5. Analysis of experimental measurements. Classical methods: Steady
+and oscillatory shear flow. New Methods: Transient elongation.
+
+6. Introduction to optical birefringence. 
+","28863,28530","
+Peter Szabo"
+,,,,,,,,,,,,
+28909 ," Thermodynamic Models, Fundamentals and Computational Aspects",English , 7.5 ECTS , 2016/2017 ,August,Ph.D.,Department of Chemical Engineering,"
+The course is of relevance for researchers engaged in the
+development and implementation of thermodynamic models for process
+simulation. 
+","Derive thermodynamic properties from an Equation of State Develop an efficient computer code for an Equation of
+State Investigate whether a given Equation of State code is
+thermodynamically consistent Use stability analysis in equilibrium calculations Write a computer program for the multicomponent PT flash Calculate phase envelopes Write a computer code for calculation of chemical
+equilibrium Apply chemical theory in models for physical properties Learn thermodynamic models for different applications","
+The state functions, the second law, conditions of equilibrium,
+derivation of thermodynamic properties, checking model expressions
+and model consistency. Equilibrium and stability, critical points,
+effects of gravitation, surface tension and thermal gradients.
+Chemical equilibrium. Equations of state, corresponding state
+models and excess Gibbs energy models. Mixing rules from excess
+Gibbs energy models. Chemical - and association models General
+equilibrium relations and material balances. The PT-flash:
+Successive substitution, the Rachford-Rice equation, acceleration,
+higher order methods and stability analysis. The multiphase flash.
+General state function based specifications. Dew- and bubble
+points, stability analysis and the calculation of critical point.
+Chemical equilibrium calculation.
+
+Thermodynamic models (cubic equations of state, activity
+coefficient models, advanced mixing rules, association models). 
+",,"
+Georgios Kontogeorgis,
+Wei Yan,Michael L. Michelsen"
+,,,,,,,,,,,,
+28917 , Statistical Thermodynamics for Chemical Engineering,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12),Ph.D.,Department of Chemical Engineering,"
+The goal of this course is the direct theoretical calculation of
+physical (bulk, macroscopic) properties based on first-principles,
+statistical mechanics considerations. The course will enable
+students to derive equations (of state) for simple and complex
+fluids from statistical mechanics formalism. It will give insight
+into current advanced equations of state based on molecular
+thermodynamics – such as SAFT. Computer simulation will also be
+covered in the course. 
+","Recall relevant macroscopic thermodynamic properties and
+relations Acquire mathematical tools, including graph theory, relevant to
+statistical mechanics Apply the relevant equilibrium ensemble in a given
+situation Derive partition functions for the various ensembles Obtain ideal gas and chemical equilibrium properties from
+partition functions Apply the virial equation to obtain properties for non-ideal
+gases Derive distribution functions for liquids Derive various liquid theories based on the distribution
+function Compare these various theories for liquids Obtain properties of real fluids based on perturbation
+theories Recognize the relation between perturbation theories and
+molecular-based equations of state such as SAFT Carry out Monte Carlo simulations of simple fluids","
+1. Review of Thermodynamics; 2. Mathematics Preliminaries; 3.
+Equilibrium Ensembles; 4. Classical Partition Functions; 5. Ideal
+Gases; 6. Chemical Reaction Equilibria; 7. Non-ideal Gases, Virial
+Equation; 8. Distribution function theories of liquids,
+Ornstein-Zernike equation; 9. Graph theory, fugacity and density
+expansions, Percus-Yevick equation; 10. Perturbation theories; 11.
+Molecular-based equations of state, SAFT; 12. Introduction to
+computer simulation; 13. Special Topics – statistical
+thermodynamics of chain molecules; statistical thermodynamics of
+electrolytes (Debye-Hückel, Mean Spherical Approximation)
+
+Required:
+
+D.A. McQuarrie, Statistical Mechanics, Harper and Row, New York,
+1976.
+
+Recommended:
+
+M.P. Allen and D.J. Tildesley, Computer Simulation of Liquids 
+",None,"
+Nicolas von Solms"
+,,,,,,,,,,,,
+28924 , Process Engineering Laboratory,English , 5 ECTS , 2016/2017 ,Fall and Spring,Ph.D.,Department of Chemical Engineering,"
+To train the students in operating large scale process plants, to
+understand the details in the industrial design and properties of
+industrial components, to relate the chemistry and engineering
+theory to practical application and to troubleshoot the operational
+results.
+
+The course will provide the student with an advanced background for
+designing his/her own experimental setup, for planning and
+execution of experiments and for drawing the engineering
+conclusions from the results and process experiences. In addition
+the course will give a good background for work as assistant
+teacher during ordinary large scale experimental courses. 
+","Operate process units incl. data acquisition systems and
+measuring equipment in pilot scale size. Apply theory on practical experimental problems and
+results Analyse results and draw conclusions concerning the quality and
+applicability of the results and to determine consequences for the
+process operation, plant and component design, scale up and
+functionality of the component Make P&I diagrams for a process Explain the design of processes and equipment units Select process components and design utility systems Identify and solve practical tasks concerning sampling and
+measuring techniques Perform uncertainty calculations on experimental results Identify process safety and health risks encountered for a
+practical plant operation Make short technical reports which are clear, well structured,
+easy to read and understand Present a process assignment orally in a holistic way","
+In groups of 2 persons the following tasks are performed:
+
+1. 5 exercises based on unit operation, process control and
+reaction engineering large scale experiments. The exercises are
+identical with the experiments offered for course 28123
+(International summer university course) with the following
+exceptions: To the ordinary manual are added a number of tasks
+comprising a selection of more advanced experimental work, more
+calculations, scale up considerations are included, as well as
+modeling and increased theoretical details (see the list on
+detailed supplementary tasks in the connected appendix). The report
+work is limited to results from calculations, process and safety
+discussions/conclusions, uncertainty calculations and synopsis. The
+selection of experiments is according to the principles in course
+28121, but limited to max one process control or one reaction
+engineering exercise out of the total 5 experiments. The reports
+are discussed with the teacher and if necessary revised.
+
+2. A report on the production and systems design principles of the
+following utilities: Process steam, clean steam, compressed air and
+various water qualities.
+
+3. Participating in a lecture on valves, pumps, instruments and
+special analytical and sampling methods, where working principles
+and functionality, design details, application and accuracy are
+covered.
+
+In addition each student will do the following:
+
+4. Based on given information of a process plant the student will
+give a lecture room presentation of the resulting detailed PI
+diagram. 
+",,"
+Lars Georg Kiørboe,
+Jakob Kjøbsted Huusom"
+,,,,,,,,,,,,
+28927 , Advanced Topics in Process Technology,English , 7.5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,Department of Chemical Engineering,"
+This course is aimed at introducing special topics from the current
+state of the art in process technology and engineering. The
+objective is to give the participants a quick and thorough
+introduction to the latest developments in process technology from
+chemistry to engineering, which otherwise would not be possible due
+to lack of formal courses on such topics. At the same time, the
+course will help the participants in getting a broader view on
+tools for systematic understanding, designing, operating, analyzing
+and troubleshooting processes covering different process
+technologies. 
+","Learn what are advanced process technologies in the area of
+interest Describe characteristics of advanced process technologies at
+any scale Identify characteristics of advanced process technologies at
+any scale Learn what are tools for analysis and evaluation of
+processes Perform analysis to identify process challenges in current
+designs Be able to solve process challenges using advanced process
+technologies Use of evaluation tools for comparison of
+designs/technologies Perform process integration","
+In order to design sustainable processes for the future, it is
+essential to use advanced process technologies. It requires a
+holistic and a systematic view on the process for a systematic
+identification of (novel) advanced process technologies to be used
+to match the individual challenges of the process. Because of the
+potentially large range of topics that can be covered, a selection
+of topics will be considered each year, based on the background of
+the participants and the current state of the art. Some examples of
+the topics are listed below: process technologies in biocatalysis;
+process/unit operations integration; process intensification;
+design of sustainable processes or processes based on Green
+Engineering Principles; Scale translation; Process Analytical
+Technology; Evaluation tools based on sustainability, economic
+evaluation, Life Cycle Assessment (LCA); Design of experiments;
+kinetics and reaction modeling; microfluidic application in
+biotechnology; computational fluid dynamics (CFD); spectroscopic
+methods for bioprocesses; etc. Each topic will be analysed in terms
+of the generic problem to be addressed, the (available or
+desirable) solution strategy (methodological, model-based,
+experimental, etc.), necessary and desirable tools,
+advantages/​disadvantages, limitations, application (operating)
+window and testing of possible improvements. 
+",,"
+John Woodley,
+Krist Gernaey,
+Ulrich Krühne"
+,,,,,,,,,,,,
+28928 , Electrolyte Solution Thermodynamics,English , 7.5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,Department of Chemical Engineering,"
+To introduce the participants to the thermodynamics of electrolyte
+solutions 
+","Select a proper thermodynamic model for specific electrolyte
+solutions Perform the conversion between standard state properties on the
+molality scale and symmetric/unsymmetric mole fraction scales Convert activity coefficients from one scale to another Derive mean activity coefficients, osmotic coefficients and
+other solution properties from a Gibbs excess function Calculate activity coefficients from fugacity coefficients Determine a proper experimental method for measuring properties
+of electrolyte solutions Apply the Gibbs-Duhem equation for calculating osmotic
+coefficients from mean activity coefficients Perform speciation equilibrium calculations Perform solid-liquid, vapour-liquid, and liquid-liquid
+equilibrium calculations Determine, the temperature, pressure, and composition
+dependence of equilibrium constants Use phase diagrams for solid-liquid equilibrium of salt
+solutions Design fractional crystallization processes based on
+solid-liquid equilibrium phase diagrams","
+The aim of the course is to give an introduction to concepts
+important for understanding and working with electrolyte solution
+thermodynamics. Topics being discussed include experimental methods
+for measuring properties of salt solutions, molal, molar and mole
+fraction activity coefficients, the Nernst equation, Debye-Hückel
+theory, the Mean Spherical Approximation (MSA) theory, molecular
+interactions in electrolyte solutions, dielectric properties of
+solvents and its effect on salt solubility, Born equation, Gibbs
+energy of transfer, Meisner model, Bromley model, Pitzer model,
+e-NRTL model, Extended UNIQUAC model, MSE model, equations of state
+for electrolytes, apparent properties, thermal properties,
+volumetric properties of electrolytes, phase rule and invariant
+points, crystallization, super saturation, the Kelvin equation,
+fractional crystallization 
+",,"
+Kaj Thomsen"
+,,,,,,,,,,,,
+28930 , Advances in Chemical and Biochemical Engineering,English , 2.5 ECTS , 2016/2017 ,Spring and Fall,Ph.D.,Department of Chemical Engineering,"
+General course objectives:
+
+Te main objective of the course is to familiarize the PhD
+candidates enrolled in the DTU Chemical Engineering PhD school with
+a broader spectrum of research activities of chemical and
+biochemical engineering in academia and industry. Moreover, the
+course participants will be trained in dissemination of their own
+research work by preparing a popular article / communication
+highlighting their own research project. 
+","Define and describe the latest trends and ideas in chemical and
+biochemical engineering and industries Define contemporary challenges of the chemical and biochemical
+engineering fields Put in perspective one’s own research subject within the bigger
+picture of chemical engineering research from product to process
+development and more. Read and understand review articles related to seminar
+topics Formulate relevant & meaningful questions and discuss these
+with the lecturer during the seminars Engage with scholarly and constructive discussions in chemical
+engineering research fields Communicate a technical subject using a
+semi-popular/​non-technical language to able to reach a broader
+audience. In particular, be able to write a popular article to
+semi-technical engineering journals or be able to prepare a Youtube
+movie clip.","
+Departmental seminars are given by invited distinguished
+researchers from academia and established professionals from
+industry in the field of Chemical and Biochemical Engineering. The
+topics of the seminar lectures cover a broad spectrum of activities
+in the chemical and biochemical engineering from applied
+thermodynamics, to pharmaceutical engineering, biorefineries,
+harmful emissions and control, product and process design, enzyme
+technology, polymer technology, process technology, systems
+engineering, process operation and control, supply chain
+management, sustainable development, energy, climate change and
+many more. 
+",None,"
+Ioannis V. Skiadas"
+,,,,,,,,,,,,
+28931 , Biorefinery and Sustainability,English , 2.5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,Department of Chemical Engineering,"
+This course aims at bringing the student in a position to better
+understand and critically relate to research articles within the
+field of biorefinery and sustainability. The objective is achieved
+by thorough analysis and discussion of important scientific papers
+improving the student’s ability to communicate and discuss
+scientific standpoints. 
+","Critically relate to research results within the field. Review the methods and results in a scientific publication
+within the field of biorefinery and sustainability. Perform a well-structured and clear presentation of an issue or
+method within the field of biorefinery and sustainability. Communicate and discuss personal scientific standpoints in a
+constructive way. Present research results in English. Critically evaluate the content and structure of a scientific
+paper according to points considered when reviewing a paper for a
+journal. Define and describe the latest trends in sustainability
+assessment related to biorefinery Define contemporary challenges in sustainability assessment
+related to biorefinery.","
+The world is facing huge challenges due to increasing global
+population and limiting resources (e.g. fossil oil) at the same
+time as the ecosystems have to mitigate and adapt to climate
+change. Emerging technologies of biorefining propose an alternative
+to the fossil based society. How can we assure that the biorefinery
+technologies contribute to a sustainable development? The course
+will focus on presentations by the students of scientific papers
+from recognized journals dealing with sustainability assessment of
+different technologies related to biorefinery. Papers are selected
+by the student doing the presentation for the actual course day in
+collaboration with the responsible teacher. For each course day,
+all students are expected to have read the selected paper.
+
+The student presentation (visual) includes the goal, results and
+conclusions of the selected paper as well as a critical review of
+methods, results and conclusions. Following the presentation, the
+results and their implications for the research of all participants
+are discussed. At latest two weeks after the presentation, the
+student will send the presentation slides and the report, a
+learning journal and critical evaluation with a given structure
+provided to participants. The presenting student spends about 20
+hours in total for the seminar and report whereas other participant
+spend 5 hours in total for each seminar. 
+",None,"
+Hanne Østergård"
+,,,,,,,,,,,,
+88700 , Industrial Reaction Engineering,English , 7.5 ECTS , 2016/2017 ,Fall,MSc,Department of Chemical Engineering,"
+To provide the students with a fundamental and practically
+applicable understanding of industrial important types of reactions
+and reactors that can be used in chemical and biochemical
+production processes and in pollution control. 
+","characterize solid particulates with respect to size, size
+distribution, shape, porosity, texture. calculate effective diffusion coefficients in simple
+structures. establish and solve mathematical models for gas-solid reactions
+(transport phenomena coupled to chemical reactions) evaluate structure models for gas-solid reactions establish and solve models for gas-liquid-solid reactions. explain the enhancement factor for gas-liquid reactions analyse and simplify complicated reaction engineering problems
+in order to establish mathematical models for the main
+phenomena. evaluate calculations for reaction engineering problems in
+order to use the results for practical design.","
+A major part of chemical reactions in production processes and in
+gas cleaning processes takes place in multi-phase reactors, e.g.
+Production of Pharmaceuticals, calcination of lime in the
+production of calcium hydroxide, production of cement, combustion
+of solid and liquid fuels in the production of power and heat,
+catalytic and non-catalytic cleaning of flue gas and catalytic
+production of important products in different reactors including
+two or more phases. The examples are homogeneous or heterogeneous
+catalysed, gas-solid, gas-liquid, liquid-solid and gas-liquid-solid
+reactions that take place in a number of different reactor types
+(batch fixed bed, moving bed, spray absorbers, packed towers,
+membrane reactors, fluidized bed reactors, entrained flow reactors
+etc.). The theory covering the different types of reactions and a
+number of the reactors is expounded together with examples. During
+the semester the students cooperate in teams solving practical
+oriented reactor design problems. 
+",None,"
+Kim Dam-Johansen,
+Hao Wu"
+,,,,,,,,,,,,
+88701 , Transport Processes,English , 10 ECTS , 2016/2017 ,Fall,MSc,Department of Chemical Engineering,"
+To introduce the participants to the modeling and numerical
+description of flow, heat and mass transport based on the
+fundamental equations of change. 
+","Describe the molecular processes behind viscosity, thermal
+conduction and diffusion. Obtain analytical solutions for flow problems with simple
+boundary and initial data. Formulate and analyze models for combined flow and heat
+transport. Formulate and analyze models for combined flow and
+diffusion. Formulate and analyze models for combined flow and chemical
+reaction. Do order of magnitude estimates for key quantities such as
+fluxes, reaction rates and equilibration times. Use CFD for the simulation of flow with combined heat and mass
+transport (COMSOL). Evaluate the accuracy of approximations obtained by
+Computational Fluid Dynamics. Formulate models for transport with a small or large parameter
+(boundary layers).","
+Mechanisms for the transport of momentum (flow), energy and mass in
+chemical and biological systems. Introduction to computational
+fluid dynamics (CFD) as basis for analysis and simulation of
+transport processes. Applications in the design of equipment and
+analytical instrumentation in the chemical, biotechnological and
+pharmaceutical industry. One of two special subjects is introduced
+towards the end: Either heat transport by radiation (2013) or
+non-Newtonian fluids and turbulence. 
+",,"
+Ole Hassager,
+Stig Wedel,
+Peter Szabo"
+,,,,,,,,,,,,
+88703 , Laboratory Experiments,English , 5 ECTS , 2016/2017 ,Fall and Spring,MSc,Department of Chemical Engineering,"
+This course is designed to provide advanced experimental facilities
+at IPE to the students for experimentation skill in different areas
+of chemical and biochemical engineering, 
+","Collaborate in team work during experiments Understand the appropriate approaches and the fundamentals of
+process engineering by carrying out the experiments Treat experimental data in a scientific way - - - - -","
+The course contains 6 experiments in laboratories at IPE.
+
+- Manufacture of bio-activated carbon;
+
+- Micro-fluid bed kinetic analyzer,
+
+- Membrane separation;
+
+- Gas adsorption;
+
+- Dissolution of cellulose by ionic liquid;
+
+- Catalysts synthesis and evaluation 
+",None,"
+Weigang Lin"
+,,,,,,,,,,,,
+88704 , Progress in Research,English , 5 ECTS , 2016/2017 ,Fall and Spring,MSc,Department of Chemical Engineering,"
+To provide the students with knowledge about front line academic
+and industrial research in the field of Chemical and Biochemical
+Engineering 
+","Describe exampleas of industrial research and development Describe examples of front line academic research Understand the difference between academic and industrial
+research Read and understand scientific literature Participlate in research based discussions - - -","
+The SDC MSc program in Chemical and Biochemical Engineering,
+Biomass and Energy, is a research based education. This course will
+provide the student with information about both academic research
+from Denmark and China and industrial research and development from
+companies with activities in both Denmark and China. 
+",None,"
+Kim Dam-Johansen,
+Hao Wu"
+,,,,,,,,,,,,
+88705 , Process Design ,English , 10 ECTS , 2016/2017 ,Outside schedule structure,MSc,Department of Chemical Engineering,"
+Process design involves the solution of open-ended problems. The
+design problem is first defined and then broken down into a set of
+sub-problems (tasks) that are solved in a specified sequence. In
+each task, a set of design decisions are made, analyzed and
+verified. Therefore, the final process design and the path to
+achieve it depend on the design decisions taken in each of the
+design tasks. This means that there could be many process designs
+for the defined design problem. In this course, the process design
+problem solution is broken down into 12 design tasks, to be
+performed in a specific sequence. 
+","Make design related decisions Use knowledge to solve practical engineering problems Analyse data Work in groups Use computer aided tools Generate and screen alternatives Verify and analyse simulation results Formulate process design problems and to develop systematic
+solution strategies Apply chemical engineering principles learned from other
+courses Apply ""green"" or environmental issues in process
+design","
+The course will be divided into two parts. The first part will deal
+with introduction to process design principles, the stages of the
+process design life cycle and the preliminary design steps (flow
+sheet synthesis, equipment sizing/costing, economic evaluation,
+scheduling of batch operations, distillation sequences, pinch
+analysis). The second part will deal with conceptual design
+(advanced process synthesis (such as heat integration, heat
+exchanger networks, reactor networks, reaction-separation
+sequences, solvent selection), equipment selection, flow sheet
+optimization). 
+",None,"
+Rafiqul Gani,
+Nicolas von Solms,
+Gürkan Sin,
+Jakob Kjøbsted Huusom"
+,,,,,,,,,,,,
+88707 , Energy and Sustainability,English , 5 ECTS , 2016/2017 ,Spring,MSc,Department of Chemical Engineering,"
+The course aims at qualifying the students to combine previously
+acquired knowledge with sustainability assessment methods to
+analyze environmental impacts and effects of resource constraints
+on energy supply and consumption at local and global scales. 
+","Characterize and apply different principles of sustainability
+and sustainable development with focus on resource use and
+environmental impacts Describe and discuss the sensitivity of the climate system as
+well as of our society to GHG emissions from energy conversion and
+use. Plan a strategic sustainable development of a region with
+special focus on energy supply and consumption using back casting
+from sustainability principles. Identify and discuss consequences of resource limitations for
+future energy technologies Discuss different criteria for sustainability of biofuels with
+focus on GHG emissions and energy consumption Explain the principles of life cycle assessments. Identify and
+discuss challenges in their application Perform and evaluate simple EROI calculations (energy return on
+energy investment) for different energy technologies Critically apply results from life cycle inventories to
+evaluate a number of energy technologies including those based on
+biomass.","
+Understanding general principles of sustainability and sustainable
+development in a system perspective. Briefly we will introduce how
+the climate system works and how it responds to greenhouse gas
+(GHG) emissions as effects of fossil fuel emissions and land use
+change. We will discuss the implications of the interactions
+between population, energy consumption, affluence and climate
+change for sustainable development. We deal specifically with a
+number of renewable energy technologies with focus on bioenergy,
+and evaluate them from a life cycle perspective based on energy and
+material flows in specific socio-ecological contexts. We deal with
+the basic concepts of life cycle assessments, e.g. system boundary,
+functional unit, co-products/by-products and normalization. Data
+sources and the implications of uncertainty of the calculated
+indicators for the quality of the assessment will be discussed. 
+",None,"
+Hanne Østergård,
+Andreas Ibrom"
+,,,,,,,,,,,,
+88708 , Green Chemical Engineering,English , 5 ECTS , 2016/2017 ,Spring,MSc,Department of Chemical Engineering,"
+This course will provide comprehensive knowledge of new development
+of green chemistry and green chemical engineering with focus on
+green catalysis, green synthesis and materials. 
+","Understand the basic concept of green chemical engineering and
+state of the art of research and application Carry out basic approaches of design catalysts for application
+to green chemical engineering Make preliminary design of a green process - - - - - - -","
+Introduction to Green Chemical Engineering
+
+History of Green Chemical Engineering
+
+Catalysis in green chemical Engineering
+
+Green chemical engineering in organic synthesis
+
+New green materials
+
+Green process design 
+",None,"
+Xiaobo Wan"
+,,,,,,,,,,,,
+88709 , Fluidization and Multiphase Flow,English , 5 ECTS , 2016/2017 ,Fall,MSc,Department of Chemical Engineering,"
+This course will provide comprehensive knowledge of fluidization
+and multiphase flow with fundamentals and applications related to
+chemical engineering and energy conversion 
+","Understand the flow regime of gas-solid flow and state of the
+art of research and application Manage basic calculations and solve practical problems related
+to fluidization Overview the modeling approached Design a fluidized bed reactor with preliminary
+requirement - - - - - -","
+Fluidization phenomena,
+
+Flow regime,
+
+bubbling and circulating fluidized bed,
+
+Multi-phase flow dynamics,
+
+Models for the two phase flow
+
+Application of fluidized bed. 
+",None,"
+Wei Wang"
+,,,,,,,,,,,,
+88710 , Combustion and High Temperature Processes,English , 5 ECTS , 2016/2017 ,Outside schedule structure,MSc,Department of Chemical Engineering,"
+To provide the participants with a fundamental knowledge about
+combustion and other high temperature processes, including
+formation and reduction of harmful emissions. 
+","Set up mass and energy balances for combustion systems Estimate flue gas amount and composition from stoichiometric
+calculations Use simplified and detailed chemical models to estimate
+combustion rate and formation of pollutant species Couple chemical and thermal analyses of reacting systems Set up simplified conservation equations for reacting
+flows Explain conceptual and practical differences between premixed
+and diffusion flames Assess the impact of turbulence on combustion rates Set up and use simplified model for droplet evaporation and
+combustion Set up and use simplified model for particle heating and
+pyrolysis Set up and use simplified model for char oxidation Use the above tools together with numerical solvers to evaluate
+and optimize industrial high-temperature processes","
+Topics covered include combustion of gaseous, liquid and solid
+fuels in different combustion systems such as gas turbines, motors,
+pulverized fuel combustors, fixed bed and fluid bed, as well as
+related industrial high temperature processes. The different
+systems are treated theoretically and the students solve larger,
+practically oriented problems during the course. 
+",None,"
+Peter Glarborg"
+,,,,,,,,,,,,
+88711 , Industrial BioReaction Engineering,English , 5 ECTS , 2016/2017 ,Fall,MSc,Department of Chemical Engineering,"
+The reactors used in the bio-industries are designed according to
+the same general principles as those elsewhere in the chemical
+industry. However, there are some specific characteristics of
+bio-reactions which require specialist treatment, such as the
+complex stoichiometry and thermodynamics. Using a quantitative
+approach, fermentation processes are analyzed with respect to
+feasibility and scale-up for the production of bio-based chemicals.
+Biochemistry, microbiology, sustainability and chemical engineering
+are all used to obtain a deeper insight into the complex world of
+bioreactions and their associated processes. 
+","Describe the role of fermentation processes in the context of
+bioprocesses for production of industrial products Calculate mass balances for fermentations including gas-liquid
+mass transfer Calculate carbon and degree of reduction balances for
+fermentation processes Evaluate the feasibility of fermentation processes in an
+industrial context Analyze the consistency of experimental data using simple
+models Describe different types of growth kinetic models Calculate the heat of production of fermentation process Describe the principles for design and scale-up of a
+bioreactor","
+Role of fermentation in manufacture of industrial chemicals.
+Stoichiometry of cellular reactions, degree of reduction balances,
+yield coefficients and black box models. Evaluation of the
+feasibility of fermentation processes in an industrial context.
+Growth kinetics. Thermodynamics of bioreactions and heat balances.
+ATP balances and energetics. Scale-up and design of fermentation
+processes. Process evaluation project. 
+",None,"
+John Woodley"
+,,,,,,,,,,,,
+88713 , SDC Green Challenge,English , 5 ECTS , 2016/2017 ,June,MSc,Department of Chemical Engineering,"
+To train the students to conceive, design, implement and operate
+sustainable solutions to energy and environment challenges. 
+","Identify and analyze an energy or environment related challenge
+in China or Denmark Conceive Chemical and biochemical Engineering solutions Develop a solution concept to the point where the feasibility
+of the concept can be deceided Evaluate the technical, economic and sustainable aspects of the
+solutions Present the results to publics and participate in
+Scientific/​non-Scientific discussions - - -","
+In the course the students will work innovatively and independently
+to identify the challenges and develop solutions, through
+literature survey, process or product design, experimental study,
+and evaluation of economy and sustainability. The developed project
+will be presented at the GrønDyst conference at DTU, where students
+from DTU and partner universities will present their projects
+related to sustainability, the environment or climate technology.
+The teachers will act as consultants to support the students’
+identification of challenges and preparation of the project, the
+abstract and the presentation for GrønDyst.
+
+This course will provide the students an opportunity to use their
+knowledge obtained from the SDC MSc Program in Chemical and
+Biochemical Engineering to identify an energy or environment
+related challenge in China or Denmark, to develop a concept
+addressing the challenge, and to evaluate the feasibility of the
+concept with respect to technology, economy and sustainability. 
+",None,"
+Kim Dam-Johansen,
+Hao Wu"
+,,,,,,,,,,,,
+88714 , SDC Summer School in Unit Operations,English , 7.5 ECTS , 2016/2017 ,June and July,MSc,Department of Chemical Engineering,"
+To show the possibilities and limitations of the theory and achieve
+practical experience and improved understanding of the Unit
+Operation processes. This is performed by theoretical study and
+experiments in semitechnical and technical scale with process
+equipment, which is used in the chemical, biochemical and
+pharmaceutical industry. 
+","Understand the core theroy in Unit Operations Apply theroy on practical experimental problems Analyze results and formulate conslusions concerning the
+quality and applicability of the results and to Draw consequences
+for the process operation, plant design and functionality of the
+components Operate process units incl. data acquistion systems and
+measuring equipment in pilot scale size Explain the design of processes Recognize technical components on real life plants Identify and explain practical tasks concerning sampling and
+measuring techniques Make a report on an experimental job in an organized way, which
+make it easy to read and understand calculations on
+conclusions","
+1-week theoretical study, 3-week experiments and half-week visits
+to companies and chemical plants.
+
+In the 1-week theoretical study, the students will be introduced
+about core theory in Unit Operations, such as liquid and gas flow,
+absorption and distillation columns, drying, extraction, pumps,
+filtration, mixing, and heat transfer. The students will carry out
+five individual theory exercises.
+
+In the 3-week experiments, in groups of two, the students perform
+and report on 4 exercises within the following areas: flow in
+pumps, pipes and fittings, flow through particle beds, heat
+transmission, distillation, absorption, extraction, filtration,
+membrane filtration, centrifugation, drying,
+evaporation/​crystallization, agitation. This part of course is
+identical to DTU course 28121 
+",,"
+Lars Georg Kiørboe,
+Jakob Munkholt Christensen,
+Philip Loldrup Fosbøl,
+Hao Wu,
+Anna Eliasson Lantz"
+,,,,,,,,,,,,
+88715 , Bioerefinery,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Chemical Engineering,"
+To provide the students with basic knowledge about the biorefinery
+concept and integrated processes that convert biomass into multiple
+products of bioenergy, biomaterials and biochemicals. 
+","Identify and describe biomass resources (forest, agricultural,
+municipal and marine), their occurrence and application in a
+biorefinery concept. Identify and describe biomass constituents (cellulose, starch,
+hemicelluloses, lignin, pectin, protein, lipids). Describe the physical and chemical structures of biomass and
+their potential use for production of biochemicals, biomaterials,
+and second generation bioenergy. Describe and compare the various methods of biomass processing
+for production of biochemicals and building blocks for chemical
+synthesis: Pretreatment, Enzymatic methods, Fermentation, Chemical
+transformation and Separation. Describe the operation units and type of reactors used for the
+above mentioned separation/conversion processes. Calculate efficiencies and conversions for the
+separation/conversion processes (mass balances, energy balances,
+stoichiometry) Describe the applications of membrane separation as a green
+technology for separation processesin biorefinery. Integration
+reaction‐membrane separation in biorefinery. -","
+The course will include contents from the following courses taught
+in Lyngby ’Biorefinery’, and ‘Membrane Technology’.
+
+‐ 15 blocks of lectures
+
+‐ Exercises corresponding to the theoretical lectures
+
+‐ 1 large project including theoretical and numerical work
+
+‐ Final written examination. 
+",None,"
+Manuel Pinelo,
+Jianquan Luo,Hao Wu"
+,,,,,,,,,,,,
+88721 , Technology Economics Mangement and Organization (TEMO) (Only Evaluation,English , 10 ECTS , 2016/2017 ,F1B (Thurs 13-17),MSc,Department of Chemical Engineering,"
+The general purpose of the course is to qualify the student (1) to
+analyse an organisation from a strategic, tactical and operational
+perspective: (2) to define the strategy and the business model of a
+company; and (3) to understand how engineers contribute to the
+competitive advantage of a company. 
+","Identify and summarize key theories and models from the
+curriculum Explain and describe business models, organizational design and
+management activities in a specific case Apply theories and models from curriculum in a solution
+proposal for a specific problem and explain the relevance of the
+chosen theories and models Analyze a specific case from a strategic, tactical and
+operational perspective Formulate a synthesis including managerial, organizational and
+business perspectives in relation to a specific problem Select organizational interventions and management activities
+from curricu-lum to support the implementation of a strategy in a
+company and make an argumentation for your selection Outline the assumptions and preconditions of a specific problem
+and give an account of the consequences on the possible solution if
+these assumptions and preconditions are changed -","
+The student will be introduced to theories and models of business
+design, management and organisation and to specific issues such as
+planning, organising, leading, controlling, strategy, innovation,
+and business models. 
+",None,"
+Peter Bo Sarka,
+Per Anker Jensen"
+,,,,,,,,,,,,
+88722 , Laboratory Experiments (only evaluation),English , 5 ECTS , 2016/2017 ,Fall and Spring,MSc,Department of Chemical Engineering,"
+This course is designed to provide advanced experimental facilities
+at IPE to the students for experimentation skill in different areas
+of chemical and biochemical engineering, 
+","Collaborate in team work during experiments Understand the appropriate approaches and the fundamentals of
+process engineering by carrying out the experiments Treat experimental data in a scientific way - - - - -","
+The course contains 6 experiments in laboratories at IPE.
+
+- Manufacture of bio-activated carbon;
+
+- Micro-fluid bed kinetic analyzer,
+
+- Membrane separation;
+
+- Gas adsorption;
+
+- Dissolution of cellulose by ionic liquid;
+
+- Catalysts synthesis and evaluation 
+",None,"
+Weigang Lin"
+,,,,,,,,,,,,
+88723 , Progress in Research (only evaluation),English , 5 ECTS , 2016/2017 ,Fall,MSc,Department of Chemical Engineering,"
+To provide the students with knowledge about front line academic
+and industrial research in the field of Chemical and Biochemical
+Engineering 
+","Describe exampleas of industrial research and development Describe examples of front line academic research Understand the difference between academic and industrial
+research Read and understand scientific literature Participlate in research based discussions - - -","
+The SDC MSc program in Chemical and Biochemical Engineering,
+Biomass and Energy, is a research based education. This course will
+provide the student with information about both academic research
+from Denmark and China and industrial research and development from
+companies with activities in both Denmark and China. 
+",None,"
+Kim Dam-Johansen,
+Hao Wu"

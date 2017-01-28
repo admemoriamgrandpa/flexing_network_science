@@ -1,0 +1,2078 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+,,,,,,,,,,,,
+12000 , Water and environmental management,Danish , 10 ECTS , 2016/2017 ,E5 (Wed 8-17) and January,BSc,Department of Environmental Engineering,"
+The course is only given in Danish 
+","Kendskab til betydende ingeniørarbejdspladser og
+arbejdsopogaver forklare den overordnede struktur i Danmark
+miljøadministration løse simple beregningsopgaver med ingeniørteknisk indhold forstå behovet for uorganisk og organisk kemi viden i forhold
+til vand, vandforsyning og effekter i miljøet lære at rapportere et simpelt laboratorieforsøg omhandlende en
+vandbehandlingsproces udarbejde en simpel risikoprofil for forureningsstoffer,
+herunder beregne en PNEC værdi for et miljøfremmed organisk
+stof arbejde løsningsorienteret i en projektgruppe med faste
+tidsfrister identificere en problemformulering for en opgave med et konkret
+miljøproblem udarbejde en referenceliste til en teknisk rapport udarbejde en teknisk rapport efter en forskrift udarbejde en poster og give en mundtlig præsentation for et
+teknisk publikum","
+The course is only given in Danish 
+",None,"
+Poul Løgstrup Bjerg"
+,,,,,,,,,,,,
+12003 , Introductory Environmental Field Course,Danish , 5 ECTS , 2016/2017 ,June,BSc,Department of Environmental Engineering,"
+At give de studerende indsigt i miljøteknisk forskning ved
+præsentation af DTU Miljøs forskningssektioner samt erfaringer i
+planlægning, gennemførelse og afrapportering af simple
+miljøtekniske feltundersøgelser udvalgt blandt de fire
+forskningstemaer på instituttet. 
+","Redegøre for vigtige miljøtekniske forskningsområder herunder
+for DTU Miljøs fire forskningstemaer • Planlægge simple miljøtekniske målinger for udpeget problem
+og lokalitet i samarbejde med medstuderende Tilegne sig nødvendig baggrundsviden, teori og procedurer for
+at kunne gennemføre og planlægge simple miljøtekniske målinger Redegøre for sikkerhedsmæssige forhold for forsvarligt arbejde
+i instituttes laboratorier Indsamle miljøtekniske data fra egen gennemført prøvetagning,
+feltmåling og efterfølgende laboratorieanalyse • Behandle egne indsamlede miljødata ud fra tilegnet teori og
+tolkningsmetoder • Afrapportere gennemførte undersøgelser på overskuelig
+skriftlig form Præsenterer problem, forslag til undersøgelser, resultater og
+tolkninger med efterfølgende diskussion af egen og andre gruppers
+præsentationer","
+Miljøforskning - mål og midler, DTU Miljøs forskningstemaer,
+forskningsaktiviteter i relation til kursets fire
+feltarbejdsopgaver, grundlæggende teori for gennemførelse af
+feltarbejde, planlægning og gennemførelse af feltarbejde for ét af
+fire emner: Grundvandstilstrømning til vandløb, Mikroplast i
+miljøet, Stofbalance og rensningseffektivitet for
+spildevandsrensningsanlæg, Gasemissioner fra komposteringsanlæg. 
+",None,"
+Peter Kjeldsen"
+,,,,,,,,,,,,
+12102 , Environmental Processes,English , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),BSc,Department of Environmental Engineering,"
+The overall aim of the course is to:
+
+- Get a quantitative understanding of important physical,chemical
+and microbiological processes that control:
+
+- Concentrations of compounds in the environment
+
+-Concentrations of compounds in environmental engineering
+reactors/technical installations
+
+- Create the foundation for more advanced courses within water
+technology and water pollution
+
+-Illustrate how the engineer works with practical issues. 
+","Calculate concentrations in chemical equilibrium systems with
+acids and bases, chemical precipitation and complex formation
+reactions Carry out equilibrium calculations in two-phase gas/liquid
+systems Calculate concentrations in systems with sorption and ion
+exchange Explain the content of specifications of water quality and be
+able to describe the concentrations of important components in
+water Set up mass balances for natural and technical systems and be
+able to calculate characteristic times Conduct calculations - based on mass balances - of transport of
+water components controlled by advection, diffusion and dispersion,
+including the transport in porous media Carry out tracer experiments and interpret the data in relation
+to basic reactor parameters Carry out calculations of reaction kinetics in simple batch
+reactors Calculate concentrations in reactors combining reaction
+kinetics and mass transport (reactor hydraulics) Conduct experiments in the laboratory Communicate aims, theory, methods, results, discissions and
+conclusions in a technical report Carry out an engineering analysis of the concentrations of
+compounds in a relatively complex system consisting of processes in
+nature (surface water and groundwater) and in a
+waterworks","
+Mass balances,chemical equilibria,acids and bases, carbonate
+chemistry, chemical precipitation, complex formation,phase
+distributions in two- and three-phase systems (water, solid
+gas),redox systems,ion exchange,sorption. Flow in porous systems.
+Soil properties. Emphasis is put on learning the theoretical
+principles through practice-oriented activities: project work and
+lab. exercises. In addition, emphasis is put on communication of
+results in the form of well-structured reports. 
+",12000,"
+Henrik Rasmus Andersen"
+,,,,,,,,,,,,
+12104 , Modelling of Environmental Processes and Technologies,English , 10 ECTS , 2016/2017 ,"E3 (Tues 8-12, Fri 13-17)",MSc,Department of Environmental Engineering,"
+This course aims to provide students the general skills required to
+work with mathematical models and apply them to environmental
+problems. The course has three major elements: i) environmental
+statistics including parameter or model optimisation, sensitivity
+analysis and stochastic modelling, ii) deterministic modelling
+using ordinary and partial differential equations, and iii)
+modelling of biogeochemical systems. The course builds on a series
+of examples drawn widely from the field of environmental
+engineering and employs MATLAB, MULTIPHYSICS and PHREEQC to
+illustrate the general modelling principles. The course will teach
+students how to integrate observed data with models and apply them
+to solve environmental problems. 
+","Formulate mathematical models of environmental engineering
+problems. Identify and describe the governing processes that are relevant
+to environmental problems. Apply fundamental physical, geochemical and biological
+knowledge to solve an environmental problem. Express process understanding mathematically and be able to
+solve the resultant equations. Mathematically formulate ordinary and partial differential
+equations, boundary and initial conditions. Employ models to solve biogeochemical problems. Utilize numerical and analytical techniques to find the
+solutions of mathematical models. Utilize available modeling tools, in particular MULTIPHYSICS,
+MATLAB and PHREEQC. Integrate models with data and practice through parameter
+estimation, sensitivity and predictive modeling.","
+Topics will include selections from the following: environmental
+statistics including uncertainty assessment, parameter
+optimisation, sensitivity analysis and stochastic modelling;
+environmental models based on coupled ordinary and partial
+differential equations including modelling of mass and energy
+conservation and reactive transport, and models of microbial
+processes; modelling of aquatic chemistry including gas
+equilibration in aquatic systems, ion exchange and sorption, redox
+processes, partial equilibrium, chemical kinetics; programming in
+MATLAB and MULTIPHYSICS. 
+",,"
+Philip John Binning,
+Stefan Trapp,
+Massimo Rolle,
+Luca Vezzaro"
+,,,,,,,,,,,,
+12111 , Environmental Processes for MSc students,English , 5 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,Department of Environmental Engineering,"
+The overall aim of the course is to:
+
+- Get a quantitative understanding of important physical,chemical
+and microbiological processes that control:
+
+- Concentrations of compounds in the environment
+
+-Concentrations of compounds in environmental engineering
+reactors/technical installations
+
+- Create the foundation for more advanced courses within water
+technology and water pollution 
+","Calculate concentrations in chemical equilibrium systems with
+acids and bases, chemical precipitation and complex formation
+reactions Carry out equilibrium calculations in two-phase gas/liquid
+systems Calculate concentrations in systems with sorption and ion
+exchange Explain the content of specifications of water quality and be
+able to describe the concentrations of important components in
+water Set up mass balances for natural and technical systems and be
+able to calculate characteristic times Conduct calculations - based on mass balances - of transport of
+water components controlled by advection, diffusion and dispersion,
+including the transport in porous media Interpretation of tracer experiments as a mean for
+characterizing the hydraulics of environmental systems Carry out calculations of reaction kinetics in simple batch
+reactors Calculate concentrations in reactors combining reaction
+kinetics and mass transport (reactor hydraulics)","
+Mass balances,chemical equilibria,acids and bases, carbonate
+chemistry, chemical precipitation, complex formation,phase
+distributions in two- and three-phase systems (water, solid
+gas),redox systems,ion exchange,sorption. Flow in porous systems.
+Soil properties. 
+",,"
+Henrik Rasmus Andersen"
+,,,,,,,,,,,,
+12121 , Water Supply,English , 10 ECTS , 2016/2017 ,"F2 (Mon 13-17, Thurs 8-12)",MSc,Department of Environmental Engineering,"
+To provide the students with an applied knowledge of the basic
+processes which are important in the production and distribution of
+drinking water and of water for the industry, to theoretically
+analyse the operation of a ground water treatment plant, and to
+plan, design and analyse urban water distribution systems, using
+both simple hand calculations and professional computer software.
+Water supply is considered from a holistic point of view from the
+resources to the consumer. 
+","Describe and contrast the quality demands for different uses of
+water - from drinking water to water for the industry Explain and evaluate microbiological and chemical water quality
+parameters with respect to how they affect water safety Describe and evaluate hygienic aspects of water production and
+distribution and explain the governing factors in applying
+disinfection Describe the most important processes in water treatment at
+water works and contrast their advantages and disadvantages Calculate and predict the changes in the concentration of the
+chemical species through a water works using hand calculations
+and Analyse theoretically the operation of a ground water treatment
+plant by the use of professional computer software Calculate the system requirements of a water distribution
+network for a small town (flow, pressure, fire fighting, time
+variations) Plan, design optimize and analyse urban water distribution
+systems, using both simple hand calculations and professional
+computer ware Describe and explain the principles in the legislation, control
+and management structure of supplying water Identify and discuss the limitations and opportunities of using
+professional computer software in practical civil engineering
+contexts Produce technical reports clearly documenting the use and the
+obtained results of using professional computer software for
+analyzing water works and distribution networks","
+The spectrum of water qualities in water resources and the various
+quality requirements according to the use of the water will be
+reviewed together with the amount and variation of water
+consumption, hygiene and water quality. The course will also deal
+with the chemical and biological processes in treatment of surface
+and ground water for and in distribution systems, including
+processes in domestic water installations. Water works operation
+will be analyzed based on modelling of a number of
+physical-chemical parameters. Besides the treatment of water, the
+distribution system is considered, since it is the most expensive
+part of the water supply system, and the course involves planning,
+design and analysis of pumping installations, reservoirs and
+distribution networks. The interaction between the water and the
+construction material is an essential part of the processes in
+distribution systems. Lectures are presenting the theory of the
+course. In parallel to the lectures the participants work in groups
+with structured excersises: initially by modelling of water
+treatment processes and finally by modelling of distribution
+networks. Last year's lectureplan can be obtained from the
+course responsible, Hans-Jørgen Albretchsen (hana@env.dtu.dk). 
+","41102,12102,12134","
+Hans-Jørgen Albrechtsen"
+,,,,,,,,,,,,
+12122 , Urban Drainage and Stormwater Management,English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,Department of Environmental Engineering,"
+The aim is to provide participants the general skills and knowledge
+needed to design and analyse urban drainage and stormwater systems.
+Knowledge is provided in the most important hydraulic and
+hydrological processes as well as entry level extreme statistics on
+rainfall and flooding. Skills are provided in the traditional way
+of dimensioning drainage and stormwater systems by hand calculation
+as well as in the use of a state-of-the-art software for dynamic
+simulation of urban stormwater systems under heavy rain (MIKE
+URBAN). The course focuses on both water quantity and quality and
+will introduce both traditional and novel solutions to manage
+stormwater. 
+","Design a complete combined urban drainage system Analyse existing systems to identify areas in risk of
+flooding Propose a range of solutions to solve flood and surcharge
+problems, and document the effect of these solutions Dimension the most important system structures such as pipes,
+basins and overflow structures as well as local infiltration
+devices Use advanced simulation software for urban stormwater systems
+(MIKE URBAN) Simplify existing stormwater models to gain faster simulation
+time while maintaining the most important system dynamics Quantify frequency and volume of overflows Estimate pollutant loads to recipients Choose between different types of raindata for use on different
+types of problems Identify the main sources for uncertainty and compare to
+uncertainty from climate change and growth of cities","
+Urban drainage and stormwater management; cloud burst; pluvial
+flooding; overflow; dimensioning new system components; hydraulics;
+urban hydrology; back water; modelling; simplification; st. Venants
+Equations; water sensitive urban design (LAR, SUDS, LIDS...);
+rainfall statistics; return period; real-time control; sources to
+pollution; effects of climate change on stormwater systems. 
+",41102,"
+Morten Borup"
+,,,,,,,,,,,,
+12124 , Urban Flood Risk Modelling,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Environmental Engineering,"
+To enable participants to model what happens once rain events
+exceed the capacity of the urban drainage systems and the
+assumptions for modelling the storm water runoff with hydrodynamic
+pipe models no longer holds. To do this, the participants will
+learn how to extend a MIKE URBAN pipe model with a 2 dimensional
+hydrodynamic surface model (MIKE FLOOD) and to understand the
+uncertainties related to this sort of models. Finally the
+participants will learn how to perform urban flood risk assessments
+including the definitions of hazards, vulnerabilities, and
+exposure. It is assumed, that students are familiar with basic GIS
+analysis and formats used by the ArcGIS software, as well as with
+the application of 1D hydrodynamic models. 
+","Understand the processes leading to flooding in urban
+areas Perform GIS analysis of Digital Terrain Models/Digital
+Elevation Models to identify the vulnerable areas of a city in
+regards to flooding Create a 1d-2d hydrodynamic model for flood modelling Understand the main uncertainties in a 1d-2d hydrodynamic urban
+flood model Suggest solutions to a flood problem case. Document the
+solution using MIKE FLOOD Calculate expected annual damage based on flood
+simulations Understand the definitions of hazards, vulnerabilities, and
+exposure in an urban flood context Explain how to perform an urban flood risk assessment","
+Urban flooding, advanced GIS analysis, urban drainage systems, MIKE
+FLOOD, MIKE URBAN, 1d-2d hydrodynamic models, Expected Annual
+Damage. 
+",12122,"
+Karsten Arnbjerg-Nielsen,
+Roland Löwe"
+,,,,,,,,,,,,
+12130 , Solid Waste Technology and Management,English , 10 ECTS , 2016/2017 ,"E4 (Tues 13-17, Fri 8-12)",MSc,Department of Environmental Engineering,"
+This course provides an overview of the problems related to solid
+waste and insight into important technologies and management
+issues. Specific skills are developed regarding waste management
+planning, source separation, incineration and landfilling.
+Principles and tools for environmental assessment of waste
+mangement systems are also provided. 
+","Explain and use important terms related to waste generation:
+waste source, waste types, waste fractions, source separation, unit
+generation rates. Describe methods for characterization of waste. Design and explain systems for waste collection, transport, and
+transfer of waste. Describe waste treatment technologies, and explain important
+physical, chemical, and biological processes involved. Describe technologies for recycling of important waste
+fractions. Describe technologies for landfilling of waste, and explain
+important physical, chemical, and biological processes
+involved. Describe amounts and composition of waste in Denmark, and
+explain how these affect the design of the waste management
+system. Describe important aspects related to consumption of resources
+as well as emissions from waste collection, treatment, recycling,
+and landfilling of waste, and identify potential environmental
+impacts from the relevant technologies. Identify critical aspects related to environmental assessment
+of waste management systems. Prepare and argue a plan for management of the waste in a
+specific region","
+Waste generation, amounts and composition; waste collection and
+separation; reuse and recycling; incineration; biological waste
+treatment (composting, biogas); landfilling; waste policy and
+regulation; waste management; environmental assessment of waste
+management; hazardous waste. Assignment work in groups focusing on
+planning and evaluation of a waste management system; completed by
+a report. 
+","12102,12202","
+Peter Kjeldsen"
+,,,,,,,,,,,,
+12131 , Wastewater Biotechnology,English , 10 ECTS , 2016/2017 ,E1A (Mon 8-12) and E1B (Thurs 13-17),MSc,Department of Environmental Engineering,"
+The course aims to equip students with (1) a knowledge base on the
+major biochemical, physical and physico-chemical processes relevant
+to contemporary wastewater treatment; (2) an appreciation of how
+these processes in ideal reactors respond to environmental and
+operational factors; (3) a knowledge base regarding the
+applications and limitations of these biochemical operations; (4)
+an ability to construct, use, and interpret mathematical models of
+the main biochemical operations; (5) an ability to perform process
+design and analysis for the major unit operations, via appropriate
+steady-state computations or the use of dynamic process simulation.
+
+","List and discuss the components of wastewater and their
+influence on choice of treatment processes. Describe and contrast the underlying mechanisms of the
+different biochemical and physiochemical reactions used in
+wastewater treatment. Size ideal reactors and estimate operational conditions for
+steady-state biochemical removal of organic carbon, nitrogen, and
+phosphorous from wastewater by use of mass balances, process
+kinetics, process stoichiometry, and reactor hydraulics. Use, compare, contrast, and apply basic design and operational
+differences for suspended growth and biofilm bioreactors Describe and perform basic stoichiometric and sizing
+calculations for chemical unit processes in advanced wastewater
+treatment. Describe and perform basic design calculations for various unit
+operations applicable to solids or liquid separation. Sketch and explain complete process trains for treatment of
+various wastewaters, recognizing limitations with respect to energy
+consumption, operational simplicity, robustness, and
+decentralizability. Develop and use dynamic mass-balance models to describe, size,
+and control biochemical processes in various reactor
+configurations Assess treatment plant performance, and document the results in
+a professional engineering report. Perform the conceptual design of a wastewater treatment plant
+appropriate to a set of specified effluent or treatment performance
+conditions Describe and discuss in a report format, as well as orally
+present selected bioengineering principals and biotechnology
+solutions relevant to contemporary wastewater management.","
+The course covers process understanding, process modelling, and
+design and operation of treatment unit operation processes for the
+removal of soluble and particulate organic carbon, nitrogen,
+phosphorus, and synthetic organic chemicals from wastewaters.
+Special emphasis is given to biochemical processes and physical
+separation processes. Chemical treatment processes are covered at
+basic level, necessary to understand how they can optimise/enhance
+biochemical treatment processes. Conceptual design and analysis of
+biological wastewater treatment plants, is the ultimate goal of the
+course. Extensive use of simulation models in all phases of the
+course is undertaken (no prior programming experience required). 
+","12104,12102,12233","
+Benedek G. Plósz"
+,,,,,,,,,,,,
+12132 , LCA,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Environmental Engineering,"
+The course objective is to make the student competent in assessment
+of waste management systems and waste technologies with regard to
+mass-flow, environmental loads and savings, and resource use and
+recovery using a life-cycle perspective. The student will be able
+to model waste management systems, perform uncertainty analysis,
+make general conclusions from model results, and prepare
+communicable summaries of main characteristics of selected waste
+management systems. 
+","Explain the need for a life-cycle perspective on waste
+management Describe advantages and disadvantages of using LCA models on
+waste management systems Explain the general principles in calculating environmental
+loads/savings as well as resource use/recovery Explain the principles in LCA modeling of waste management
+technologies (collection, sorting, incineration, anaerobic
+digestion, composting, landfilling, recycling and energy
+utilization) Apply LCA models on waste management systems and waste
+technologies Discuss the importance of assumptions and boundary conditions
+in LCA modeling of waste management systems Analyze uncertainties and limitations in LCA of waste system
+modeling Interpret results from LCA modeling of complex waste management
+systems Summarize in general technical terms advantages and
+disadvantages of waste management systems from an LCA
+approach","
+Modeling approach to waste quantities, waste composition,
+collection, transport, source separation, mechanical sorting,
+incineration, composting, anaerobic digestion, landfilling, energy
+utilization, material recycling and material utilization. Brief
+summary of approach and methods in LCA. Introduction to the
+EASETECH model. Hand-on assignments in using EASETECH. Definition
+of waste management systems. Modeling of waste management systems.
+Interpretation of results, uncertainty analysis and communication
+of results. 
+",12130,"
+Anders Damgaard"
+,,,,,,,,,,,,
+12134 , Environmental Microbiology,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),BSc,Department of Environmental Engineering,"
+The goal of this course is to equip students with the knowledge and
+tools necessary to appreciate, identify, interpret, and analyse
+microbes and microbial processes in technical and environmental
+systems and anthropogenically disturbed natural environments. 
+","Describe, identify, and list the key distinguishing features of
+the major subgroups of archaea, bacteria, and microalgae. List major biogeochemical cycles, identify those reactions that
+are microbe-catalyzed, and describe the relevant enzymes and
+microbes. Name, explain, and describe the core central metabolic and
+respiratory pathways in archaea and bacteria Use equilibrium thermodynamic expressions to estimate
+feasibility of various biochemical reactions Identify, apply, and interpret basic biokinetic expressions for
+microbial growth and interactions Illustrate and predict how various microbial processes are
+modulated by environmental conditions Describe, identify, list, and sketch the key processes and
+properties that govern microbial interfacial behaviour, with
+emphasis on the biofilm mode of life Describe and differentiate the various non-cellular ‘life’
+forms (virus, plasmids, prions, etc) and the mechanism by which
+they are maintained and transferred in microbial communities Differentiate, list, and provide mode of action of selective
+and non-selective antimicrobial agents - and discuss antimicrobial
+drug resistance List and use the core concepts and terms relevant to public
+health microbiology Identify and explain the biochemical basis of the following
+metabolic modes of life: phototrophy, chemotrophy, litotrophy,
+organotrophy, autotrophy, heterotrophy From simple system observations, analyze and describe the
+underlying governing microbial processes and interactions","
+This course will introduce microbial principles with an
+environmental science & technology and public health
+perspective. After a short overview of the diversity of microbial
+metabolism, quantitative topics of energy conservation, growth
+stoichiometry and kinetics will follow. Then, specific attention
+will be given on microbial ecological principles. Modulation of
+microbial activity by the physical and chemical constraints of the
+environment will be discussed, microbial responses and interactions
+will be described, and methods for quantification of microbial
+presence, abundance, and activity in various environmental matrices
+are introduced. The microbial component of several biogeochemical
+cycles will be exposed. The effect of physicochemical properties of
+microbes on their dynamics in the environment will be introduced,
+and specific attention will be paid on pathogen fate and survival.
+Generic and specific methods for microbial growth control and
+antibiotic resistance will be discussed. Laboratory exercises are
+an integral part of the course. 
+",27002,"
+Barth F. Smets"
+,,,,,,,,,,,,
+12135 , Waste management at Roskilde Festival,English , 5 ECTS , 2016/2017 ,June and July,MSc,Department of Environmental Engineering,"
+The overall objective of the course is to allow students to work in
+the field with waste management in a concrete setting. The students
+will address selected topics in relation to practical waste
+sampling, waste generation rates and resource potentials,
+improvement of waste collection and waste management solutions at
+the festival. Topics are selected according to the possibilities at
+the Roskilde Festival and will involve mandatory field work at the
+festival. 
+","Define and analyse key aspects of waste generation and waste
+management in a real case. Explain the theoretical background needed for the waste case
+study. Identify a relevant issue of the Roskilde Festival waste
+management that can be investigated within the given time frame of
+the course. Plan and develop a field investigation, and illustrate the
+experimental plan. Perform a field investigation. Evaluate the results from the field investigation and relate
+this to the theoretical background. Develop appropriate recommendations related to waste management
+at Roskilde Festival. Communicate the project objectives, methodologies, solutions,
+and evaluation of results in a report.","
+The Roskilde Festival brings together around 80.000 people within a
+short time period. This represents a tremendous challenges for
+setting up a properly functioning waste management system.
+Non-collected waste may in fact create health problems, odour, and
+may provide the festival participants with an overall bad
+impression of the event. Collection and subsequent treatment and
+recycling of the waste itself also have different environmental
+impacts. During the course, the students work in groups on a
+specific topic related to waste management at Roskilde Festival,
+before, during, and after the event. The project work is carried
+out in collaboration with the festival organizers. Based on the
+work, each group documents their findings in a written report. A
+few introductory and ad-hoc lectures may be given, but the main
+work will be done independently within the groups. The course
+requires a background in waste management and is based on the
+textbook: Solid Waste Technology & Management by Christensen
+(ed.), 2011, Blackwell Publishing LtD. 
+",None,"
+Alessio Boldrin,
+Thomas Fruergaard Astrup"
+,,,,,,,,,,,,
+12136 , Bioenergy Technologies,English , 10 ECTS , 2016/2017 ,"F4 (Tues 13-17, Fri 8-12)",MSc,Department of Environmental Engineering,"
+- Give knowledge of current and emerging technologies for
+conversion of biomass to energy carriers, such as biogas,
+biodiesel, bioethanol, or direct conversion to electricity and
+heat.
+
+- Give an overview of biomass resources, availability of biomass
+(wastes, industrial and agricultural residues), and potential for
+conversion of biomass to energy.
+
+- Give perspectives for utilisation of biomass to bioenergy
+production at national and global level, as well as the
+sustainability of the utilisation technologies.
+
+- Give insight to the most important biotechnological and
+thermochemical methods for bioenergy/biofuels production. Both
+theoretical knowledge(through lectures and project work) and
+practical experience (through lab-experiments – project) will be
+achieved. A field trip to a biofuel plant will couple the
+theoretical learning with the real applications. 
+","Describe main types of biomass, calculate bioenergy potential
+from biomass characteristics, and design bioconversion methods for
+utilisation of specific types of biomass resources Describe the principles of bio-chemical processes for
+production of energy from biomass, such as biogas, biodiesel,
+bioethanol, and microbial fuel cells (MFC). Describe the principles of the physical-chemical processes such
+as gasification and combustion for conversion biomass to
+energy, Explain competitive microbial conversions under different redox
+conditions and how environmental parameters influence microbial
+growth, and be able to identify parameters for process
+optimisation Understand microbial growth kinetics and mass balances, and be
+able to define a simple mathematical model to simulate a biological
+process Apply knowledge in biotechnological and thermo-chemical
+principles for designing a biorefinery concept Combine and utilise the knowledge achieved during the course,
+for proposing new concepts/processes for biotechnological
+applications. This will be done by preparing a “Scientific project
+proposal”. ....","
+Overview and perspectives in biomass resources
+
+Overview of technologies for conversion of biomass to energy
+
+Biomass chemistry
+
+Microorganisms as biocatalysts in the biological processe
+
+Biogas process: principles and applications
+
+Bioethanol production: process technology
+
+Microbial fuel cell (MFC): principles and future perspectives
+
+Combustion: principles and applications
+
+Gasification: principles and future perspectives
+
+Biorefineries 
+",12102,"
+Irini Angelidaki,
+Dimitar Borisov Karakashev,
+Ioannis Fotidis"
+,,,,,,,,,,,,
+12138 , Environmental Microbiology II,English , 5 ECTS , 2016/2017 ,F5B (Wed 13-17),MSc,Department of Environmental Engineering,"
+This course will introduce the diversity of microbes, the microbial
+interactions, and the microbial processes that are relevant for
+many environmental biotechnological applications (e.g. water
+supply, wastewater biotechnology, contaminant biodegradation,
+bioenergy production, water quality management). Using case studies
+that vary from year to year (the engineered N cycle, soil pesticide
+biodegradation, pathogen survival in wastewater effluents), the
+students will learn how to observe and work with microbes and
+develop an appreciation for core concepts in microbial ecology.
+Through laboratory exercises, and a combination of traditional and
+contemporary tools and techniques, students will learn how to
+evaluate the presence, abundance, identity, diversity, and activity
+of microbes in various environments and measure environmental
+process rates. 
+","Determine and quantify targeted microbes with modern molecular
+and microscopic methods Choose and appraise measures for microbial activity and
+abundance in environmental samples Isolate and quantify pathogenic microbes and microbial strains
+that degrade environmental pollutants via selective enrichment and
+cultivation Perform and interpret molecular diversity analysis on
+environmental strains and communities Measure and interpret microbial biotransformation rates Discuss how microbial processes drive biogeochemical
+cycles Recognize and interpret microbial interactions and their
+importance in microbial ecology, and describe opportunities to
+interfere in those interactions Explain how environmental conditions (abiotic factors) affect
+microbial processes and interactions Isolate bacteriophages and/or plasmids from environmental
+samples Recognize microbial strategies to survive unfavourable
+environments","
+Working with microbes, determination of microbial density and
+metabolic rates, nucleic acid extraction, 16S rRNA targeted
+Fluorescent In situ Hybridization (FISH), quantitative PCR,
+confocal scanning laser microscopy, cloning and sequencing,
+bioinformatics, plasmid and phage isolation, respirometry, C-14
+radiotracers, selective enrichment and growth of microbes,
+biotransformation assays 
+",12134,"
+Barth F. Smets,
+Arnaud Dechesne,
+Marlene Mark Jensen"
+,,,,,,,,,,,,
+12139 , Resource Engineering,English , 5 ECTS , 2016/2017 ,E3B (Fri 13-17),BSc,Department of Environmental Engineering,"
+Natural resources represent materials and entities that are
+obtained from the natural environment and provides a usefulness for
+society, e.g. minerals, metals, and nutrients. Consumption and
+management of these resources in society are tremendously important
+for the environmental impact from society and the possibilities for
+future technological development. The course provides the necessary
+background to address resources from an engineering perspective and
+presents key aspects related to consumption, quality, management
+and recovery of resources. With focus on the environment, the
+course further provides an overview of important resource
+characteristics, and introduces a range of engineering tools for
+evaluation of resources management in society, urban contexts and
+industrial processes. 
+","Explain and be able to apply key definitions and terminology in
+relation to resources Explain the main resource types with respect to important
+characteristics (e.g. availability, consumption patterns, and
+typical flows in society) Identify important environmental impacts in relation to the
+main resource types Describe key types of resource indicators for evaluation of
+resource consumption Assess the criticality of resources for society and/or specific
+technological systems and discuss the dependence of specific
+resources in this context Evaluate resource management in simple systems based on
+selected concepts, e.g. life cycle based indicators, exergy, and
+ressource criticality Explain the main challenges related to resource recovery and
+use of recovered resources Apply the above concepts and methods for solving smaller
+assignments on specific technological systems","
+Today, most environmental impacts in society are associated with
+resource production, consumption and management of resources after
+the use-phase. The course provides students with an essential
+understanding of the role of resources in society, the most
+important environmental aspects related to resources, and how
+resources can be addressed from an engineering perspective. With
+focus on environmental aspects, the course addresses all key phases
+in the ""life cycle"" of resources: production, resource
+characteristics, consumption patterns, flows in society, and
+resource recovery and recycling. The course provides an overview of
+resource definitions, resource availability, depletion, criticality
+and functionality, typical resource flows in society, key
+economical aspects of resource management, challenges related to
+resource recovery, as well as introduces selected engineering tools
+related to resource systems: resource criticality, exergy and life
+cycle based indicators. 
+",None,"
+Thomas Fruergaard Astrup"
+,,,,,,,,,,,,
+12140 , Integrated Urban Water Quality Management,English , 5 ECTS , 2016/2017 ,E4A (Tues 13-17),MSc,Department of Environmental Engineering,"
+The overall course objectives are to understand the dynamic
+interactions between sewer systems, wastewater treatment plants and
+receiving waters and to learn using an integrated model simulation
+tool to optimise the performance of this integrated system
+considering a range of technical mitigation options. 
+","Identify the main pollution impacts from urban areas on
+receiving waters and distinguish those having an accumulating and a
+dynamic (acute) nature Describe the operational interplay between the three components
+in the integrated urban (waste) water system: the urban drainage
+system, the treatment plant and the receiving waters Assess the importance of this interplay for the pollution loads
+released from combined sewers and treatment plants during rainfall,
+the impacts of this pollution and the potential for mitigation of
+the impacts Apply an integrated modelling tool for simulation of pollution
+loads, receiving water effects and mitigation option’s
+efficiency Analyse the model-output and discuss the cause-effect
+relationships responsible for the observed results Propose alternative mitigation strategies based on source
+control, end-of-pipe treatment and on-line control to improve the
+overall performance of the system Devise simulation schemes that allow analysing the overall
+efficiency of the proposed mitigation options Summarise the outcome of the model simulations and explain
+their implications in clear language Evaluate different mitigation options while respecting economic
+and environmental constraints Prepare a tender document recommending a technically optimised,
+appropriate engineering solution while accounting for the basic
+presumptions, data and methodologies used","
+A modular teaching approach is used, whereby each module builds on
+the next in increasing complexity. The course is made up of the
+following seven modules:
+
+1. Initial systems analysis
+
+2. Nutrient loads
+
+3. Oxygen depletion in rivers
+
+4. Interplay between detention basins in the urban drainage system
+and the wastewater treatment plant's secondary clarifier
+
+5. Stormwater infiltration and overflow treatment
+
+6. Rule based real-time control of urban drainage-wastewater
+treatment systems
+
+7. Competetive optimisation
+
+The key element that links the modules is an integrated software
+modelling tool that illustrates the system dynamics through
+exercises. Exercises are based on a case study that is used in all
+modules. In the final module the student is cast in the role of a
+consultant vying for a contract to minimise the pollution impact at
+the least cost. Fellow students are the competing consultants.
+
+All registered students will have access to the computer simulation
+programme, model description and user manual, and exercises and
+textbook explanations. 
+","41102,12320,12233,12131,12122","
+Luca Vezzaro,
+Peter Steen Mikkelsen"
+,,,,,,,,,,,,
+12142 , Industrial Ecology,English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,Department of Environmental Engineering,"
+The course will enable advanced engineering students to use their
+competences together with the latest results from the global
+environmental discussion to design sustainable systems. 
+","utilise the facts on the limitations of the Earth system to
+argue for environmentally sustainable development unveil the mechanisms of overuse as barriers for the
+implementation of sustainable solutions and propose strategies to
+overcome these resistances design and evaluate environmentally sustainable, societal and
+industrial systems based on the concepts of industrial ecology imagine opportunities for technological development and
+innovation from resource limitation and impact mitigation employ the concept of industrial symbiosis to form network
+synergies to increase the resource efficiency in industry and
+society conceptualise novel environmental services and technologies to
+realise network synergy interpret and use global scenarios to derive local,
+environmentally sustainable solutions envision a proactive transition from a given status to a
+sustainable system propose strategies for convincing stakeholders to support and
+implement environmentally sustainable solutions","
+This course aims at preparing engineering students to conceptualise
+sustainable societies and to learn how to use their engineering
+competences to contribute to solving the major global environmental
+challenges in their future professional lives. We illustrate how
+the boundaries of our planet constrain future technological
+development and economic growth. We introduce Industrial Ecology,
+the engineering science that aims at establishing the long-term
+co-existence of industry and the natural environment by forming a
+productive, sustainable Earth system. Natural systems, where matter
+cycles are closed, are used as models for sustainable technological
+development. The course introduces a few new engineering tools and
+uses already established methods to study materials and energy
+flows in societal systems and their environmental impacts. Examples
+will be shown how engineers design and manage production processes
+in a more sustainable manner, resulting in speeding up
+technological innovation. In a second part the course participants
+will look at an urban system from very different angles and
+evaluate which system components are unsustainable and build a
+multifaceted scenario for the transition towards a sustainable
+system. 
+","42372,42377,42340,12139,12205,12202","
+Andreas Ibrom"
+,,,,,,,,,,,,
+12143 , Bioresources,English , 5 ECTS , 2016/2017 ,F3B (Fri 13-17),BSc,Department of Environmental Engineering,"
+Bioresources are natural organic materials (i.e. materials derived
+from living things) which may be used in society for multiple
+purposes: to produce feed for animals, food for humans, feedstock
+(e.g. timber, pulp, biomaterials) as well as energy. Supply and
+management of these bioresources is associated with significant
+environmental impacts. These are primarily related to the demand
+for arable land and forest products which cause pressure on the
+natural environment, ultimately incurring losses of natural biomes
+such as natural forest. Additional impacts derive from the
+management of these bioresources in society, for example in
+relation to processing, transport, and handling of the biomass
+residuals. With focus on the environment, the course provides an
+overview of bioresource characteristics and potential uses,
+highlighting potential competition and the connection with land-use
+change impacts. Further, the course applies accounting of
+greenhouse gases (GHG) as a tool to assess the climate impacts from
+the entire bioresource life-cycle. 
+","Understand and explain key definitions and terminology in
+relation to bioresources Understand and explain how bioresources are generated in nature
+(stocks, growth, C, N flows) Understand ecosystem services and key types of indicators in
+relation to bioresources (e.g. biodiversity) Apply knowledge of the main characteristics of bioresources
+(e.g. availability, composition, uses, typical flows in society) to
+the management and utilization of bioresources Identify critical environmental consequences in the
+exploitation of bioresources Quantify and analyze environmental implications related to
+land-use changes, particularly carbon emissions Analyze climate impacts from selected bioresource pathways by
+applying GHG accounting, including land-use change impacts Apply the above concepts and methods for solving problems on
+technological systems","
+Bioresources are a basis for production of feed, food, energy, and
+materials in society. However, the supply and management of
+bioresources can result in significant environmental impacts,
+primarily because of the demand for arable land and forest products
+leads to enormous pressures on the natural environment. The course
+provides students with an essential understanding of the role of
+bioresources in society, the most important environmental aspects
+related to these, and how bioresources can be addressed from an
+engineering perspective. With focus on environmental aspects, the
+course addresses all key phases in the ""life cycle"" of
+bioresources: production/harvest, characteristics, uses, flows in
+society, and handling of residuals. The course also addresses
+land-use changes and associated impacts induced by the demand for
+biomasses. An overview of bioresource definitions, availability,
+competing uses (e.g. competition between food and energy crops) is
+provided. GHG accounting is introduced as a tool to assess the
+climate impacts throughout the bioresource life-cycle. 
+",None,"
+Davide Tonini,
+Thomas Fruergaard Astrup"
+,,,,,,,,,,,,
+12144 , Material Flow Analysis,English , 5 ECTS , 2016/2017 ,August,MSc,Department of Environmental Engineering,"
+The overall objective of the course is to provide the necessary
+background knowledge and tools to reconcile material (MFA) and
+substance (SFA) flow analyses for selected systems, including a
+quantification of the related uncertainty. The course will also
+focus on how to visualize, interpret and communicate the results of
+MFA/SFA studies. 
+","Explain and be able to apply key definitions and terminology in
+relation to MFA and SFA Explain the concept of indicator substances for a selected
+system Define and describe the system boundaries of a selected system
+to be assessed Perform an MFA study of a selected system and SFA of selected
+substances within such a system Interpret and evaluate results of the MFA study Identify weakness and hotspots in a system Calculate and interpret uncertainty associated with the results
+of MFA/SFA Illustrate different methods available for further analysis of
+MFA/SFA results","
+Material flow analysis (MFA) is a method for analytically
+quantifying the flows and stocks of materials within a defined
+system of interest. MFA is thus the foundation for many basic
+engineering calculations and system analysis, and is widely used in
+material and resource management. MFA and SFA (i.e. substance flow
+analysis) are key components in sustainability assessment, as the
+quantification of material and substance flows in society and
+production systems are the basis for estimating the environmental
+emissions and impacts associated to these flows, as well as for
+developing accurate techno-economic evaluation of emerging and/or
+innovative technologies. The course will consist of an overview of
+MFA methodology and theory, including uncertainty/sensitivity
+analysis, evaluation methods, and case studies. In-class exercise
+will cover different topics. 
+",12202,"
+Alessio Boldrin"
+,,,,,,,,,,,,
+12202 , Environment and Sustainability,Danish , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),BSc,Department of Environmental Engineering,"
+The course gives the student a professional basis for assessing important aspects related to environment and sustainability, primarily in relation to resource consumption and use of resources. The course introduces a range of computational tools that can be used on various issues in environmental technology.
+","A student who has met the objectives of the course will be able to:
+Explain key sustainability concepts and environmental impacts, and relate these to the consumption of renewable and non-renewable resources
+Describe the cycling of matter in relation to selected environmental technologies, including identifying essential matter pools and flow between these pools
+Demonstrate an overview of significant environmental aspects related to energy and other resources, including resources in waste
+Explain the principles of mass, energy and material flow analysis, and use these in simple systems
+Explain the principles for defining system limits systemækvivalens and environmental assessment of environmental technology systems
+Applying the above principles to determine the emission inventories for selected environmental technology systems
+Assess the key environmental aspects related to the selected technologies from a division of upstream, direct and downstream environmental impacts
+Demonstrate an overview of data requirements (parameters, data quality) related to the above environmental evaluations","The course focuses on consumption and recycling of resources, ressourceflows, energy, issues relating to the use of biomass and waste, mass flow analysis, energy flow analysis, material flow analysis, as well as inventory and assessment of key emissions such as CO2, SO2, NOx. It focuses on the technical aspects. Teaching is a combination of lectures, group assignments, presentations and assignments.",None,"
+Thomas Fruergaard Astrup"
+,,,,,,,,,,,,
+12203 , Environmental project work,Danish , 10 ECTS , 2016/2017 ,F5B (Wed 13-17) and June  or  Fall,BSc,Department of Environmental Engineering,"
+1) To identify and/or apply research-based technical solutions, and
+management strategies for environmental engineering systems and
+environmental engineering processes based on the knowledge that has
+been achieved by the 4th semester,
+
+2) The student can identify, define and formulate a relevant
+problem formulation,
+
+3) Performing project work in collaboration with others, as well as
+on their own by sparring with supervisors,
+
+4) Perform relevant information retrieval, and critically compared
+own data with literature,
+
+5) Can communicate the aim and results in writing, graphically and
+verbally as well as participate in an academic discussion. 
+","Work systematically and scientifically within the chosen
+area Carry out group work under time and logistical constraints Prepare, manage and follow up on a guidance situation with a
+high yield for the project Set their own learning goals for the project Perform a thorough literature and knowledge search Perform a critical comparison of existing knowledge at a high
+professional level Presenting information in a precise language both orally and in
+writing Produce graphs and tables that clearly displays data and
+desired points Produce a report that accurately and concisely explain the
+results and discusses these Prepare and present an interesting lecture with clear figures
+and points Discuss and analyse others' projects in a group","
+The detailed contents of the projects are defined in collaboration
+between the students and the supervisor. The subjects may include
+technical, natural science and social/environmental disciplines. 
+",,"
+Hans-Jørgen Albrechtsen"
+,,,,,,,,,,,,
+12205 ," Climate change – impacts, mitigation and adaptation",Danish , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),BSc,Department of Environmental Engineering,"
+Det er ”ekstremt sandsynligt”, at menneskelig påvirkning har været
+den dominerende årsag til den globale opvarmning i de seneste 50
+år. Det konkluderer den nyeste hovedrapport fra det internationale
+klimapanel (IPCC) med endnu større sikkerhed end de tidligere
+rapporter. I de seneste årtier har ændringer i klimaet påvirket
+naturlige og menneskeskabte systemer på alle kontinenter og på
+tværs af oceaner. Det er ændringer som opvarmning af atmosfæren og
+havene, ændringer i det globale vandkredsløb, mindre mængder is og
+sne, stigning i verdenshavenes gennemsnitsniveau samt flere
+ekstreme vejrfænomener som fx tørke og voldsomme regnvejr. Vi kan
+til en vis grad imødegå og tilpasse os klimaændringerne.
+
+Dette kursus giver en bred introduktion til klimaændringer. Den
+første del af kurset omhandler de fysiske mekanismer bag
+klimaændringer, dvs. klimasystemet og dets respons ved udledning af
+drivhusgasser. Her præsenteres vigtige koncepter som radiative
+forcing, feedback mekanismer samt kulstofkredsløbet. De nyeste
+drivhusgasopgørelser præsenteres og koblingen via klimamodeller til
+fremtidens klima gennemgås. Den anden del af kurset omhandler
+påvirkninger på mennesker og miljø som følge af klimaændringer og
+muligheder for at imødegå og tilpasse sig klimaændringer. Fokus vil
+være på Danmark særligt på effekter på naturlige og menneskeskabte
+systemer herunder sundhed, økosystemer, infrastuktur, mm. 
+","Redegøre for atmosfærens opbygning, jordens energibalance og
+den naturlige drivhuseffekt Redegøre for kulstofs kredsløb og kende til de væsentligste
+strømme, puljer og dræn samt menneskets påvirkning af disse Redegøre for de vigtigste drivhusgasser, deres styrke (herunder
+radiative forcing og drivhusgas potentialer) og akkumulering i
+atmosfæren samt og deres rolle i ændringen af klimaet Redegøre for de vigtigste kilder til udledning af drivhusgasser
+samt metoder til opgørelse af emissionerne Redegøre for hvordan fremskrivning af klimaet foretages på
+baggrund af opstillede emissionsscenarier Kende til klimamodeller, deres anvendelser og
+begrænsninger Beskrive hvilke metoder der kan anvendes til at reducere
+udledningerne og redegøre for udfordringerne med at opstille og nå
+mål for reduktionernes størrelse Redegøre for de vigtigste effekter som følge af kilmaændringer
+på global og dansk skala Redegøre for hvordan klimaeffekter kan imødegås igennem
+forskellige strategier for klimatilpasning med fokus på især danske
+forhold.","
+Kursusindholdet består af forelæsninger og øvelser, der
+understøtter kursusmål og belyser klimaændringers mekanismer,
+effekter, muligheder for imødegåelse og tilpasning. 
+",None,"
+Charlotte Scheutz,
+Karsten Arnbjerg-Nielsen"
+,,,,,,,,,,,,
+12210 , Environmental Engineering in Developing Countries,English , 5 ECTS , 2016/2017 ,January,BSc,Department of Environmental Engineering,"
+The course participants will understand the importance of proper
+water supply, sanitation and solid waste management in low and
+middle income countries. The course will provide the necessary
+background and tools to sketch out solutions for water supply,
+sanitation and solid waste management. The course will focus on how
+to contextualize these solutions to specific problems and
+situations, while addressing the external factors that may prevent
+a proper functioning of the technical system. 
+","Apply basic knowledge of mathematics, science, and engineering
+science in designing possible and appropriate technical solutions
+to basic sanitation, water supply, and waste management in low and
+middle income countries Understand and explain how sanitation, waste supply, and waste
+management are linked to human health and environmental issues Explain basic concepts for identification and intervention in
+environmental problems with emphasis on urban areas in low and
+middle income countries Critically review literature on appropriate techniques for
+providing water supply, sanitation and waste management in low and
+middle income countries Collect relevant data for carrying out the assignment,
+including proper use of information sources and citations Design solutions for improving/establishing water supply,
+sanitation, and water management in selected locations Analyze and understand legislative, cultural, economic and
+sociodemographic factors in relation to a successful implementation
+of the designed solution Explain and defend content of report and conclusions to other
+course participants","
+The course provides students with an understanding of issues
+related to environmental engineering in urban areas of low and
+middle income countries, focusing on water supply, sanitation and
+waste management. The course will initially provide an overview of
+environmental engineering in low and middle income countries, in
+connection to health, environmental, social, economic and
+legislative aspects. This will be followed by three modules
+providing an overview of technical and management solutions for
+water supply (M1), sanitation (M2) and waste management (M3);
+several cases studies and examples will be presented. The last part
+of the course will focus on planning and implementation of
+environmental sanitation infrastructure and services in urban and
+peri-urban communities, using the Community-Led Urban Environmental
+Sanitation (CLUES) approach. Students will be involved in a role
+play to mimic the participatory process.
+
+The course makes use of a range of different teaching tools,
+including frontal lectures, videos, presentations, a role play, and
+group work on a specific assignment. 
+",None,"
+Alessio Boldrin"
+,,,,,,,,,,,,
+12226 , Air Pollution and Environmental Effects,English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,Department of Environmental Engineering,"
+To describe air pollution sources, atmospheric transport,
+dispersion and transformation processes, deposition, uptake and
+impacts on human health and the environment. 
+","Do a basic assessment of health affecting air pollutants like
+particulate matter, ground level ozone and NO2 in urban air. Present contemporary global environmental issues like climate
+change and ozone holes. Explain basic concepts of air pollution, and identify and solve
+environmental problems with emphasis on air pollution. Apply working knowledge of mathematics, science, and
+engineering science in understanding air pollution, and possible
+environmental engineering interventions. Sketch political and economic actors in relation to solving air
+pollution problems from local to regional and global scale. Relate health and safety needs in relation to air
+pollutants. Analyze, interpret, and communicate environmental data related
+to urban air pollution. Perform relevant measurements of key air pollutants. Evaluate key air pollutants - and their environmental impact -
+from important sectors like residential burning, shipping,
+agriculture, road traffic etc.","
+Air pollution is a phenomenon that has increased both in
+geographical and temporal measure since the start of civilization.
+The course provides a short introduction to the historical
+background and outlines the problem as seen in a general
+perspective. The course treats air pollution from sources through
+atmospheric transport and transformation, deposition and impacts on
+humans, animals, vegetation, soils, water, constructions and
+buildings. Specific air pollutants covered in the course include
+NOx, O3, and fine particles where global warming and ozone layer
+destruction are specific global themes. The course covers
+measurement of air pollutants as well as mathematical modeling.
+Technological means for controlling air pollution emissions from
+stationary and mobile sources are described. Finally environmental
+economy, legislation and international efforts towards reduced
+emissions are briefly covered. 
+",12102,"
+Teis Nørgaard Mikkelsen"
+,,,,,,,,,,,,
+12231 , Applied Analytical Environmental Chemistry,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Environmental Engineering,"
+The aim of this course is to give students that are going to carry
+out an experimental thesis work the necessary comprehension in
+analytical chemistry. The course will also provide the student with
+knowledge to be able to understand and critically evaluate
+experimental data produced by others. 
+","1. Explain fundamental principles for environmental analytical
+methods (titration, spectrophotometry, spectroscopy,
+chromatography, electro-chemistry, etc) 2. Point out suitable analytical techniques for analyzing a
+specific compounds in an environmental matrix 3. Point out suitable techniques for a specific type of
+sample 4. Point out suitable techniques for sampling and handling of
+environmental samples 5. Apply quality control on chemical analysis and laboratory
+work and explain its importance 6. Plan and carry out laboratory experiments, including data
+analysis and conclusions 7. Describe simple approaches for troubleshooting 8. Organize lectures 9. Give constructive feedback to others work","
+Strategy and planning of testing of an analytical method, including
+sampling, sample preparation and data evaluation. Methods for
+environmental chemical analysis. Quality control. 
+",12102,"
+Philipp Mayer"
+,,,,,,,,,,,,
+12233 , Water Pollution,English , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,Department of Environmental Engineering,"
+To learn the tools necessary in order to be able to measure,
+understand and predict water quality and development of ecosystems.
+
+1. Chemical, biological and mathematical methods to measure and
+analyse water pollution
+
+2. Understand the relation between the physical and chemical
+properties of water systems (water quality) and life in aquatic
+ecosystems.
+
+3. Learn the way from problem formulation to systems analysis to
+mathematical modeling to prediction of the development of aquatic
+systems.
+
+4. Prepare abstracts and presentation (in group work) of own
+results. 
+","Insight in the structure and functioning of aquatic ecosystems
+(lakes and rivers). Knowledge of national and international water quality
+objectives. Knowledge of threats to water pollution and water quality
+(which pollutants, which regulations). Learning biological and chemical methods to measure and
+describe water quality (Saprobia index, chemical analysis). Knowledge of sources, behaviour and effects of organic,
+inorganic and biological water pollutants (BOD; nutrients;
+environmental chemicals; pesticides; pathogens and others). Applying the systems analysis approach to interprete and
+predict the evolution of aquatic ecosystems under chemical stress
+(how to analyse a complex system; establish the mass balance
+equations and and build a mathematical model). Using mathematical algorithms and tools to solve differential
+equation systems (what are linear differential equations;
+analytical solutions; numerical solution methods). Learning and applying probabilistic risk assessment (basic
+statistics; what to do with variability and variance in data;
+uncertainty and sensitivity analysis; Monte-Carlo
+simulations). Development, implementation and use of water quality models
+(oxygen models; transport models; own implementation and data
+input). Development, implementation and use of multi-media models for
+thefate of organic chemicals in aquatic systems (own implementation
+and data input). Knowledge of restoration methods for distorted ecosystems
+(engineering methods; biomanipulation). Performing scientific work (problem identification and solving
+in small project groups; writing of scientific articles;
+presentation of results before students and teachers).","
+- Excursion to a water course.
+
+- Determination of species living in water.
+
+- Laboratory work to determine basic chemical parameters.
+
+- The knowledge of important water pollution problems.
+
+- Case studies of severe water pollution problems (mining,
+accidents).
+
+- Systems analysis of environmental problems.
+
+- Application of common computer programs for modelling water
+quality.
+
+- Computer simulations to predict maximal loads into water courses.
+
+- Preparation of an abstract of these results and a short
+presentation. 
+","12320,12102","
+Stefan Trapp,
+Ursula S. McKnight"
+,,,,,,,,,,,,
+12237 , Chemicals in the environment,English , 10 ECTS , 2016/2017 ,"F1 (Mon 8-12, Thurs 13-17)",MSc,Department of Environmental Engineering,"
+To provide a general basic knowledge of environmental chemistry and
+ecotoxicology as a fundamental basis for understanding chemical
+pollution problems. Tools for evaluation of environmental fate and
+effects of chemicals are introduced in the context of environmental
+management and risk assessment. 
+","Define and describe fundamental concepts and terms in
+environmental toxicology, chemistry and risk assessment Collect relevant chemical fate and effect data from the
+internet and handbooks/databases Interpret physico-chemical data for chemicals in relation to
+environmental fate Quantify environmental behavior using equilibrium
+assumptions Apply simple quantitative structure activity relationships in
+the estimation of inherent compound properties Interpret results of standardized biodegradability tests Conduct laboratory ecotoxicity test with chemicals Design, conduct and interpret ecotoxicity tests with mixtures
+of chemicals Analyse data and evaluate results of ecotoxicological
+tests Describe test results in a technical laboratory report Classify and assess chemicals in accordance with regulatory
+guidelines for environmental risk assessment Summarize and evaluate own and literature data in environmental
+profiles of organic chemicals","
+The course deals with environmental exposure and effect assessment
+of organic chemicals. Exposure and effect assessments are key
+elements in both Danish and EU classifications and risk assessments
+of chemicals. The exposure assessment covers the environmental
+chemical fate i.e. transport, degradation, intermedia transfer and
+partitioning of chemicals in different parts of the environment.
+Here processes like biodegradation, hydrolysis, photodegradation,
+sorption, volatilization, and bioaccumulation are fundamental for
+understanding the environmental behaviour of chemicals. The
+processes are related to the physico-chemical and chemical
+structure properties and to the characteristics of the
+environmental compartments (water, aquatic sediments, aquatic
+biota, soil, and air). Calculation exercises and computer-based
+models for distribution of compounds are used to illustrate the
+environmental chemical fate. The effect assessment covers
+ecotoxicological effects of chemicals. This subject is taught
+through lectures dealing with the theoretical aspects of toxicity
+testing and regulatory use of toxicity data. Furthermore,
+collection of chemical property data and a series of theoretical
+and practical laboratory exercises are carried out in groups of 3
+students. The laboratory exercises include standard tests for
+biodegradation and biological effects on different groups of
+organisms (e.g. bacteria, algae and crustaceans). 
+","12102,02402","
+Anders Baun"
+,,,,,,,,,,,,
+12238 , Priority Organic Pollutants ,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,Department of Environmental Engineering,"
+The course will provide: (1) general and specific knowledge about
+several key organic pollutants and (2) general and specific
+knowledge of transport, distribution and transformation processes
+that control the exposure, fate and toxicity of these and other
+organic contaminants. 
+","Has general and specific knowledge about several key groups of
+organic pollutants with special emphasis on persistence,
+bioaccumulation and toxicity (PBT). Will have a general knowledge of the physico-chemical
+properties of several key groups of organic pollutants. Can identify the governing processes for organic pollutants and
+evaluate how they affect their fate, exposure and effects in the
+environment Can relate these processes to the molecular structure and the
+physico-chemical properties of the pollutants. Can relate these processes to the characteristics of the
+environmental compartment. Can identify and evaluate the factors that affect the
+bioavailability and exposure of chemical compounds in various
+matrices. . .","
+The first part of the course covers selected key processes that
+control the fate, exposure and effects of organic pollutants in the
+environment. These processes fall within the general categories of
+transport (diffusion, advection), distribution (partitioning,
+adsorption, entrapment) and transformations (e.g. biodegradation,
+photodegradation and hydrolysis). These processes will be
+introduced and described within an environmental organic chemistry
+context.
+
+The second part of the course covers a selection of key contaminant
+groups: (1) Legacy persistent organic pollutants (PCBs, DDTs,
+dioxins), (2) Brominated Flameretardants and Plasticizers, (3)
+Fluorinated organic pollutants, (4) Polyaromatic hydrocarbons
+including alkylated and hydroxylated PAHs, (5) Down the drain
+chemicals, (6) Pesticides and Biocides, (7) Pharmaceuticals, (8)
+Engineered Nanoparticles. For each group, there will be emphasis on
+sources and inputs to the environment, physico-chemical properties,
+distribution in environmental matrices, transport of compounds
+within and between matrices, abiotic and biotic transformations as
+well as environmental and human toxicity. In the lectures and
+exercises there will be special focus at identifying key processes
+and at discussing how these processes affect the fate, exposure and
+effects of the specific chemicals. Several of the lectures will be
+given by experts with active research on the specific contaminant
+group.
+
+The course complements the course 12237 “Chemicals in the
+environment”, and is intended to provide a deeper and broader
+understanding of key processes and key pollutants within the area
+of environmental organic chemistry. 
+","26400,12104,12102,12233,26000","
+Philipp Mayer"
+,,,,,,,,,,,,
+12320 , Hydrology,English , 10 ECTS , 2016/2017 ,"F2 (Mon 13-17, Thurs 8-12)",BSc,Department of Environmental Engineering,"
+Hydrology provides the disciplinary foundations for working on
+water resources problems. The course develops the technical skills
+to quantify all aspects of the hydrological cycle in the context of
+engineering design problems. Each component of the water cycle is
+covered in depth through lectures and a comprehensive suite of
+exercises. An understanding of physical hydrologic processes is
+provided, including the ability to critically analyse and apply
+that understanding to new problems, and where necessary further
+develop hydrological science for engineering application. Students
+completing the course will have a good background for further work
+on water management, including such topics such as integrated water
+resources management, urban water management, flood control,
+managing climate change impacts on the water cycle, water supply,
+contaminated sites management etc. 
+","Describe the governing processes of the hydrologic cycle
+including exchange processes between atmosphere and soil surface,
+surface water runoff, and groundwater flow Be able to formulate hydrological processes in mathematical
+terms Solve problems related to water resources development including
+groundwater and surface water Be able to integrate components of the hydrological cycle in a
+water resource assessment Be able to work with and recognise the limitations of
+hydrological data. To employ physical principles such as conservation of mass,
+energy or force balances to solve problems. To describe and solve problems on transport phenomena. Be able to employ mathematical and computational techniques to
+solve environmental engineering problems.","
+Introduction to hydrology and the hydrological cycle, water vapour,
+precipitation, evaporation, evapotranspiration, climate,
+infiltration, Darcy’s law, basic principles of groundwater flow,
+regional groundwater and surface water, well hydraulics and capture
+zones, surface runoff and streamflow, hydrological modelling, snow 
+","41102,10020,02633","
+Peter Bauer-Gottwein,
+Monica Garcia"
+,,,,,,,,,,,,
+12326 , Field Course in Applied Geophysics,English , 5 ECTS , 2016/2017 ,August,MSc,Department of Environmental Engineering,"
+-To provide an introduction to the field of geophysical
+exploration.
+
+-To obtain an overview of the different geophysical exploration
+methods used in environmental and water resources surveys.
+
+-To obtain practical working knowledge of selected methods,
+including survey planning, field operations, data processing and
+interpretation. 
+","Choose the adequate geophysical method Simulate the expected geophysical response Plan and prepare a geophysical survey Collect good geophysical data in the field Process the acquired data Interpret the data using geophysical modeling and
+inversion Convert the geophysical results into a geological model Report the survey results in an appropriate format Operate a TDEM system Operate a MEP system Operate a magnetometer Operate a borehole logging system","
+-An introduction to geophysical methods; Gravity, geomagnetism,
+seismic exploration, geoelectrical methods, electromagnetic methods
+and geophysical borehole logging.
+
+-Principles of modeling of geophysical data.
+
+-Planning of geophysical surveys
+
+-Field work using the methods: Electrical sounding and profiling,
+electromagnetism, geomagnetics and borehole geophysical logging
+(plus possibly gravimetry and seismics)
+
+-Procesing and interpretation of field data 
+","30140,02633","
+Peter Bauer-Gottwein"
+,,,,,,,,,,,,
+12330 , Contaminated Sites,English , 10 ECTS , 2016/2017 ,"F3 (Tues 8-12, Fri 13-17)",MSc,Department of Environmental Engineering,"
+The overall objective is to give the student a platform for a
+professional behaviour towards risk assessment and remediation of
+contaminated sites. 
+","present sources to soil and groundwater pollution primarily
+from contaminated sites and identify types of sources and important
+contaminants demonstrate conceptual understanding of contamination of the
+soil and groundwater media explain the governing processes and identify factors
+controlling transport and fate of contaminants in soil and
+groundwater calculate and select parameter values (for instance sorption or
+degradation constants) which govern transport and fate of
+contaminants describe important elements in risk assessment of contaminated
+sites relate calculation results to a practical context utilize computer based evaluation tools for transport
+prediction and risk assessment demonstrate overview over remediation technologies and
+understanding of their strengths and weaknesses calculate transport and fate of contaminants and design
+parameters for remediation technologies using simple models which
+are based on obtained process understanding select the most suitable remediation technologies in relation
+to actual hydrogeological geochemical and compound data synthesize knowledge about an actual well-defined topic using
+scientific literatur and present the results in an abstract and a
+poster evaluate and give constructive critisism of abstracts/posters
+presented by other groups","
+Sources to soil and groundwater pollution
+
+Transport, attenuation and degradation of organic pollutants
+
+Soil and groundwater chemistry of heavy metals
+
+Methods for site investigation and risk assessment
+
+In situ and ex-situ technologies for remediation of polluted soil
+and groundwater with special focus on thermal methods and
+microbial/abiotic degradation processes 
+","12237,12320,12102","
+Mette Martina Broholm,
+Poul Løgstrup Bjerg"
+,,,,,,,,,,,,
+12331 , Field investigations of contaminated sites,English , 5 ECTS , 2016/2017 ,June,MSc,Department of Environmental Engineering,"
+The students obtain a practical knowledge of planning, sampling and
+field analysis of soil, groundwater and air useful for
+investigations and risk assessment at contaminated
+
+sites. 
+","Plan a field investigation at a given site in order to assess
+the contamination level and redox conditions including
+determination of relevant contamination constituents, geochemical
+parameters, and sampling strategy Make a geological description and an assessment of the
+hydrogeological conditions Conduct a field investigation including correct sampling and
+analysis of soil, groundwater, and air Evaluate variation and uncertainty of data collected during
+field investigations Make an assessment of the current contamination at a specific
+site (delineation, composition, and source strength) and a risk
+assessment Make a flux based evaluation of contamination risk Make an assessment of potential remediation technologies
+targeting a specific contaminated site Write a well-structured technical report including relevant
+maps showing the geological, hydrogeological and redox conditions
+as well as the spreading of the contamination","
+The course consists of practical field investigations, lectures on
+
+selected topics and reporting (written, oral presentations):
+
+a) Planning of field investigations at contaminated sites (soil and
+groundwater).
+
+Soil and groundwater sampling with application of different
+methods. PID screening of soil gas, chemical field analysis,
+preparation of samples for GC-analysis. Evaluation af results.
+Reporting of field investigations.
+
+b) Lectures on field investigations at contaminated sites, drilling
+methods, soil and
+
+groundwater sampling, organic characterization of contaminated soil
+and groundwater, organic contamination and redox conditions in
+groundwater and soil gas surveys. 
+",12330,"
+Mette Martina Broholm"
+,,,,,,,,,,,,
+12333 , Water Resources Management,English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,Department of Environmental Engineering,"
+This course will provide you with knowledge and tools to
+
+1. Identify the key elements of a river basin water resources
+system: Resources (rivers, lakes, aquifers), water users
+(irrigation agriculture, industry, domestic), institutions
+(governments, cooperatives, water rights).
+
+2. Demonstrate dynamic complexity by constructing conceptual models
+using a systems approach to capture key interrelationships
+essential to managing water resources.
+
+3. Model water resources and water users in the river basin.
+Quantitatively determine the spatially and temporally variable
+water availability and the water demand by various users.
+
+4. Design policy scenarios for water resources management and
+allocation and evaluate the scenario results with respect to
+environmental sustainability, economic efficiency and social
+equity. 
+","Independently access and use various global water resources
+databases Visualize and analyse the spatio-temporal dynamics of a water
+resources system using GIS tools Set up a water balance model for a river basin and its
+components Estimate water demand functions and production functions of
+various water users Determine the economically efficient water allocation among the
+water users in the basin Determine and interpret the net present value of a water
+project Analyze the impact of institutional choices on water resources
+management Analyze the problems of internationally shared river basins and
+aquifer systems Develop water resources policy scenarios Evaluate water resources policies in a multi-criteria
+framework, taking into account environmental sustainability,
+economic efficiency and social equity Document and present a water resources systems analysis in
+report format","
+Key content:
+
+• World water problems and IWRM
+
+• Water resources systems
+
+• River basin planning models
+
+• Human appropriation of water resources
+
+• Transboundary water resources systems
+
+• Environmental water requirements
+
+• European water framework directive
+
+• Water resources economics
+
+• Institutional arrangement and legal framework
+
+• Applied systems analysis
+
+• Optimization and decision support 
+","42631,12320,02633","
+Ursula S. McKnight"
+,,,,,,,,,,,,
+12335 , Groundwater Resources,English , 10 ECTS , 2016/2017 ,"E4 (Tues 13-17, Fri 8-12)",MSc,Department of Environmental Engineering,"
+The overall objective of the course is to provide students with the
+technical skills required for groundwater resource and quality
+management. Students will gain competences in i) groundwater
+hydraulics including pump tests and groundwater/surface water
+interaction ii) geological interpretation and hydrogeostratigraphic
+modelling iii) incorporation of geologic information into
+groundwater models iv) construction, calibration and validation of
+groundwater models v) Advanced groundwater biogeochemistry,
+including biogeochemical modelling, geochemical equilibrium,
+reaction and transport processes, and water quality assessment.
+Examples and problems will be selected to illustrate key
+theoretical issues and expose the students to practical groundwater
+management. 
+","Analyse groundwater hydraulic problems and quantitively
+evaluate groundwater resources and flows. Perform hydraulic tests in porous groundwater media and be able
+to determine collect and interpret the field data Interpret geological information and build
+hydrogeostratigraphic models. Describe chemical and microbial processes of aquatic
+environments and identify the impacts of human activities on
+aquatic ecosystems related to groundwater Examine practical groundwater problems, and identify and apply
+the theory relevant to solving them. Incorporate knowledge and observations (data) of groundwater
+systems into models and employ them to assist in understanding and
+solving groundwater problems. Apply modeling tools for designing water quality and quantity
+management programs ...","
+Topics will include: groundwater hydraulics in various types of
+aquifers; advanced pump tests; interpretation of well logs and
+geophysical information to construct geologic models; groundwater
+modelling, including model calibration to observed data and model
+testing; biogeochemical process description including concepts of
+equilibrium, ion exchange, reactive processes and transport;
+application of groundwater flow and transport theory to solve
+practical problems in groundwater quantity and quality management. 
+","12104,12320","
+Philip John Binning,
+Massimo Rolle"
+,,,,,,,,,,,,
+12342 , Stochastic Hydrology,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,Department of Environmental Engineering,"
+General course objectives:
+
+The objective of the course is to be able to describe hydrological
+processes by means of relatively simple models such as purely
+statistical and combined statistical and deterministic models and
+then apply them to problems typical in applied hydrology. There are
+large uncertainties and high natural variability in both urban and
+catchment hydrological applications such as flooding and hydrologic
+design. Often lumped models are needed, because the actual
+processes are either not sufficiently well understood or we lack
+the data to describe the processes. Therefore we need a range of
+tools to quantify uncertainty and variation. Hydrological
+processes, statistical testing procedures, and basic data analysis
+and management by using Matlab are assumed known. Hence the major
+novelty lies in combining these skills and working with actual
+data. 
+","Manage and analyze hydrological data by means of professional
+software Apply simple data verification and validation steps in
+hydrological data Apply statistical methods to model hydrological processes for
+different time scales Decompose a hydrological time series into deterministic and
+stochastic elements Identify rainfall-runoff components in a hydrological series
+and construct and validate simple rainfall runoff models for these
+components Combine sub-models into one hydrological model and apply time
+series analysis methods to assess the overall model
+performance Select a proper statistical model for prediction of hydrologic
+extremes in consideration of the prediction uncertainty Assessing climate change impacts on water resources and
+climatic extremes","
+Data analysis. Decomposition of runoff time series and description
+of their deterministic and stochastic components. Stochastic models
+for description of extreme hydrological events. 
+","12320,02402","
+Karsten Arnbjerg-Nielsen"
+,,,,,,,,,,,,
+12343 , Surface Water Hydrology,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Environmental Engineering,"
+To be able to apply models for different hydrological processes
+such as rainfall-runoff processes, land-surface processes and
+channel flow. To be able to inform such models with different
+in-situ and remote sensing data types using calibration and data
+assimilation methods. 
+","set up and calibrate a hydrodynamic river model for a
+tributary set up, calibrate a rainfall-runoff model for a
+subcatchment validate the hydrodynamic and rainfall-runoff river model
+results with in-situ and remote sensing data apply a simple land surface model to compute water and energy
+fluxes validate the land surface model results with in-situ data operate computer-based modelling tools Assimilate in-situ and remote sensing data to an operational
+hydrological model describe and document in report form the applied methods and
+obtained results","
+Rainfall-runoff processes at catchment scale. Flood wave
+propagation in rivers and channels. Different model types and their
+application potential including land surface models,
+rainfall-runoff models and hydrodynamic models. Calibration and
+practical use of the MIKE 11 modelling system. Data assimilation
+and remote sensing. 
+",12320,"
+Monica Garcia,
+Peter Bauer-Gottwein"
+,,,,,,,,,,,,
+12500 , Energy ressources,Danish , 5 ECTS , 2016/2017 ,January,BSc,Department of Environmental Engineering,"
+To provide the participants a general understanding for energy
+ressources and their environmental impact. 
+","Describe available energy ressources Describe significant elements required for energy production
+from different sources Evaluate possibilities for introduction of new sources of
+energy Evaluate benefits and problems related to energy ressources
+from an economic, environmental and social point of view Predict possible environmental effects linked to the
+utilization of possible energy sources Prepare a technical report (synthesis, references, etc.) Describe the natural and technical background for energy
+sources Collaborate professionally in groups","
+Energy balance, energy economics, coal, hydrocarbons, geothermal
+energy, nuclear power, bio energy, wind- sun- and wave energy, fuel
+cells, air pollution, life cycle analysis. 
+",None,"
+Irini Angelidaki,
+Merlin Alvarado-Morales,Ida Lykke Fabricius,Jens Juul Rasmussen,Niels-Erik Clausen,Jens Oluf Jensen,Martin Helgesen,Sven Poul Nielsen,Bent Lauritzen"
+,,,,,,,,,,,,
+12600 , Nanotechnology and the Environment,English , 5 ECTS , 2016/2017 ,June,MSc,Department of Environmental Engineering,"
+To provide B.Sc. students from Nanotechnology and Environmental
+Technology study lines an insight in the possible environmental and
+human health perspectives in present and future application of
+nanotechnology 
+","Describe present knowledge environmental and human health
+issues related to nanomaterials Explain the process of environmental and human health risk
+assessment (hazard identification, hazard assessment, risk
+characterization Describe basic concepts of nanotechnology and nanomaterials
+including their current and foreseen future uses in society Identify potential exposure pathways of nanomaterial to humans
+and environmental organisms Work with ‘semi-open problem’ case-study assignments in
+interdisciplinary teams Perform relevant literature searches to obtain information of
+relevance to specific nano-based product/technology (individual
+case-study assignment) Apply the theoretical knowledge from this course to analyse
+toxicity data relevant to risk assessment of a case-study
+nanomaterial On this basis to evaluate the risks of the case-study
+application of nanomaterials and suggest potential risk management
+and risk reduction measures To disseminate your group work results both graphically
+(poster), in writing (report) and orally (group presentation) Critically reflect on risks and benefits of nanomaterials used
+in different consumer products and nano-based
+Technologies","
+For all emerging technologies the issue of adverse side-effects
+should be included in the technology development phase, but history
+shows that it has often been overlooked. In this course the focus
+is on identification and evaluation of risks related to the
+potential widespread application of nanotechnology in our future
+society. Fíve course days are used for workshops with lectures and
+exercises. The students will work in teams to prepare a report on
+environmental and human health considerations on a specific
+nanomaterial/product 
+",None,"
+Steffen Foss Hansen"
+,,,,,,,,,,,,
+12701 , Introduction to Living systems,English , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),BSc,Department of Environmental Engineering,"
+The overall aim of the course is to:
+
+• Provide knowledge of the general structure of life, its origin
+and the significance of the environmental parameters to preserve
+life.
+
+• Give an introduction to microbial diversity of living cells and
+their functions.
+
+• Give insight to the most important biological pathways during
+fermentation process.
+
+• Give an overview of biomass resources, availability of biomass
+(wastes, industrial and agricultural residues), and potentials for
+converting biomass to energy.
+
+• Give insight to the most important biotechnological methods for
+bioenergy production.
+
+• Provide an understanding of the different aquaculture production
+systems used for fish, shellfish and algae.
+
+• Give an understanding of sustainability issues of aquaculture
+activities, in terms of feed manufacture, environmental impact and
+in comparison with capture based production.
+
+• Highlight the state of the art aquaculture technology and current
+and future challenges for the industry. 
+","Define what life is and how life has been created out of
+inorganic components. Outline the structure of a living cell and the basic
+environmental conditions to function properly. Summarize the microbial growth kinetics and the influence of
+environmental parameters on microbial growth. List the main types of biomass and choose the most efficient
+bioconversion methods for utilization of specific types of biomass
+resources. Summarize the principles of biochemical processes for
+production of energy from biomass, such as biogas and
+bioethanol. Describe process steps in a wastewater treatment plant Name sustainability issues and identify future development
+challenges of fish production. Name sustainability issues and identify future development
+challenges of fish production.","
+The course includes the following subjects:
+
+• The origin of life: the “good” and the “bad” microbes.
+
+• The main applications of the “good” microbes.
+
+• Microbial cell structure and function.
+
+• Microbial growth and nutrition.
+
+• Microbial metabolism.
+
+• Industrial microorganisms and fermentation media.
+
+• Fermentation systems and downstream processing.
+
+• Downstream processes focused on cell harvesting.
+
+• Biomass: Creation/biosynthesis, Types, conversion technologies
+and different types of bioenergy.
+
+• Wastewater Treatment: Screening, mechanical, biological and
+tertiary treatments.
+
+• Aquaculture production and feeding.
+
+• Production of alternative proteins & Seaweed and mussel
+aquaculture.
+
+• Microorganisms as the green solution in aquaculture. 
+",None,"
+Ioannis Fotidis,
+Irini Angelidaki,
+Christopher Workman,
+Krist Gernaey,
+Peter Vilhelm Skov"
+,,,,,,,,,,,,
+12810 , Special studies in environmental engineering,Danish , 5 ECTS , 2016/2017 ,July,BSc,Department of Environmental Engineering,"
+To account for, or obtain, academic or professional competencies
+within environmental engineering at the same or higher level than
+the students would otherwise achieve on the BSc or MSc Env Eng
+programmes. 
+","communicate research-based knowledge or engineering-based
+know-how apply essentials of current research and engineering to develop
+ideas and solve problems define and follow-up on their learning objectives further objectives depending on the content and type of work
+and can be negotiated with the supervisor . . . .","
+I. Portfolio students assemble documentation of work description,
+working hours, their obtained skills and write a report of about 10
+pages or similar.
+
+II. Pre-thesis: Students preparing for a BSc/MSc thesis within Env.
+Eng. perform literature review, learn project-relevant modelling,
+or test relevant field/analysis methods and document their
+suitability or application for the concerned theses.
+
+III. Students whom would like to disseminate their Env. Eng. theses
+write an article using a “Guide for authors” from an ISI journal.
+
+IV. Students performing special projects shall plan and conduct
+their work with their supervisor, and agree with the supervisor on
+the most suitable deliverable. 
+",,"
+Peter Kjeldsen"
+,,,,,,,,,,,,
+12811 , Special studies in environmental engineering,Danish , 5 ECTS , 2016/2017 ,August,BSc,Department of Environmental Engineering,"
+To account for, or obtain, academic or professional competencies
+within environmental engineering at the same or higher level than
+the students would otherwise achieve on the BSc or MSc Env Eng
+programmes. 
+","communicate research-based knowledge or engineering-based
+know-how apply essentials of current research and engineering to develop
+ideas and solve problems define and follow-up on their learning objectives further objectives depending on the content and type of work
+and can be negotiated with the supervisor . . . .","
+I. Portfolio students assemble documentation of work description,
+working hours, their obtained skills and write a report of about 10
+pages or similar.
+
+II. Pre-thesis: Students preparing for a BSc/MSc thesis within Env.
+Eng. perform literature review, learn project-relevant modelling,
+or test relevant field/analysis methods and document their
+suitability or application for the concerned theses.
+
+III. Students whom would like to disseminate their Env. Eng. theses
+write an article using a “Guide for authors” from an ISI journal.
+
+IV. Students performing special projects shall plan and conduct
+their work with their supervisor, and agree with the supervisor on
+the most suitable deliverable. 
+",,"
+Peter Kjeldsen"
+,,,,,,,,,,,,
+12812 , Special studies in environmental engineering,Danish , 5 ECTS , 2016/2017 ,July,MSc,Department of Environmental Engineering,"
+To account for, or obtain, academic or professional competencies
+within environmental engineering at the same or higher level than
+the students would otherwise achieve on the BSc or MSc Env Eng
+programmes. 
+","communicate research-based knowledge or engineering-based
+know-how apply essentials of current research and engineering to develop
+ideas and solve problems define and follow-up on their learning objectives further objectives depending on the content and type of work
+and can be negotiated with the supervisor . . . .","
+I. Portfolio students assemble documentation of work description,
+working hours, their obtained skills and write a report of about 10
+pages or similar.
+
+II. Pre-thesis: Students preparing for a BSc/MSc thesis within Env.
+Eng. perform literature review, learn project-relevant modelling,
+or test relevant field/analysis methods and document their
+suitability or application for the concerned theses.
+
+III. Students whom would like to disseminate their Env. Eng. theses
+write an article using a “Guide for authors” from an ISI journal.
+
+IV. Students performing special projects shall plan and conduct
+their work with their supervisor, and agree with the supervisor on
+the most suitable deliverable. 
+",,"
+Stefan Trapp"
+,,,,,,,,,,,,
+12813 , Special studies in environmental engineering,Danish , 5 ECTS , 2016/2017 ,August,MSc,Department of Environmental Engineering,"
+To account for, or obtain, academic or professional competencies
+within environmental engineering at the same or higher level than
+the students would otherwise achieve on the BSc or MSc Env Eng
+programmes. 
+","communicate research-based knowledge or engineering-based
+know-how apply essentials of current research and engineering to develop
+ideas and solve problems define and follow-up on their learning objectives further objectives depending on the content and type of work
+and can be negotiated with the supervisor . . . .","
+I. Portfolio students assemble documentation of work description,
+working hours, their obtained skills and write a report of about 10
+pages or similar.
+
+II. Pre-thesis: Students preparing for a BSc/MSc thesis within Env.
+Eng. perform literature review, learn project-relevant modelling,
+or test relevant field/analysis methods and document their
+suitability or application for the concerned theses.
+
+III. Students whom would like to disseminate their Env. Eng. theses
+write an article using a “Guide for authors” from an ISI journal.
+
+IV. Students performing special projects shall plan and conduct
+their work with their supervisor, and agree with the supervisor on
+the most suitable deliverable. 
+",,"
+Stefan Trapp"
+,,,,,,,,,,,,
+12902 , Life Cycle Assessment Modelling of Solid Waste Systems,English , 5 ECTS , 2016/2017 ,June,Ph.D.,Department of Environmental Engineering,"
+Waste management is an important part of everyday life. The
+environmental impacts from waste management also carry a
+significant load if not carried out properly, and it is important
+to be able to quantify how big the impact from this sector is.
+Waste life cycle assessment is considered as one of the most
+effective tools for getting a better understanding of the
+environmental aspects originating from the waste management sector.
+
+The aim is to provide to the participant necessary skills and
+expertise to perform a Life Cycle Assessment of a waste management
+system. This will include an analysis of the technical system, its
+impact assessment and overall evaluation. The aim of this course is
+also to demonstrate the importance of sensitivity analysis and
+communication of results within the framework of the EASETECH
+model. 
+","Apply knowledge in the definition and assumptions of waste
+LCA Describe advantages and disadvantages of using LCA models on
+waste management systems Discuss the importance of assumptions and boundary conditions
+in LCA modeling of waste management systems Explain the general principles in calculating environmental
+loads/savings as well as resource use/recovery Explain the principles in LCA modeling of waste management
+technologies (collection, sorting, incineration, anaerobic
+digestion, composting, landfilling, recycling and energy
+utilization) Apply the EASETECH model on waste management systems and waste
+technologies Understand the importance of waste composition Evaluate the importance of energy flows in waste
+management Determine uncertainty, transparency and reporting Analyze uncertainties and limitations in LCA of waste system
+modeling Analyze individual waste technologies as well as integrated
+waste systems with the EASETECH LCA model software Interpret and communicate LCA results","
+The course is targeted to PhD students who aim to apply life cycle
+assessment to specific waste technologies or waste management
+systems for systematic evaluation of their environmental
+performances. The course includes an introduction to LCA modelling
+of waste technologies and energy systems as well as exercises
+involving building and assessing an integrated waste management
+system with the LCA-software EASETECH. Introductory lectures are
+provided in relation to: LCA principles, waste generation and
+composition, source-segregation, collection, material
+recovery/recycling, bio-treatments (composting, digestion),
+landfilling, thermal treatment, management of residuals (e.g.
+use-on-land, combustion), material/​​substance/​​energy flow
+analysis, life cycle inventory data, data uncertainties, and
+interpretation of results. Students apply the introduced concepts
+in a range of exercises leading to a full LCA scenario of an
+integrated waste management system. An understanding of the
+importance of sensitivity and uncertainty assessment will also be a
+part of the course. After the course, an extended abstract is
+submitted summarizing the LCA modelling of a selected system or
+technology. 
+",None,"
+Anders Damgaard"
+,,,,,,,,,,,,
+12909 , Life cycle assessment of bioenergy technologies and energy systems,English , 5 ECTS , 2016/2017 ,June,Ph.D.,Department of Environmental Engineering,"
+Energy production is responsible for a considerable share of the
+environmental impacts today. Significant efforts are carried out to
+develop new and more efficient energy technologies in order to
+minimize the environmental loads. In order to quantify these
+benefits, however, the environmental consequences should be
+assessed in a systematic and consistent way. This course provides
+students with the necessary expertise to perform state-of-the-art
+life cycle assessment (LCA) of (bio)energy technologies as well as
+entire energy systems. Through the course, students learn to use
+the advanced LCA model EASETECH on energy technologies and systems.
+
+","Be familiar with life cycle assessment (LCA) principles Apply LCA assessment principles to energy technologies and
+systems Define material, substance and energy flows for individual
+bioconversion technologies and scenarios Define LCA modelling scenarios for individual bioconversion
+technologies and integrate these into combined biorefinery
+systems Define LCA modelling scenarios for entire energy systems
+involving a variety of individual (bio)energy technologies Evaluate the importance of biomass composition,
+land-use-changes, alternative uses of biomass, and uncertainties
+for the LCA results Analyze individual (bio)energy technologies as well as
+integrated energy systems with the EASETECH LCA model software Interpret and communicate LCA results","
+The course is targeted to PhD students who aim to apply life cycle
+assessment to specific bioconversion technologies or pathways for
+systematic evaluation of their environmental performances. The
+course includes an introduction to LCA modelling of energy
+technologies and energy systems as well as exercises involving
+building and assessing an integrated biorefinery concept with the
+LCA-software EASETECH. Introductory lectures are provided in
+relation to: LCA principles, biomass conversion technologies (e.g.
+thermal, ethanol, diesel, gas), biomass generation and composition,
+alternative uses of biomass, land-use-changes, management of
+residuals (e.g. use-on-land, combustion),
+material/​substance/​energy flow analysis, life cycle inventory
+data, data uncertainties, and interpretation of results. Students
+apply the introduced concepts in a range of exercises leading to a
+full LCA scenario of an integrated biorefinery system. Challenges
+when performing LCA of energy systems with highly intermittent
+production are also addressed. After the course, an extended
+abstract is submitted summarizing the LCA modelling of a selected
+system (e.g. the biorefinery system from the exercises). 
+",,"
+Thomas Fruergaard Astrup,
+Davide Tonini"
+,,,,,,,,,,,,
+12911 , Introduction to good science in environmental engineering,English , 2.5 ECTS , 2016/2017 ,Spring,Ph.D.,Department of Environmental Engineering,"
+The aim of the course is to introduce PhD-students at DTU
+Environment to the research field of environmental engineering and
+to provide an understanding of the concepts and tools of research
+and innovation in this field. The link from basic research to
+society's need for process and technology development and sound
+environmental management are key issues. The course provides an
+understanding of philosophy of science in environmental
+engineering. The course is intended to broaden the students'
+vision of their role in a larger picture and to create common
+platform for PhD-students at DTU Environment. 
+","Discuss different approaches to research in environmental
+engineering Understand the role of applied research in relation to other
+types of research Explain the knowledge value chain and the concepts of “triple
+helix” in innovation Describe the peer review system and key issues in scientific
+ranking systems Discuss ethical issues related to publications and
+co-authorships Present own work and give and receive constructive
+peer-reviews Understand the role of networking in research and career
+planning Identify and construct a clear aim for a research project based
+on a testable scientific hypothesis Apply a scientific hypothesis in planning a scientific
+experiment and ensure a proper documentation and scientific
+quality Explain the basic concepts of philosophy in environmental
+engineering Formulate the topic of their study in a societal context Make a personal plan for dissemination and networking
+activities","
+Concepts of research in environmental engineering: basic, applied,
+strategic research, relevance, problem identification, interaction
+with society. Innovation: triple helix, concept and examples.
+Publications: journals, review process, ISI-system, impact factors,
+ranking, H-index, ethics in publication, co-authorships.
+Dissemination: conference, abstracts, proceeding papers, posters,
+presentations. Networking: Scientific community and professionals,
+impact in society. Identifying clear aims for the research: problem
+based aim, the scientific hypothesis, relation to Poppers
+falsification theory, if… then hypothesis, phrasing aims in the
+scientific paper, the bridge from information to knowledge.
+Scientific approaches and quality: Practical planning, Gantt-chart,
+pilot-study, documentation (lab-book / lab-journal / photos / file
+structure), controls, statistical considerations, backup.
+Scientific mini-conference: communicate your own work in a short,
+concise and persuasive manner, giving and receiving constructive
+criticism. Philosophy of science and engineering: models and
+uncertainty, scientific paradigms and societal context, the role of
+the specialist and ethical dilemmas. 
+",None,"
+Peter Steen Mikkelsen"
+,,,,,,,,,,,,
+12915 , Principles of Programming (PoP),English , 2.5 ECTS , 2016/2017 ,Fall,Ph.D.,Department of Environmental Engineering,"
+The course presents and offers for discussion the following topics:
+
+• an overview of the process of programming independently of the
+language or system that one uses to program: requirements
+gathering, requirements analysis, high level desgin,
+
+prototyping, implementation, testing, documentation, deployment,
+deployment validation, bug fixing and enhancements.
+
+• the historical, linear and more modern cyclical models of
+progress in software development
+
+• a collection of principles that can be applied when programming
+
+• the two dominant paradigms of programming, functional and object
+oriented are presented and discussed.
+
+• encapsulation and interface design
+
+• copyright and licensing.
+
+During the process of these abstract and/or theoretical topics, two
+programming languages are studied and used.
+
+The Bourne Again Shell (bash) is a process invocation and control
+language which acts as the underlying command-line interface to
+modern GNU/Linux systems.
+
+The Python (general) programming language is studied. 
+","to have understood some core principles of programming,
+particularly 'Laziness is a Virtue' to have gained a 'bird's eye' view of the process
+of programming to understand what 'from the outside in' means as a
+programming practice to understand what encapsulation is, and the value that it
+offers to understand the difference between function programming and
+object oriented design to understand the difference between call-by-value an
+call-by-reference languages to have a fundamental understanding of exactly what happens
+when you enter a single command in bash on GNU/Linux to be able to understand resource trade offs: speed vs minimal
+resource usage to be confident in producing small python and/or bash
+scripts","
+All materials are made available via CampusNet. The materials are
+categorised as:
+
+• Core (theory)
+
+• Python (the language)
+
+• Bash (the language) 
+",None,"
+Hugo Maxwell Connery"
+,,,,,,,,,,,,
+12918 , Modelling of integrated urban drainage,English , 2.5 ECTS , 2016/2017 ,Spring,Ph.D.,Department of Environmental Engineering,"
+The course introduces a newly developed state-of-the-art tool for
+integrated modelling of urban drainage, wastewater treatment and
+receiving water systems. Students will learn using this tool to
+perform integrated systems analysis through a number of simulation
+exercises based on the WEST® software.
+
+The course is targeted for PhD students and researchers focused on
+modelling the elements of integrated urban drainage-wastewater
+systems (drainage network, wastewater treatment plants, receiving
+water bodies). Applications are also welcomed from MSc students
+preparing for a final thesis in the area and from experts from
+industry. 
+","Describe the operational interactions between the three
+components in the integrated urban (waste) water system: the urban
+drainage system, the wastewater treatment plant and the receiving
+waters. Understand the main assumptions and simplifications made in
+lumped conceptual modelling of integrated urban drainage-wastewater
+treatment systems. Use and run a professional integrated model programmed in WEST®
+for simulation of pollution loads, receiving water effects and
+mitigation option’s efficiency. Apply the integrated model to understand identify the main
+environmental problems in a defined model area. Assess the impacts of changing components in the integrated
+system and use this to develop and test possible mitigation
+strategies using the integrated model. . . .","
+Introduction to integrated modelling concepts. Conceptual hydraulic
+modelling. Conceptual modelling of transport and fate of
+macropollutants (TSS, nutrients) and micropollutants. Utilization
+of the WEST® Integrated Urban Wastewater System model library.
+Application of integrated models for fulfilling the EU Water
+Framework Directive. How to find the compromise between data
+requirements and actual data availability. Use of integrated models
+for decision support and scenario evaluation. Evaluation of the
+effects of climate change. Brief overview of approaches for
+evaluating uncertainty in model results. Brief overview of
+water-quality based approaches to real time control of urban
+drainage and wastewater systems. 
+",,"
+Luca Vezzaro,
+Peter Steen Mikkelsen"
+,,,,,,,,,,,,
+12919 , Introduction to Urban Water Technology,English , 2.5 ECTS , 2016/2017 ,,Ph.D.,Department of Environmental Engineering,"
+Main objectives of the course are to establish a professional
+framework for PhD students, companies and universities where the
+PhD students can develop shared professional outlooks and discuss
+future research initiatives. The course will act as an ”incubator”
+for specialists within the urban water technology field and a
+vehicle for strengthening the R&D co‐operation between
+companies and university partners. In this way the course will
+provide the PhD students with a broader perspective on the
+individual projects and give inspiration for the future carrier. 
+","Identify the urban water sector and main actors in this
+field. Communicate research results to other types of professionals
+within the water sector Presentation technique Make a scientific oral presentation of obtained results. Prepare a scientific abstract. Give constructive feed back to peers. Conduct a peer review of scientific papers. Construct a strong professional Network. . .","
+The course is a portfolio course, i.e. each PhD student composes an
+individually course plan based on pre‐identified activities, e.g.
+
+annual 2‐days UrbanWaterTech progress seminar, where each
+participant
+
+Prepare an abstract
+
+Make an oral presentation of the conducted research
+
+Act as prepared opponent on selected presentations
+
+Gets feedback from all the university supervisors and industry
+representatives
+
+acting as external supervisors
+
+Get feedback on the oral presentation from the main supervisor
+based on a
+
+video recording of the presentation
+
+Are exposed to a wide range of research activities in the Urban
+Water field
+
+Get presentations from externally invited Experts
+
+Communicate in English
+
+Technical excursions to selected industries or exhibitions
+
+Seminars given by external, international Experts
+
+Scientific article discussion Clubs
+
+Prepare a critical review of scientific papers
+
+Get inspiration to construction of tables and figures to present
+results
+
+Learn by discussing the papers how to present, discuss, evaluate
+and conclude
+
+from the data and evidence
+
+Others 
+",,"
+Hans-Jørgen Albrechtsen"
+,,,,,,,,,,,,
+12920 , Introduction to Urban Water Technology,English , 5 ECTS , 2016/2017 ,,Ph.D.,Department of Environmental Engineering,"
+Main objectives of the course are to establish a professional
+framework for PhD students,companies and universities where the PhD
+students can develop shared professional outlooks and discuss
+future research initiatives. The course will act as an ”incubator”
+for specialists within the urban water technology field and a
+vehicle for strengthening the R&D co‐operation between
+companies and university partners. In this way the course will
+provide the PhD students with a broader perspective on the
+individual projects and give inspiration for the future carrier. 
+","Identify the urban water sector and main actors in this
+field. Communicate research results to other types of professionals
+within the water sector. Presentation technique. Make a scientific oral presentation of obtained results. Prepare a scientific abstract. Give constructive feed back to peers. Conduct a peer review of scientific papers. Construct a strong professional Network.","
+The course is a portfolio course, i.e. each PhD student composes an
+individually course plan based on pre‐identified activities, e.g.
+
+Prepare an abstract
+
+Make an oral presentation of the conducted research
+
+Act as prepared opponent on selected presentations
+
+Gets feedback from all the university supervisors an industry
+representatives
+
+acting as external supervisors
+
+Get feedback on the oral presentation from the main supervisor
+based on a
+
+video recording of the presentation
+
+Are exposed to a wide range of research activities in the Urban
+Water field
+
+Get presentations from externally invited Experts
+
+Communicate in English
+
+Technical excursions to selected industries or exhibitions
+
+Seminars given by external, international Experts
+
+Scientific article discussion Clubs
+
+Prepare a critical review of scientific papers
+
+Get inspiration to construction of tables and figures to present
+results
+
+Learn by discussing the papers how to present, discuss, evaluate
+and conclude
+
+from the data and evidence
+
+Others 
+",,"
+Hans-Jørgen Albrechtsen"
+,,,,,,,,,,,,
+12922 , Written English,English , 2.5 ECTS , 2016/2017 ,Fall,Ph.D.,Department of Environmental Engineering,"
+To equip participants with the English-language skills necessary to
+write up research and related material in a manner that will
+promote publication. 
+","The course attempts to give researchers whose first language is
+not English the knowledge to avoid the main pitfalls of English
+grammar To present work in a clear and logical fashion Grammar, punctuation and vocabulary will be improved and
+demystified Key aspects of writing, How to write a sentence through and how to build up and shape
+of a research paper, Advice and practical tips are given to avoid making the most
+common mistakes How to review written work. How to effectively use online writing support tools","
+This course is aimed at helping you improve your written English so
+that you will be able to write more accurately, clearly and
+fluently. 
+",None,"
+Peter Bauer-Gottwein,
+Carol Bang-Christensen"
+,,,,,,,,,,,,
+12925 , Principles of Programming and implementation (PoPI),English , 5 ECTS , 2016/2017 ,Fall,Ph.D.,Department of Environmental Engineering,"
+See 12915 Principles of Programming. This course extends 12915 by
+adding the study of version control systems, introducing the use of
+the High Performace Computing (HPC) infrastructure at DTU, and
+requiring the student to implement a major programming project.
+
+The version control system is git, which the students need to use
+to submit their major project. The introduction to the HPC is
+provided by the people who maintain it from DTU Compute.
+
+The major project can be anything that the student wishes, but must
+be approved by a course lecturer so that it satisfies the points
+for the course. It is suggested that the student build something
+that will directly assist them in their Ph.D research.
+
+Guidance is provided to students for their major programming
+assignment. This can from architectural design, to solving small
+challenges. 
+","to have understood some core principles of programming,
+particularly 'Laziness is a Virtue' to have gained a 'bird's eye' view of the process
+of programming to understand what 'from the outside in' means as a
+programming practice to understand what encapsulation is, and the value that it
+offers to understand the difference between function programming and
+object oriented design to be confident in producing small python and/or bash scripts,
+including package encapsulation to be able to understand resource trade offs: speed vs minimal
+resource usage to have a fundamental understanding of exactly what happens
+when you enter a single command in bash on GNU/Linux understand the value of version control systems and to have
+obtained basic proficiency in the git version control system understand how to use gitlab and/or github as a git hosting
+platform understand how to submit a job to the HPC, and to be able to
+use basic features of bash for job control be confident in building software tools to assist them in their
+research","
+All materials are made available via CampusNet. The materials are
+all from 12915 and
+
+• Git (the version control system)
+
+• HPC 
+",None,"
+Hugo Maxwell Connery"
+,,,,,,,,,,,,
+12933 , Scientific Article Writing,English , 2.5 ECTS , 2016/2017 ,Fall and Spring,Ph.D.,Department of Environmental Engineering,"
+At the end of this course, the student are able to effectively
+write and publish a scientific paper in the primary literature
+based on their own research. 
+","identify the constitutive elements of a good article initiate publication (identifying the 'story',
+identifying and interacting with co-authors) prepare the outline of a paper choose the right the journal to publish his/her work design figures and tables prepare the core sections of a manuscript (introduction,
+materials and methods, results, discussion) choose a title and prepare the abstract approach manuscript submission and revision","
+We will cover the following topics:
+
+1. The defensible story? Is there any scientific substance?
+
+2. Preliminaries: Authorship/Ethics, What is a scientific paper?
+
+3. Choosing the right journal. Guide to authors.
+
+4. Outline of a scientific paper.
+
+5. Preparing the figures/tables.
+
+6. Preparing the text.
+
+7. Submitting the manuscript/Revising the manuscript. 
+",12922,"
+Barth F. Smets,
+Arnaud Dechesne"

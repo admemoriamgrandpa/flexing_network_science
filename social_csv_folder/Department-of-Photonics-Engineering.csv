@@ -1,0 +1,2795 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+,,,,,,,,,,,,
+34020 , Optics and Photonics,English , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),BSc,Department of Photonics Engineering,"
+The course provides a broad introduction to both classical and
+modern optics and photonics. The aim is that the students obtain a
+physical understanding of what light is, how it interacts with
+matter, and how light is used in measurement techniques and
+information technology. 
+","Identify whether a ray optics, a scalar wave optics, an
+electromagnetic wave optics, or a photon optics description is
+required in a given situation Derive the wave equation from Maxwell’s equations in a medium
+and understand the different solutions and their characteristic
+properties Describe the superposition principle and apply it to
+electromagnetic waves Describe the concept of interference and calculate the
+properties of different interferometric systems Explain Fourier analysis of optical waves Explain the concept of polarization, describe several
+polarization states of light and how they can be generated and
+transformed Describe and calculate the propagation of light in simple
+optical waveguides in terms of modes, dispersion relation and
+effective index Explain the concepts of Fraunhofer and Fresnel diffraction and
+calculate the diffraction patterns of different apertures Derive the Fresnel equations and describe how light is
+transferred at an interface of two materials, and through
+multilayer films Describe the interaction between light and matter and explain
+the basic principles of a laser Apply and recognize professional terminology in
+English","
+The following concepts and phenomena, and some of their most
+important applications: Light rays, Maxwell wave equations, vector
+fields and polarization properties, wave diffraction, wave
+interference and superposition of waves, Fresnel relations,
+periodic media and multilayers, waveguide optics, optical
+resonators, light-matter interactions, laser amplification and
+lasers 
+","10013,31400,10036,10009","
+Martijn Wubs"
+,,,,,,,,,,,,
+34021 , Introduction to Optics and Photonics,Danish , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17)  or  E2B (Thurs 8-12),BSc,Department of Photonics Engineering,"
+The course provides a broad and fundamental introduction to
+classical optics. The aim is to give the student an understanding
+of the physics behind both the ray description and wave description
+of light. The course is divided into three areas: 1) Light sources,
+how light is measured and characterized and how the human eye will
+experience light. 2) Geometrical optics in mirrors, lenses and
+materials. 3) Polarization, interference and diffraction of light. 
+","Calculate and measure the radiometric and photometric
+parameters for light generally Design and characterize optical light sources with regards to
+color and radiation Use the Fresnel’s equations to calculate energy relations of
+light propagating through an interface between two dielectric
+media Describe the principle of propagation of light in an optical
+wave guide Calculate paraxial ray matrices to describe simple as well as
+complex optical systems Discuss the different aberrations and the influence of
+apertures on imaging systems Discuss optical principles behind ray tracing software Discuss the functionality of the eye Describe polarization and the different states of polarization
+with the Jones matrices, and discuss how polarized light can be
+generated Discuss the concept of interference and coherence, and
+calculate properties of different interferometric systems Discuss the influence of diffraction on optical systems, and
+its application (e.g. spectroscopy) Insight into real-life applications of optics and photonics –
+and innovative ways to bring these to the market in medical
+devices, communications, and other industries","
+The following concepts and phenomena, and some of their most
+important applications: Radiometry, photometry, colorimetry,
+incoherent and coherent light sources, optical detection, Fresnel’s
+equations, ray optics, ray-tracing, paraxial ray optics, optical
+aberrations, polarization, interference, Michelson interferometry,
+Fabry-Perot interferometry, coherence, optical coherence
+tomography, diffraction, spectroscopy 
+","31400,10036,34120,10020","
+Michael Linde Jakobsen"
+,,,,,,,,,,,,
+34029 , Physics Project,Danish , 10 ECTS , 2016/2017 ,Fall and January  or  Spring and June,BSc,Department of Photonics Engineering,"
+To perform a larger experimental or theoretical project on your
+own. without knowing the result on beforehand. 
+","find and select relevant literature search out additional information from researchers/PhD students
+working in the field (who may act as a consultant during the
+project) limit the field of interest based on objective and professional
+criteria, including argumenting (with help from the teacher) for
+new sides of the subject and relating the projects objective to
+existing research in the field formulate aims and methods for the project that are suitable in
+both scope and complexity plan the project set up realistic work- and time-plan and adjust this plan to
+encompass changes in the project perform sober and systematic work within experiment or theory,
+e.g. by building one's own experimental setup / coding a
+simulation / acquiring measured or simulated data / treat data
+/ relate data to the aims of the project and adjust the project
+to upcoming experimental or theoretical problems interpret, judge and sum up the results, and present results by
+means of suitable graphs / tables write a well-structured and well-documented report that
+conforms to the formal rules as described on the course's
+homepage orally present methods and results at the
+""fagprojektdag"" in such a way that it is intelligible to
+the other students in the course carry out a project in all phases from planning through
+completion to presentation independently","
+Project: Subjects with relation to the research activities at the
+Department of Physics, Department of Micro- and Nanotechnology or
+the Department of Photonics are offered, and the students choose
+among these. 
+",10030,"
+Morten Bache"
+,,,,,,,,,,,,
+34031 , Applied Mathematics for Physicists,English , 5 ECTS , 2016/2017 ,F3A (Tues 8-12),BSc,Department of Photonics Engineering,"
+To introduce concepts, tools and methods from applied mathematics
+to technical physics students. 
+","determine whether an equation is linear or nonlinear and
+understand the difference between the two kinds of systems solve linear ordinary differential equations with Laplace
+transformation and impulse response solve linear partial differential equations with Fourier
+transformation and understand the relation between a function and
+its Fourier spectrum solve linear partial differential equations with Green's
+function derive the properties of Sturm-Liouville oprators and
+Sturm-Liouville eigenvalue problems solve linear partial differential equations using separation of
+variables solve singular linear ordinary differential equations using
+Frobenius' method know Bessel's equations and be able to use Bessel
+functions derive the Euler-Lagrange equations and understand the concept
+of calculus of variations and Hamilton's Principle for
+multi-dimensional systems with several variables apply the Rayleigh-Ritz variational technique to find the
+ground state eigenfunction and eigenvalue of atomic systems apply the collective coordinate variational approach to find
+and analyse solutions to nonlinear partial differential
+equations","
+Fourier- and Laplace integral transformations. Sturm-Liouville
+problems and special functions. Bessel functions. Green's
+function. Calculus of variations.
+
+In the 5 larger projects you will use the techniques you have
+learned to analyse
+
+electrical circuits, Bose-Einstein Condensates, optical fibers,
+electromagnetic
+
+wave propagation, nonlinear crystals, laser beams, and free
+electrons. 
+","01005,10020,10036","
+Ole Bang"
+,,,,,,,,,,,,
+34032 , Optical Properties of Solids,English , 5 ECTS , 2016/2017 ,E1B (Thurs 13-17),MSc,Department of Photonics Engineering,"
+This course, formerly called Modern Photonics, is about the way
+light interacts with solids. The aim is to give you a broad and
+up-to-date perspective on the optics of solids, and to introduce
+you to exciting present-day research and engineering topics in
+optoelectronics, using the 2010 edition of a well-written book.
+Fundamental principles of absorption, reflection, luminescence and
+light scattering will be discussed for a wide range of materials,
+including crystalline insulators and semiconductors, glasses,
+metals and molecular materials including graphene. Different
+optical properties of bulk and nanometer-sized structures are
+introduced. Classical and quantum models are used where
+appropriate, and theory goes hand in hand with discussions of
+experiments and modern applications. Among the topics introduced
+are quantum wells and dots, nanoplasmonics and metamaterials, and
+color centers.
+
+Furthermore, this course gives a good background (but is not a
+prerequisite) for Nanophotonics and Quantum Optics, and is
+completed by the course Applied Photonics that focuses on lasers
+and optical detectors. 
+","Derive the Kramers-Kronig relations for linear dielectric
+response Interpret band structure diagrams of semiconductors and relate
+them to optical properties Explain the concept of an exciton, the difference between
+Wannier-Mott and Frenkel excitons, and give examples Describe different types of luminescence and explain the basics
+of LEDs and diode lasers Explain what is quantum confinement, and explain the
+differences in optical properties of structures confined in 1D, 2D
+and 3D. Discuss applications of quantum wells and dots Analyze how well the Drude model describes the measured
+reflectivity of a metal, explain limitations of the model. Describe
+the properties of surface plasmon polaritons Describe the electronic properties of molecular materials and
+graphene and derive their optical properties. Identify the
+differences between graphene and conventional 2D
+semiconductors Explain what is a luminescence center, describe several types,
+give examples of their occurrence in nature and their use in
+optoelectronic devices Explain how infrared spectra are influenced by phonons, and
+discuss Brillouin and Raman light scattering Calculate and solve exercises directly related to the presented
+optical theory of solids, thereby showing feeling for the typical
+length, frequency and time scales involved Work actively in small groups, prepare a presentation about a
+core element of the course, and evaluate the presentations by your
+peers","
+Electromagnetism in dielectrics and metals, complex refractive
+index, Kramers-Kronig relations, classification of optical
+materials, absorption, dipole oscillator model of a solid,
+dispersion, anisotropy, chirality. Semiconductors, band structure,
+interband transitions in direct and indirect gap materials, spin
+injection, photodetectors. Wannier-Mott and Frenkel excitons.
+Luminescense, photoluminescence, electroluminiscence, basics of
+LEDs and diode lasers. Quantum confinement, quantum wells, quantum
+well excitons and emission. Quantum dots as artificial atoms,
+basics of their synthesis and optical properties. Drude model for
+metals and doped semiconductors. Metals: free-carrier reflectivity,
+interband transitions, plasmons, basics of surface plasmon
+polaritons and negative refraction. Molecular orbitals, optical
+spectra of molecules. Carbon nanostructures and graphene.
+Luminescence centers, paramagnetic ions and color centers, NV
+centers in diamond. Phonons, infrared-active phonons, phonon
+polaritons, Raman and Brillouin scattering. 
+","34033,10036,10303,10102","
+Martijn Wubs,
+Nicolas Stenger"
+,,,,,,,,,,,,
+34034 , Applied photonics,English , 5 ECTS , 2016/2017 ,E1A (Mon 8-12),MSc,Department of Photonics Engineering,"
+The course aims towards an introduction to the fundamental
+properties of lasers and optical detectors. The student must be
+able to explain the physical principles behind laser action and to
+describe a number of actual laser systems. He/she will be able to
+solve simple problems in relation to the properties of light in
+optical resonators, coherent light and the interaction between
+light and matter. Different types of laser systems will be
+considered including solid-state, fiber and semiconductor lasers.
+The mode of operation and applications of a number of lasers is
+described so that the student will be able to understand and use
+commercial laser systems in connection with an actual problem. The
+students will be introduced to the characteristics and noise
+properties of optical detectors. Finally, examples of optical based
+measurement techniques will be introduced. in addition to the
+lectures a number of experimental exercises are given. 
+","design a resonator system with special properties and relate
+these properties to the functionality of the system analyze an optical measurement system and the used/chosen
+components describe the interaction between light and matter and relate
+this interaction to coherent amplification of electromagnetic
+radiation calculate and predict the dynamics as well as steady state
+interaction between light and matter generalize and discuss amplification and steady state
+conditions of optical amplifiers with feedback analyze laser systems and explain the mode of operation of the
+components used in the laser system, and predict the system
+performance compare different lasers systems and from the knowledge of the
+characteristics make an argued choice of system for a given
+application differentiate and classify pulsed laser systems noise and signal-to-noise ratio: describe the most important
+sources of noise in optical detection","
+Laser beams, laser resonators, photonics, photons and atoms, laser
+amplifiers, laser oscillators, semiconductor optics and detectors. 
+","34020,34127,34033,10370","
+Peter Tidemand-Lichtenberg,
+Kresten Yvind"
+,,,,,,,,,,,,
+34041 , Waveguide optics,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,Department of Photonics Engineering,"
+To establish a solid understanding of the physical and
+technological background for optical waveguides and components for
+the control of a broad spectrum of light, from the visible to THz
+frequencies. Optical circuits are expected to become of great
+importance for future engineers within areas such as
+telecommunication, sensors and computer architecture. Optical
+fibers already play a crucial role within long-distance signal
+transmission, and are increasingly used as sensors, in laser
+systems, and for signal processing. This course gives a thorough
+understanding of optical fibers, an introduction to integrated
+optical and plasmonic circuits, and a discussion of elementary THz
+technology. The course constitutes a solid platform for further
+work (e.g. masters projects) within these fields. 
+","Describe the structure of modal fields in in optical fibres
+with a parabolic index profile, and write down expressions for the
+intermodal dispersion. Estimate the number of guided modes in step-index optical
+fibers, as well as dispersion, effective area and bend loss, for
+given values of core radius and index contrast. Describe the structure, guidance mechanisms and applications of
+photonic crystal fibers, write down the single-mode criterion and
+estimate dispersion and effective area for standard index-guiding
+crystal fibers. Describe the structure, modal fields, propagation losses and
+applications of various types of hollow-core fibers. Discuss prism- and grating-assisted coupling of light to
+surface plasmon polaritons, as well as prism-assisted beamsplitting
+in the THz regime. Derive equations for reflection and transmission in
+fiber-integrated Bragg gratings. Sketch solutions for uniform Bragg
+gratings, as well as chirped and apodized gratings. Set up full vectorial equations for electromagnetic waves in
+optical fibers. Describe the weak-guidance approximation, and the
+scaling laws it entails. Formulate equations controlling the incoupling of light in
+waveguides. Use modal coefficient formalism to argue for symmetry
+conservation in tapers. Derive coupled-mode equations for directional couplers, and
+sketch their solutions. Describe the dependence of the coupling
+coefficient on the waveguide structure. Describe the properties of surface plasmon polaritons (SPP).
+Set up the wave equation describing SPP, and outline the dispersion
+diagram for SPP waves at air/metal interfaces. Describe waveguidance of broadband signals in the THz range,the
+properties of dispersion-free as well as dispersive metallic
+waveguides, and loss mechanisms for THz waves in
+waveguides.","
+Starting from Maxwell's equations, the fundamental principles
+for localization and manipulation of light are established.
+Dielectric waveguides, their geometries and mutual coupling, will
+be discussed. Furthermore, plasmonic waveguides and metallic
+waveguides for THz radiation are introduced. The course gives an
+introduction to the building blocks of optical circuits, such as
+passive waveguides, Bragg gratings and couplers. Microstructured
+optical fibers and their bandgap effects are also introduced. The
+course contains excursions to danish companies, thus giving a good
+impression of the ongoing activities within the field. 
+","31400,10036,34033,10370","
+Jesper Lægsgaard,
+Peter Uhd Jepsen"
+,,,,,,,,,,,,
+34042 , Quantum Photonic Communication,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),MSc,Department of Photonics Engineering,"
+Quantum photonics is now ready to be transferred from research labs
+to
+
+innovative and useful technologies. This course is set up to
+address this
+
+challenge and has three main objectives:
+
+1. To prepare the student for the technology of tomorrow in
+
+information transfer – the quantum Internet.
+
+2. To equip the student with basic and advanced knowledge about
+
+this technological platform:
+
+o Fundamentals of quantum information transfer
+
+o Quantum communication protocols – from the most
+
+promising solutions to the latest inventions
+
+o Major challenges in the field
+
+3. To give the student hands-on experience with the key
+
+experiments that reveal the nature of quantum physics:
+
+o Quantum light source
+
+o Two-photon interference
+
+o Quantum entanglement 
+","Describe the concept and the advantages of quantum information
+network, including several implementation approaches: DARPA QKD,
+SECOQC Vienna, Tokyo QKD, Geneva area network Explain coherence and decoherence in quantum systems, including
+semiconductor based two-level systems Describe & Operate single-photon sources and single-photon
+detectors Explain the main quantum communication protocols, including
+BB84, E91, BBM92 Identify & Describe the major challenges in field,
+including quantum hacking and long distance communication with
+quantum repeaters Use state-of-the-art equipment and techniques for quantum
+photonics experiments, including single-photon correlation
+measurements Analyze experimental data and draw conclusions Evaluate critically the presented topics from a scientific
+point of view","
+The course will be composed of:
+
+• Lectures on state-of the-art in optical communication,
+
+introduction to quantum optics and quantum networks,
+
+quantum state transfer, quantum coherence and decoherence,
+
+single-photon sources and detectors, quantum cryptography and
+
+quantum error correction.
+
+• Student seminars on the topic, for instance, on specific quantum
+
+communication protocols. The actual subjects will be discussed
+
+and defined together with the students during the course.
+
+• Laboratory experiments on fundamentals of quantum physics,
+
+which until recently could only be done in research labs. 
+",None,"
+Nika Akopian"
+,,,,,,,,,,,,
+34046 , Experimental Methods in Photonics,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Photonics Engineering,"
+The focus of this course is to introduce student to experimental
+work in optical laboratory, teach him how to plan, prepare and
+execute optical measurement and how to perform in depth analysis of
+experimental data. 
+","Operate freely and explain differences between such concept as
+ray optics, Gaussian beams, diffraction and interference,
+electromagnetic spectrum, wavelength and frequency, electric field
+and intensity of optical wave and temporal and frequency
+representation of optical pulses. Explain the operational principles of an autocorrelator and use
+it for characterization of short laser pulses Characterize properties of optical fibers Characterize the properties of light emitting diodes
+(LEDs) Perform optical spectroscopy characterization of a simple
+sample Plan and perform Fourier optics manipulation of optical
+image Plan, prepare and execute optical experiments Document, evaluate and report on experimental results Analyze sources of noise in the experiment he performed and
+comment on possible improvements","
+The course contains lectures on
+
+• Ray optics, Gaussian beams and their propagation in optical
+systems
+
+• Characteristics of ultrashort laser pulses
+
+• Fourier optics
+
+• Optical spectroscopy techniques
+
+• Fiber optics
+
+• Chosen optical and electronic instrument (autocorrelator, THz
+time domain system) 
+",34020,"
+Peter Uhd Jepsen,
+Krzysztof Iwaszczuk"
+,,,,,,,,,,,,
+34051 , Nanophotonics,English , 10 ECTS , 2016/2017 ,"F1 (Mon 8-12, Thurs 13-17)",MSc,Department of Photonics Engineering,"
+To provide the students with a good understanding of the principles
+of operation and the physics of advanced nanophotonic devices.
+Structuring of materials on a nanometer scale enables one to
+control the propagation of light, e.g. by introducing defects in
+photonic crystals, and to tailor electronic states and optical
+transitions by use of quantum confinement effects in quantum dots.
+This basic control of materials properties is utilized to make,
+e.g., better lasers, but is also expected to form the basis for the
+development of new devices and technologies; e.g. integrated
+photonic chips, delay elements based on slow light, plasmonic
+waveguides and microcavities displaying enhanced light-matter
+interaction.
+
+Research topics at DTU Fotonik will be incorporated and the course
+leads to theoretical as well as experimental special courses and
+master projects at DTU Fotonik. 
+","describe the assumptions on which the various physical models
+are based draft the derivation of the major results account for the gain and spontaneous emission spectra in bulk
+and low-dimensional semiconductor materials formulate rate equations for semiconductor lasers and use these
+for analysing static and dynamic properties describe light-matter interaction as well as damping mechanisms
+on the basis of density matrix equations account for Fermi’s Golden Rule as well as coherent effects
+such as Rabi oscillations and slow light use scattering and transmission matrices for analyzing gratings
+and cavities based on Bragg reflection; including DBR lasers and
+VCSELs account for the basic theory and basic properties of photonic
+crystals and the use of defects for realizing optical
+waveguides describe the basic properties of microcavities and plasmonic
+waveguides","
+Review of basic optical semiconductor physics. The interaction of
+light and matter. Waves in periodic structures; gratings and
+resonators. Two- and three-dimensional photonic bandgap structures.
+Optical amplification in bulk and low-dimensional materials, such
+as quantum wells and quantum dots. Dynamic properties of
+semiconductor lasers and noise spectra. Spontaneous emission
+quantum noise. Density matrix equations for light-matter
+interaction. Coherent effects such as Rabi oscillations, photon
+echo and slow light. Ultrafast carrier dynamics in semiconductor
+materials. Microcavities. Plasmonics. The course consists of a
+combination of lectures and calculation exercises, combined with
+(Matlab) computersimulations and experimental laboratory exercises.
+
+","34153,10102,34032,34041","
+Jesper Mørk,
+N. Asger Mortensen,
+Andrei Lavrinenko,
+Il-Sug Chung"
+,,,,,,,,,,,,
+34052 , Nonlinear Optics,English , 10 ECTS , 2016/2017 ,"E3 (Tues 8-12, Fri 13-17)",MSc,Department of Photonics Engineering,"
+At the end of the course the participants should be able to perform
+simple evaluations of nonlinear phenomena in optics. Examples will
+be directed toward applications within optical communications,
+sensors and lasers. 
+","relate the induced polarization in a dielectric material to an
+applied electric field and translate between the material response
+in the time and frequency domain relate the real and the imaginary part of the material response
+to an applied electric field and analyse these with respect to
+their impact on optical material properties discuss and apply susceptibility tensors corresponding to
+relevant optical materials with respect to the interaction between
+electromagnetic fields and materials derive the nonlinear wave equation corresponding to various
+nonlinear phenomena in bulk materials as well as in optical
+waveguides describe wave propagation in an-isotropic materials, and derive
+solutions regarding phase-matching conditions in such
+materials design and analyse nonlinear optical systems aimed at nonlinear
+frequency-conversion distinguish between Raman and Brillouin scattering and describe
+these phenomena using susceptibility tensors and the induced
+polarization describe the intensity dependent refractive index using the
+induced polarization and apply the corresponding waveequation to
+analyse transmission of short optical pulses. plan and carry out smaller research type projects and analyse
+and present the achieved results in form of posters, an oral
+presentation and a technical article","
+Nonlinear effects in optics is becoming a more and more important
+topic, which is simply demonstrated by some of the recent
+applications and research topics within optics: high power short
+pulsed lasers, supercontinuum sources, sensors, and nonlinear
+signal processing, including transmission of high capacity signals.
+In the course relevant materials properties will be described and
+the interaction between light and matter is discussed. This is done
+through the susceptibility and an expansion of the induced
+polarization in a given material. The nonlinear waveequation is
+derived and applied to specific examples.
+
+During the course two posters are requested from the participants,
+one after approximately four weeks and the other after
+aproxinmately 9 weeks. In relation to the final evauation of the
+course, the posters are weighted by 30 % of the total course. The
+remaining 70 % of the course ore obtained from a project which is
+carried out through the last 4 weeks of the course. The project is
+concluded by handing in a report describing the project. The report
+will be presented at the oral exam, and as a requirement to the
+report it has to contain elements from the first 8 weeks of the
+course. 
+","34530,10036,34031,10370","
+Karsten Rottwitt,
+Peter Tidemand-Lichtenberg"
+,,,,,,,,,,,,
+34053 , Numerical Methods in Photonics,English , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),MSc,Department of Photonics Engineering,"
+To make the participants familiar with modeling of modern photonics
+components using the finite-difference method in both the time and
+frequency domain. The participants will also learn to model the
+propagation of pulses and beams in nonlinear optical materials by
+using the split-step Fourier method. Finally stationary
+mode-structures will be calculated by solving the equivalent
+boundary-value problem. 
+","make the participants familiar with modeling of modern photonic
+components using the finite-difference method in both the time and
+frequency domain find conserved quantities and symmetry properties of the
+integrable and extended nonlinear Schrödinger equations implement a split-step Fourier method in MATLAB for modelling
+pulse propagation and interaction in optical fibres and perform all
+necessary validations calculation, analysis and numerical modelling of phase matching
+between optical fibre solitons and dispersive waves describe the conditions and approximations under which full-
+and semivectorial wave equations in the frequency domain for guided
+modes in straight waveguides may be derived recast the wave equations as a matrix eigenvalue problem using
+the finite-difference technique, and implement a numerical tool in
+MATLAB to solve this eigenvalue problem utilize mirror symmetries to formulate and implement the
+waveguide finite-difference problem in a reduced calculational
+domain use the resulting MATLAB codes to determine propagation
+constants and mode profiles in various types of straight
+waveguides, and critically evaluate the accuracy of the obtained
+results write down the second order and the forth order
+finite-difference schemes for numerical solution of Maxwell’s
+equations in the one dimension analyse numerical dispersion and stability criteria of the
+finite-difference time-domain method in 1D, 2D and 3D implement a MATLAB realization of the finite-difference
+time-domain method in 1D analyse the propagation of short and long pulses in multilayer
+dielectric media. Determine reflection and transmission spectra,
+group velocity, field amplitudes in a periodic structure","
+Modern photonics research and technology is increasingly reliant on
+efficient numerical methods which can accurately model the optical
+properties either of advanced components such as high-index
+waveguides, microstructured fibres, microresonators or
+metamaterials such as photonic crystals, etc. Also, there is an
+increasing interest in using nonlinear effects for all-optical
+signal processing so a basic knowledge of numerical modeling tools
+for both linear and nonlinear optical phenomena is important for
+anyone doing photonics research or development. This course aims to
+give its participants a basic understanding of some common
+numerical methods, emphasizing both the underlying mathematics,
+algorithmic issues encountered in their implementation, and their
+performance in solving some important photonics problems. Methods
+to be discussed are:
+
+Frequency-domain methods: The finite-difference method for straight
+waveguides.
+
+Time-domain methods: The finite-difference time-domain method for
+modeling advanced photonics components.
+
+Nonlinear propagation: The split-step Fourier method. 
+","31400,10036,10370,34041","
+Andrei Lavrinenko,
+Jesper Lægsgaard,
+Ole Bang"
+,,,,,,,,,,,,
+34054 , Practical  Wave,English , 7.5 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,Department of Photonics Engineering,"
+To introduce the student to the practical side of wave guide optics
+(primarily fiber optics) and hereby enable the student to perform
+an experimental evaluation of optical components. The course is a
+natural basis for larger projects within design and fabrication of
+optical wave guide components. 
+","Plan and carry out a smaller research type project, possibly as
+a part of a team work Understand and explain basic theory related to the experiment
+the student has worked with during the course Derive measurable quantities corresponding to theoretical
+assays in optical wave guides Measure specific parameters in relation to theoretical
+formulation Analyse and correlate theoretical and experimental results on
+wave propagation in optical waveguides Calculate relevant physical quantities based on experimental
+data Apply theoretical models to analyse experimental data Explain experimental data based on theoretical models Understand measurements or numerical data based on applied
+theoretical models Present achieved results at an oral presentation as well as in
+a short article-like report","
+The first part of the course will introduce relevant theoretical
+material such as mode profiles, coupling loss, effective index,
+polarisation and simulation of optical components. The last part of
+the course includes an experimental project, in relation to an
+ongoing research activity at DTU-FOTONIK where knowledge acquired
+from the first part of the course is going to be used. 
+",10036,"
+Mario A. Usuga Castaneda"
+,,,,,,,,,,,,
+34055 , Fabrication of Nanophotonic Devices,English , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,Department of Photonics Engineering,"
+To give you a theoretical and practical knowledge of process
+technology for compound (III-V) semiconductors. This will be done
+partly though lecturing, but most of the work will be directed at
+fabricating and testing an optoelectronic component (semiconductor
+laser or amplifier). Besides basic practical training we will put
+emphasis on the engineering aspects of the processes, machines and
+cleanroom technology. 
+","describe the properties of wet chemical etches for III-V
+materials and be able to select one for a given application explain the dry etching of III-V structures and describe the
+wafer properties after etch explain the ohmic contact formation to III-V semiconductors and
+describe the metallurgy of Ti-Pt-Au and Ni-Ge-Au contacts describe the critical issues and possible solutions to
+packaging of optical devices list the methods for photonic integration and outline the
+advantages and disadvantages of each eplain the basic growth mechanisms behind and outline the
+practical issues in epitaxy of bulk, quantum well or dot
+structures explain the process steps needed to fabricate a laser
+device describe the capabilities and working principle of the
+available processing equipment and be able to operate it to evaluate the performance of the fabricated lasers to design or modify a process for compound semiconductors using
+standard processes display proper conduct in a cleanroom with a hazardous
+environment and to document a complicated process
+sequence","
+Active photonic components. Physics and chemistry for III-V
+semiconductors. Crystal structure’s importance in processing. Wet
+and dry etching. Fabrication of nanostructures by epitaxy: MBE and
+MOCVD. Integrated optoelectronics and photonics. Packaging of
+optoelectronic components. Practical fabrication of semiconductor
+laser. Cleanliness and safety. Process monitoring. Process log.
+Understanding of cleanroom and process equipment and the components
+they consist of. Basic test of semiconductor lasers. 
+",33255,"
+Kresten Yvind,
+Elizaveta Semenova,
+Peter Jesper Hanberg,
+Luisa Ottaviano"
+,,,,,,,,,,,,
+34058 , Numerical modeling and experimental demonstration of nanoplasmonic stuctures.,English , 5 ECTS , 2016/2017 ,January and June,MSc,Department of Photonics Engineering,"
+Plasmonics is a still rising field of science and technology in
+which the flow of light can be molded at the nanoscale using
+metallic nanostructures. The aim of the course is to introduce you
+to advanced numerical tools for analyzing light interaction with
+metallic nanostructures, and to introduce you to state-of-art
+nanofabrication technology for realizing designed nanoplasmonic
+devices. The course covers import aspects from design to
+fabrication and characterization of plasmonic nanodevices. 
+","Conduct numerical simulations by advanced computational
+tools Apply advanced computational tools to design plasmonic
+structures Analyze the properties of designed plasmonic nanostructure Describe the nanofabrication process and access the fabrication
+challenges for plasmonic nanostructures Utilize obtained hands-on experiences with advanced
+experimental equipment Manage the optical alignment for the free-space measurement
+setup Conduct the characterization of the plasmonic
+nanostructures Evaluate and compare measurement results with
+simulations","
+The course consists of two parts. The first part of it mainly
+focuses on numerical simulations. A number of numerical exercises
+will be handed out during this part. The second part of the course
+is to fabricate plasmonic nanostructures/devices in the Danchip.
+Safety course is required for students who are going to do
+nanofabrication in the cleanroom. We will guide and assist you in
+fabricating your own plasmonic nanodevices. Fabricated devices will
+be finally examined with the aid of a scanning electron microscope
+and will be characterized in the Opt-Lab. You will present your
+results in a report to be submitted toward the end of the course
+period. 
+","34051,34033","
+Sanshui Xiao"
+,,,,,,,,,,,,
+34069 , Light transport theory and simulation methods,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Photonics Engineering,"
+The theory of optics is so rich and complex that many theoretical
+formalisms have been formulated to describe, analyze, simulate and
+quantify its physical properties. Among all these formalisms
+phenomenological approaches like radiometry and radiative transfer,
+originally stated in the context of astrophysics, are very
+convenient and widely used to simulate light propagation and
+light-matter interactions. Phenomenon like scattering of light by a
+random media or rough surface are well explained by radiative
+transfer theory, as well as macroscopic light-matter interactions
+through the concept of bi-scattering-distribution-function (BSDF).
+In this course, we will give significant theoretical and practical
+insights of this theory, which is of particular importance of many
+fields of science and engineering. 
+","• Analyze and characterize optical properties of materials
+important for light transport • Model, derive, measure and efficiently utilize
+bi-scattering-distribution-functions • Manipulate and solve the integral equations governing light
+transport in both scalar and vector forms • Simulate and model light transport and light-matter
+interactions for engineering and scientific applications from
+optical engineering to astrophysics • Predict and solve the (multiple/single) scattering of light
+by random scatterers, both in volume and surface • Derive mathematical and numerical models for light transport
+modeling and simulation • Describe and interpret the principles of optical simulation
+software and raytracing based algorithms • Conduct numerical simulations for solving complex light
+transport and light matter interaction problems, without directly
+solving PDEs like Maxwell’s or Wave equations • Derive analytical solutions of Maxwell’s equations","
+The course consists of four parts:
+
+1. Review of theory of optics
+
+2. Radiative transfer equation (RTE): theory and applications
+
+3. Light scattering and bi-directional scattering functions
+
+4. Numerical methods and algorithms for solving the RTE and
+scattering problems
+
+We will start from reviewing electromagnetic and wave approaches of
+principles of optics, and related mathematical concepts. This part
+will also review optical properties of materials; this will be
+useful for the modelling and simulation of light transport
+problems.
+
+In a second part of the course, we will depart from Maxwell’s and
+wave equations to derive the radiative transfer equation, which is
+based on geometrical optics but can fully embrace waves optics
+properties like polarization. In this part of the course, we will
+also discuss integral equations, as the RTE is part of this class
+of equations; other integral equations that will be discussed
+include Kirchhoff and Stratton-Chu integrals.
+
+Then equipped with the theoretical foundation of radiative transfer
+and integral equations we will approach the problem of light
+scattering and explain it through the RTE formalism. In this part,
+we will also introduce the concept of
+bi-scattering-distribution-function (BSDF). Polarization will be
+also discussed in this section, and we will see how to include it
+in a ray-based theory through Stokes formalism and vector integral
+equations. Based on understanding of the theoretical aspects of
+radiative transfer we will learn to solve integral equations with
+raytracing and Monte Carlo methods, and present some commercial and
+open source simulation packages based on these techniques. 
+","34020,34031","
+Thierry Silvio Claude Soreze"
+,,,,,,,,,,,,
+34091 , Advanced photonic devices journal club,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),Ph.D.,Department of Photonics Engineering,"
+To provide the participant with knowledge about the latest research
+within optoelectronics and to practice scientific discussions and
+presentations 
+","Have an overview of contemporary research topics in photonic
+devices including fabrication, theory and experiments Be able to perform an independent literature search Be able to discuss key concepts in photonic devices at a high
+academic level Be able to critically assess a scientific article Be able to present scientific results orally in a clear and
+comprehensible fashion - - -","
+The course consists of presentations and discussions of scientific
+articles within photonics devices and related topics, cf. the list
+of keywords below. The students takes turns in presenting the main
+results of a chosen paper using a computer presentation.
+Presentations may include electrical, optical and thermal design of
+the devices and the working principle. In addition, the fabrication
+methods, applications and competing technologies may be included
+where appropriate. 
+",,"
+Kresten Yvind,
+Lars Hagedorn Frandsen"
+,,,,,,,,,,,,
+34092 , Nano,English , 5 ECTS , 2016/2017 ,Fall,Ph.D.,Department of Photonics Engineering,"
+To establish a theoretical understanding of the semi-classical
+light-matter interaction in nanophotonic structures and of the
+engineering of the optical properties of these devices. Since the
+light-matter interaction is governed by the photonic environment,
+proper engineering of nanophotonic components requires a detailed
+understanding of the possibilities for tailoring the optical field
+to obtain the desired functionality. The curriculum will be based
+on textbook material as well as the latest DTU Fotonik research 
+","relate the electromagnetic field using the dyadic Green's
+function describe major near-field optical microscopy techniques explain the light-matter interaction in the weak coupling
+regime using the local density of states distinguish between different types of quantum emitter decay
+rates in homogeneous and non-homogeneous environments and estimate
+them compute the light emission of a dipole emitter in a simple
+geometry (an interface) determine the net force on an object exerted by the
+electromagnetic field using the Maxwell stress tensor compute scattering of light for 2D geometries using the modal
+method and the Green’s function integral equation method describe major antenna design strategies at optical
+wavelengths","
+Maxwell’s equations, optical Green’s function, local density of
+states, quantum emitter, dipole approximation, interaction
+Hamiltonian, dipole radiation, spontaneous decay, classical
+lifetimes, far field emission, quantum light emitters, optical
+antennas, cavity quantum electrodynamics, simulation techniques
+based on modal and on Green’s function integral equation methods.
+
+The textbook ""Principles of Nano-optics"" by Lukas Novotny
+and Bernt Hecht as well as lecture notes and articles will be used.
+Curriculum is approx. 250 pages.
+
+The course will consist of an introductory lecture after which the
+curriculum will be discussed in a study group format with student
+presentations and Matlab exercises.
+
+For evaluation: Oral exam in curriculum. 
+",None,"
+Niels Gregersen"
+,,,,,,,,,,,,
+34120 , Electromagnetism for Communication,Danish , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),BSc,Department of Photonics Engineering,"
+To give a general introduction to electromagnetism with specific
+application to communication via optical and metallic waveguides,
+and wireless communication 
+","Describe electromagnetic fields with the use of vector
+analysis Apply Maxwell’s equation on simple problems in relation to
+electromagnetism Explain the propagation of electromagnetic waves in optical
+fibers (dielectric waveguides) Explain the propagation of electromagnetic waves in metallic
+transmission lines such as coaxial cables Explain the propagation of radiowaves Understand fundamental aspect for application of
+electromagnetism Explain basic theory for electromagnetic fields Perform a critical evaluation and discussion of research within
+application of electromagnetism within optical
+communication","
+Electromagnetic waves. Transmission lines. Optical fibers. Radio
+waves. Maxwell’s equations 
+",01005,"
+Karsten Rottwitt"
+,,,,,,,,,,,,
+34126 , Experimental Course in Optical Communication,English , 5 ECTS , 2016/2017 ,E5B (Wed 13-17)  or  F5B (Wed 13-17),BSc,Department of Photonics Engineering,"
+The course aims at introducing all the basic physical components of
+an advanced modern optical communication system through hands-on
+experience. In the process, the student will get a good feeling for
+the splendour of optics, the properties of lasers, interferometers,
+optical amplifiers and optical communications, and develop
+practical skills in the optical student lab. To get a practical
+experience in an optical laboratory - learning-by-doing by using
+your hands to make things happen. Learn to use a laboratory
+log-book as documentation for the experiments. Notice, course 34129
+in module E3B/F3B is identical to this course. 
+","Identify the key elements of a laser, assemble and characterise
+it Apply interferometers for controlled manipulation of light Characterise and interpret impact of measureable phenomena in
+optical fibres Characterise and interpret measurable phenomena in optical
+amplifiers Demonstrate the implementation of an optical transmitter and
+characterise it. Describe, characterise and differentiate optical analogue and
+digital signals Assemble a point-to-point full optical communication
+system Evaluate the quality and performance of an optical
+communication system Plan experimental set-ups Write a detailed scientific log-book","
+Lasers (build one from scratch)
+
+Fibres (transmission, loss, polarisation, dispersion, nonlinear
+effects, scattering)
+
+Optical components (Raman and Erbium doped fibre amplifiers,
+modulators)
+
+Optical data transmission over fibre
+
+Digital optical systems (communication quality assessment). 
+",None,"
+Michael Galili,
+Anders Clausen,
+Leif Katsuo Oxenløwe"
+,,,,,,,,,,,,
+34127 , Experimental Optics and Photonics,Danish , 5 ECTS , 2016/2017 ,January  or  June,BSc,Department of Photonics Engineering,"
+The focus of this course is to introduce the student to selected,
+important optical phenomena and practical optics instrumentation
+required for the investigation of these phenomena and
+characterization of optical systems. 
+","Operate freely and explain differences between such concept as
+ray optics, Gaussian beams, diffraction and interference,
+electromagnetic spectrum, wavelength and frequency, electric field
+and intensity of optical wave and temporal and frequency
+representation of optical pulses. Explain operation principle of a photoconductive switch, design
+a simple THz spectroscopy setup and perform THz spectroscopy and
+imaging on a simple samples Construct a Michelson interferometer and demonstrate its
+use Explain the operational principles of an autocorrelator and use
+it for characterization of short laser pulses Operate an Optical Spectrum Analyzer (OSA) Characterize properties of optical fibers Characterize the properties of light emitting diodes
+(LEDs) Plan and perform an optical experiment illustrating diffraction
+of optical waves Explain and use a lock-in amplifier Implement subsystems for optical communication Plan, execute, document, evaluate and report the
+experiments Analyze sources of noise in the experiment he performed and
+comment on possible improvements","
+The course contains lectures on
+
+• Gaussian beams and their propagation in optical systems
+
+• Ray optics, simple optical elements
+
+• Diffraction and interference of light
+
+• Characteristics of ultrashort laser pulses
+
+• Chosen optical and electronic instrument (autocorrelator, lock-in
+amplifier, THz time domain system)
+
+The experimental exercises focus on optics instrumentation and its
+use for characterization of various relevant optical phenomena, and
+on the use of optics instrumentation for the evaluation of the
+performance of optical systems within optics engineering. 
+",34020,"
+Peter Uhd Jepsen,
+Krzysztof Iwaszczuk"
+,,,,,,,,,,,,
+34129 , Experimental Course in Optical Communication,English , 5 ECTS , 2016/2017 ,E3B (Fri 13-17)  or  F3B (Fri 13-17),BSc,Department of Photonics Engineering,"
+The course aims at introducing all the basic physical components of
+an advanced modern optical communication system through hands-on
+experience. In the process, the student will get a good feeling for
+the splendour of optics, the properties of lasers, interferometers,
+optical amplifiers and optical communications, and develop
+practical skills in the optical student lab. To get a practical
+experience in an optical laboratory - learning-by-doing by using
+your hands to make things happen. Learn to use a laboratory
+log-book as documentation for the experiments. Notice, course 34126
+in module E5B/F5B is identical to this course. 
+","Identify the key elements of a laser, assemble and characterise
+it Apply interferometers for controlled manipulation of light Characterise and interpret impact of measureable phenomena in
+optical fibres Characterise and interpret measurable phenomena in optical
+amplifiers Demonstrate the implementation of an optical transmitter and
+characterise it. Describe, characterise and differentiate optical analogue and
+digital signals Assemble a point-to-point full optical communication
+system Evaluate the quality and performance of an optical
+communication system Plan experimental set-ups Write a detailed scientific log-book","
+Lasers (build one from scratch)
+
+Fibres (transmission, loss, polarisation, dispersion, nonlinear
+effects, scattering)
+
+Optical components (Raman and Erbium doped fibre amplifiers,
+modulators)
+
+Optical data transmission over fibre
+
+Digital optical systems (communication quality assessment). 
+",None,"
+Michael Galili,
+Leif Katsuo Oxenløwe,
+Anders Clausen"
+,,,,,,,,,,,,
+34130 , Introduction to Optical Communication,English , 10 ECTS , 2016/2017 ,"E4 (Tues 13-17, Fri 8-12)",MSc,Department of Photonics Engineering,"
+To enable the student 1) to understand and analyze the components
+of optical communication systems, 2) to understand the principles
+behind the construction of optical communication systems and to
+perform a systematic evaluation, and 3) to take part in research
+and development within the field 
+","describe wave propagation in step-index fibres and for single
+mode fibres cut-off frequency, birefringence, spot size,
+attenuation and nonlinear optical effects formulate the equations for group-velocity dispersion, explain
+pulse broadening as a result of dispersion and describe propagation
+of a Gaussian pulse with chirp describe the structure and function of semiconductor lasers and
+light-emitting diodes including static and dynamic properties explain spontaneous emission, absorption, stimulated emission
+and amplification describe the physical processes in photodiodes and the
+structure of optical receivers at block diagram level calculate for optical receivers thermal noise, shot noise,
+signal-to-noise ratio, bit-error rate and sensitivity in relation
+to the quantum limit formulate detailed power and rise-time budgets and calculate
+power penalty as a result of pulse broadening and frequency
+chirping explain for optical amplifiers bandwidth, saturation and noise
+and for semiconductor optical amplifiers gain, bandwidth and
+saturation explain for Raman and erbium doped fiber amplifiers gain,
+saturation etc explain the purpose of wavelength division multiplexing and its
+importance for high capacity optical systems explain the working principles of wavelength selective devices
+and the application of interference and diffraction to perform
+wavelength filtering and relate wavelength filtering to optical
+space switching and optical wavelength conversion to realize
+optical add-drop multiplexers and optical cross-connects Construct an optical time division multiplexed system and
+discuss the requirements for such a system","
+Optical fibres: structure, conditions of propagation, attenuation
+and pulse dispersion. Optical amplifiers: Construction,
+amplification and noise. Light sources and transmitters:
+Construction, modulation bandwidth and spectral properties.
+Photodiodes and receivers: Construction, electrical bandwidth,
+noise and sensitivity. Optical communication systems with digital
+modulation formats: Construction and system budgets. Multichannel
+systems. Laboratory exercises with optical fibres, optical
+amplifiers and systems experiments. Computer simulations of optical
+transmission 
+","31400,10036,34120","
+Anders Clausen"
+,,,,,,,,,,,,
+34141 , Microwave Photonics,English , 10 ECTS , 2016/2017 ,E4A (Tues 13-17)  or  E2B (Thurs 8-12),MSc,Department of Photonics Engineering,"
+Microwave photonics brings together the worlds of radiofrequency
+(RF) engineering and photonics.
+
+By combining the strengths of both technologies, microwave
+photonics is able to achieve performances levels not possible
+otherwise in ultra-wideband RF-transmission, antenna beamsteering,
+RF-signal generation and signal processing, analog-to-digital
+conversion, among others. We will start by reviewing the basics of
+photonics and RF/microwave devices
+
+(lasers, modulators, photodetectors, mixers, …). We move then to
+fundamental microwave systems and their applications to wireless
+communications, beamsteering, mmw/THz signal generation signal
+processing and A/D conversion, etc..
+
+The performance metrics for microwave photonic links, such as
+signal-to-noise ratio and dynamic range, will be established in
+relation to device characteristics and applications requirements. 
+","Explain the fundamentals of microwave photonics systems Explain the physical concepts enabling fundamental microwave
+photonics functionalities Apply microwave photonics principles for signal processing Design signal processing functionalities based on microwave
+photonics Explain microwave photonics links for wireless
+communications Explain the performance metrics of microwave photonics
+links Perform detailed performance calculations of microwave
+photonics links Discuss merits of microwave photonics enabled
+functionalities Explain and discus applications of microwave photonics in
+wireless communications, beamsteering, mmw/THz signal generation
+and detection and A/D conversion","
+Review of photonic devices such as light sources, high speed
+photodetection, high speed optical modulators, and optical
+amplifiers. Review of radio frequency and microwave components such
+as resonators and filters, mixers, and wireless receiver systems.
+Then the core of the course: microwave photonic systems (general
+performance analysis), photonic microwave signal generation and
+processing, photonic assisted wireless communication systems,
+radio-frequency sub-carrier links, photonic phased array antennas,
+optoelectronic microwave oscillator, photonic A/D conversion,
+Terahertz signal generation and detection, and photonic wireless
+beamsteering. 
+","31418,34153,34120,31420","
+Idelfonso Tafur Monroy"
+,,,,,,,,,,,,
+34150 , Optical Communication Systems,English , 7.5 ECTS , 2016/2017 ,F3A (Tues 8-12),MSc,Department of Photonics Engineering,"
+To give the student a) Insight into advanced applications of
+optical communication through looking at system examples taken from
+real life. b) Insight into new optical communication techniques
+that are still in the research and development stage. c) A
+foundation for taking part in research and development of advanced
+optical systems and of the electro-optical components and
+waveguides that constitute them. 
+","Explain pulse propagation i optical fibres under significant
+influence from nonlinearities Define soliton systems Describe despersion compensation and design simple WDM
+systems Design system functionalities based on the interaction of
+nonlinearities and dispersion Design functionalities based on compact functional
+elements Perform detailed system calculations on advanced modulation
+formats Discuss merits of digital modulation formats used in optical
+systems Describe the principles of coherent communication systems Explain the physical concepts enabling fiber-to-the-home
+networks Explain basic optical network concepts","
+Optical systems including state-of-the-art, nonlinear fiber optics
+and applications: Optical signal processing and applications,
+Soliton communication, Coherent communications systems, Coherent
+receivers using digital signal processing, Optical functional
+elements based on compact components, Fiber-to-the-home and
+radio-over-fiber systems, optical transport network (OTN). 
+","34153,34130,34140","
+Leif Katsuo Oxenløwe"
+,,,,,,,,,,,,
+34153 , Physical Concepts in Optical Communication,English , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12),MSc,Department of Photonics Engineering,"
+To enable the student to 1) apply his fundamental knowledge in
+optics and photonics to concrete issues in optical communications.
+2) to understand how essential physical mechanisms can be applied
+to the generation, transmission and detection of optical data in
+high-speed optical communication systems. 3) to realise that future
+improvements in state-of-the-art optical transmission technology
+will rely on a thorough understanding of fundamental physical
+issues. 
+","relate Raman cross section and emission and absorption spectra
+to gain and noise figure in Raman amplifiers and erbium doped fibre
+amplifiers, respectively analyse gain and noise performance of erbium doped fibre
+amplifiers and Raman amplifiers with respect to application in
+optical communication systems compare performance of erbium doped fibre amplifiers against
+Raman amplifiers and parametric amplifiers analyse how dispersion affects light propagation in optical
+fibres analyse the impact of electrical and optical noise on the
+detection of optical signals apply basic knowledge of electromagnetic theory to analyse the
+propagation of electromagnetic waves in anisotropic media analyse how the linear electro-optic effect can be exploited to
+modulate the properties of an electromagnetic field apply the linear electro-optic effect to the modulation of
+lightwaves for use in optical communication systems","
+The course covers the following topics:
+
+• Optical Modulation:
+
+Light modulation for optical communication - direct vs. external
+modulation, propagation of electro-magnetic waves in anisotropic
+media, the linear electro-optic effect, the Mach-Zehnder modulator,
+generation and properties of advanced modulation formats.
+
+• Optical Detection:
+
+Optically induced transition rate, p-i-n photodiode, avalanche
+photodiode, shot-noise, optical thermal noise, receivers,
+signal-to-noise ratio, bit error rate.
+
+• Optical amplification:
+
+Rate equations, gain and noise figure, Erbium doped fibre
+amplifiers, Raman amplifiers.
+
+• Group velocity dispersion:
+
+Standard single mode fibre, wave propagation, group velocity, group
+velocity dispersion, dispersion compensating fibre.
+
+• Systems examples:
+
+Short links
+
+Long distance links with amplifiers
+
+Long distance links with distributed amplifiers 
+","34020,34033,34032,10370","
+Michael Galili"
+,,,,,,,,,,,,
+34190 , Digital Optical Communication Receivers,English , 5 ECTS , 2016/2017 ,Fall,Ph.D.,Department of Photonics Engineering,"
+Understand and apply digital signal processing algorithms for
+optical communication receivers with advanced modulation formats. 
+","Analyze and implement algorithms for digital demodulation Analyze and implement algorithms for clock recovery Analyze and implement algorithms for synchronization Analyze and implement algorithms for phase and frequency
+estimation Analyze and implement algorithms for channel equalization Understand the relation between the algorithms and the physical
+realization of the optical links Knowledge of efficient implementations to be used in actual
+systems Apply digital signal processing algorithms specifically related
+to the participant's ph.d. project","
+The main topics are:
+
+- Digital demodulation
+
+- Clock recovery
+
+- Phase recovery
+
+- Frequency estimation
+
+- Synchronization algorithms
+
+- Channel estimation and equalization
+
+The course is conducted as a reading and discussion meeting with
+the teachers. Assignments will be handed out to each student and
+discussed every course meeting. The assignments will be based on
+the book: Digital Communication Receivers: Synchronization, Channel
+Estimation, and Signal Processing by H. Meyr et al. The assignments
+will be chosen according to the students' needs and interests. 
+",,"
+Idelfonso Tafur Monroy,
+Darko Zibar"
+,,,,,,,,,,,,
+34191 , Performance analysis of Optical Communication Systems,English , 10 ECTS , 2016/2017 ,Spring,Ph.D.,Department of Photonics Engineering,"
+Understand and apply analytical and semi-analytical methods for the
+performance evaluation of optical communication systems under
+non-Gaussian distributed noise impairments such as linear and
+non-linear phase noise, linear and non-linear crosstalk. 
+","derive analytical expressions for the statistics of the
+decision variable for an optical communication system under
+Gaussian distributed noise impairments based on moment generating
+functions Derive analytical expressions for the statistics of the
+decision variable for an optical communication system under
+non-Gaussian distributed noise impairments based on moment
+generating functions Apply analytical expressions for the computations of bit-error
+using saddle point approximations Apply analytical expressions for the computations of bit-error
+rate using modified Chernov bounds apply semi-analytical methods to the performance analysis of a
+communication system using conditional moment generating
+functions analyze the results given by the saddle point approximation and
+Chernov bounds with respect to realistic measurements understand the relation between the predictions of the
+analytical and semi-analytical methods and the noise impairments in
+practical communication physical layer implementations knowledge of implementations of analytical and numerical
+methods to compute saddle point approximation based error
+probabilities","
+The main topics are:
+
+- revision of the basis of optical communication systems with
+emphasis on optical phase modulated systems
+
+- semi-classical interpretation of optical detection
+
+- optical phase detection schemes
+
+- linear phase noise and Brownian motion
+
+- moment generation function theory
+
+- derivation of moment generation function for Poisson, Gaussian
+variables and its relation to decision variable of optical
+communication receivers
+
+- Karhunen-Loeve expansion for optical systems under optical
+Gaussian noise impairments
+
+- the saddle point approximation
+
+- use of the saddlet point approximation of computation of
+bit-error rates
+
+- Chernov bound approach for the computation of bit-error rates
+
+- analytical and semi-analytical method for saddle point and
+Chernov bound bit-error rate computations
+
+- case studies based on specific 
+",,"
+Idelfonso Tafur Monroy"
+,,,,,,,,,,,,
+34210 , Introduction to digital communication,Danish , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),BSc,Department of Photonics Engineering,"
+To give an introduction to processing of signals in modern
+communication systems, including concepts such as sampling,
+quantization, filtering, noise and modulation 
+","Describe signals in general in relation to communication
+systems Explain the difference between analog signals and digital
+signals, and between periodic and non-periodic signals Describe sampling and reconstruction of signals and explain the
+sampling theorem for deterministic signals Explain quantization, including the difference between linear
+and non-linear quantization Describe how signals can be represented in both time-domain and
+frequency domain, and the purpose of Fourier transform in relation
+to these different domains Describe what characterizes a linear system and the relation
+between a linear system’s impulse response and transfer
+function Explain how information can be transferred with pulses and how
+pulses are detected in the presence of noise Describe amplitude modulation and phase modulation in both time
+domain and frequency domain Use MATLAB for calculations on simple communication
+systems","
+Introduction to analysis and processing of deterministic signals.
+Sampling and quantization. The sampling theorem. Introduction to
+linear systems and electric circuits. Transmission with pulses.
+Optimal detection of pulses. Intersymbol interference. Nyquist’s
+theorem. Orthogonal signals. Modulation. Channel models for
+metallic and optical transmission lines and radio channels 
+",01005,"
+Knud J. Larsen,
+Darko Zibar"
+,,,,,,,,,,,,
+34220 , Coding in communication systems,Danish , 5 ECTS , 2016/2017 ,January,BSc,Department of Photonics Engineering,"
+To provide an introduction to coding in communication systems:
+
+- Error-correcting coding for transmission channels
+
+- Coding of information sources for data compression
+
+- Encryption of information to safeguard the content. 
+","explain linear block codes and their most important
+properties explain and use encoders and decoders for common block codes as
+Hamming, BCH, and RS explain convolutional codes and their most important
+properties understand and apply the Viterbi decoding algorithm for
+convolutional codes simulate coding systems know the entropy concept perform Huffman coding of simple information sources understand the application of prediction in source coding understand the most important elements of coding of images and
+video (JPEG, MPEG) and be able to apply and parameterize such
+coders generate simple pseudorandom sequences (LFSR) know classical methods of cryptography know modern public key cryptography","
+Modern communication systems use one or more instances of coding
+and the goal of this course is to provide an introduction to such
+coding systems. The present course has an application perspective
+supported by practical exercises and projects which may be executed
+in MATLAB programming. The theories for coding systems are quite
+deep and these issues are treated in several other DTU courses. The
+course contains the following subjects:
+
+• Channel coding (error-correction)
+
+- Linear block codes: Principles. Hamming, RS, and BCH from a user
+perspective
+
+- Convolutional codes: Encoding and decoding (Viterbi)
+
+• Source coding (data compression)
+
+- The entropy concept
+
+- Huffman-coding
+
+- Use of linear prediction of signals
+
+- Video and image coding
+
+- MPEG and JPEG
+
+• Cryptography (safeguarding and protection of information)
+
+- Pseudorandom sequences
+
+- Classical kryptography
+
+- Modern public key systems
+
+The lectures use detailed slides which form the most important
+course material. For each lecture one or more exercises are found
+and reports are to be handed in for some of the exercises. The
+exercises usually require programming in MATLAB and often use of
+tools from the MATLAB toolboxes. At the end of the course, a small
+project on a subject chosen by the student is to be carried out and
+a report should be handed in. 
+","34310,01005","
+Knud J. Larsen,
+Søren Forchhammer,
+Jari Korhonen"
+,,,,,,,,,,,,
+34229 , Project Work – Bachelor in Networks Technology and IT,English , 10 ECTS , 2016/2017 ,F5B (Wed 13-17) and June,BSc,Department of Photonics Engineering,"
+To train the participants in formulating a problem; to delimit and
+to plan and carry out an enginering project. To train the
+participants in rational group work on a scientific problem. To
+give the participants a thorough understanding of one or more
+subjects within communication technology. 
+","carry through a structured development process for an
+engineering project know the difference between different stages in the
+process work out a specification work out system and implementation descriptions implement a design in hardware/software carry out a planned testing of a design evaluate and provide constructive criticism for others’
+work organize the cooperation in a heterogeneous group organize contact to other groups or users in larger
+projects present a design for others work in groups with English as the working language","
+In the beginning of the course, the students are taught a little
+about project work and development models for engineered products.
+A project or subproject is then chosen and the students are divided
+into groups of 2-6 students according to the project choice. The
+groups must prepare a detailed project specification and then a
+written description of the project. The process is divided into
+stages each followed by a review allowing to proceed to the next
+stage. The project specification and descriptions are handed in as
+a report which must be approved before the start of the 3-week
+period. During the 3-week period the implementation and testing are
+carried out and the final report is written. The project must be
+presented orally the last day of the 3-week period. The projects to
+be done may be defined in one or more of the following fields:
+
+- Programmable digital circuits (FPGA)
+
+- Software
+
+- Optical systems
+
+During the process, it may be necessary to teach some relevant
+theory. This could be relevant topics within e.g. optical systems
+or practical design of digital systems (including small computer
+based systems). 
+","34310,34302","
+Henrik Wessing"
+,,,,,,,,,,,,
+34230 , Digital Communication,English , 10 ECTS , 2016/2017 ,"E2 (Mon 13-17, Thurs 8-12)",MSc,Department of Photonics Engineering,"
+To provide tools for the students to analyse and develop modern
+systems with digital transmission. Much emphasis is put into
+description of signals and noise as stochastic processes and in
+conversion of various continuous analog signals to digital form.
+Models are provided for different transmission channels and the
+signal processing in some basic transmission systems is analysed.
+It is the aim of the course to give both an theoretical analysis of
+the systems and a demonstration of implementations of the signal
+processing with the purpose of simulation of performance. 
+","Explain the fundamental problems of transmission of
+information Use MATLAB for modeling of the signal processing in digital
+communication Calculate correlation functions and spectra for deterministic
+and stochastic signals Create and analyze Markov models for sources and line
+codes Calculate spectra for PAM signals and pulse shapes to avoid ISI
+or control ISI Analyze and optimize quantization strategies Optimize linear estimation Design optimal receivers for PAM signals and calculate
+corresponding error probabilities Optimize linear equalization techniques Analyze the transmission through metallic lines and radio
+channels Analyze digital quadrature modulation and calculate error
+probabilities for such Analyze frame synchronization algorithms","
+Introduction to basic problems of digital communication.
+Deterministic signals. Application of stochastic processes in the
+description of signals and noise. Sampling and quantization of
+continuous stochastic signals. Examples of user signals. Linear
+estimation and prediction. Baseband transmission of digital
+signals: optimal receivers, signal design, and line codes. Models
+for physical transmission channels: metallic transmission lines,
+radio channels, and storage media. Modulation techniques: amplitude
+modulation, quadrature modulation, digital phase modulation, and
+OFDM. Digital networks: component and multiplexing systems. Simple
+protocols for information exchange. 
+","31605,02405,02451,01035,31606","
+Knud J. Larsen,
+Søren Forchhammer"
+,,,,,,,,,,,,
+34240 , Data Compression and Image Communication,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,Department of Photonics Engineering,"
+To give the participants good knowledge of the basic principles of
+data compression and methods for data compression e.g. for image
+communication. To enable the students to implement and evaluate
+data compression algorithms. 
+","implement a datakompression encoder and decoder simulate data compression encoding and decoding calculate and evaluate the compression factor calculate and evaluate the quality of decoded data objectively
+and subjectively analyse and explain the code length in relation to an entropy
+estimate explain decorrelation of data for compression explain quantization of a data representation explain entropy coding","
+Introduction to the basic principles and methods for data
+compression. This includes entropy coding by Huffman and arithmetic
+coding, decorrelation by prediction or transformation to the
+frequency domain and quantisation of data for lossy coding.
+
+Some examples of data compression are presented, eg. coding of:
+Bi-level images, Data strings e.g. text, Images in the frequency
+domain (DCT and wavelets - JPEG 2000), Speech and audio signals,
+and Video as image sequences.
+
+Midway, the students choose a project within the areas presented. 
+","34230,34220,02502,02451,31610","
+Søren Forchhammer"
+,,,,,,,,,,,,
+34241 , Digital Video Technology,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Photonics Engineering,"
+The aim is to enable the participants to develop equipment and
+applications in the area of digital TV and video, including
+evaluation of video coding methods. Applications encompass
+equipment for digital TV, general communications systems for
+distribution of digital media, and Internet applications. 
+","describe the main components of a typical video coder and
+decoder define the hybrid video coding paradigm explain the role of video coding in the internet and digital
+television applications implement software components for a video coding and
+transmission system evaluate video coding methods in terms of visual quality and
+compression rate simulate visual communication systems select the optimal video coding techniques under different
+technical constraints collaborate within a group for a project work related to video
+processing","
+The course focuses on the techniques of digital video compression
+for TV and Internet applications. Technical aspects of the process
+from coding to distribution (network/​telecommunication, mass
+storage) are covered. The course treats the principles of video
+coding, such as block transforms, motion estimation and rate
+control, as well as the most important standards and formats, such
+as MPEG1-4. The basic protocols and techniques of packetization and
+error control for video transmission in digital television and
+communication networks are also introduced. 
+","34230,34220,34240,34310,02502","
+Jari Korhonen,
+Søren Forchhammer"
+,,,,,,,,,,,,
+34249 , Synthesis Project for Telecommunication,English , 10 ECTS , 2016/2017 ,F5B (Wed 13-17) and June,MSc,Department of Photonics Engineering,"
+To train the participants in synthesis of system elements by
+carrying out an engineering project in telecommunication. To train
+the participants in rational group work on a development task. 
+","carry through a structured development process for an
+engineering project know the difference between different stages in the
+process work out a specification work out system and implementation descriptions implement a design in hardware/software carry out a planned testing of a design evaluate and provide constructive criticism for others’
+work organize the cooperation in a heterogeneous group organize contact to other groups or users in larger
+projects present a design for others","
+In the beginning of the course, the students are taught a little
+about project work and development models for engineered products.
+A project or subproject is then chosen and the students are divided
+into groups of 2-6 students according to the project choice. The
+groups must prepare a detailed project specification and then a
+written description of the project. The process is divided into
+stages each followed by a review allowing to proceed to the next
+stage. The project specification and descriptions are handed in as
+a report which must be approved before the start of the 3-week
+period. During the 3-week period the implementation and testing are
+carried out and the final report is written. The project must be
+presented orally the last day of the 3-week period. The projects to
+be done may be defined in one or more of the following fields:
+
+- Optical or wireless communication systems
+
+- Signal processing in communication systems - coding and
+modulation
+
+- Network architecture and network elements. 
+","34330,34230,34310,34350,34130","
+Henrik Wessing"
+,,,,,,,,,,,,
+34250 , Advanced Image and Video Coding,English , 5 ECTS , 2016/2017 ,E4A (Tues 13-17),MSc,Department of Photonics Engineering,"
+The aim is to introduce new trends in the areas of image and video
+coding and communication. 
+","analyse image coding models explain multi-resolution coding of images explain advanced motion compensation and rate-control in video
+coding explain interaction between communication networks and image
+and video coding develop advanced image and video coding techniques simulate image or video coding apply new image and video coding methods optimize image and video coding methods","
+The course treats new methods in the areas of image and video
+coding. The topics covered are new methods for optimization of
+entropy coding and estimation of entropy in image data, wavelet and
+multi-resolution coding of multi-dimensional image data, interplay
+between communication networks and image/video coding, advanced
+video coding, video quality, distributed coding, 3D and multiview
+coding as well as coding of graphics and maps. Drone image and
+video communication is considered as example. The specific content
+is dependent on the newest problems and current projects. 
+","34240,34241","
+Søren Forchhammer"
+,,,,,,,,,,,,
+34251 , Convolutional codes and iterative decoding methods,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Photonics Engineering,"
+To introduce students to the theory and practice of convolutional
+codes.
+
+Modern iterative decoding methods for advanced coding systems (e.g.
+turbo codes) are also treated. 
+","explain convolutional codes and their properties explain the relation between convolutional codes and block
+codes calculate weight distribution and bounds for error rates implement the Viterbi algorithm for hard and soft
+decisions select and adapt convolutional codes to applications explain the turbo code system explain the relation between decoding of a turbo code and the
+belief propagation algorithm implement an advanced iterative decoder simulate convolutional codes and iterative algorithms read modern literature on advanced coding systems with
+iterative decoding","
+Convolutional codes are error-correcting with widespread use in
+modern communication systems such as mobile communication,
+satellite communication and digital TV. The subjects treated are:
+
+- Definition of rate 1/n convolutional codes using the state
+machine formulation.
+
+- Distance concepts and relation to block codes.
+
+- The Viterbi algorithm (dynamic programming).
+
+- Bounds for error probabilities.
+
+- Simulation of decoding in Gaussian noise.
+
+- Punctuation and rate k/n codes.
+
+- Practical application examples.
+
+- The turbo code system.
+
+- Decoding of turbo codes.
+
+- The belief propagation algorithm.
+
+The course is composed of lectures with exercises and two mandatory
+projects (Viterbi decoder and simulation of an advanced coding
+system). 
+","34230,02405,30300,01405","
+Knud J. Larsen"
+,,,,,,,,,,,,
+34269 , Computational Imaging and spectroscopy,English , 5 ECTS , 2016/2017 ,July,MSc,Department of Photonics Engineering,"
+The principal objective of this course is to expose the necessary
+mathematical and computational methods to design novel digital
+imaging systems, bridging the gap between optical and image
+processing. The course will first cover the fundamental of optical
+imaging, harmonic analysis, tradionnal display and acquisition
+systems, and image processing. We will then focus on modern
+approaches based on advanced numerical harmonic analysis and
+optimization methods to design image sensing technologies with
+applications in 3D geometry capture, inverse scattering,
+spectroscopy, sparse image recovery, medical imaging, imaging,
+computer vision and pattern recognition. The teaching will be based
+on a split between theory and practice, allowing the students to
+get hands on the taught methods. 
+","Apply the concepts of Fourier analysis and its relations to
+optical imaging Develop imaging systems based on wave properties of physical
+signals Process and compute signals from/to cameras and display
+systems Acquire, manipulate and display high dynamic range images Process, reconstruct and restore digital images Design advanced and efficient imaging systems for a wide range
+of applications Apply recovery and inverse problems methods in imaging Relate the theory of advanced harmonic analysis methods and
+Compressive Sensing to real world problems Use advanced computational and mathematical models to solved
+imaging based problems Design novel sensor/sensing
+technologies/​methodologies","
+The course consists of five parts:
+
+1. Review of Fourier methods and wave physics for optical imaging
+
+2. Image processing, display and acquisition technologies
+
+3. Spectroscopy
+
+4. Harmonic analysis methods for imaging
+
+5. Sparse recovery, image reconstruction, inverse problems and
+compressive imaging
+
+We will start from reviewing Fourier analysis and wave imaging for
+optical imaging, and their underlying mathematical theories.
+Thereafter imaging methods based on coherence of waves, diffraction
+or polarization will be addressed.
+
+We will then discuss image processing, with an emphasis on
+denoising and edge preservation, and describe the functional
+principles of display and sensing device like cameras and related
+sensors technologies (CMOS, CCD). In this part of the course, we
+will also tackle the problem of high dynamic range images, in both
+acquisition and display applications.
+
+After the review of fundamental of imaging and Fourier methods, we
+will address spectroscopy in both its physical and imaging
+concepts.
+
+The last part of the course will be fully dedicated to advanced and
+novel concepts, grounded in harmonic analysis and optimization,
+leveraging limitation of traditional imaging methods that the first
+part of the course addresses. In a first step, the theory of
+harmonic analysis, applied to imaging, will be introduced. Then the
+theoretical foundation of Compressive sensing, sparse and inverse
+methods will be presented, allowing us to design advanced imaging
+systems with applications in diverse fields from medical imaging to
+spectroscopy.
+
+In this part, we will learn to recover data or physical properties
+from sparse measurements, reconstruct and restore images, design
+novel spectral imagers. 
+","34020,01716,34241","
+Thierry Silvio Claude Soreze,
+Søren Forchhammer,
+Claire Mantel"
+,,,,,,,,,,,,
+34290 , Information Theory,English , 5 ECTS , 2016/2017 ,Spring,Ph.D.,Department of Photonics Engineering,"
+To allow Ph.D. students to use methods from information theory in
+their research e.g. in communication systems. 
+","Calculate the entropy of memoryless sources and Markov
+sources Calculate the mutual information and channel capacity for
+simple channels Apply Huffman coding and other simple source coding
+methods Determine error-correcting capability of linear codes and
+bounds for their performance Find parameters of some well-known codes, e.g. Hamming,
+Reed-Solomon and product codes Calculate and analyze adaptive code lengths in source
+coding Explain basic elements in two-dimensional information
+theory Apply methods from information theory to problems related to
+their ph.d. project","
+The course covers the fundamental results in information theory:
+
+Entropies for various classes of sources including 2-D, channel
+capacity and coding theorems for information channels, coding
+theorems for data compression. Some recent results will be selected
+depending on the interests of the participants. 
+",None,"
+Søren Forchhammer,
+Knud J. Larsen"
+,,,,,,,,,,,,
+34302 , Engineering Practices,Danish , 10 ECTS , 2016/2017 ,E1B (Thurs 13-17) and January,BSc,Department of Photonics Engineering,"
+To give an introduction to studying at DTU and to give an
+introduction to the areas of the bachelor programme, including
+presentations of typical methods and tasks within these areas. To
+develop good study and work habits for both theoretical and
+experimental tasks. To develop skills in the documentation of
+experimental work. 
+","Organise the work in small groups on practical project
+work Document and evaluate project work in written reports Evaluate and provide feedback on written reports Make individual study plans Use the facilities in CampusNet in connection with educational
+activities Search for relevant litterature in online databases Use MATLAB for simple numerical calculations Develop software in Java that can exchange information via the
+Internet","
+Studying techniques and study planning. Projects within the Network
+Technology and IT field. Innovation 
+",None,"
+Lars Staalhagen"
+,,,,,,,,,,,,
+34311 , Introduction to Networks for Telecommunication and Data Communication,Danish , 5 ECTS , 2016/2017 ,E2B (Thurs 8-12)  or  F3A (Tues 8-12),BSc,Department of Photonics Engineering,"
+To give a general introduction to communication networks from
+simple point-to-point communication systems to the interconnection
+of these in larger communication networks, to Internet based
+applications. 
+","Explain generic concepts such as services, signalling,
+protocols and reference models Describe and compare packet-switched and circuit-switched
+transmission Analyse traditional principles for reliable transfer of
+information Analyse and compare MAC algorithms for wired and wireless local
+area networks Describe the fundamental principles, network architectures and
+central protocols of the Internet Describe and compare transport protocols for the Internet Describe the traditional wired telephone network, including
+services, devices and network architectures Compare basic and supplementary telecommunication services and
+their implementations Describe the fundamental principles and services in networks
+for mobile communication Compare network architectures for mobile communication Describe modern transport network technologies","
+General concepts: Protocols, packet switched and circuit switched
+transmission. Ethernet and wireless local area networks. Internet
+architecture, principles and fundamental protocols (IP, TCP/UDP,
+SMTP and HTTP). PSTN network for telephony. GSM, UMTS and LTE
+mobile communication networks. Transport network technologies. 
+",None,"
+Lars Staalhagen"
+,,,,,,,,,,,,
+34315 , Internet of Things – Application and Infrastructure Development,Danish , 5 ECTS , 2016/2017 ,F2B (Thurs 8-12),BSc,Department of Photonics Engineering,"
+The course will let students obtain in-depth understanding of
+Internet of Things, including architecture, protocols, and
+challenges, and gain valuable full-stack hands-on experiences on
+embedded hardware development, application development and service
+deployment. The course will provide students with state-of-the-art
+open-source hardware and cloud service tools to build innovative
+IoT applications/services aiming at increasing energy efficiency,
+improving quality of life, and/or increasing productivity. 
+","Understand the essence and challenges of Internet of
+Things. Evaluate networking protocols for different IoT
+applications. Develop simple hardware prototypes with sensors Develop embedded programs to transmit data to/from the IoT
+device. Understand state-of-the-art cloud services. Use cloud services to process, analyze and store IoT data. Deploy and showcase the developed IoT system and
+application. Understand usecases for different standard solution","
+Introduction to architectures, protocol principles, and challenges
+of IoT.
+
+Circuit board prototyping using Arduino with sensor devices,
+including temperature sensor, light sensor, vibration sensor,
+forcing sensor, etc.
+
+Embedded and Python programming on Arduino to implement simple data
+collection, loop control, and data communication with MQTT,
+Bluetooth Smart, etc.
+
+AWS cloud services to process, analyze and store the data from the
+IoT device, with network security. 
+",None,"
+Lars Dittmann,
+Hao Yu"
+,,,,,,,,,,,,
+34318 , Programming projects in Network Technology and IT,Danish , 5 ECTS , 2016/2017 ,June,BSc,Department of Photonics Engineering,"
+To develop software that is capable of, e.g., communicating over
+the Internet, by combining the participants' knowledge of
+communication technology, networks and software development. 
+",Collaborate in small groups on software development Specify requirements for software functionality Design high-level structure of software Implement software in high-level programming language Implement a communication protocol in software Design test of developed software Verify functionality of software Document implemented software,"
+Internet application protocols. Protocol specification. Software
+design and implementation. Software testing and verification.
+Software documentation. 
+","02102,02101,02161,02105,34310,34311","
+Lars Staalhagen"
+,,,,,,,,,,,,
+34319 , Programming projects in Network Technology and IT,Danish , 5 ECTS , 2016/2017 ,August,BSc,Department of Photonics Engineering,"
+To develop software that is capable of, e.g., communicating over
+the Internet, by combining the participants' knowledge of
+communication technology, networks and software development. 
+",Collaborate in small groups on software development Specify requirements for software functionality Design high-level structure of software Implement software in high-level programming language Implement a communication protocol in software Design test of developed software Verify functionality of software Document implemented software,"
+Internet application protocols. Protocol specification. Software
+design and implementation. Software testing and verification.
+Software documentation. 
+","02102,02101,02161,02105,34310,34311","
+Lars Staalhagen"
+,,,,,,,,,,,,
+34330 , Introduction to Mobile Communication,English , 10 ECTS , 2016/2017 ,"E3 (Tues 8-12, Fri 13-17)",BSc,Department of Photonics Engineering,"
+To give the participants detailed knowledge of existing and future
+networks for mobile communication. The goal is to enable the
+participants to not only understand the principles of different
+mobile communication networks but to apply this knowledge to
+evaluating and design of real mobile communication systems,
+considering their technical possibilities and limitations. 
+","Explain the general principles in cellular networks for mobile
+communication Compare architectures and network element functionality of
+mobile communication networks and apply that to existing and future
+generations of mobile networks Explain how signaling in mobile communication networks is used
+during central procedures such as registering, call setup and
+handover Explain the modulation principles used in mobile communication
+and other wireless networks and apply this to how speech and data
+are transmitted through mobile communication networks Explain the central mechanisms and parameters that influence
+the capacity, coverage and services of mobile communication
+networks and apply that to dimensioning of mobile networks Use computer simulations to determine the performance of mobile
+communication technologies and compare realistic scenarios Use lab measurements to evaluate the performance of mobile
+communication technologies. Write and evaluate reports on mobile communication","
+Networks for mobile communication: GSM, UMTS and LTE. Future mobile
+communication (4G/5G). Data communication in mobile networks (GPRS,
+EDGE, HSDPA, HSUPA and LTE). Architectures of mobile communication
+networks and network elements: MSC, BSC, SGSN, GGSN, Node B, RNC,
+etc. Protocols. Signalling: Registering, Call set-up, Handover,
+etc. Modulation and error-correcting codes. Services in mobile
+communication networks and service architectures (e.g., IMS) in
+mobile communication networks. Other wireless technologies such as
+Bluetooth, NFC, WLAN and WiMAX. Planning and dimensioning of mobile
+communication networks.
+
+Report writing and evaluation is used actively throughout the
+course as a preparation for the final report in the course. 
+","34310,34311","
+Henrik Lehrmann Christiansen"
+,,,,,,,,,,,,
+34339 , Experimental Mobile Communication,English , 5 ECTS , 2016/2017 ,January,MSc,Department of Photonics Engineering,"
+To introduce the students to practical lab work related to mobile
+communication. Many of the topics studied in 34330 “Introduction to
+mobile communication” will be investigated experimentally in this
+course. A lab setup that enables building a lab-sized mobile
+network will be used to perform a number of experiments with mobile
+communication systems. This involves using advanced measurement
+equipment – but also just ordinary mobile phones and measurements
+on live mobile networks. 
+","Assess the coverage of live mobile networks Set up and configure advanced mobile communication measurement
+equipment Evaluate mobile communication systems by measurements. Perform mobile radio measurements and evaluate the
+performance Explain the relationship between network settings and
+performance Document lab work Identify the key components in a mobile phone Evaluate how mobile phone capabilities impact
+performance","
+GSM / GPRS / EDGE / UMTS / HSPA / LTE capabilities and limitations
+– in real life. Network parameters and configuration,
+Investigate/measure timing, power and signaling.
+
+Voice services (Call setup / release – signaling and performance,
+Voice codecs). SMS / MMS services. Mobile network procedures
+(Handovers / cell reselections, Registration / attach).
+
+Coverage, field strength and base station positioning.
+
+Packet data transfer capabilities, Bit rate and BER measurements,
+Configuration (coding schemes, TS/code allocation, modulation
+etc.), Terminal dependencies, Network parameters,
+Investigate/measure timing, power and signaling, Application
+behavior.
+
+System settings (Network settings and counters, Impact on
+application behavior), General mobile network setup and performance
+(RF signals in time and frequency domain, Power, modulation, timing
+and RF performance, Live network performance)
+
+The course is composed of a set of small tasks to be carried out in
+groups of 2-3 students in the lab. The outcome of each of the tasks
+should be documented in a lab journal and the lab journals must be
+approved to pass the course. 
+",34330,"
+Henrik Lehrmann Christiansen"
+,,,,,,,,,,,,
+34341 , Principles in Data Communication,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,Department of Photonics Engineering,"
+To provide the students with a detailed knowledge of modern data
+networks, with the emphasis on the network's structures and the
+principles for transferring information. The course will - based on
+existing data networks and principles - also describe the
+principles that future data networks may be based upon. The
+students are expected to have a basic understanding of the most
+common types of data networks, such as local area networks and the
+Internet. 
+","Describe methods for reliable transfer of information in
+communication networks Explain the principles of Network Management Explain the principles of local area networks Describe the fundamental principles of packet-switched
+networks Describe the important Internet protocols: IP, TCP and UDP,
+including the purpose and principles of TCP Congestion Explain IntServ and DiffServ principles for Quality-of-Service
+(QoS) support in the Internet Analyse efficiency of ARQ methods Analyse performance of MAC schemes","
+Layering in communication systems. Error detecting and error
+correcting codes. ARQ-methods: Stop-and-wait, Go-back-N and
+Selective Reject. Performance of ARQ-methods. Local Area Networks:
+General principles, Ethernet, Wireless-LANs. Packet-switched
+networks: General principles, routing, queueing-disciplines,
+traffic management. Internet: IP, TCP and UDP. TCP Congestion
+Control. MPLS. Network Management. 
+","34310,34311","
+Henrik Wessing"
+,,,,,,,,,,,,
+34342 , Teletraffic Engineering,English , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),MSc,Department of Photonics Engineering,"
+To practice the application of mathematical methods and models
+based on probability theory for performance evaluation of
+telecommunication and data communication systems and networks. This
+includes both switching systems and networks, as well as computer
+systems and data networks. Furthermore, to introduce principles of
+optimisation as a tool in solving planning and decision problems
+for systems and networks. 
+","characterize traffic (arrival processes and service processes)
+by relevant parameters apply state transition diagrams for modelling and evaluating
+systems optimize loss systems and evaluate relevant performance
+parameters optimize queueing systems and evaluate relevant performance
+parameters engineer small networks for both loss systems and queueing
+systems - - -","
+Introduction. Man-machine systems. The modelling process. Basic
+traffic concepts.
+
+The stochastic elements of the traffic process: time distributions
+and arrival processes. Poisson process and generalisations.
+
+Telecommunication: Loss systems with full accessibility. Erlang and
+Engset traffic. Limited accessibility and overflow theory.
+Switching networks. Dimensioning principles, Moe's principle.
+Telecommunication networks: topology, routing, quality of service.
+
+Datacommunication: Erlang delay system. Machine repair model.
+Multi-dimensional delay systems. Queueing models for computer
+systems. Queueing networks.
+
+Data networks and Internet: routing, topology, scheduling, service
+protection, measurements. Simulation principles and applications.
+Exercises: application of software for network planning, exercises.
+
+",02323,"
+Lars Dittmann"
+,,,,,,,,,,,,
+34343 , Mobile Backhaul Networks,English , 5 ECTS , 2016/2017 ,F2B (Thurs 8-12),MSc,Department of Photonics Engineering,"
+To give the students a detailed knowledge of modern mobile
+communication systems. This course builds on the knowledge acquired
+in 34330 “Introduction to mobile communication”, but the focus here
+is on the backhaul network, i.e., the network connecting the base
+stations to the core network and the Internet. Also more advanced
+topics in the radio access network will be covered. 
+","Evaluate requirements to mobile backhaul networks and assess
+the backhaul’s impact on coverage and capacity Define design criteria for mobile network deployments Design backhaul networks (dimensioning and choice of
+technology) Estimate load and capacity requirements in mobile networks and
+based upon this carry out dimensioning of mobile backhaul Define requirements to synchronization, resilience and
+security Explain how protocols, capacity and technologies impact mobile
+applications Design backhaul for special applications, e.g., small-cells,
+relays, inter cell coordination and Cloud-RAN Comprehend advanced literature in the field of mobile
+communication","
+Mobile backhaul networks:
+
+Topologies, wire-less and wire-line backhaul technologies,
+capacity, load and dimensioning, fronthaul and backhaul, mobile
+access and aggregation networks, synchronization, resilience,
+Quality of service, security. Protocols, protocol stacks and
+protocol overheads.
+
+UMTS/HSPA/LTE/LTE-A mobile network radio access:
+
+Providing coverage and capacity. Macro/micro/pico/femto cells.
+Special antennas, remote radio heads and cloud-RAN. Interference
+mitigation techniques. 
+",34330,"
+Henrik Lehrmann Christiansen"
+,,,,,,,,,,,,
+34345 , Signalling Systems and Technology for Railways,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),MSc,Department of Photonics Engineering,"
+The purpose of the course is to illustrate the integrated operation
+of railway systems in regards to dispatching, signalling and
+interlocking and the technologies enabling it. The course aims at
+establishing a basic understanding of functional subsystems,
+technological principles and differential evolutionary technical
+developments, which can be applied for the evaluation and
+declaration of design rules, analysis and design of signalling and
+interlocking infrastructure elements for railways. 
+","Describe the interrelation between traffic management systems,
+signal equipment, interlocking systems and on-board train
+protection systems. Clarify the safety principles in railway operations Clarify the safety principles in signalling systems Explain the principles behind Train Detection (Track Clear
+Detection) and how it is used in signalling systems. Describe the purpose and functionality of an interlocking
+system for a station. Apply design rules for signalling, interlocking and train
+protection systems. Analyse requirements and design accordingly infrastructure
+elements for railway signalling and interlocking in specific
+contexts (i.e. railway station or open line). Explain ERTMS and illustrate the differences from previous
+signalling systems. Describe the principles of GSM-Railways (GSM-R) communication
+technology. Analyse requirements for GSM-R based radio coverage, for
+stations or open lines, and design the necessary GSM-radio
+elements. Describe the principles of Communications-Based Train Control
+(CBTC) system, assessing differences and similarities with other
+systems (i.e. ERTMS).","
+The course introduces the theoretical background and history of
+railway signalling systems. The theoretical part of the course
+introduces the signal equipment, interlocking systems and their
+instrumental relation to traffic control. Different types of
+signalling systems will be introduced, including The European Rail
+Traffic Management System (ERTMS) and the Communications-Based
+Train Control (CBTC). During the course and correlated with the
+theoretical presentations, focus will be put on the design and
+evaluation of signalling systems through periodic required
+exercises. The course is comprised of lectures by local staff and
+guest lectures from external consultancy. A field trip (to study
+infrastructure elements and traffic control) could be integrated in
+the plan, but can not be guaranteed a priori, since it depends on
+external stakeholders possibilities. 
+","34341,34311,13523,13124,13240,13524,13525,34330,13125","
+José Soler"
+,,,,,,,,,,,,
+34349 , FPGA design for Communication systems,English , 10 ECTS , 2016/2017 ,E5 (Wed 8-17),MSc,Department of Photonics Engineering,"
+To enable the students a) to analyse and design integrated circuits
+based on FPGA technology for use in broadband communications
+(broadband electronics), especially optical communication and, SDH,
+OTN, Ethernet, IP and MPLS systems; b) to understand the design
+principles involved spanning from specification and simulation over
+synthesis, verification and optimisation; c) to complete a design
+project, involving specification, implementation and documentation 
+","Understand fundamental problems in Broadband Electronics
+development Develop a block level specification (group work) Implement a specification in VHDL/Verilog Write efficient VHDL/Verilog code for communication
+applications Perform functional simulation of implemented design Perform synthesis and verification Use optimisation tools Write a technical report documenting the project Carry through a structured development process for an
+engineering project Evaluate and provide constructive criticism for others’
+work","
+Survey of high-speed electronic design principles in digital
+communication systems. VHDL coding styles, FPGA architectures,
+parallel design, pipelining, memory control, scheduling, error
+detection, clock and data synchronisation. Hardware architectures
+and performance of telecommunications and data communication switch
+systems. Examples from recent or ongoing research. The student
+projects include high-speed design by use of VHDL (Very high-speed
+integrated circuits Hardware Description Language) based FPGA
+design tools. 
+","34310,02139","
+Michael Stübert Berger"
+,,,,,,,,,,,,
+34350 , Broadband Networks,English , 10 ECTS , 2016/2017 ,"E1 (Mon 8-12, Thurs 13-17)",MSc,Department of Photonics Engineering,"
+The objective for this course is to provide the students with a
+network perspective overview of functions and elements as well as
+related standards which form the basis for the implementation of
+future integrated global communication networks. 
+","identify the challenges of building global communication
+networks differentiate between physical and logical networks illustrate different topologies for communication networks compare the difference between circuit and packet switched
+networks asses control and management systems for large networks devise procedures for building networks providing high
+reliability and quality of service (QoS) relate the principles in SDH, ATM, MPLS, GMPLS, OTN, IP, QoS
+and SDN analyze ongoing research in communication networks and its
+relation to legacy technologies formulate a project scope, evaluate relevant technologies and
+debate findings and results","
+The focus of the course will be on service integrated and switched
+networks and contain topics such as network topologies (ring, star,
+meshed, tree), horizontal and vertical reference models, complex
+communication systems, transmission and multiplexing protocols
+(SDH, ATM, IP, MPLS, OTN) and the internal relation, logical vs.
+physical networks, network resilience (objective, methods,
+layering), network control and management (GMPLS, ASON, SDN, TMN),
+multilevel switching, distributed vs. centralized switching,
+implementation of large switch systems, energy efficiency, quality
+of service (QoS), datacenter networks and transition from legacy to
+next generation networks.
+
+In addition to lectures, the students will work on a project
+report, individually or in groups, where one of the topics is
+treated in-depth.
+
+At an appropriate level the course will incorporate topics from
+ongoing research activities within the department as well as guest
+lecturers from Danish industry. 
+","34310,34311,34130,34140","
+Lars Dittmann,
+Sarah Renée Ruepp"
+,,,,,,,,,,,,
+34351 , Access,English , 5 ECTS , 2016/2017 ,E3B (Fri 13-17),MSc,Department of Photonics Engineering,"
+Kurset giver et bredt overblik over metoder og teknikker der bruges
+til at tilkoble forskellige typer terminaler f.eks. private
+husholdningsapparater, underholdningselektronik, telemedicinsk
+måleudstyr, sensorer (og lignende M2M udstyr) til et
+kommunikationsnet.
+
+Kurset vil primært fokusere på de kablede netværk samt netværk der
+bruger ikke-licenseret frekvensbånd (mobilkommunikation er bl.a.
+dækket i 34330 og 34343) . både det traditionelle problem med at
+blive forbundet til et offentligt eller globalt net og fremkomsten
+af hjemmenet som kan forbinde. Kurset vil omhandle såvel de fysiske
+transmissionsdele med fokus på de forskellige mutipleksningsmetoder
+der generelt bruges til at opnå høj båndbreddeeffektivitet for
+medier med varierende karakteristika samt protokolhierarkiske
+aspekter der sikrer integration af mange forskellige applikationer
+med meget forskellige kvalitetsbehov og krav til nettets ydeevne
+(QoS).
+
+Endelig vil man på kurset drøfte indflydelsen på det generelle nets
+arkitektur såvel som kontrol, styring og planlægning af et net –
+herunder en generel introduktion til de statistiske forhold i
+relation til trafikaggregering der er med til at sikre en
+omkostningsoptimeret tilkobling til nettet. 
+","Forstå den arkitekturmæssige opbygning af Internettet der
+sikrer tilslutning af brugere, terminaler, tjenester, autonome
+apparater (f.eks. sensorer) o.l Forstå principperne i brugen af forskellige netværks topologier
+og multipleksning principper til effektive og omkostningsoptimerede
+slutbruger systemer. Forstå principperne og kravene til et offentligt accessnet og
+et hjemmenet. Forstå de basale forskelle på kablede og ikke kablede
+(trådløse) net Forstå de basale forskelle på delt og dedikeret media ud fra
+bl.a. performance og service garanti aspekter Forstå betydningen i valg af protokol arkitektur for access
+net Forstå betydningen i valg af multipleknings metode for access
+net Forstå principperne og arkitekturerne i xDSL net, både den
+basale teknologi, samt principperne i ”bitstream access”, rå
+kobber, traditionel og fremskudt DSLAM Forstå brugen af optisk fiber i access og hjemmenet (både
+aktive og passive optiske accessnet – EPON, GPON, xGPON) Forstå CAP, DMT, FDMA, OFDMA, CDMA og lignende
+principperne Forstå de grundlæggende principielle i kabelmodem (DOCSYS) og
+powerline net","
+Kurset vil behandle generelle aspekter ved adgang til net og
+benytte konkrete ""standarder"" til at eksemplificere
+grundlæggende tendenser og forskelle. Kurset vil vurdere og
+sammenligne muligheden for øget kapacitet i kabelnet med
+fleksibiliteten og mobiliteten i trådløse net. Inden for den
+offentlige del af nettet vil løsninger dels fokusere på genbrug af
+den eksisterende infrastruktur (f.eks. kabelmodem eller xDSL) dels
+løsninger der kræver ny kabling i form af optiske fiber (f.eks.
+PONs). Der vil være stor fokus på forståelse af de basale
+principper og sammenligning af fordele og ulemper ved de
+forskellige løsningmodeller.
+
+For hjemmenettet vil der ligeledes blive fokuseret på sammenligning
+af de forskellige fremherskende teknologier og teknikker (f.eks.
+Blue Tooth, ZigBee, WiFi, LiFi, USB, Firewire og Ethernet) samt at
+der vil blive fokuseret på hvordan hjemmets udstyr integreret
+fysisk og protokol teknisk. Der vil også blive set på hvordan dele
+af hjemmenettet fysisk kan være pladseret uden for hjemmet i
+eksempelvis cloud løsninger.
+
+Kurset vil ligeledes omhandle gatewayfunktionen og seamless
+interworking aspekter ved krydskommunikation mellem de private og
+de offentlige områder og mellem kablede og trådløse domæner.
+
+Indenfor de generelle netsaspekter vil kurset behandle nogle af de
+nyeste ideer om hvordan man restrukturerer net f.eks. baseret på en
+mediekonverter, som samler de forskellige adgangsformater og
+dirigerer data til den mest fordelagtige baggrunds- eller
+tjenesteinfrastruktur (Content distribution networks).
+
+I relation til disse aspekter vil der i kurset blive give en
+generel gennemgang af opbygningen af datacentre og metoder til
+virtualisering af disse ressources samt sikkerheds aspekter i
+forhold til f.eks. ”smart homes” eHealth og lignende anvendelser. 
+","34310,34311","
+Lars Dittmann"
+,,,,,,,,,,,,
+34352 , Advanced Protocols,English , 7.5 ECTS , 2016/2017 ,F3A (Tues 8-12),MSc,Department of Photonics Engineering,"
+Make the students able to assess pro and cons of protocols used in
+modern communication systems. Understand and discuss the mechanism
+of different types of protocols. The course contains well known
+protocols as well as newly defined protocols from scientific
+research papers. The students are expected to have a priori
+knowledge of network and protocols. 
+","Describe the basic mechanisms of the protocols in the
+course Account for the reasons of introducing/defining the
+protocol Make simple calculations estimating the demands to hardware and
+software platforms for a given protocol, based on a deep knowledge
+of the signalling complexity of the protocol Estimate if the presented protocols raises new problems for
+other protocols Analyse if protocols fulfils its intended goal Assess if the protocols have security vulnerabilities Discuss pro and cons of the protocols Understand the role of the protocols in a reference
+model","
+Topics are selected according to the student´s interests. Examples:
+transport and tunneling protocols. High speed point-to-point
+protocols, hierarchical and constraint based routing protocols,
+resource reservation protocols, protocols for streaming multimedia,
+network management protocols, signaling protocols. Protocols used
+for MPLS, VPLS and policy based routing (BGP/O-BGP). Network
+security and authentication protocols. 
+",34350,"
+Lars Dittmann"
+,,,,,,,,,,,,
+34354 , Network modelling and simulation,English , 10 ECTS , 2016/2017 ,"E2 (Mon 13-17, Thurs 8-12)",MSc,Department of Photonics Engineering,"
+To give the participants a detailed understanding of the use of
+modelling and simulation in relation to performance evaluation of
+communication systems. To give the participants skills in the
+design, implementation and use of simulation models to evaluate the
+performance of communication systems. The participants will get
+hands-on experience with an advanced software tool (OPNET Modeler)
+for modelling and simulation of communication systems. 
+","Assess the usability of simulation for performance evaluation
+of communication systems Describe the principles of event-driven simulation Design simulation models of communication systems and/or
+protocols based on e.g. protocolspecifications Implement simulation models in simulation tool Verify and validate simulation models Document the design, implementation, verification and
+validation of simulation models Design and perform simulations Document and evaluate simulation results","
+Methods for performance evaluation. Types of models. Network
+modeling. Optimization of simulation models. Modeling tools. Event
+driven simulation. Simulation strategies. Processing and
+presentation of simulation results. 
+","34330,34355,34341,34350","
+Lars Staalhagen"
+,,,,,,,,,,,,
+34355 , Routing in Data Networks,English , 5 ECTS , 2016/2017 ,F3A (Tues 8-12),MSc,Department of Photonics Engineering,"
+To give the participants detailed knowledge about how path
+selection (routing) is performed in networks. After this course the
+participants should be able to quantitatively assess and compare
+different routing options, optimally configure routing in networks
+and develop new routing protocols. 
+","Describe the principle of shortest-path routing incl.
+distance-vector and link-state routing Describe the partition of the Internet into Autonomous
+Systems Explain the differences between Interior Gateway Protocols and
+Exterior Gateway Protocols in the Internet Explain the central routing protocols in the Internet Describe the design and architecture of routers Describe Address Lookup methods in a router, including the
+concept of Longest Prefix Match Explain the principles of multicast routing, hierarchical
+routing and routing in ad-hoc networks Describe the purpose of constraint-based routing, and newer
+technologies for control traffic","
+Shortest-path routing. Routing-principles: Distance-vector and
+Link-state. Routing protocols in the Internettet: RIP, OSPF og BGP.
+Hierarchical routing. Multicast routing. Routing in ad-hoc
+networks. Constraint-based routing. Router design. Address-lookup
+in routers and longest-prefix match. Guest lectures by service
+providers and network operators. 
+","34310,34311","
+Michael Stübert Berger"
+,,,,,,,,,,,,
+34357 , Telecommunication Services,English , 10 ECTS , 2016/2017 ,"F4 (Tues 13-17, Fri 8-12)",MSc,Department of Photonics Engineering,"
+To qualify the student for design and analysis of next generation
+telecommunication networks with focus on target network services
+and in regard of choice of concept, architecture and protocols. 
+","Describe the mechanisms and interactions involved in multimedia
+transmission over IP and analyze requirements for specific
+applications, in terms of scalability and other. Apply the previous abilities to design architectures allowing
+streaming-based services. Describe the characteristics on main VoIP signalling
+protocols/architectures (SIP vs H323) and analyze SIP & H323
+behaviour, based on experimentation and traffic analysis. Infer similarities and differences of basic SIP-based
+architectures vs complex ones, i.e. UMTS's Internet Multimedia
+Subsystem (IMS). Describe the requirements for interoperation of conventional
+telephony (PSTN/SS7) architectures, with VoIP-based ones, for basic
+voice services as well as for supplementary services (i.e.
+IN). Apply the previous abilities to analyse service requirements
+and to design adequate architectures allowing the provision of
+telephony services in hybrid and/or converged telephony
+networks. Organize, plan and carry out collaborative work in group
+projects -","
+The course addresses emerging telecommunication services and
+network architectures with a strictly technological focus and
+leaves market, business and regulation aspects out of
+consideration. Initially the focus is on current IP-based
+commercial telecom-related services such as multimedia streaming,
+voice over IP, IP telephony and the Internet Multimedia Subsystem
+(IMS) for UMTS. This continues to protocols and architectures for
+providing hybrid and converged voice based services and Next
+Generation Networks (NGN). Finally platforms and architectures for
+service development and provision in a converged, IP based network
+are discussed.
+
+The course is designed also to address generic competences such as
+communication skills, ability to think critically and creatively,
+drive to work with open problems, team work, control of self and
+group learning, self confidence and adaptability to demanding and
+changing environments. 
+","02815,34531,34341,34350,34351","
+José Soler"
+,,,,,,,,,,,,
+34358 , Programing Services for Next Generation Networks,English , 5 ECTS , 2016/2017 ,E1A (Mon 8-12),MSc,Department of Photonics Engineering,"
+To qualify the student for design & implementation of SIP-based
+services. 
+","Interpret a user's description of services. Analyze deployment requirements for a service in a SIP/IMS
+network. Define implementation requirements for a service in a SIP/IMS
+network. Explain SIP Servlets technology. Explain SIP Servlets Container behavior. Implement SIP-based services based on SIP Servlets API. Get used to conventional SIP Servlets development and
+deployment environments. Understand possibilities and implications of integration with
+other (web) technologies.","
+The focus of the course is on SIP Servlet technology and service
+implementation based on SIP Servlet API. An initial, brief,
+introduction to SIP, IMS, VoIP and telephony services will be
+provided (please see Remarks section). Afterwards SIP Servlets
+technology will be presented and the behavior of a SIP Servlets
+container explained. The SIP Servlets API will be introduced
+afterwards and different examples discussed and analyzed.
+
+Half of the course will be devoted to this initial theoretical
+introduction, supported by related exercises and practical
+examples. The rest of the course will be reserved for students to
+design and implement a service on their own. 
+",34357,"
+José Soler"
+,,,,,,,,,,,,
+34359 , SDN: Software,English , 5 ECTS , 2016/2017 ,F1A (Mon 8-12),MSc,Department of Photonics Engineering,"
+To give participants knowledge about the design and implementation
+of network services using the Software Defined Networking (SDN)
+paradigm. 
+","Understand the concept of SDN (i.e. abstracting and
+centralizing the control plane) Analyze the implications of shifting from traditional network
+architectures to software defined networks Assess the benefits and drawbacks of applying SDN in different
+areas in telecommunications (e.g. WAN, data centers etc.) Explain how existing network services can be created in SDN
+(e.g. firewalls, load balancing, mobility, etc.) Understand the SDN programming model (with respect to the
+Floodlight SDN controller) Evaluate the possibility of creating novel network services
+using SDN and design such a service Implement a network service using the knowledge acquired
+throughout the lectures Document and defend orally the project work","
+The course aims to give an introduction into Software Defined
+Networking and how can it be used to improve current networks, as
+well as to enable students to develop network services using SDN
+specific tools.
+
+In the first part of the course the students will be introduced to
+the SDN paradigm. A series of SDN-based network services, from
+different areas of telecommunications, is covered during the
+lectures (e.g. security, load balancing, wireless, routing, network
+virtualization, etc.). The course material draws from latest
+research and developments within SDN. The students will get
+hands-on experience with tools and programming models for SDN.
+
+The second part of the course is reserved for students to design
+and implement a network application (service) using the tools and
+concepts introduced in the first part. 
+","02102,02101,34355,34341","
+José Soler"
+,,,,,,,,,,,,
+34361 , Optical Networks,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Photonics Engineering,"
+To give the participants a detailed knowledge of the most relevant
+operational and technological aspects of optical transport
+networks. 
+","Describe the special characteristics of optical
+telecommunication networks Explain the steps needed to setup and recover a connection in
+an optical network Explain and differentiate the optical circuit/burst/packet
+switching paradigms Evaluate pros and cons of different survivability
+techniques Differentiate routing algorithms used in traditional and
+optical networks Critically asses and debate latest research in the fiels of
+optical networks Dimension an optical network for given traffic demands, using a
+computer-based tool Apply theoretical concepts in consultancy tasks and practical
+simulation setups","
+Network structures and networkstypes. Optical crossconnects. Trafic
+theory and traffictypes (services). Management of optical networks;
+configuration, performnace and fault management (network
+restoration). Algorithms for routing and wavelength assignment.
+
+Network planning. Simulations, lab work and consultancy
+assignments. 
+",34350,"
+Martin Nordal Petersen,
+Lars Dittmann,
+Sarah Renée Ruepp,
+Anna Manolova Fagertun"
+,,,,,,,,,,,,
+34390 , Telecommunication Networks of the Future ,English , 5 ECTS , 2016/2017 ,Spring,Ph.D.,Department of Photonics Engineering,"
+To describe new directions in telecommunication systems, and
+introduce performance evaluation methods and resource management at
+an advanced level. 
+","understand, apply, and develop methods for evaluating advanced
+communication systems acquire knowledge about an advanced problem of current
+interest construct models where only relevant aspects of a system are
+included choose optimal methods and tools for solving a specific
+problem evaluate commercial tools for problem solving solve a specific problem by mathematical modelling and/or
+simulation assess requirements to a solution based on available
+information and data work out a report/paper at an academic level","
+The course deals with performance evaluation and control of future
+telecommunication networks using stochastic modelling and
+simulation tools. The networks may include mobile and wireless
+networks (cellular, satellite), high-speed networks, Internet
+(wired & wireless), intelligent networks, etc. The actual
+course content will depend upon and include the most recent
+problems, networks and tools. 
+",,"
+Lars Dittmann"
+,,,,,,,,,,,,
+34393 , Ph.D. Course in Design of Mobile Backhaul Networks,English , 5 ECTS , 2016/2017 ,F2B (Thurs 8-12),Ph.D.,Department of Photonics Engineering,"
+To give the students a detailed knowledge of modern mobile
+communication systems. This course builds on the knowledge acquired
+in 34330 “Introduction to mobile communication”, but the focus here
+is on the backhaul network, i.e., the network connecting the base
+stations to the core network and the Internet. Also more advanced
+topics in the radio access network will be covered.
+
+Throughout the course the student will work on a large case
+involving design of a mobile backhaul network. The results must be
+presented to the class as well as be documented in a final,
+research style paper. In addition the student must prepare a short
+lecture (45 minutes) on a given advanced topic within mobile
+communication. 
+","Evaluate requirements to mobile backhaul networks and assess
+the backhaul’s impact on coverage and capacity Define design criteria for mobile network deployments Estimate load and capacity requirements in mobile networks and
+based upon this carry out dimensioning of mobile backhaul Define requirements to synchronization, resilience and
+security Explain how protocols, capacity and technologies impact mobile
+applications Design backhaul for special applications, e.g., small-cells,
+relays, inter cell coordination and Cloud-RAN Comprehend advanced literature in the field of mobile
+communication Plan and carry out a small research type project and analyze
+and present the achieved results by an oral presentation.","
+Mobile backhaul networks:
+
+Topologies, wire-less and wire-line backhaul technologies,
+capacity, load and dimensioning, fronthaul and backhaul, mobile
+access and aggregation networks, synchronization, resilience,
+Quality of service, security. Protocols, protocol stacks and
+protocol overheads.
+
+UMTS/HSPA/LTE/LTE-A mobile network radio access:
+
+Providing coverage and capacity. Macro/micro/pico/femto cells.
+Special antennas, remote radio heads and cloud-RAN. Interference
+mitigation techniques. 
+","34330,34341,34350","
+Henrik Lehrmann Christiansen"
+,,,,,,,,,,,,
+34430 , Introduction to Biophotonics,English , 5 ECTS , 2016/2017 ,F5A (Wed 8-12),MSc,Department of Photonics Engineering,"
+The interest for applications of coherent light and optical sensing
+in biology and medicine has been increasing the past years. This is
+partly due to the development of new laser systems, partly the
+development in advanced optical systems and advances non-invasive
+diagnostics and analysis of biological and medical processes. The
+course covers the basics of the biochemistry of cells, basic
+light-matter interactions, basic principles of light sources
+relevant for biophotonics, photobiology, and basic principles of
+bio-imaging techniques. 
+","Understand the basic principles of lasers and light sources and
+their different modes of operation, including coherence, pulsed
+operation, and principles of frequency conversion. Explain different light-matter interactions, i.e.,
+understanding photobiology, and be able to relate these
+interactions to the characteristics of the light source. Explain basic concepts of bio-imaging techniques. Understand the basic concepts in spectroscopy and describe
+relevant effects, such as absorption spectroscopy, Raman
+spectroscopy and fluorescence spectroscopy. Understand the basic principles of optical biosensing and link
+these to various spectroscopic techniques. Do simple exercises within the topics covered in the lectures
+and discuss the obtained results both orally and in writing. Understand simple optical principles like coherence,
+interference and diffraction, and determine imaging properties of
+simple rays in spherical lenses and mirrors Understand different light tissue interactions, e.g.:
+Photochemical, thermal, photo induced plasma and photo ablation,
+and be able to relate these interactions to the characteristics of
+the light source","
+The lectures will cover the biological background for light
+interaction between light and soft matter (cells, cells in
+suspension, or tissue), photobiology and basic spectroscopic
+techniques. Principles of bio-imaging will be discussed.
+Furthermore, lasers/light sources will be covered, including basic
+principles of operation, various laser systems and their
+potential/relevance for biophotonics. Throughout the course
+practical examples and demonstrations will be used
+
+whenever possible. 
+",,"
+Peter Tidemand-Lichtenberg,
+Lars René Lindvold"
+,,,,,,,,,,,,
+34451 , Nonlinear Mathematical Physics,English , 5 ECTS , 2016/2017 ,E5B (Wed 13-17),MSc,Department of Photonics Engineering,"
+To introduce concepts, tools and methods from advanced nonlinear
+applied mathematics to physics and nanotechnology students and
+thereby enable them to study nonlinear effects in physics, optics,
+photonics, hydrodynamics, superconductivity, and biophysics. 
+","Know the properties of the fundamental nonlinear equations in
+physics Know the fundamental types of nonlinear solutions, such as
+bright, dark, and vortex solitons Apply multiple-scale perturbation theory and Fredholm’s
+alternative for rigorous derivation and reduction of nonlinear
+equations Find conserved quantities and symmetries and use them to derive
+general nonlinear solutions Apply Virial theory to study collapse Calculate modulational instability gain bands for plane-wave
+solutions to nonlinear equations Describe soliton interaction Apply the Method of Moments to find solutions to nonlinear
+equations that do not have a Lagrangian Calculate when a soliton can emit linear dispersive waves and
+at what frequencies they appear Use Fourier-averaging perturbation theory to analyse
+second-harmonic generation and soliton properties in quadratic
+nonlinear materials with nonlinear quasi-phase-matching gratings
+and show how these gratings induce a cubic nonlinearity","
+Fundamental nonlinear equations (Sine-Gordon, Klein-Gordon,
+Korteweg-de-Vries, nonlinear Schrödinger, discrete nonlinear
+Schrödinger, Ablowitz-Ladik, and chi2 equations). Fundamental
+nonlinear solutions (bright, dark, and vortex solitons).
+Integrability. Multiple-scale perturbation theory. Method of
+moments. Virial theory. Fredholm’s alternative. Modulational
+instability. Soliton fission. Generation of dispersive waves –
+Cherenkov radiation. Raman redshift. Second harmonic generation,
+cascading, quasi-phase matching and induced Kerr nonlinearity. 
+",34031,"
+Ole Bang"
+,,,,,,,,,,,,
+34454 , Biophotonics and Optical Engineering,English , 5 ECTS , 2016/2017 ,F5B (Wed 13-17),MSc,Department of Photonics Engineering,"
+This course aims to prepare students to handle optical engineering
+tasks and challenges that are relevant to biophotonics. 
+","Identify optical engineering tools that are relevant to
+biophotonics Describe different applications of optical engineering Cite analogies between temporal and spatial optical
+techniques Discuss the advantages and limitations of different optical
+tools Select appropriate tools for a given optical engineering
+challenge. Propose solutions to certain optical engineering
+challenges Evaluate an existing optical engineering solution Solve optical engineering exercises and write technical
+reports","
+The course helps students learn the underlying optical engineering
+tools– including theoretical, numerical and experimental
+techniques– in the context of selected tasks in contemporary
+biophotonics applications, including micro- and nanoscopy, digital
+and computer-generated holography, optical trapping and
+micromanipulation, generalized phase contrast, optical measurement
+and optical processing, spatial light modulation, novel beams and
+time-domain Fourier optics, among others. Learning is reinforced
+through MATLAB exercises and reports. 
+","10036,34033,10030,10370","
+Darwin Palima,
+Jesper Glückstad"
+,,,,,,,,,,,,
+34455 , Optical biosensors,English , 5 ECTS , 2016/2017 ,E5A (Wed 8-12),MSc,Department of Photonics Engineering,"
+Optical biosensors cover a wide gamut of applications ranging from
+simple test kits used by general practitioners to complex
+analytical devices used in biomedical research and development. The
+objective of this course is to familiarize the student with the
+optical and biomedical aspects of these sensors. Furthermore,
+issues pertaining to sensitivity and signal-to-noise ratio of such
+sensors will be discussed during the course. It is also the
+objective of this course to further the understanding of the
+interplay between materials, components and systems in the field of
+optical bio sensing. 
+","Understand the basic principles of optical biosensors Explain the difference between chemical sensors and
+biosensors Explain basic concepts of sensing methods Understand the basic concepts of affinity reactions used in,
+e.g., immunosensors Explain the applicability and limitations of the various
+sensing methods presented during the course Do simple exercises within the topics covered in the lectures
+and discuss the obtained results both orally and in writing Read and understand selected scientific papers Oral presentation of scientific papers","
+The lectures will cover the biological background for affinity
+based reactions that are the backbone in most optical biosensors
+based on evanescent sensing in waveguide geometries. This also
+includes surface plasmon resonance (SPR) based sensors. The
+principles of luminescent sensing covering both spectral and
+lifetime based methods will be covered in this course. A number of
+optical biosensors used for clinical as well as R&D purposes
+will be discussed.
+
+Throughout the course practical examples and demonstrations will be
+used whenever possible. 
+",34430,"
+Lars René Lindvold,
+Peter E. Andersen"
+,,,,,,,,,,,,
+34492 , Ph.D. Course in nonlinear Optics,English , 10 ECTS , 2016/2017 ,"E3 (Tues 8-12, Fri 13-17)",Ph.D.,Department of Photonics Engineering,"
+At the end of the course the participants should be able to perform
+simple evaluations of nonlinear phenomena in optics. Examples will
+be directed toward applications within optical communications,
+sensors and lasers. In addition, this ph.d. course also aims at
+training the ph.d. student in providing a 45 minutes long lecture
+on a topic covering fundamental material related to nonlinear
+optics. 
+","relate the induced polarization in a dielectric material to an
+applied electric field and translate between the material response
+in the time and frequency domain relate the real and the imaginary part of the material response
+to an applied electric field and analyse these with respect to
+their impact on optical material properties discuss and apply susceptibility tensors corresponding to
+relevant optical materials with respect to the interaction between
+electromagnetic fields and materials derive the nonlinear wave equation corresponding to various
+nonlinear phenomena in bulk materials as well as in optical
+waveguides describe wave propagation in an-isotropic materials, and derive
+solutions regarding phase-matching conditions in such
+materials design and analyse nonlinear optical systems aimed at nonlinear
+frequency-conversion distinguish between Raman and Brillouin scattering and describe
+these phenomena using susceptibility tensors and the induced
+polarization describe the intensity dependent refractive index using the
+induced polarization and apply the corresponding waveequation to
+analyse transmission of short optical pulses. plan and carry out smaller research type projects and analyse
+and present the achieved results in form of posters, an oral
+presentation and a technical article present a lecture on a topic within: nonlinear
+optics.","
+The content of this course is similar to the content of the course
+34052 Nonlinear Optics. More specifically the first 2/3 of the
+course will run in parallel whereas in the last 1/3 of the course
+the ph.d. student will be asked to provide a 45 minutes long
+lecture on a topic that the ph.d. student will be told at least 4
+weeks before the lecture shall be given. The lecture covers
+fundamental material related to nonlinear optics and should be
+given to the other students attending the course 34052 Nonlinear
+Optics. In this last 1/3 of this ph.d. course the student will also
+solve a larger assignment as described in course 34052 Nonlinear
+Optics. 
+","34530,10036,34031,10370","
+Karsten Rottwitt,
+Peter Tidemand-Lichtenberg"
+,,,,,,,,,,,,
+34493 , Biophotonics,English , 5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,Department of Photonics Engineering,"
+Optical methods and instruments based on light interacting with
+tissue have emerged as powerful techniques for bio-medical
+diagnostics, monitoring wide spectra of tissue function and
+pathology together with therapy. The purpose of the Biophotonics
+school is to provide education at the highest international level
+within these areas.
+
+The school Biophotonics'15 covers the following main areas:
+
+- lasers and their applications in medicine
+
+- tissue optics
+
+- photodynamic therapy
+
+- optical tweezers and their applications in biophotonics
+
+- photo-acoustic imaging
+
+- molecular imaging based on optical methods
+
+- nanoscopy for cell imaging (STED)
+
+- optical coherence tomography and coherence domain optical methods
+in biomedicine.
+
+At the summer school invited experts, at an international level,
+will give extended presentations reviewing these areas. Moreover,
+the attendees at the summer school will also have the opportunity
+of presenting their current research at the poster sessions
+(mandatory). 
+","knowlegde of light-tissue interactions and tissue optics knowledge of diffuse optical tomography and spectroscopy knowledge of optical coherence tomography knowledge of photo-acoustic imaging knowledge of stimulated emission depletion microscopy
+(nanoscopy) knowledge of molecular imaging knowledge of photodynamic therapy knowledge of light sources for biomedical optics.","
+The course is conducted as a Ph.D. summer school of one week
+duration at an external conference center outside DTU campus. See
+the homepage for the current or previous course:
+
+www.biop.dk/​biophotonics15/​. The course is offered in odd years
+only. 
+",,"
+Peter E. Andersen"
+,,,,,,,,,,,,
+34495 , Optical terahertz technology,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12),Ph.D.,Department of Photonics Engineering,"
+The student will get acquainted with modern technology for
+generation and detection of coherent signals in the terahertz
+frequency range and gain insight into selected modern scientific
+and technical applications of terahertz radiation, including
+experiments within nonlinear THz optics. The student will obtain
+in-depth knowledge about experimental and theoretical work,
+numerical simulations and data acquisition methods used in
+terahertz optics. 
+","Account for basic theories for interaction between terahertz
+radiation and matter Explain generation of ultrafast terahertz signals by
+photoconductive and nonlinear optical processes Explain detection of ultrafast terahertz signals by
+photoconductive and nonlinear optical processes Apply formalism for linear propagation of electromagnetic waves
+is absorptive and dispersive media Apply the formalism for static and time-resolved terahertz
+time-domain spectroscopy for material characterization Understand the principles behind terahertz optics (materials,
+optical components, waveguides, metamaterials) Interpret experimental measurements and results based on
+theoretical models of selected physical phenomena on the picosecond
+and femtosecond time scale Account for selected nonlinear optical effects in the THz
+range Explain the principles of terahertz imaging and
+tomography","
+The course works through basic theories of interaction between
+terahertz radiation and matter, optical methods for generation and
+detection of ultrafast terahertz signals and continuous-wave
+terahertz signals such as photoconductive antennas, nonlinear
+crystals and four-wave mixing in gases. The course covers theory
+for terahertz optics, including materials for terahertz
+applications, terahertz optical components, waveguides, and
+metamaterials. Spectroscopic applications of terahertz radiation
+will be discussed in-depth, with examples including spectroscopy of
+atoms, molecules, biological materials and semiconductor
+structures. Techniques for terahertz imaging and tomography will be
+covered.
+
+The course consists of an even distribution of introductory
+lectures, article discussions, simulation exercises, and practical
+demonstrations of generation, detection, spectroscopy and imaging
+using the mobile THz system at DTU Fotonik. 
+",,"
+Peter Uhd Jepsen"
+,,,,,,,,,,,,
+34539 ," Design, fabrication and characterization of optical planar waveguide components",English , 5 ECTS , 2016/2017 ,June,MSc,Department of Photonics Engineering,"
+The course aims at introducing all around basic components
+(physical concept, equipment and software) from design to
+fabrication and characterization of silica/silicon optical planar
+waveguide components through hands-on experience 
+","Work confidently in the cleanroom Select proper material platform for different applications in
+integrated optics Design processing flows for device fabrication Interpret and optimize key processing steps in the fabrication
+of waveguide components Align fibers with nanoscale waveguides efficiently Handle chips and fibres with skills of dicing, cleaning and
+cleaving etc. Set up simple optical measurements Do component simulation and mask layout by using commercial
+softwares Describe working principles of waveguide components Apply knowledges to current waveguide components research and
+application","
+• Learn rules of working in the cleanroom
+
+• Get familiar with key processings in the cleanroom, including
+film deposition, lithography and etching
+
+• Build models of waveguides to simulate effective refractive
+index, coupling loss etc using commercial software
+
+• Make mask layout using commercial software L-edit
+
+• Do electron-beam lithography, including resist spin, e-beam
+exposure and developing
+
+• Operate ''advanced silicon etcher '' (ASE) and
+edit recipes for silicon etching
+
+• Investigate the nanoscale features using scanning electron
+microscope (SEM)
+
+• Couple light in and out of waveguide components on 3-dimentional
+stages by tapered fibers
+
+• Set up simple measurement circuits including light source,
+polarization controller and optical spectral analyzer (OSA) to
+measure propagation loss of straight waveguide by cutback method
+
+• Setup OSA correctly with regard to resolution, sensitivity,
+average, sampling, and configure OSA and TLS to work in
+synchronization
+
+• Measure silicon micro-ring resonators and analyze the difference
+between the design and the measured values 
+",34041,"
+Haiyan Ou"
+,,,,,,,,,,,,
+34540 , Light emitting diodes and photovoltaics for energy applications,English , 5 ECTS , 2016/2017 ,E2A (Mon 13-17),MSc,Department of Photonics Engineering,"
+Photonic devices, which by definition convert energy between
+electrical and optical find more and more applications in the
+sphere of energy saving and renewable energy generating devices. In
+particular, active for many years field of solar cells is now
+joined by photo-thermovoltaics and rapidly growing solid state
+illumination (light emitting diode based illumination).
+
+In this course we want to discuss physics, materials, design and
+operation rules specific to photovoltaic devices and LEDs for solid
+state illumination. 
+","Analyse light absorption/emission processes in most important
+classes of photonic materials (inorganic, organic, nanostructured
+materials) Compare charge transport in those materials Analyse operation of photovoltaic devices: device physics,
+maximum possible conversion efficiency, factors limiting internal
+efficiency, strategies for light coupling Describe advanced concepts for future generations of
+photovoltaic devices Describe the operation of LEDs for solid state illumination:
+design issues specific to high power light emitters, factors
+defining internal efficiency, strategies for light extraction Describe advanced concepts for future generations of high
+brightness LEDs Describe strategies used for generating white light based on
+LEDs (colour mixing, phosphor based LEDs Characterise solid state illumination using photometry,
+spectroradiometry and colorimetry","
+The course consists of four parts:
+
+1.Photonic devices for power generation.
+
+2.Light emitting diodes for solid state illumination.
+
+3.Light management for maximum efficiency.
+
+4.Solid state illumination.
+
+We start from presenting the principle of operation of photovoltaic
+devices including analysis of their ideal power conversion
+efficiency. We will then discuss the performance of the real
+devices and analyse the factors limiting their efficiency compared
+with the ideal case. Various technologies (present and future) and
+materials will be included in comparison.
+
+In a second part of the course we will discuss specific issues of
+design and operation of light emitting diodes needed for solid
+state illumination. Materials and strategies for achieving high
+efficiency and high power of emission at visible light wavelengths
+will be analysed. Future trends in this rapidly changing subject
+will be presented as well as the current ones.
+
+Light management in both types of devices is a key element for
+achieving high efficiency. Optics, micro-optics and chip level
+strategies for efficient light coupling into the photovoltaic
+devices and light out-coupling from the LEDs will be discussed.
+Modelling of optical components of the systems will be included.
+
+Based on understanding both the LEDs and optics we will present
+strategies for white light generation used in solid state
+illumination. The students will have the opportunity to learn about
+photometry, which analyses light as seen by human eye and about
+colour measurement. 
+","10303,34033","
+Paul Michael Petersen,
+Johannes Lindén,
+Peter Behrensdorff Poulsen,
+Sune Thorsteinsson,
+Haiyan Ou"
+,,,,,,,,,,,,
+34541 , Entrepreneurship in photonics and communications,English , 5 ECTS , 2016/2017 ,E1B (Thurs 13-17),MSc,Department of Photonics Engineering,"
+The course aims to create the opportunity for students with
+different academic orientation (CBS, DTU) to work together
+developing commercialization strategies for technologies that are
+created in university laboratories.
+
+The course is very hands business development focusing on practical
+real life testing of assumptions about selected solutions.
+
+The course will introduce students to theories, models and tools
+that are central to the identification, development and
+commercialization of new technologies. It will draw from
+entrepreneurship, economic, management, marketing, organization and
+strategy. Key concepts of entrepreneurship and innovation will be
+merged to create a cohesive course content to include how to
+efficiently and effectively evaluate promising technologies to
+determine their commercial potential.
+
+For students with no business background, there will be online
+crash course in business and entrepreneurship offered in a week
+before the course starts. 
+","Evaluate a technology case to identify business/commercial
+potential Identify strengths and weaknesses in different application of
+the technology and select the best business case Design an appropriate business model for the chosen product,
+customer segment and market Design and implement experiments to test assumptions about the
+customer value proposition Formulate an effective market development and customer
+acquisition strategy based on real feedback from potential users of
+the proposed product offering Identify financial requirements and sources for financing
+technology and market development Outline key development goals to achieve commercial
+success Assemble analytical arguments to support weak commercial
+potential where no application with strong market potential can be
+identified Identify key risks and create strategies to mitigate them Effectively communicate the strength of the business case to
+create interest, attract resources and expand the network. Collaborate with peers who have different skills and
+perspectives to create and present a commercialization
+plan","
+Defining commercial potential – Finding the application
+
+Understanding the technology-market insight - Business Models
+
+Market Development - Market/Customer tests
+
+Prototype development and testing
+
+Financing Technology Ventures
+
+Intellectual Property Rights issues
+
+Transition and Entry - Go-to-market strategy
+
+Entrepreneurial teams
+
+Pitching 
+",None,"
+Christian Pedersen,
+Karen Murdock"
+,,,,,,,,,,,,
+34550 , Biomedical optics,English , 5 ECTS , 2016/2017 ,E4A (Tues 13-17),MSc,Department of Photonics Engineering,"
+The interest for applications of coherent light and optical sensing
+in biology and medicine has been increasing the past years. This is
+partly due to the development of new laser systems, partly the
+development in optical systems and finally advances in precise and
+non-invasive diagnostics and analyses. The course is divided into
+three areas: 1) Light sources for medical diagnostics and
+treatment, 2) light-tissue interactions, and 3) Optical methods for
+bio-imaging. 
+","Discuss basic optical principles like coherence, interference
+and diffraction, and determine imaging properties of simple rays in
+spherical lenses and mirrors. Explain the principle of laser action and understand the mode
+of operation of the various components in different laser
+systems. Discuss the physics behind nonlinear frequency conversion, and
+describe tuning properties of coherent light sources based on
+nonlinear frequency conversion. Explain different light-tissue interactions, e.g.:
+Photochemical, thermal, photo induced plasma and photo ablation,
+and be able to relate these interactions to the characteristics of
+the light source. Discuss the optical properties of tissue (scattering and
+absorption) and the wavelength dependencies of these
+processes. Describe the principle of transport theory and knowledge of
+solutions, including diffusion theory. Apply the principle of Monte Carlo simulations as a general
+solution and understand how this method can be used to solve
+transport theory of light propagation in scattering media. Explain and discuss the functionality of a specific optically
+based diagnostic system, OCT, and two-photon microscopy Describe spectroscopic techniques such as fluorescence,
+two-photon microscopy, and Raman spectroscopy, and understand the
+basic operation and limitations of a spectrometer. Orally present scientific papers within the areas of the course
+and discuss results.","
+The lectures will cover the biological and medical background for
+application of light for treatment and diagnosis, especially
+propagation of light in human tissue, interaction between light and
+tissue, possibilities for therapy with light and imaging methods.
+An important topic is the optical properties of the eye: Spectral
+properties, fluorescence of the various parts of the eye, optical
+diagnostics by scattered light within the eye, properties of the
+retina and possibilities for healing by optical treatment. Further,
+modern coherent light sources will be covered such as the optical
+properties of laser beams, different laser systems and their
+potential for bio-medical applications. Throughout the course
+examples and external visits will be used whenever possible. 
+",10036,"
+Peter Tidemand-Lichtenberg,
+Peter E. Andersen,
+Lars René Lindvold"
+,,,,,,,,,,,,
+34590 , Entrepreneurship in Technical Science,English , 5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,Department of Photonics Engineering,"
+The overall objective of this course is to achieve a basic business
+insight that will allow the student to efficiently participate in
+commercializing inventions and knowledge within photonics, physics,
+nanotechnology and chemistry.
+
+General objectives:
+
+• technology transfer of IPR from research to commerce,
+
+• formation of a new business activity: in existing industry
+(intrapreneurship) or via a spin-off company (entrepreneurship),
+
+• learn about Danish startup ecosystem and meet high tech spin offs
+from DTU.
+
+Students will be asked to apply their research subject to one of
+industrial key challenges area defined by the DTU faculty staff,
+companies which DTU collaborates with or students themselves on the
+Idea Generation Day. 
+","Identify business opportunities Understand IPR (Patent, Copyright, Trademark and Trade
+Secrets) Conduct an initial novelty screening and draft a patent
+application Develop commercialization strategies and business models Analyze markets for technological products and services Analyze customer value creation Plan commercialization projects Establish cash flow projection and capital requirements Calculate an equity investment Work with tech trans officers and other IPR professionals Work with venture capital investors Communicate complex commercialization projects","
+Team and cases will be created at 1-day idea generation workshop
+and it will address challenges from Faculty members and companies.
+
+Teaching will consist of morning lectures, usually given by experts
+working in a specific area, afternoon group works supported by
+business mentors and evening inspiring talks given by successful
+high tech entrepreneurship entrepreneurs.
+
+Cases to work with, mentors and speakers will be delivered from 4
+departments: DTU Fotonik. DTU Nanotech, DTU Chemistry and DTU
+Energy Conversion. 
+",,"
+Christian Pedersen,
+Monika Luniewska Jensen,
+Majken Kramer Overgaard,Rolf Henrik Berg ,Frederik Berg Nygaard"
+,,,,,,,,,,,,
+34591 , Pitching High,English , 1 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,Department of Photonics Engineering,"
+The overall objective of this course is to give students
+understanding on how they can pitch their high tech projects in a
+communicative and relevant way. By the end of the course students
+should be able to give understandable description of their
+technology, as well as present background of the research and its
+impact on the society 
+","Pitch their research project in 4 minutes in an understandable
+way Select material relevant for certain audience and
+circumstances Explain background of the research and its importance for the
+society Give motivation for the project Describe general state of knowledge and show own
+contribution Suggest possible applications and their value added Understand value chain and industry setup in the area of
+research Prepare esthetic slide presentation Present project orally in a clear and interest generating
+way","
+Every participant will be asked to prepare a 4-minute presentation
+about their research project.
+
+During the workshop participants will have interactive introduction
+on rules behind clear and interest generating pitching of high-tech
+projects and will be asked to pitch, receive and give comments.
+
+Final delivery is oral presentation of the project at the workshop
+and improved slides sent after the course. 
+",,"
+Christian Pedersen,
+Lars-Ulrik Aaen Andersen,
+Monika Luniewska Jensen"
+,,,,,,,,,,,,
+34803 , Research Immersion in Telecommunication 3,English , 5 ECTS , 2016/2017 ,July,MSc,Department of Photonics Engineering,"
+To introduce the students to current research areas at DTU Fotonik
+within Telecommunication.
+
+The first day all available projects are presented to the course
+participants. One project is selected. Then two weeks project work
+follow including exercises (lab and/or theory) supervised/assisted
+by the responsible teacher. The third week is used for the
+participants to write a report on the activities. 
+","Work in a small group on a specified task Set up and understand advanced telecommunication measurement
+setups Explain how the experiments relate to theory Document experimental work Read and understand scientific papers relevant for the specific
+project Be able to disseminate research results in an academic way (for
+journals, conference proceedings and similar) Extract highlights and key result of work and make a time
+restricted presentation. Make state-off-the-art survey based on scientific
+material.","
+The actual content varies from year to year to reflect actual hot
+topics and current research areas within the department. You will
+work with Ph.D. students and researchers on topics that they deal
+with in their daily research. 
+",,"
+Lars Dittmann"
+,,,,,,,,,,,,
+34804 , Research Immersion in Telecommunication 4,English , 5 ECTS , 2016/2017 ,August,MSc,Department of Photonics Engineering,"
+To introduce the students to current research areas at DTU Fotonik
+within Telecommunication.
+
+The first day all available projects are presented to the course
+participants. One project is selected. Then two weeks project work
+follow including exercises (lab and/or theory) supervised/assisted
+by the responsible teacher. The third week is used for the
+participants to write a report on the activities. 
+","Work in a small group on a specified task Set up and understand advanced telecommunication measurement
+setups Explain how the experiments relate to theory Document experimental work Read and understand scientific papers relevant for the specific
+project Be able to disseminate research results in an academic way (for
+journals, conference proceedings and similar) Extract highlights and key result of work and make a time
+restricted presentation. Make state-off-the-art survey based on scientific
+material.","
+The actual content varies from year to year to reflect actual hot
+topics and current research areas within the department. You will
+work with Ph.D. students and researchers on topics that they deal
+with in their daily research. 
+",,"
+Lars Dittmann"
+,,,,,,,,,,,,
+34903 , Research Immersion in Photonics 3,English , 5 ECTS , 2016/2017 ,July,MSc,Department of Photonics Engineering,"
+To introduce the students to current research areas at DTU Fotonik
+within Photonics.
+
+The first day all available projects are presented to the course
+participants. One project is selected. Then two weeks project work
+follow including exercises (lab and/or theory) supervised/assisted
+by the responsible teacher. The third week is used for the
+participants to write a report on the activities. 
+","Work individually or in a small group on a specified task Set up and understand advanced photonics measurement setups or
+theory Explain how the experiments relate to theory or vice verse Document experimental/theoretical work Read and understand scientific papers relevant for the specific
+project Be able to disseminate research results in an academic way (for
+journals, conference proceedings and similar) Extract highlights and key result of work and make a time
+restricted presentation Make state-off-the-art survey based on scientific
+material.","
+The actual content varies from year to year to reflect actual hot
+topics and current research areas within the department. You will
+work with Ph.D. students and researchers on topics that they deal
+with in their daily research. 
+",,"
+Karsten Rottwitt"
+,,,,,,,,,,,,
+34904 , Research Immersion in Photonics 4,English , 5 ECTS , 2016/2017 ,August,MSc,Department of Photonics Engineering,"
+To introduce the students to current research areas at DTU Fotonik
+within Photonics.
+
+The first day all available projects are presented to the course
+participants. One project is selected. Then two weeks project work
+follow including exercises (lab and/or theory) supervised/assisted
+by the responsible teacher. The third week is used for the
+participants to write a report on the activities. 
+","Work individually or in a small group on a specified task Set up and understand advanced photonics measurement setups or
+theory Explain how the experiments relate to theory or vice verse Document experimental/theoretical work Read and understand scientific papers relevant for the specific
+project Be able to disseminate research results in an academic way (for
+journals, conference proceedings and similar) Extract highlights and key result of work and make a time
+restricted presentation Make state-off-the-art survey based on scientific
+material.","
+The actual content varies from year to year to reflect actual hot
+topics and current research areas within the department. You will
+work with Ph.D. students and researchers on topics that they deal
+with in their daily research. 
+",,"
+Karsten Rottwitt"

@@ -1,0 +1,1335 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+33206 , Transport in Nanostructures,English , 10 ECTS , 2016/2017 ,"E3 (Tues 8-12, Fri 13-17)",MSc,Department of Micro and Nanotechnology,"
+The technology to fabricate mesoscopic and nanoscopic devices is
+progressing rapidly. These systems possess, apart from forming the
+basis for future electronic components, many fascinating physical
+properties and research in this field is a central topic in modern
+condensed matter physics. The theoretical description requires
+advanced techniques based on many-body theory (e.g., Green
+functions and diagrammatic perturbation theory). The general goal
+of this course is to give the student some general acquaintance
+with these techniques, and an overview of the basic physics. This
+course also gives sufficient background knowledge for further
+studies of many-body physics, including a short resume of complex
+analysis (residue calculus). 
+","Use second quantization Derive correlation functions in linear response Use Wick's Theorem to factorize higher order Green's
+functions Draw Feynman diagrams for the impurity problem Derive collective excitations from the dielectric function Use Landauer-Büttiker formalism for conductances Use the equation of motion method to determine Green's
+functions Use rate equations to describe transport dominated by Coulomb
+blockade","
+The first half of the course introduces the basic concepts in
+many-body theory. The material is based on the text-book
+""Introduction to quantum field theory in condensed matter
+physics"", by H. Bruus and K. Flensberg. Furthermore, the
+needed mathematical techniques are developed. The second half of
+the course concentrates on physical applications, such as ballistic
+transport, tunnelling, interference (including weak localization
+and universal conductance fluctuations), collective phenomena in
+low-dimensional systems, and nonequilibrium effects. The material
+is fetched from the above text-book, or from current scientific
+literature. 
+","10307,10112,10303","
+Antti-Pekka Jauho"
+33236 , LabChip,English , 5 ECTS , 2016/2017 ,F3A (Tues 8-12),BSc,Department of Micro and Nanotechnology,"
+The course aims at providing you with a general and broad
+introduction to the multidisciplinary field of lab-on-a-chip
+technology. This part of modern micro- and nanotechnology allows
+for integration of electrical, mechanical, optical, chemical and
+biological components in complete labs on microchips with embedded
+microfluidic networks, sensors and actuators. During the course you
+will acquire the basic knowledge on physical/​chemical/​biological
+phenomena that are the basis for the recent development of
+lab-on-a-chip systems with applications within basic research,
+environmental control, biotechnology and medical industry. Another
+aim of the course is to introduce you to interdisciplinary
+collaboration; the course is traditionally followed by students
+from many fields, typically nanotechnology, physics, chemistry, and
+medicine & technology. 
+","Explain the basic principles and examplify applications of
+lab-on-a-chip technology Apply laminar flow theory to design microfluidic networks Derive, calculate, and evaluate characteristic quantities for
+lab-on-a-chip systems Select and plan fabrication methods for simple microfluidic
+systems Apply laminar flow theory to design microfluidic separation
+systems Classify principles of on-chip chemical analysis and
+separation Describe the basic principles of on-chip electrochemical and
+optical sensors Explain the process steps of on-chip DNA-amplification
+(PCR) Design a microfluidic system for chemical analysis Design a microfluidic system for cell culture","
+In the first part of the course you will get an introduction to
+basic hydrodynamic and chemical phenomena, fundamental theoretical
+concepts and experimental techniques applied in lab-on-a-chip
+technology. Important topics are microfluidic networks (pressure,
+flow, hydraulic resistance, equivalent diagram technique) and
+microfluidic processes (diffusion, surface tension, chemical
+separation, ion transport in electrolytes, and mixing of chemical
+solutions). In the second part of the course you will learn how
+simple lab-on-a-chip systems are designed and fabricated, e.g., by
+use of polymer-based rapid prototyping. Moreover, chemical and
+optical detection systems, in particular fluorescence techniques
+and wave guides are described. In the third and last part of the
+course you will study how biological samples are handled in
+microsystems, in particular on-chip analysis of cells and genetic
+analysis on DNA-chips. During the problem sessions of the course
+you will obtain skills in solving problems based on actual
+experimental data, and you will get an impression of the different
+applications of lab-on-a-chip systems that are developed at
+Nanotech in collaboration with industry and other university
+departments. 
+",,"
+Niels Bent Larsen,
+Noemi Rozlosnik"
+33250 , Semiconductor Technology,English , 5 ECTS , 2016/2017 ,F3B (Fri 13-17),MSc,Department of Micro and Nanotechnology,"
+To teach you to use and evaluate available processes for
+fabrication of integrated circuits and semiconductor devices and
+understand the equipment and the methods used in fabrication. Based
+on this knowledge, make detailed process descriptions for the
+fabrication of integrated circuits, semiconductor devices, and
+Microsystems and evaluate the results of the processing and
+understand the connection between the physical models used and the
+fabrication procedure used. In the course a practical exercise in
+the DANCHIP cleanroom is included. 
+","Use analytical – linear or nonlinear - modelling for a first
+optimization iteration of a process sequence development and use
+analytical modelling to assist interpretation of numerical
+modelling results Account for the fascinating interaction between diffusion,
+oxidation, and nitridation mediated by point defects, and predict
+the results of these effects on a fabrication process Account for how deposition process parameters affect film
+properties including step coverage and trench filling, and use this
+understanding to optimize deposition process parameters to meet
+target specifications if at all possible Account for how etch process parameters affect the etch
+performance including selectivity and anisotropy and based on this
+tailor the etch parameters for target specifications Account for how silicon crystal growth conditions affect the
+material parameters and interfere with further processing of the
+wafers, and based on this knowledge select the proper starting
+wafers for an application Account in detail for the physics and photo-chemistry of UV
+lithography and be able to use this knowledge to optimize the
+lithography process even in the case of image reversal
+processing Choose the proper doping method for a specified application and
+understand in detail the consequences of the choice in terms of
+thermal budget, defects, possible doping level, and control Describe the complexity of packaging of microsystems","
+Physics and chemistry of semiconductor process technologies,
+including: Crystal growth, epitaxy, thin film technology, low
+pressure CVD, thermal oxidation, solid state diffusion, ion
+implantation, wet and dry etching, micro lithography,
+encapsulation, and electrical and physical evaluation of materials.
+
+","33255,33253","
+Ole Hansen,
+Flemming Jensen"
+33253 , Micro 1: Solid,English , 10 ECTS , 2016/2017 ,"F2 (Mon 13-17, Thurs 8-12)",BSc,Department of Micro and Nanotechnology,"
+Solid-state devices made using micro technology are used in a broad
+range of products ranging from the transistor in a computerchip to
+the air bag sensor in a car.
+
+The goal of this course is to give you an understanding of how
+these solid-state devices work and how they are made. When you have
+followed this course, you will be able to design a simple
+fabrication process for a solid-state device (for example a bipolar
+transistor or an air bag sensor) and to calculate the current
+voltage relationship. You will be able to do this both analytically
+and with the help of computer aided design and simulation tools. 
+","Describe the crystal structure for silicon, explain the concept
+of energy band diagrams, Fermi-level, electrons & holes and
+calculate carrier concentrations as function of doping level and
+temperature Explain ambipolar transport (drift, diffusion, generation,
+recombination) Calculate mobility/diffusion constant, electric current,
+resistivity and conductance of a conductor using analytical methods
+and by using the finite element program COMSOL Explain how solid-state devices can be fabricated Explain how different solid-state devices (diodes, MOS
+structures, MOSFETs, bipolar transistors and piezoresistive
+components) work Derive and calculate current-voltage characteristics for diodes
+and transistors Calculate threshold voltages, currents and CV curves for MOS
+structures and MOSFETs Describe the use of piezoresistive devices Explain the piezoresistive effect based on application of
+tensors Derive and calculate voltage-pressure/​acceleration
+characteristics for piezoresistive sensors Use the finite element program COMSOL to calculate stress in
+micromechanical structures Apply ""reverse engineering"" to find out how devices
+have been made","
+This course covers introductory solid-state physics in a degree
+sufficient to allow an understanding of different devices. The
+topics are:
+
+· Crystal structure
+
+· Electrons and holes in intrinsic and doped semiconductors
+
+· Energy band diagrams and energy band gaps
+
+· Transport mechanisms: drift and diffusion, injection and
+recombination
+
+· Piezo resistivity
+
+The working principle and fabrication process for a range of
+solid-state devices will be described. This includes the:
+
+· pn junction diode
+
+· Bipolar transistor
+
+· Metal-semiconductor junction
+
+· MOSFET
+
+· Piezo resistive devices (i.e. pressure and airbag sensors)
+
+· Capacitive sensors
+
+To be able to design devices the course also covers the use of
+computer-based tools for design and simulation of solid-state
+devices. A series of laboratory exercises is dedicated to
+characterisation of devices.
+
+The course also covers introductory micro technology to a degree
+sufficient to allow for design of simple process recipes for
+solid-state devices:
+
+· Epitaxy
+
+· Photolithography
+
+· Wet and dry etching
+
+· Thermal oxidation
+
+· Diffusion and ion-implantation
+
+· Thin film deposition
+
+· LPCVD processes
+
+In the final part of the course you will work more closely with a
+given device and write a report that describes how the device works
+and how it could be made. During this part of the course you will
+perform measurements on the device, take it apart to figure out how
+it is made and you can also use computer aided design and
+simulation. 
+",,"
+Erik Vilain Thomsen,
+Mads Brandbyge"
+33255 , Fabrication of Micro,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),BSc,Department of Micro and Nanotechnology,"
+Devices and sub-systems fabricated using nano- and
+micro-fabrication techniques are used in an increasing number of
+modern products ranging from airbag sensors for cars to the
+processor in computers. The functionality of these products is
+critically dependent on the micro- and nano-devices.
+
+The overall aim of the course is to enable you to select relevant
+processes and to design a fabrication process for silicon based
+micro and nanofabrication using the methods available in for
+example the DTU cleanroom DANCHIP and in commercial cleanrooms. 
+","Explain the principles behind the basic lithographic processes
+(including UV lithography, e-beam lithography and nanoimprint
+lithography), field of use and limitations Explain the basic principles behind the processes used for
+planar processing (including diffusion, metallisation and wet and
+dry etching) Calculate relevant process parameters (e.g. time, temperature
+or pressure) based on the underlying theory (e.g thermal oxidation
+of silicon, ion implantation, diffusion, electron scattering and
+interaction between radiation and matter) Specify detailed process recipes for fabrication of micro and
+nano systems Select the most suitable process technology for a given task
+based on technical and economical considerations Use the ATHENA process simulator to predict the result of and
+optimise a silicon based fabrication process Explain technical and fundamental limitations for the
+fabrication processes used Use the kinetic gas theory to calculate process parameters
+(e.g. flux of molecules, mean free paths) To use English to communicate and discuss the course
+content","
+In the course the physics, chemistry, and technology of the
+fabrication processes used is described:
+
+·Lithography: UV-microlithography, e-beam nanolithography, and
+nano-imprint
+
+·Pattern-transfer: etching, lift-off
+
+·Thin film processes: CVD, PVD, spin-on
+
+·Substrate-materials: Silicon and Silica
+
+·Material modification: Ion-implant and doping-diffusion, annealing
+
+·Bonding: anodic bonding, fusion bonding
+
+·Process integration
+
+·Process simulation
+
+You will learn to use a modern process simulator (ATHENA -
+www.silvaco.com) which will allow you to perform advanced
+computation.
+
+In the final part of the course you work in teams on making a
+process flow for a device that the team can freely choose and
+present. 
+",,"
+Erik Vilain Thomsen,
+Anders Kristensen"
+33257 , Visualisation of Micro and Nano Structures,Danish , 5 ECTS , 2016/2017 ,F5A (Wed 8-12),BSc,Department of Micro and Nanotechnology,"
+Micro- and nanostructures are central elements in a long range of
+research and industrial projects and products.
+
+The goal of this course is to give you an overview of methods for
+visualisation of these structures and to understand the underlying
+physics.
+
+With this knowledge you will be able to choose the best suited
+techniques for a given task and to diagnosticate and further
+develop these visualisation techniques.
+
+Furthermore, you will be able to interpret the informations
+provided by these techniques. This can both be in the form of a
+shape of the sample (topography) and its material properties. 
+","Summarise advantages and disadvantages of optical microscopy
+(OM) Summarise advantages and disadvantages of Scanning Electron
+Microscopy (SEM) and Transmission Electron Microscopy (TEM) Summarise advantages and disadvantages of Atomic Force
+Microscopy (AFM) and Scanning Tunneling Microscopy (STM) Explain the operational principle, underlying physics and the
+limitations of the above mentioned methods Calculate and evaluate metrological aspects of data generated
+using the above mentioned methods Analyse and interpret data generated using the above mentioned
+methods Compare properties and relate characteristics of the above
+mentioned methods Select the appropriate visualization methods for a given
+application","
+The course covers the most important methods for visualisation of
+micro and nano structures used at DTU and associated companies.
+
+The topics are:
+
+· Optical Microscopy (OM)
+
+· Scanning Electron Microscopy (SEM)
+
+· Transmission Electron Microscopy (TEM)
+
+· Scanning Tunneling Microscopy (STM)
+
+· Atomic Force Microscopy (AFM)
+
+The methods are introduced in dedicated hands-on exercises. You
+will get access to state-of-the-art equipment for visualization
+purposes. This will contribute to the understanding of the methods.
+
+Furthermore, you will present and evaluate a scientific article and
+its use of visualization methods. 
+",,"
+Rodolphe Marie,
+Sebastian Horch,
+Jakob Birkedal Wagner,
+Christian Danvad Damsgaard"
+33281 , Biomaterials,English , 5 ECTS , 2016/2017 ,F4B (Fri 8-12),MSc,Department of Micro and Nanotechnology,"
+The course will give you a broad introduction to the physical,
+chemical, and mechanical requirements of a biomaterial to be used
+inside or outside the human body, and provide you with a knowledge
+foundation for choosing and optimizing biomaterials for selected
+biomedical applications. Examples will include hard biomaterials
+(e.g. for bone replacement), soft biomaterials (e.g. for heart
+valve replacement), and ultra-soft biomaterials (e.g. for cell
+scaffolds in tissue engineering), with intended applications in the
+body or for laboratory use. 
+","Describe common immediate, early, and late body responses to
+implanted materials Describe and compare the mechanical properties of different
+classes of biomaterials Describe processes to shape different classes of
+biomaterials Explain and exemplify how surface engineering of biomaterials
+can enhance or reduce their interaction with living cells Discuss common degradation mechanism of biomaterials and
+possible associated adverse effects on living systems Describe methods to minimize the risk of implant-related
+infections and discuss their possible adverse influence on
+biomaterials properties Describe selected requirements for approval of a biomaterial
+for clinical use Analyze the physical, chemical, and mechanical requirements of
+a biomaterial for a specific biomedical application Design a biomaterials based solution to a biomedical problem by
+combining a requirement analysis with knowledge on biomaterials
+properties and processing Assess and report on the pros and cons of a biomaterials based
+device","
+The fundamental materials science aspects of biomaterials,
+including manufacture, structure, and properties, will be reviewed
+in close connection with practical operation, performance and
+failure mechanisms of biomedical devices and implants. Man-made
+materials (metals, ceramics, polymers) as wells as biological
+materials will be considered.
+
+We will survey the many adverse effects that the introduction of a
+foreign material can induce in the body, including toxicity,
+immunological responses, and infection. This knowledge will be an
+outset for discussing how to maximize functionality and minimize
+adverse effects by proper choice of the biomaterial itself, design
+of the device shape and structure, and modification of its surface
+properties. Problem-based assignments will be based on examples of
+real-world devices in use or under development. Their current
+application and potential need for improvement will be discussed by
+guest lecturers from industry.
+
+Biomaterial stability and degradation mechanisms will be described.
+Examples will show how understanding and control of the degradation
+processes are equally important whether biomaterial degradation is
+needed as in a cell scaffold for tissue engineering or unwanted as
+in a permanent implant.
+
+The clinical use of biomaterials requires prior evaluation and
+approval by medical authorities. We will consider selected
+requirements in more detail and discuss how they may delay or even
+prevent the introduction of new biomaterials for actual clinical
+application. 
+","33481,41650,KU001,41015,KU011,27002","
+Kristoffer Almdal,
+Seunghwan Lee,
+Niels Bent Larsen"
+33321 , Nano,English , 10 ECTS , 2016/2017 ,"E1 (Mon 8-12, Thurs 13-17)",MSc,Department of Micro and Nanotechnology,"
+In the course you will learn how to use your basic knowledge of
+physics to analyse and design nanosystems, and to evaluate how they
+can be used in practice. You will learn how the different physical
+properties of nanostructures can be exploited to find better
+technological solutions. 
+","Analyse the conductivity of a nanomaterial based on THz
+spectroscopic data Calculate mechanical (strength, stiffness) and surficial
+(adhesion, friction) properties of carbon nanomaterials from simple
+considerations regarding chemical bonds. Derive electronic properties (band structure and transport) of
+carbon nanomaterials Analyse how a biological field effect transistor (BIO-FET) can
+be used in biological analyses and evaluate the governing
+parameters Analyse the behaviour of DNA molecules confined in nanofluidic
+channels Describe optothermal actuation in nanofluidic devices Describe properties of metamaterials Analyse the properties of surface plasmonic
+polaritons","
+In this course you learn about nanosystems; how they work and how
+they can be applied in practice.
+
+We define a ""nanosystem"" as a device that depends on part
+of the system to be a nanostructure or nanostructured. To be able
+to design and create a nanosystem, you will work with the physical
+properties of the nanostructures as well as their function when
+integrated in a system.
+
+The course is closely connected to today's and future
+applications of nanotechnology within the key areas of (1)
+carbon-based nanosystems, (2) mechanical and biological
+nanosystems, (3) nanooptical systems and (4) nanofluidic systems
+and also touch upon nano-safety issues.
+
+The course is a dynamic and interactive combination of lectures,
+discussions, small projects and exercises, where you will be
+challenged in many different ways.
+
+Through six home assignments you will work closer with the
+material, and familiarise yourself with sometimes complex problems
+of nanosystems engineering. 
+",,"
+Peter Bøggild"
+33323 , Nano,English , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),BSc,Department of Micro and Nanotechnology,"
+The course aims at providing you with a general and broad
+introduction to the multi-disciplinary field of nanotechnology.
+
+The course covers foundations, applications and emerging
+technologies:
+
+You will acquire the basic knowledge of the physical phenomena,
+theoretical concepts and experimental techniques behind the recent
+vastly improved ability to observe, fabricate and manipulate
+individual structures on the micro- and nanometre scale.
+
+Another aim of the course is to make you familiar with rapid
+development and state-of-art of emerging nanotechnologies, often
+exemplified with cross disciplinary systems such as biosensors. But
+also with concerns about the rapid development, and in this respect
+issues such as the human and ecotoxicological aspects of
+nanotechnology are also discussed.
+
+Finally the course will introduce you to the many real life
+applications and issues of nanotechnology i.e. the use of
+nanotechnology within areas such as chemistry, biology and
+medicine, often found in daily life products. 
+","Describe and explain what nanotechnology is Define and present nano scale physics, and make basic estimates
+of sizes and effects in nanotechnology Explain the features of selected nanodevices- and materials and
+present examples Explain the key nanoscale phenomena and select appropriate
+experimental approaches to study them Describe how to fabricate or synthesize nanoscale structures
+and the limitations of different techniques Explain how nanotechnology can be used in biological and
+medical research and development Explain the main concerns about nanotoxicological effects and
+environmental effects of nanostructures Write a scientific report with appropriate references and
+citations on cutting edge nanotechnology applications Present and defend the report in the class, and evaluate other
+reports","
+During the first half of the course you will get an introduction to
+nanoscale phenomena, fundamental theoretical concepts and
+experimental techniques in nanotechnology.
+
+On the atomic scale the laws of nature are governed by quantum
+physics. You will get acquainted with the necessary quantum theory
+on a very basic level, and you will use this to analyze and
+understand characteristic nano-scale phenomena.
+
+Central topics will be nanoscale materials, micro- and
+nanolithography, used in the fabrication of nanostructures, and the
+design and applications of various electron microscopes (SEM and
+TEM), scanning probe microscopes (SPM).
+
+In the second half of the course the focus is directed to
+application of nanoscale phenomena in products, e.g. sensors and
+functional surfaces being some examples. Some examples within the
+biochemical and pharmaceutical fields will be given, fx bio-chip
+based DNA-analysis.
+
+During the course you will participate in a series of simple hands
+on experiments, demonstration various nanoscale phenomena. 
+",,"
+Kristian Mølhave,
+Sokol Ndoni"
+33334 , Molecular diagnostics,English , 5 ECTS , 2016/2017 ,F4A (Tues 13-17),MSc,Department of Micro and Nanotechnology,"
+The objective of the course is to give students an insight into
+molecule diagnostics. This includes understanding the medical
+problem, the molecular methods used for diagnostics, limitations of
+the methods and to some extent introduction of novel methods. 
+","Describe molecular methodologies used in molecular diagnostics
+such as PCR, real time PCR, sequencing, next generation sequencing,
+microarrays, digital methods and laboratory automation. Explain how molecular diagnostics is used to solve a clinical
+problem Identify weaknesses and limitations of methodologies for
+diagnostics Summarize current and future technologies for viral, cancer and
+genetic diagnostics Summarize current and future technologies for lab
+automation Describe how molecular diagnostics is enhancing treatment and
+is preventing diseases Select suitable experimental designs depending on methodology
+and biomedical problem Solve tasks related to different methodologies To present scientific material in a clear and precise report
+and posters Be able to design a molecular assay including primers and
+probes, and validation","
+With the increased biological knowledge about, e.g., the human
+genome and the association between genes and diseases, molecular
+diagnostics is becoming an increasingly important tools for the
+health sector. The current situation in the analysis laboratories
+will be evaluated, highlighting techniques as well as demands.
+
+The course is divided into fours parts where part one deals with
+viral diagnostics and associated techniques. Here the basic
+concepts of using virus specific genes as biomarker for detecting
+viruses is introduced. Genetic diseases, genome wide and disease
+gene specific analysis is taught in second part. In the third part,
+cancer diagnostics and associated techniques are taught. The course
+focus on how molecular diagnostics is used to decide which drugs a
+cancer patient has benefit of - something that is called precision
+medicine. Finally, the fourth part deals with how biomarkers are
+found using high throughput techniques. This part also cover
+laboratory automation. 
+","27231,27232","
+Martin Dufva"
+33336 , LabChip,English , 5 ECTS , 2016/2017 ,E4B (Fri 8-12),MSc,Department of Micro and Nanotechnology,"
+A Lab-on-a-chip system (LOC) is a device that integrates and
+down-scales one or several laboratory functions on a single
+micro-chip. LOCs deal with the handling of extremely small fluid
+volumes (microfluidics) down to sub-nano liters, and have channel
+dimensions in the regime from 1 millimeter to 100 nanometers.
+
+The general goal of the course is that you with a physics approach
+to the subject matter will be able to analyze, and model the mode
+of operation of some chosen lab-on-a-chip systems. Moreover, it is
+the goal that you will be able to numerically model and design new
+lab-on-a-chip systems. 
+","Apply general theory for flow and diffusion to describe and
+design microfluidic systems Apply numerical simulations to design and model microfluidic
+systems Apply dimensional analysis to estimate flow properties in
+microfluidic systems Apply capillary force theory in microfluidic systems to design
+channels for capillary filling and capillary stops Apply the theory of faradaic and non-faradaic electrochemical
+reactions in saline solutions to construct lumped element electric
+circuit models for electrochemical electrodes Apply the theory of ion diffusion in a liquid to design and
+model electrochemical micro electrodes Apply numerical simulation methods to model time-dependent
+lab-on-a-chip systems Set up mathematical models for chosen aspects of biophysical
+phenomena, such as osmolarity and the Nernst equation, ion
+channels, electroporation and exocytosis Apply equivalent circuit models for estimation of liquid
+transport in lab-on-chip systems Apply general microfluidic theory and numerical simulation
+methods to analyze the findings presented in recent lab-on-chip
+research papers","
+Based on particularly chosen lab-on-a-chip systems (e.g. for
+manipulation of cells and separation of biomolecules) and numerical
+simulation, and with an engineering approach, you will be able to
+apply physical models to design new lab-on-a-chip systems. 
+",,"
+Rafael J. Taboryski"
+33355 , Micro,English , 10 ECTS , 2016/2017 ,"E2 (Mon 13-17, Thurs 8-12)",MSc,Department of Micro and Nanotechnology,"
+In this course you will learn about microelectromechanical systems
+(MEMS). You will learn about elasticity and the static and dynamic
+behavior of beams and membranes. The Laplace transformation is
+introduced and used to translate both mechanical and other systems
+to electrical components (""lumped elements""), which are
+then analyzed by use of the tools available for systems of
+electrical components. Transducers (sensors and actuators) are
+treated with focus on electrostatic, electromagnetic and
+piezo-resistive/electric transducers. It is crucial that you learn
+to calculate the electrical and mechanical response of simple
+MEMS-transducers. Related simple electronic circuits are introduced
+and noise (electrical and in other domains) is introduced.
+Applications in e.g. accelerometers, microfabricated microphones
+and pressure sensors are illustrated via examples and problems as
+well as company visits. The final part of the course is a desktop
+project, where you will work in groups on an open MEMS-related
+problem defined by a research group at DTU Nanotech or a company. 
+","Explain the technological and economical requirements that can
+make a microsystem a commercial success and list successful
+examples Choose microfabrication methods suited for the fabrication of a
+given microsystem and explain how the various processes can be
+integrated Judge whether a microsystem is the right solution for a given
+application Separate a microsystem into simple parts (“lumped elements”)
+modelled in different physical domains Calculate the static and dynamic behaviour of simple mechanical
+microsystems, e.g. cantilevers and membranes Evaluate and choose transduction principles (e.g.,
+electrostatic or magnetic) for actuation in a microsystem and
+perform analytical calculations for a simple actuator based on
+these Evaluate and choose transduction principles (e.g., capacitative
+or piezoresistive) for sensors in a microsystem and perform
+analytical calculations for a simple sensor based on them Describe and perform calculations on microsystems for a range
+of applications Describe, analyze and solve a concrete open problem involving
+microtechnology","
+Introduction to the world of microsystems. Description of the
+design and fabrication of microsystems. Integration of fabrication
+processes. Modeling of microsystems (""lumped element
+modeling""). Transduction principles for sensors and actuators
+and their scalability. Noise, sensitivity and resolution of
+sensors. Elasticity - bending of cantilevers and membranes.
+Selected microsystem examples for important application areas.
+
+The first 8 weeks of the course consists of lectures and problem
+solving. Calculation skills are evaluated in three written
+assignments that form part of the course grade. This is followed by
+a 4 week desktop project on an open problem involving a microsystem
+that is defined by research groups at DTU Nanotech or by industrial
+partners. The desktop project culminates by a written report and an
+oral examination in the report and relevant material from the
+course curriculum. 
+","33255,33253","
+Mikkel Fougt Hansen,
+Ole Hansen,
+Karen Birkelund"
+33422 , Nanolithography,English , 5 ECTS , 2016/2017 ,January  or  June,MSc,Department of Micro and Nanotechnology,"
+In the course you will learn the basic physical principles and
+chemical processes behind electron beam and nanoimprint
+lithography. With this knowledge you will be equipped to apply and
+optimise these techniques in practice. 
+","Describe function and principle of operation of the basic
+components of an electron beam lithography system: electron gun,
+electron optics, beam-blanker, sample stage, pattern generator Explain what determines the diameter of the electron beam and
+the writing speed of an electron beam writer Evaluate and compare resist materials for electron beam
+lithography in order to choose the optimal resist for a given
+application Predict the distribution of energy deposited in a film of
+resist in an electron beam exposure for a given diameter of the
+electron beam, acceleration voltage and for a given substrate
+material Perform basic proximity correction for electron beam exposure
+of patterns of different size and shape Describe polymer flow in a nanoimprint process, dependent on
+temperature, viscosity, pressure, polymer film thickness and stamp
+pattern Indentify and evaluate materials in terms of material
+properties and suitability for nanoimprinting, in order to choose
+the optimal material for a given application Evaluate and compare mehtods to transfer nanometer scale
+patterns from a resist film to the substrate, in order to select
+the optimal process for a given application Define a process flow for volume production of nanostructured
+components considering throughput and economic
+limitations","
+Electron beam and nanoimprint lithography are both unique in
+nanotechnology, since these methods make sub-10 nm structures
+available on wafer scale. In combination these two techniques
+provide a powerful technology platform for volume manufacture of
+nanosystems.
+
+In the course we work with a specific application, a nanostructured
+component, to be fabricated by electron beam and nanoimprint
+lithography. We develop a process flow for fabrication of the
+component, where issues and problems are introduced and discussed
+as they become relevant. Your processes are tested in the DANCHIP
+cleanroom. The course is based on group work, in groups of 2-3,
+combined with short lectures. Each day we work with a
+""task"" which is solved by handing in a day-report - to be
+approved by the teachers. During the course, you assemble your
+personal ""Handbook of nanolithography"" by assembling the
+day-reports and the handed out course material. 
+",,"
+Peter Bøggild,
+Anders Kristensen"
+33442 , Quantum mechanical modelling of nanoelectronics,Danish , 5 ECTS , 2016/2017 ,January,MSc,Department of Micro and Nanotechnology,"
+Today it is possible to design new materials and nanostructures
+with special properties by performing computer simulations. Such
+simulations are based on quantum mechanical models of the systems.
+The goal of this course is to give you a knowledge of the basic
+quantum mechanical models and their use, focusing on electronic
+transport in nanostructures. 
+","Outline basic ballistic quantum transport Outline and apply Landauer's formulation of quantum
+transport (1D) Use single-particle Green's function Describe quantum transport in terms of Laundauer's
+Green's function Explain electronic structure of molecules using LCAO theory
+(linear combination of atomic orbitals) Apply numerical matrix algebra to calculate transport Explain and do simple calculations of resonant tunneling Apply readymade software for calculating quantum transport for
+a simple atomic-scale system, f.ex. based on graphene.","
+This is an application oriented course on electron structure theory
+of molecules and condensed matter, where you both will write
+software in the programming language Mathematica, and possibly use
+a commercial software packet for electron transport.
+
+During the first two weeks you will be introduced to the
+theoretical methods enabling you to calculate electronic transport
+using Green's functions. This is done by solving problems and
+using Mathematica (no prior knowledge is necessary). In the third
+week you will get the opportunity to study a problem of your own
+choice. A report with results from the calculations shall be
+written during the course.
+
+The topics are chosen so as to match active research at DTU
+Nanotech and Center for Nanostructured Graphene (CNG). These will
+therefore change from year to year. Typical topics include:
+Electronic structure of graphene nanostuctures, nanotubes,
+hydrocarbons, and polymers. Calculations of currents through
+molecular electronics devices and graphene nanostructures. 
+","10112,10303,26260,10102","
+Mads Brandbyge"
+33470 , Mikro,English , 5 ECTS , 2016/2017 ,June  or  July  or  August  or  January,BSc,Department of Micro and Nanotechnology,"
+To introduce the experimental techniques used in the fabrication
+and characterization of semiconductor devices. 
+","Plan and carry out a sequence of experiments with a tight time
+schedule Work with an open problem within micro and nano technology Work in the lab with safety in focus Participate constructively in a cross disciplinary research
+team Use equipment and methods in a qualified manner and account for
+the operational principles Account for the theoretical background behind the
+experiments Analyse experimental data based on relevant theory Account for and discuss experimental sources of error Write a brief and precise commented lab-journal that makes the
+results useful also to the other team members Present in a brief but precise manner the experimental results
+at a mini conference Give constructive feedback to the written and oral
+presentations of the other groups","
+The course is an experimental project, and the content of the
+project is strongly related to the ongoing research at DTU
+Nanotech. Some of the projects will give you the opportunity to
+work in DTU Danchip's cleanroom. Hence, the actual subjects
+vary from term to term. You will be working together with other
+students and researchers at DTU Nanotech. 
+",,"
+Ole Hansen,
+Erik Vilain Thomsen"
+33471 , Nano,English , 5 ECTS , 2016/2017 ,June  or  July  or  August  or  January,BSc,Department of Micro and Nanotechnology,"
+To introduce you to the experimental techniques and the technology
+used in Micro- and Nanotechnology. 
+","Plan and carry out a sequence of experiments with a tight time
+schedule Work with an open problem within micro and nano technology Work in the lab with safety in focus Participate constructively in a cross disciplinary research
+team Use equipment and methods in a qualified manner and account for
+the operational principles Account for the theoretical background behind the
+experiments Analyse experimental data based on relevant theory Account for and discuss experimental sources of error Write a brief and precise commented lab-journal that makes the
+results useful also to the other team members Present in a brief but precise manner the experimental results
+at a mini conference Give constructive feedback to the written and oral
+presentations of the other groups","
+The course is an experimental project, and the content of the
+project is strongly related to the ongoing research at DTU
+Nanotech. Some of the projects will give you the opportunity to
+work in DanChip's cleanroom. Hence, the actual subjects vary
+from term to term. You will be working with other students and
+researchers from DTU Nanotech. 
+",,"
+Ole Hansen,
+Erik Vilain Thomsen"
+33472 , Laboratory work in Physics and Nanotechnology,Danish , 5 ECTS , 2016/2017 ,January,BSc,Department of Micro and Nanotechnology,"
+The overall goal is to introduce the Physics and Nanotechnology
+students to the laboratory work in the Physics and Nanotechnology
+field of study. This is achieved by conducting a series of
+experimental exercises in physics and basic electronics. Moreover,
+it is the goal to learn a systematic and quantitative approach to
+data analysis, and to learn basic electronics. Further, it is the
+goal to apply the acquired skills to conduct a measurement task
+(the ‘consultancy project’) within a research group at one of the
+participating departments, and to estimate the uncertainties of the
+associated data. 
+","Explain how alternating current is generated and passed on to
+the consumers Calculate phase and amplitude of alternating currents and
+voltages in simple circuits Analyze simple passive and active electronic circuits
+comprising resistors, capacitors, inductors, diodes, transistors,
+and operational amplifiers Explain the principles and advantages of four-point resistance
+measurements and the Wheatstone bridge Estimate the measurement resolution for digital measurement
+instruments Explain the difference between the standard deviation on a
+single measurement of a parameter and the uncertainty on the
+average value of the parameter and be able to use these values Evaluate whether a measured value with uncertainty agrees with
+a theoretical value, when the uncertainty is normal
+distributed Fit a straight line to data using the least squares method and
+qualitatively evaluate whether the data can be described by a
+straight line Disseminate experimental results in poster form","
+The theoretical subject matter is primarily learned by
+computational exercises and a few lectures. The course comprises in
+addition 8 experimental exercises, which all must be completed and
+approved. Moreover, a multiple choice test has to be passed. The
+rest of the course consists of the so-called ""consultancy
+project"", where a group of two, will solve a concrete
+measurement task at one of the research groups in one of the
+participating departments. The consultancy task is documented in a
+data treatment journal and also presented for your fellow students
+and the teachers on a poster at a poster session at the end of the
+course. 
+",None,"
+Rafael J. Taboryski,
+Mikkel Fougt Hansen"
+33480 , High,Danish , 5 ECTS , 2016/2017 ,January,BSc,Department of Micro and Nanotechnology,"
+Cf. the Danish description. 
+",Cf. the Danish description. Cf. the Danish description. Cf. the Danish description. Cf. the Danish description. Cf. the Danish description. Cf. the Danish description. Cf. the Danish description. Cf. the Danish description. Cf. the Danish description.,"
+Cf. the Danish description. 
+",,"
+Rolf Henrik Berg,
+Timothy John Hobley,
+Lotte Bjerregaard Jensen"
+33481 , Polymer Micro Fabrication,English , 5 ECTS , 2016/2017 ,June,BSc,Department of Micro and Nanotechnology,"
+The goal of this course is to provide you with hands-on experience
+in the experimental techniques used for polymer microtechnology,
+and to give you sufficient background to choose the most suitable
+processing methods. You will be introduced to fast prototyping
+techniques such as laser ablation, and to mass fabrication methods
+such as injection molding.
+
+You will analyze a real-world microsystems problem and produce a
+polymer prototype solution of your own design. You will learn to
+plan and carry out experiments in advanced laboratories with focus
+on safe working procedures. 
+","Explain the basic polymer chemistry and physics of polymer
+microfabrication and microsystems Explain the methods and the mode of operation of the equipment
+used Apply selected microprocessing techniques to produce a polymer
+microsystem Analyze a problem relating to polymer microsystems Design a flow chart for fabrication of a polymer
+microsystem Produce a polymer prototype solution to the problem Report on the work process and the results Identify advantages and drawbacks of fabrication methods for
+polymer microsystems","
+This course is built on a set of real-world experimental problems
+calling for a polymer microsystem solution. Each group of students
+will choose one of the provided problems with the aim of producing
+a functional polymer microsystem solution. The solution to each
+problem will require both polymer fabrication and characterization
+techniques, many of them available as part of the Danchip clean
+room facilities. The course will include a short theoretical
+introduction to explain the basic principles behind the polymer
+microfabrication processes. The content of the course is closely
+associated with the research projects at DTU Nanotech, comprising
+practical use of polymer microtechnology. The course will be
+carried out in a close collaboration with PhD students at DTU
+Nanotech. 
+",33236,"
+Rafael J. Taboryski,
+Anders Wolff"
+33482 , The Biocompatibility of Materials,English , 5 ECTS , 2016/2017 ,June and August,BSc,Department of Micro and Nanotechnology,"
+The goal of this course is to provide you with a theoretical and
+practical understanding of the structure and use of different
+biomaterials and their interaction with biological systems. Methods
+for evaluating biomaterials will be introduced and you will get
+practical experience with experimental techniques used for testing
+biocompatibility of materials “in vitro”. You will gain experience
+with characteristics that influence the biocompatibility of
+materials through both theory and experimental work and examine
+methods to change the biocompatibility of materials, with special
+focus on surface functionalization. The course will be case-based,
+where you work in groups with possible solutions to enhance the
+biocompatibility of specific cell-based devices. It is the
+intention that you use experience from both the theoretical and
+practical part of the course in your case study. 
+","Describe the forces governing protein adsorption at a
+material's surface and explain how this influences the
+biocompatibility of a material Account for the most important in vitro analyses required in
+the application and approval of a biomaterial Account for different types of modifications one can perform to
+modulate immune reactions on an implanted material Perform selected types of in vitro toxicity tests and analyze
+the results of these with regard to viability and concentration of
+cells on a given surface Produce biofunctionalized surfaces with well defined patterns
+or homogenous layers of protein and analyze cell behavior on these
+surfaces using microscopy Report on results obtained during practical exercises and
+discuss the statistical significance of the results Apply relevant information from the course to analyze expected
+problems with biocompatibility and come up with solutions for
+specific cell-based devices Write and present a report with a discussion of a specific
+problem, the choice of proposed solution, and the results
+obtained.","
+The first half of the course will introduce the theory of
+biocompatibility through lectures with included group work.
+Associated experimental exercises will give you the opportunity to
+apply a range of commonly used methods to evaluate
+biocompatibility. The theory will include a short review of
+different biomaterials with focus on the interaction of body and
+material at the microscopic length scale, including the causes of
+encapsulation and rejection of implanted materials. Immunological
+reactions associated with implanted materials and strategies to
+avoid or modulate these reactions will also be discussed. The
+experimental exercises will focus on the evaluation of surface
+modified materials (chemical and biochemical modifications) with
+respect to their cytotoxicity (cell toxicity) and the ability of
+cells to adhere to the surfaces. The exercises will show how simple
+modifications of the surface can result in major changes in the
+surface's ability to promote or reduce cell adhesion.
+
+The second half of the course will be experimentally case-based
+where you, in small groups, work with researchers on a research
+challenge in an on-going research project focusing on evaluating
+and/or enhancing the biocompatibility of a specific device. 
+",,"
+Niels Bent Larsen"
+33525 , Experimental project in Physics and Nanotechnology,English , 5 ECTS , 2016/2017 ,Spring and Fall  or  January,MSc,Department of Micro and Nanotechnology,"
+To give you experimental experience with physics and
+nanotechnology. 
+","Formulate goals and methods for an experimental project Find and select relevant literature from scientific journals or
+books Plan and carry out a sequence of experiments over a longer
+period of time Gain practical experience with advanced experimental
+equipment Work in the lab with safety in focus Interpret and evaluate the results obtained based on relevant
+theory Account for and discuss experimental sources of error Write a well-structured and well-documented report about an
+experimental subject","
+An experimental project where you work independently with a topic
+which is closely linked to ongoing research at DTU Nanotech, DTU
+Fotonik, or DTU Physics.
+
+The actual content of the project is defined with the supervisor.
+You can find inspiration in:
+
+* The DTU Nanotech project catalog
+
+http:/​/​projects.nanotech.dtu.dk/​projects.asp?projecttype=master
+showing master projects at DTU Nanotech. These can run in a reduced
+form and be used for this course.
+
+* he DTU Fotonik project catalog
+:
+http:/​/​www.fotonik.dtu.dk/​english/​education-ny/​student-project-proposals
+showing master projects at DTU Fotonik. These can run in a reduced
+form and be used for this course.
+
+* The DTU Physics project database. Follow the link to the project
+database
+http:/​/​www.fysik.dtu.dk/​english/​Education/​Projects
+showing examples of possible master projects at DTU Physics. These
+can run in a reduced form and be used for this course. 
+",None,"
+Erik Vilain Thomsen,
+Niels Gregersen,
+Anders Peter Andersen"
+33526 , Experimental project in Physics and Nanotechnology,English , 5 ECTS , 2016/2017 ,June,MSc,Department of Micro and Nanotechnology,"
+To give you experimental experience with physics and
+nanotechnology. 
+","Formulate goals and methods for an experimental project Find and select relevant literature from scientific journals or
+books Plan and carry out a sequence of experiments over a longer
+period of time Gain practical experience with advanced experimental
+equipment Work in the lab with safety in focus Interpret and evaluate the results obtained based on relevant
+theory Account for and discuss experimental sources of error Write a well-structured and well-documented report about an
+experimental subject","
+An experimental project where you work independently with a topic
+which is closely linked to ongoing research at DTU Nanotech, DTU
+Fotonik, or DTU Physics.
+
+The actual content of the project is defined with the supervisor.
+You can find inspiration in:
+
+* The DTU Nanotech project catalog
+
+http:/​/​projects.nanotech.dtu.dk/​projects.asp?projecttype=master
+showing master projects at DTU Nanotech. These can run in a reduced
+form and be used for this course.
+
+* The DTU Fotonik project catalog
+
+http:/​/​www.fotonik.dtu.dk/​english/​education-ny/​student-project-proposals
+showing master projects at DTU Fotonik. These can run in a reduced
+form and be used for this course.
+
+* The DTU Physics project database. Follow the link to the project
+database
+http:/​/​www.fysik.dtu.dk/​english/​Education/​Projects
+showing examples of possible master projects at DTU Physics. These
+can run in a reduced form and be used for this course. 
+",None,"
+Erik Vilain Thomsen,
+Niels Gregersen,
+Anders Peter Andersen"
+33527 , Experimental project in Physics and Nanotechnology,English , 5 ECTS , 2016/2017 ,July,MSc,Department of Micro and Nanotechnology,"
+To give you experimental experience with physics and
+nanotechnology. 
+","Formulate goals and methods for an experimental project Find and select relevant literature from scientific journals or
+books Plan and carry out a sequence of experiments over a longer
+period of time Gain practical experience with advanced experimental
+equipment Work in the lab with safety in focus Interpret and evaluate the results obtained based on relevant
+theory Account for and discuss experimental sources of error Write a well-structured and well-documented report about an
+experimental subject","
+An experimental project where you work independently with a topic
+which is closely linked to ongoing research at DTU Nanotech, DTU
+Fotonik, or DTU Physics.
+
+The actual content of the project is defined with the supervisor.
+You can find inspiration in:
+
+* The DTU Nanotech project catalog
+
+http:/​/​projects.nanotech.dtu.dk/​projects.asp?projecttype=master
+showing master projects at DTU Nanotech. These can run in a reduced
+form and be used for this course.
+
+* The DTU Fotonik project catalog
+
+http:/​/​www.fotonik.dtu.dk/​english/​education-ny/​student-project-proposals
+showing master projects at DTU Fotonik. These can run in a reduced
+form and be used for this course.
+
+* The DTU Physics project database. Follow the link to the project
+database
+http:/​/​www.fysik.dtu.dk/​english/​Education/​Projects
+showing examples of possible master projects at DTU Physics. These
+can run in a reduced form and be used for this course. 
+",None,"
+Erik Vilain Thomsen,
+Niels Gregersen,
+Anders Peter Andersen"
+33528 , Experimental project in Physics and Nanotechnology,English , 5 ECTS , 2016/2017 ,August,MSc,Department of Micro and Nanotechnology,"
+To give you experimental experience with physics and
+nanotechnology. 
+","Formulate goals and methods for an experimental project Find and select relevant literature from scientific journals or
+books Plan and carry out a sequence of experiments over a longer
+period of time Gain practical experience with advanced experimental
+equipment Work in the lab with safety in focus Interpret and evaluate the results obtained based on relevant
+theory Account for and discuss experimental sources of error Write a well-structured and well-documented report about an
+experimental subject","
+An experimental project where you work independently with a topic
+which is closely linked to ongoing research at DTU Nanotech, DTU
+Fotonik, or DTU Physics.
+
+The actual content of the project is defined with the supervisor.
+You can find inspiration in:
+
+* The DTU Nanotech project catalog
+
+http:/​/​projects.nanotech.dtu.dk/​projects.asp?projecttype=master
+showing master projects at DTU Nanotech. These can run in a reduced
+form and be used for this course.
+
+* The DTU Fotonik project catalog
+
+http:/​/​www.fotonik.dtu.dk/​english/​education-ny/​student-project-proposals
+showing master projects at DTU Fotonik. These can run in a reduced
+form and be used for this course.
+
+* The DTU Physics project database. Follow the link to the project
+database
+http:/​/​www.fysik.dtu.dk/​english/​Education/​Projects
+showing examples of possible master projects at DTU Physics. These
+can run in a reduced form and be used for this course. 
+",None,"
+Erik Vilain Thomsen,
+Niels Gregersen,
+Anders Peter Andersen"
+33621 , Nano 3 ,English , 10 ECTS , 2016/2017 ,F2A (Mon 13-17) and F2B (Thurs 8-12),Ph.D.,Department of Micro and Nanotechnology,"
+The goal of the course is to (1) give you a good understanding of
+the most important and often quite unique properties of graphene,
+(2) an overview of current graphene research as well as the ability
+to view it in critical light, as well as (3) sufficent knowledge to
+be able to write a detailed, technical research application,
+describing and arguing for an idea, in addition accounting for how
+it may be carried out in practice. 
+","Describe key structural/chemical concepts of graphene and use
+them in problem solving Describe key mechanical concepts of graphene and use them in
+problem solving Describe key electronic concepts of graphene and use them in
+problem solving Describe key photonic concepts of graphene and use them in
+problem solving Explain how graphene can be synthesized and fabricated to a
+working device Analyse possible graphene applications in terms of feasibility
+and relevance Discuss differences and similarities of graphene and other
+two-dimensional nanomaterials Perform a critical review of a scientific article or a report
+on graphene Write a detailed technical research proposal related to
+graphene or other 2D nanomaterials Present an article, critically, and formulate discussion
+questions regarding this","
+In the course you will learn about the structural/chemical,
+mechanical, electronic, photonic properties, and fabrication and
+applications, primarily of graphene, but also other two-dimensional
+materials, such as boron nitride, silicene and molybdenum
+disulfide.
+
+With combined theoretical, practical and communicative activities
+the course seeks to enable you to participate in a collaboration on
+graphene research at a high level, irrespective of whether you are
+oriented towards theoretical or practical problems in your MSc/PhD
+thesis. 
+",33321,"
+Antti-Pekka Jauho,
+Peter Bøggild"
+33647 , Computer,English , 5 ECTS , 2016/2017 ,E1B (Thurs 13-17),Ph.D.,Department of Micro and Nanotechnology,"
+At the end of this course participants should be able to identify
+which elementary kinds of random behavior are likely to be
+encountered in a given situation and know how to decide if it is
+the case and to use it in data analysis and modeling of stochastic
+processes. Basic estimation and curve-fitting skills should have
+been acquired, as well as plenty of experience with Monte Carlo
+simulations of elementary stochastic behavior of various kinds. 
+","Explain properties of binomial-, Poisson-, Gauss-,
+eksponential-, Erlang-, Gamma-, and Cauchy-distribution Explain principle and application of maximum likelihood
+estimation Maximum likelihood estimate parameter values for said
+distributions from given data Computer-generate (pseudo-)random numbers with said
+distributions Make a computer program carry out an operation with a given
+probability Simulate random walks and Levy flights Explain the contents of the Central Limit Theorem Simulate simple Brownian motion and explain its mathematical
+nature and relation to stock price behavior, inventory management,
+gamblers ruin. Simulate persistent random motion and explain polymer
+statistics and motility of microorganisms with it Model Brownian motion in simple force fields Do a power spectrum analysis of trapped and persistent Brownian
+motion and relate it to optical tweezers and AFM cantilevers Explain Fick's theorems, the diffusion equation, and the
+convection-diffusion equation","
+This course caters to students in nano-science, physics,
+biophysics, chemistry, and well
+
+beyond. Its substance is core knowledge on which the understanding
+of all
+
+stochastic phenomena is based, including all experimental data
+analysis. Examples used for illustrations are important cases
+chosen from physics, bio-physics, and nano-science. But even the
+examples are universal, as far as their math is concerned, and
+occur with just a change of units in other contexts, such as
+economics, finance, and inventory management.
+
+It is a hands-on course. Math is introduced when students in
+computer simulations observe phenomena that can be described
+mathematically . The
+
+programming language used is MatLab. Assistance with MatLab
+programming is offered, but some routine with this programming
+language and mathematics is required. 
+",,"
+Henrik Flyvbjerg"
+33681 , Topics in Modern Polymer Chemistry and Physics,English , 5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,Department of Micro and Nanotechnology,"
+The course goal is and to give knowledge about subjects in and to
+introduce to critical reading of the research literature within
+modern polymer chemistry and physics and give the participants
+presentation training. This is accomplished by reading papers
+presented by the other participants and by presenting papers. A
+final report on a literature study is prepared and peer reviewed by
+another course participant and finally handed in at the end of the
+course. 
+","Prepare pedagogical slides for a digital presentation of a
+scientific subject Quickly make himself/herself acquainted with scientific papers
+in different areas of modern polymer chemistry and physics Analyze and review the scientific methods used in a research
+publication Evaluate and give constructive criticism of presentations given
+by others Convey academic content in a field where you are not an
+expert Critically read a paper and identify its strengths and
+weaknesses Know how a review of a paper is performed Perform a literature search within a scientific area Describe the background for a scientific area Make a correct reference to the scientific literature Make a proper citation analysis","
+The course covers a range of subjects in the fields of polymer
+chemistry and physics. Areas are defined in collaboration with the
+students and the teacher will ensure broadness in the subjects. The
+course will include training in literature search including
+citation analysis. The specific content of the course changes from
+semester to semester depending on the teachers and guests
+participating in the course and on the interests of the
+participating students. It is expected that the students prepare
+themselves for each of the presentations by reading background
+material. 
+",None,"
+Kristoffer Almdal"
+33691 , Micro,English , 5 ECTS , 2016/2017 ,August,Ph.D.,Department of Micro and Nanotechnology,"
+The aim of this Ph.D. summer school is to give you an overview of
+the state of the art label-free micro and nanosensors such as
+cantilever-like sensors, nano-wire based sensors, electrochemical
+sensors, calorimetric sensors and to give you hands-on experience
+in sensor fabrication, surface functionalization and sensor
+applications. 
+","Fabricate a label-free sensor Perform functionalisation of label-free sensors Apply label-free sensors Asses the applicability of different label-free sensors for a
+given application Evaluate strength and weaknesses of different sensor
+technologies Understand the needs and requirements from external partners
+(academia/industry) when designing and choosing label-free sensor
+technologies Plan and follow key experimental steps in sensor development –
+from fabrication to characterization Present own results in form of poster and scientific
+seminar","
+Label-free micro and nanosensors are emerging as promising
+techniques in for example diagnostics and environmental control.
+They have the potential to be very small, simple and cheap as they
+do not require time-consuming labeling by i.e fluorescent markers
+and bulky read-out units. However, it is sometimes complicated to
+understand the limitations and possibilities of the individual
+technologies both in terms of realization and applications.
+
+We will combine lectures on sensing principles and surface
+chemistry with hands-on laboratory work. You will have the
+posibility to: 1) fabricate sensors in our state of the art
+cleanroom facilities , 2) functionalize sensors with probe
+molecules and 3) apply the sensors for biological or environmental
+sensing. The sensor application experiments will be based on
+commercially available instruments as well as on systems developed
+at DTU Nanotech. Before the course you will be asked to prepare a
+poster about your own research. At the course you will present this
+poster and relate your own research to the topics of the course.
+You will receive introductory material on micro/nanofabrication and
+label-fee sensor principles that we expect you to have read prior
+to the course.
+
+The experimental work will be performed in teams and we will let
+the different sensors ‘compete’ against each other in order to
+discover cons/pros of the individual sensors. By the end of the
+school we will in collaboration have generated an overview of the
+strength and weaknesses of the different sensors. Come and join us
+in this challenging endeavor! 
+",,"
+Anja Boisen,
+Tine Elkjær Jørgensen"
+33692 , PolyNano Summer School,English , 5 ECTS , 2016/2017 ,,Ph.D.,Department of Micro and Nanotechnology,"
+The aim of the PolyNano summer school is to provide you with hands
+on training in industrially relevant techniques to transfer
+“academic” lab-on-chip systems closer to the market. You will get
+insights into how to think if you want to carry your scientific
+idea into a commercially viable solution. Furthermore, the PolyNano
+summer school will present you with tools for handling the
+challenges of communication between different scientific
+disciplines in true cross-disciplinary research. 
+","Describe and understand the needs for industrially relevant
+fabrication of polymer Lab-on-Chip systems from an industrial point
+of Construct a polymer chip using injection molding and/or
+nanoimprint lithography Modify the chip for bioanalytical measurements Make relevant bioanalytical measurements on the chip Evaluate and analyze the bioanalytical results from the
+chip Present the results and write a journal-like paper based on the
+experimental results - -","
+In biotechnology research, the current trend goes toward using
+miniaturized and automated tools for screening and diagnostics,
+which calls for lab-on-chip solutions.
+
+The current problem is that there are no common standards for
+lab-on-chip production, which leads to longer development times and
+higher costs. To harvest the great potential of lab-on-chip
+technology, a supply of reproducible biochips is required as well
+as a clear roadmap for commercial exploitation of lab-on-chip
+devices.
+
+Further development of polymer mass fabrication techniques are
+needed that enable patterning of polymer components on the micro-
+and nanoscale at low-cost and high-volumes. This may also provide a
+competitive edge through lower costs and increasingly
+environmentally friendly products.
+
+The PolyNano summer school will combine academic and industrial
+lectures with interactive workshops as well as hands-on polymer
+lab-on-chip fabrication, interfacing, modification and
+bioanalytical application.
+
+The experimental work will primarily consist of teamwork where you
+will have the opportunity to:
+
+1. Fabricate a polymer lab-on-chip device using injection molding
+and/or nanoimprint lithography (NIL) in our state of the art clean
+room facilities
+
+2. Modify the fabricated lab-on-chip with suitable reagents
+
+3. Apply the lab-on-chip in a relevant bioanalytical setting
+setting
+
+4. Be trained in how to write a journal-like paper based on the
+results of the work you have performed during the school.
+
+During the course you will also have the opportunity to meet and
+connect with different companies. For example you can discuss
+possible ideas for testing or learn more about the industrial side
+of things. 
+",,"
+Jenny Emnéus,
+Arto Heiskanen,
+Tine Elkjær Jørgensen,
+Marco Matteucci"
+33694 , Drug delivery – using nano and micro technologies,English , 5 ECTS , 2016/2017 ,August,Ph.D.,Department of Micro and Nanotechnology,"
+The aim of the summer school is to provide an overview of nano and
+micro technologies in drug delivery with examples of delivery
+technologies for peptides/proteins, for poorly soluble drug, and
+for cancer drugs, and to give hands-on experience in oral drug
+delivery technologies. 
+","Explain the advantages of using drug delivery systems for
+treatment of diseases Evaluate strength and weaknesses of various nano and micro
+technologies for drug delivery Design suggestions for sensors for the area of drug
+delivery Discuss the opportunities of label-free sensors in drug
+delivery and the biomedical area Understand the needs from the industry when designing drug
+delivery systems Plan and follow key experimental steps for the process of
+developing drug delivery technologies Present own results in form of poster and scientific
+seminar Act as an active and critical listener at scientific
+seminars","
+Drug delivery is a diverse area, but often nano and micro
+technologies are necessary for developing a drug delivery system.
+It can be complicated to develop and understand these systems, and
+also to choose the optimal system. In this course we will get
+introductions to various technologies from academic and industrial
+perspectives, and also try various techniques out in the
+laboratories. There will also be a focus on label-free sensors in
+drug delivery – a field with a large potential. This course and the
+sensor-based summer school will run in parallel with some lectures
+and group work together.
+
+We will combine lectures on sensing principles in drug delivery and
+on nano and micro technologies in drug delivery with hands-on
+laboratory work. You will have the possibility to: 1) develop
+technologies for oral drug delivery, 2) test the application of the
+technology in relevant analytical methods.
+
+The experiments will be based on commercially available instruments
+as well as on systems developed at DTU Nanotech.
+
+The experimental work will be performed in teams and the developed
+technologies with be discussed in plenum to be able to discover pro
+and cons on the various technologies and techniques. By the end of
+the summer school we will in collaboration have generated an
+overview of technologies in drug delivery in terms of sensors and
+pharmaceutical technologies. To pass the course, you must take
+active part in the group work and in the scientific discussions. 
+",,"
+Line Hagner Nielsen,
+Anja Boisen,
+Tine Elkjær Jørgensen"
+33901 , Micro,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),MSc,Department of Micro and Nanotechnology,"
+The course covers the possibilities of using micro- and
+nanotechnology in the field of diagnostics and pharmaceutical
+development. The starting point will be technology in actual use in
+devices, for example, for point of care diagnostics, high
+throughput screening, advanced in vitro cell culture models for
+testing drugs and new way to deliver drugs (nano particles will not
+be covered).
+
+The interplay between biological components and micro- and
+nanoscale components of such systems will be examined. Furthermore,
+device fabrication technologies, detection principles and operating
+aspects of micro- and nano-devices will be explored in the course.
+The course will also enable the students to understand how emerging
+micro- and nanotechnologies can solve bottlenecks in e.g. high
+throughput screening, cell culture and diagnostic. The impact of
+micro- and nanotechnology on pharmaceutical industry will be
+discussed. 
+","Describe the main features of point of care (POC) diagnostics,
+including microfluidics and detection methods (optical,
+electrochemical and mechanical) Explain micro- and nanotechnology assisted methods used in drug
+screening, drug testing and drug delivery Analyse advantages and disadvantages of common practice i
+diagnostics and medicine Analyse working principle and realisation of micro- and
+nanotechnological devices applied in diagnostics, high throughput
+analysis systems including drug screening, and medicine Compare the devices and methods to the ones traditionally
+employed in the pharmaceutical industry and evaluate their
+potential to improve common practice Produce and present a poster fitting a professional scientific
+conference Synthesise cross disciplinary information Find and evaluate material that is relevant for a given
+problem Present scientific material in a report","
+Existing point of care (POC) devices will be used as examples in
+the course. We will, for example, examine how glucose levels,
+viruses and blood count are performed in POC devices. With these
+devices as starting points, the principles of micro- and
+nano-technology in these devices will be explained. This includes
+basic microfluidics, detections principles and fabrication methods.
+The examples give insight into POC devices and the integration of
+microfluidic, enzymatic and chemical reporter systems, sensors and
+data reporting/managing systems.
+
+The next complexity level examined will be how micro- and
+nanotechnology methods are implemented in new high throughput drug
+screening systems. These HTS methods are depending on micro- and
+nanoscale components, biochemical components, and other nano
+technological tools, for example, for detection. It is a particular
+focus of the course to provide knowledge how these components play
+together to in the new types of ultra HTS meths. Strategies to
+screen large biological and small molecules libraries are
+discussed.
+
+More advanced cell culture and cell analysis technology replacing,
+for example, animals in toxicology testing will be explored. This
+includes construction and operation of cell culture chips,
+detection systems such as fluorescence (FRET, TIRF, TRF and
+others), and electrochemical detection. Lastly, various methods and
+devices for localised and time controlled release of drugs will be
+discussed. 
+",,"
+Martin Dufva,
+Stephan Sylvest Keller"
+33902 , Drug delivery,English , 5 ECTS , 2016/2017 ,F5B (Wed 13-17),MSc,Department of Micro and Nanotechnology,"
+Development of advanced formulations that can deliver drugs to
+diseased target tissue or for increasing drug uptake and transport
+across biological barriers is becoming increasingly important for
+the pharmaceutical industry. The Drug Delivery course is focused on
+material aspects of how drug delivery formulations can be designed
+for improving drug bioavailability and biodistribution and how
+these materials interact with the biological milieu. Furthermore,
+the different administration routes will be discussed in
+combination with drug delivery challenges. The course participants
+will also gain knowledge on the main toxicological and immunogical
+responses that may be associated with drug delivery systems. 
+","Explain the advantages of using drug delivery systems for
+treatment of diseases Describe the main drug administration routes and the biological
+barriers associated with them. The focus will in particular be on
+oral, nasal, intravenous, intramuscular and dermal
+administration Delineate how drug delivery strategies may impact therapeutic
+index and overall safety and efficacy of drug therapies Make rational design choices of drug carrier materials for
+different drug classes, e.g. small drugs, peptides, RNA and
+DNA Make formulation design choices in relation to the different
+administration routes Explain factors influencing drug stability in formulations Describe suitable drug release strategies for particle based
+drug delivery systems Choose suitable drug encapsulation methods for various drug
+classes Explain how intermolecular interactions between drug and
+carrier influences formulation stability and drug release
+kinetics Design drug delivery systems that target specific receptors in
+diseased tissue Describe the most important toxicological and immunological
+adverse effects that are typically encountered with particle based
+drug delivery systems","
+Introduction to the different concepts of drug delivery. A number
+of drug delivery systems that are used in the clinic today will be
+described. These systems include, liposomes for treating cancer,
+adjuvant systems in vaccines, particle based anti-fungicides. There
+will be particular focus on the basic principles of how to optimize
+drug transport across biological barriers and how to minimize
+undesired immune responses. The biophysical chemistry behind drug
+delivery system design, drug encapsulation and release will be an
+important part of the course. Furthermore, the different types of
+particle based carrier systems and the materials they are
+constituted of will be discussed in detail. Lastly, the use of
+carrier systems in diagnostic applications will be discussed
+briefly. 
+","26426,27430,27311","
+Andrew Urquhart,
+Nazila Kamaly,
+Leticia Hosta-Rigau"

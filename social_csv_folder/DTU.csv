@@ -1,0 +1,1446 @@
+COURSE NUMBER,COURSE NAME,LANGUAGE OF INSTRUCTION,CREDIT LOAD,YEAR,SCHEDULE,COURSE TYPE,DEPARTMENT,GENERAL COURSE OBJECTIVES,LEARNING OBJECTIVES,CONTENT,RECOMMENDED PREREQUISITES,COURSE RESPONSIBLE
+,,,,,,,,,,,,
+47301 , Hydrogen Energy and Fuel Cells,English , 5 ECTS , 2016/2017 ,F1B (Thurs 13-17),MSc,DTU,"
+Fossil fuels are depleting. Carbon dioxide is accumulating in the
+atmosphere. Global warming is accelerating at an increasing rate.
+These ever growing concerns stimulate worldwide research activities
+within technologies of high fuel efficiency, low air emissions, and
+renewable energy for the 21st century. Hydrogen and fuel cells are
+expected to play central roles in this context. The course presents
+a comprehensive and up-to-date understanding of the hydrogen energy
+and fuel cell technologies in order to provide (1) an introductory
+overview to students that are new in the field, (2) a detailed
+explanation and further understanding to those familiar with the
+subject, and (3) a discussion platform for the newest innovations
+and future improvements to those involved or to be involved in the
+development. 
+","Present the idea of applying hydrogen as an energy carrier Describe the mode of operation of a fuel cell as well as the
+function of the individual components Understand and present the differences in function and
+application of different types of fuel cells Explain the shape of a polarization curve and calculate ohmic
+resistance and conversion efficiency on that background Present the most important techniques for production of
+hydrogen Distinguish between different techniques for reforming Present the three most important types of electrolyzer
+cells Assess advantages and limitations of different techniques for
+hydrogen storage Discuss safety issues in connection with hydrogen Discuss the problems with implementation of the hydrogen
+society and keep a critical attitude to popular descriptions of
+hydrogen as an energy carrier","
+Hydrogen as an energy carrier, fundamentals of fuel cells,
+electrochemical principles, thermodynamics, ion conductors,
+catalysts and electrodes, types of fuel cells (proton exchange
+membrane fuel cell, alkaline fuel cell, phosphoric acid fuel cell,
+molten carbonate fuel cell, solid oxide fuel cell), hydrogen
+storage, metal hydrides, fuel processing, hydrogen production
+(reforming and electrolysis), system integration, balance of plant,
+applications. Optional lab tours will be arranged. 
+",47302,"
+Qingfeng Li,
+Jens Oluf Jensen"
+,,,,,,,,,,,,
+47302 , Hydrogen and Fuel Cell Chemistry ,English , 5 ECTS , 2016/2017 ,January,MSc,DTU,"
+To give practical experience in hydrogen energy systems. Selected
+components from the whole hydrogen chain are addressed (hydrogen
+production by methanol reforming and water electrolysis, advanced
+hydrogen storage, conversion in PEM fuel cells). Moreover, a number
+of relevant special laboratory techniques with wider applicability
+are part of the course (e.g. spectroscopy and glove boxes). In this
+way the course is meant to address a broader range of knowledge
+from fundamental materials to hydrogen energy technologies. The
+theoretical grounds for the techniques are established through a
+series of short introductory lectures. 
+","Prepare catalyst, membrane and electrodes for a PEM fuel
+cell Assemble and test a PEM fuel cell Synthesize reforming catalyst and construct a methanol
+reformer Test a PEM electrolyzer for water splitting Apply spectroscopy (IR and XRD) Construct laboratory furnaces and measure/control
+temperature Apply different electrochemical techniques Integrate fuel cell with methanol reformer","
+Preparation and characterization of platinum catalyst, ion
+conducting membrane, electrodes and a PEM fuel cell. Preparation
+and test of reformer catalyst and methanol reformer. Integration
+and operation of fuel cells and reformer. Operation of
+electrolyzer. Spectroscopic investigations (IR and XRD).
+Construction of laboratory furnace, measurement of temperature,
+electrochemical techniques (e.g. cyclic voltammetry and Tafel plot)
+and glove box work. 
+",None,"
+Qingfeng Li,
+Jens Oluf Jensen"
+,,,,,,,,,,,,
+47303 , Applied Inorganic Chemistry,English , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),MSc,DTU,"
+To extend the knowledge of the nature of inorganic chemical
+materials with a view to practical applications. 
+","Illustrate extraction and purification of metals Describe the production of ammonia, ammonium nitrate, urea and
+other components of nitrogen-containing fertilizers Illustrate the production of sulphuric acid and products made
+from sulphuric acid, such as gypsum and superphosphate Outline the development of chemicals on the basis of mineral
+salts including chlorine and sodium hydroxide (chloralkali
+electrolyses), soda and potassium salts for fertilizers Describe the production of construction materials including
+lime, mortar cement, glass, ceramics and silicate products Describe the production and the mode of operation of electrical
+energy sources, primary and secondary batteries, accumulators and
+fuel cells including the catalysts used Describe the production of pure water including ion
+exchanges Illustrate treatment of chemical waste Describe the production and the properties of semiconductors
+for electronic equipment Explain the chemical technology behind solar cells, displays
+and optical fibres","
+Metal extraction and refining. Manufacture of artificial
+fertilizers including ammonia, ammonium nitrate, urea, etc.
+Manufacture of sulphuric acid for superphosphate production.
+Manufacture of potassium salts, etc. Halogen and chloralkali
+industries including production of sodium hydroxide and chlorine.
+Construction materials including quicklime, cement and gypsum.
+Primary and secondary energy sources; manufacture of electrical
+batteries for various uses, accumulators and fuel cells; ceramics
+and silicate products. Inorganic solid state chemistry, including
+the production and properties of catalysts; water; inorganic ion
+exchangers; chemical waste treatment; glass; photochemical
+processes. Semiconductor technology, solar cells, light fibres and
+displays. 
+",None,"
+Niels J. Bjerrum"
+,,,,,,,,,,,,
+47304 , Ceramic Science and Engineering,English , 10 ECTS , 2016/2017 ,"F2 (Mon 13-17, Thurs 8-12)",MSc,DTU,"
+To give the students an overview of traditional and advanced
+ceramic materials, their properties, production methods and
+characterization. 
+","Explain the crystal structure of ceramic materials Find and analyze the phase diagrams of ceramic materials Explain the properties of ceramic materials (e.g. thermal,
+mechanical and piezoelectric properties) Select a ceramic material for an industrial application Explain different methods for processing, forming and sintering
+of ceramics Select and analyze ceramic processing methods and design a
+fabrication process for producing a ceramic engineering
+component Use and analyze scanning electron microscopy (SEM),
+differential thermal analysis (DTA) and differential scanning
+calorimetry (DSC) in R&D of new ceramic materials Use the sol-gel technique to produce the ceramic
+nanopowders","
+Properties of ceramic materials: physical, thermal, mechanical,
+electric, magnetic, chemical. Phase diagrams (binary and ternary),
+crystal structures.
+
+Treatment of ceramic powders and glass production. Shaping of
+ceramics: pressing, casting, plastic forming. Drying and sintering
+of ceramic bodies, glass production.
+
+Characterization of ceramics: X-ray diffraction, differential
+thermal analysis, thermal expansion (dilatometer), particle size
+and particle size distribution, measurement of strength, toughness
+and hardness, surface area (BET), porosimetry, optic microscopy,
+electron microscopy, Raman spectroscopy.
+
+Toughening of ceramics. Design of ceramics. 
+","42110,26027,26000,26026","
+Irina Petrushina,
+Andreas Kaiser"
+,,,,,,,,,,,,
+47305 , Electrochemistry,English , 5 ECTS , 2016/2017 ,F3A (Tues 8-12),MSc,DTU,"
+To give the students knowledge of advanced electrochemistry with
+emphasis on modern electrochemical techniques. 
+","Explain the nature of the electrochemical terms and
+concepts Understand the nature of electrochemical reactions Understand the kinetics of electrochemical reactions Plan and perform electrochemical experiments Design an electrochemical cell Perform cyclic voltammetry measurements and explain the
+mechanism and kinetics of the studied electrochemical reaction from
+the experimental data Use the modern electrochemical techniques (chronoamperometry,
+chronopotentiometry, pulse voltammetry, square-wave voltammetry),
+as well as treat and analyze the experimental data Perform an electrochemical impedance experiment and obtain the
+equivalent electric circuit for the studied electrochemical
+reaction Critically assess achieved experimental data, including sources
+of error and uncertainties","
+The course helps the student to understand the nature of the
+electrochemical reactions and the peculiarities of electrochemical
+kinetics. The course also gives knowledge of modern electrochemical
+instrumental methods: steady state voltammetry, chronoamperometry,
+chronopotentiometry, rotating disk electrode voltammetry, cyclic
+voltammetry, microelectrode voltammetry, impedance spectroscopy,
+pulse and square-wave voltammetry. This knowledge includes
+mathematical description of the mentioned techniques with an
+explanation of how to use them to solve different problems of the
+electrochemical kinetics. The course includes practical exercises
+that illustrate some of the electrochemical techniques, and it
+gives a survey of electrochemical instrumentation. 
+","28220,26271,26233,26220,26222,26225","
+Irina Petrushina"
+,,,,,,,,,,,,
+47309 , Materials for Hydrogen Production and Storage,English , 5 ECTS , 2016/2017 ,January,MSc,DTU,"
+Hydrogen is one of the candidates to replace oil as a future energy
+carrier. Through lectures, group work and experimental techniques
+used in the research on hydrogen production, storage and conversion
+into energy, the students will learn about aspects of the life
+cycle of hydrogen:
+
+1) Materials for electrolysis and photocatalytic production of
+hydrogen from water
+
+2) Reversible ab- and desorption of hydrogen from solid materials
+for storage and distribution
+
+After the course, the students should be able to identify potential
+show stoppers and materials challenges that currently limit the
+commercial use of hydrogen as an energy carrier. They will also
+obtain a hands-on understanding of underlying physical processes
+and materials requirements. 
+","Describe the environmental advantages and disadvantages of
+using hydrogen as an energy carrier Account for the major technological challenges in connection
+with commercial use of hydrogen as an energy carrier Describe the principles of hydrogen production from
+electrolysis Explain the role of the semiconductor band gap in
+photocatalytic hydrogen production Calculate the enthalpy of formation and entropy of a metal
+hydride from the correlation between temperature and plateau
+pressure Characterize a crystal structure using X-ray diffraction Determine the equilibrium pressure as a function of temperature
+for a metal hydride Relate the commercial viability of a low-temperature fuel cell
+to the performance of its catalysts","
+Potential gains, materials and technical challenges in using
+hydrogen as an energy carrier. Current and future energy resources.
+Energy efficiency. Materials for hydrogen storage. Phase diagrams.
+Ab-/desorption kinetics. X-ray diffraction. Semiconductor
+electro-/​photoelectrochemistry.
+
+The course consists of two topics (see general course objectives
+above), each of which consists of two days with lectures and group
+exercises, five days with experimental activities and one day for
+writing of the report. 
+","10033,10333,10303,10030,47301","
+Didier Blanchard,
+Ifan Stephens"
+,,,,,,,,,,,,
+47310 , Battery Materials and Chemistries: from Fundamental Mechanisms to Battery Cells,English , 5 ECTS , 2016/2017 ,E5B (Wed 13-17),MSc,DTU,"
+Through a series of lectures, group work, computational and
+laboratory exercises, the students will learn about the basic
+principles of batteries, and be able to describe the fundamental
+mechanisms and components of batteries. They will also be able to
+model, analyze and interpret electrochemical properties and
+degradation mechanisms for different battery chemistries subject to
+various operating conditions, and to understand critical issues in
+the selection of materials and components for cells. Furthermore,
+the students will know the advantages/disadvantages of batteries
+compared with other energy storage technologies and will be
+acquainted with various designs and their advantages/disadvantages
+as well as application areas. 
+","Describe the fundamentals of a battery cell Explain the similarities and differences between types of
+batteries and battery chemistries Explain the mechanisms and functionalities of the individual
+components of batteries Apply the critical parameters in the selection of
+materials Assess the critical parameters in the selection of operating
+conditions Analyze data describing the electrochemical performance of
+batteries Calculate the energy efficiency Explain possible degradation mechanisms leading to decrease in
+cell performance Describe advantages and disadvantages of different types of
+batteries in comparison with other energy storage technologies Apply computational modelling to describe battery materials and
+mechanisms","
+The principles of various battery types and chemistries. Methods
+for a theoretical description of the fundamental properties of
+battery cells and battery materials. Materials demands and
+limitations of the individual components, i.e. electrolyte, anode
+and cathode materials. Challenges for the assembled cells related
+to materials and interfaces will be discussed in a chemical and
+structural context. Characterization and evaluation of cell
+properties by, e.g., electrochemical impedance spectroscopy and
+cyclic voltammetry. Structural and microstructural description of
+battery materials. Description/studies of degradation mechanisms
+for state-of-the-art Li-ion and Li-air batteries. Discussions of
+future (beyond lithium-ion) batteries. 
+","47305,10302,26000","
+Poul Norby,
+Tejs Vegge,
+Johan Hjelm"
+,,,,,,,,,,,,
+47311 , Analytical Imaging of Energy Materials by Electron Micrsocopy,English , 5 ECTS , 2016/2017 ,E5A (Wed 8-12),MSc,DTU,"
+In renewable energy materials research and development, functional
+materials have played and will continue to play an essential role
+in the creation of tomorrow's energy devices. By their crystal
+structure and elemental composition, functional materials e.g.
+allow to convert sunlight to electricity, or to store electrical
+energy as chemical energy in the form of hydrogen or other types of
+fuels. The complicated physical and chemical processes are often
+dependent on the local nano- and microstructure of the functional
+components within energy devices. It is therefore essential to be
+able to analyze these materials with advanced imaging techniques
+that both give high resolution quantitative and qualitative data,
+e.g. scanning electron microscopy (SEM), transmission electron
+microscopy (TEM), energy dispersive X-ray spectroscopy (EDS) and
+focused ion beam microscopy (FIB). The aim of the course is that
+students will be able to understand and judge the usefulness of a
+wide variety of SEM and TEM analysis techniques that are used by
+industry and in research, and to be able to suggest suitable
+imaging techniques to solve specific problems related to the
+properties of functional energy materials. 
+","Interpret electron interactions with materials relevant to
+scanning electron microscopy (SEM) and transmission electron
+microscopy (TEM) operating conditions for example by using
+simulation software Prepare specimens for electron microscopy analysis and justify
+optimum sample preparation and microscopy techniques Describe interactions that electrons experience in relation to
+SEM and TEM components incl. detectors Qualitatively compare, contrast and justify the information
+available from the range of available electron detectors and their
+limitations Perform quantitative elemental analysis of EDS data using
+analysis software Determine crystallographic parameters from electron
+diffraction Apply quantitative measurement methods and extract
+statistically valid microstructural parameters from electron
+microscopy images Predict and implement optimum microscope operating conditions /
+microscopy technique based on microscope and detector theory by
+operating at least one type of SEM or TEM Account for error sources associated with the choice of sample
+preparation and SEM/TEM analysis techniques Plan and execute an energy material electron microscopy study
+integrating the results of various techniques to conclude, report
+and communicate results Compare and contrast advantages/disadvantages of 2D versus 3D
+and ex-situ versus in-situ electron microscopy investigations Perform a literature search to select a relevant scientific
+article on the use of electron microscopy in the analysis of an
+energy material and analyse, criticize and present the main
+findings","
+The course is based on a combination of theoretical lectures,
+numerical and image-based exercises and case studies performed in
+small project groups. The lectures provide the physical mechanisms
+describing the interactions between electrons and solid state
+energy materials and the foundations of microscopy-based analysis
+techniques. The exercises will provide understanding of the
+practised analysis techniques, and the case studies are based on
+actual problems encountered in renewable energy materials. The
+course provides students with the skills to analyze, explain and
+conclude, with respect to state-of-the-art analysis techniques, and
+with methodologies to solve specific problems within energy
+materials. Reports based on the case studies will provide students
+with feedback in the form of continuous assessment throughout the
+course. 
+",,"
+Jacob R. Bowen,
+Søren Bredmose Simonsen"
+,,,,,,,,,,,,
+47312 , Experimental Electrochemistry,English , 5 ECTS , 2016/2017 ,E3A (Tues 8-12),MSc,DTU,"
+Theoretical and practical understanding of relevant basic and
+advanced instrumental electrochemical methods;
+
+Ability to describe and interpret different sets of electrochemical
+data;
+
+Ability to describe and interpret experimental limitations;
+
+Knowledge of how the different electrochemical methods can be used
+to solve a specific problem or advance an investigation in various
+fields of application. 
+","Describe the purpose and relevance of the different
+experimental electrochemical methods Describe the experimental details and equipment(s)/setup(s)
+used Describe “good practices” and experimental limitations Explain the fundamentals of the methods and their respective
+data analysis Analyze the obtained experimental data Assess the quality of the experimental results Critically compare and select a particular method to a given
+problem or need Plan an electrochemical experiment based on the selected
+method Write a journal-article-type-report about the work
+performed Evaluate scientific reporting in the form of critical
+reviews Evaluate the laboratory safety and take necessary precautions
+in the planning of experiments","
+• Introduction to experimental electrochemistry
+
+• Fundamentals of electrochemistry
+
+• Direct current methods, e.g. steady-state and cyclic voltammetry,
+chronoamperometry, chronopotentiometry, rotating disc electrode
+
+• Pulse methods, e.g. pulse voltammetry, differential pulse
+voltammetry, square-wave voltammetry
+
+• Alternating current methods, e.g. electrochemical impedance
+spectroscopy, AC voltammetry 
+",47305,"
+Lars Nilausen Cleemann"
+,,,,,,,,,,,,
+47313 , Solid,English , 5 ECTS , 2016/2017 ,June,MSc,DTU,"
+To describe and understand the use of solid state electrochemical
+devices for a cleaner environment, achieved through lectures and
+practical exercises. To give an understanding of how the chemical
+properties of defect solids can be used to design solid-state
+electrochemical devices, for example sensors, batteries and fuel
+cells. 
+","Explain and apply the defect chemistry of solids to design
+solid electrochemical devices Explain the principles behind and the construction of a solid
+oxide fuel cell Explain the use of a solid oxide cell to electrolysis of water
+and carbon dioxide Use cyclic voltammetry to analyze and evaluate solid
+electrochemical systems Use electrochemical impedance spectroscopy for the analysis and
+evaluation of solid electrochemical systems Explain the principles behind and the use of a solid
+electrochemical cell for cleaning flue gases Apply the principles of electron microscopy for the analysis
+and evaluation of solid electrochemical systems Apply the principles behind the X-ray diffraction for analysis
+and evaluation of ceramic powders Explain the use of a solid oxide fuel cell for direct
+conversion of carbon-based materials for the production of
+electricity Explain the principles of lithium-based batteries","
+Defect chemistry. Solid oxide cells. Direct carbon fuel cell.
+Microscopy. Electrochemical impedance spectroscopy. Cyclic
+voltammetry. X-ray diffraction. Batteries. 
+",26222,"
+Kent Kammer Hansen"
+,,,,,,,,,,,,
+47314 , Thermal Analysis ,English , 5 ECTS , 2016/2017 ,June,MSc,DTU,"
+The course will introduce techniques of thermal analysis, and the
+participants will be able to apply thermal analysis to measure
+materials properties and progress of chemical reactions. The course
+covers principles of instrument calibration as well as general
+aspects for selection of crucible materials, atmosphere composition
+and sample stages.
+
+The course content will be very useful for further work within the
+field of materials science where characterization of materials and
+processes are relevant; all the way from synthesis through
+corrosion and degradation. 
+","Explain which properties can be measured by each thermal
+analysis (TA) technique Choose the proper TA-technique to evaluate and assess selected
+materials properties at temperatures between -150°C and 1600°C Choose and use the proper TA-technique to evaluate and assess
+chemical reactions and their kinetic properties at temperatures
+between -150°C and 1600°C Design and undertake experiments and validate results for a
+minimum of two TA-methods. Preferably use own materials from
+research, where results in principle are not known beforehand Explain and use calibration routines and be able to select
+sample stages, sample containers, etc. Use group-based work effectively, e.g. to distribute the
+workload and better manage the work Present and discuss acquired results of the course
+exercises Extract information from MSDS and other literature sources to
+assess the reactivity and stability of materials","
+General introduction to TA-techniques and concepts.
+
+Practical experiments with the chosen analysis to measure materials
+properties.
+
+Practical experiments on reactivity and reaction kinetics.
+
+The problem/subject for the final work may be chosen freely and
+should be reported, including choice of crucible, sample stage,
+method and analysis results as well as calibration if needed.
+
+Report results from both assignments and the final project work.
+
+Necessary safety routines are included. 
+","41657,26231","
+Karsten Agersted"
+,,,,,,,,,,,,
+47316 , Advanced Computational Tools for Energy Materials,English , 5 ECTS , 2016/2017 ,E5A (Wed 8-12),MSc,DTU,"
+To give the student insight into the computational tools currently
+used to study basic processes in materials related to energy
+conversion (batteries, nanocatalysts, fuel cells, photovoltaics,
+etc.), with the goal of designing new and more efficient processes
+in these materials. 
+","Describe the basics of DFT and the quantities that can be
+obtained through a DFT calculation Describe the different possible mechanisms of charge transport
+in solids Apply the transition state theory and the nudged elastic band
+method to study rates of chemical processes Describe scaling relationships and volcano plots in
+heterogeneous catalysis Perform simple Metropolis and kinetic Montecarlo
+simulations Describe the physics behind dye synthesized solar cells Apply genetic algorithms to search for new materials with
+improved properties Analyze problems in materials for energy applications, and
+select and apply the appropriate models Interpret computer scripts for electronic structure
+calculations Perform simulations on systems related to energy conversion
+processes using different codes Write a report in English on the basis of the results obtained
+in the project and explain its details orally","
+Basics of density functional theory (DFT). Transition state theory
+to study adsorption and surface diffusion. Scaling relations in
+catalysis and volcano plots. Computational electrochemistry.
+Genetic algorithms for computational screening of materials. Band
+alignments in solar cells. Electron transport in batteries:
+polarons and electron tunneling. Kinetic Monte Carlo to study ionic
+transport. 
+","10034,26222,10303,26201","
+Juan Maria García Lastra,
+Heine Anton Hansen"
+,,,,,,,,,,,,
+47317 , Exergy Analysis,English , 5 ECTS , 2016/2017 ,F2A (Mon 13-17),MSc,DTU,"
+Efficient handling of energy becomes increasingly important whether
+we choose to base the future energy system on renewable energy, or
+we continue to consume the fossil reserves. The 1st law of
+thermodynamics states that energy is conserved and can neither be
+created, nor consumed, so why do we have problems with energy? It
+is typically the usable part of the energy that is decisive and of
+interest in energy analyses, so why not put it into system by the
+term exergy. The student will understand the concept of exergy and
+will be able to apply it to different subprocesses which can be
+combined into more complex systems. The course will also provide a
+better understanding of reversibility and sustainability in our
+energy systems as well as in a broader sense. 
+","Explain the concept of entropy as a practical abstraction Account for the difference between reversible and irreversible
+processes Explain the term exergy as a measure of the quality of the
+energy and its ability to perform work Account for the difference between energy efficiency and exergy
+efficiency Calculate exergy consumption in common physical processes Calculate exergy consumption in chemical processes Carry out an exergy analysis on a system with some
+complexity Identify the most irreversible steps in a process Assess exergy consumption in energy conversion processes Assess sustainability based on exergy views","
+The 1st and the 2nd laws of thermodynamics. A more thorough
+introduction to the concept of entropy than what is normally seen
+at introductory courses on thermodynamics. Assessment of popular
+descriptions of entropy as disorder, scattering, information and
+the arrow of time. Exergy as a measure of energy quality. Exergy
+consumption in physical processes. Exergy consumption in chemical
+processes. Exergy analysis of selected systems such as cooling
+machines, engines, fuel cells, chemical industry, electricity
+production. Some model systems will be chosen in dialogue with the
+students during the course. 
+",None,"
+Jens Oluf Jensen"
+,,,,,,,,,,,,
+47318 , Advanced Chemistry for Non,English , 5 ECTS , 2016/2017 ,E4A (Tues 13-17),MSc,DTU,"
+Engineers need to understand technologies and materials.
+Engineering requires applied science. Chemistry is a central link
+between engineering and science and between technologies and
+materials. This course is designed to present specialized topics of
+modern chemistry for engineering students with non-chemistry
+backgrounds. The topics cover major chemistry branches that will be
+introduced and illustrated with selected processes and materials of
+engineering importance. The objectives are to provide fundamental
+tools of chemistry in order to help the students to understand
+their own fields better. 
+","Collect the appropriate data of material properties and
+understand basic thermodynamics in terms of energy conversion and
+material stability Explain acid-base and colloidal systems, adsorption and
+surfactants as well as characterization techniques within the
+fields Depict catalysis and catalysts for petroleum cracking and
+synthesis gas Understand chemical and electrochemical energy conversion in
+internal combustion, batteries and fuel cells Describe structure and properties of inorganic materials,
+particularly metals and alloys Correlate structures and properties of carbons (graphite,
+diamonds, carbon fibres, fullerene and nanostructures) Describe structures, functionalities and applications of
+ceramics Outline organic chemistry and macromolecular chemistry Describe properties and applications of polymers and
+rubbers","
+The course covers the following 6 topics:
+
+1) Introduction (chemistry and matters) and physical chemistry
+(gas, liquid and solid; 1st and 2nd laws of thermodynamics)
+
+2) Surface and analytic chemistry (acid-base and colloidal systems,
+adsorption, surfactants, instrumental techniques)
+
+3) Petro- and electrochemistry (catalysis and catalysts, petro
+cracking and synthesis gas; chemical and electrochemical energy
+conversion)
+
+4) Inorganic chemistry (bonding, structures, periodicity; metals
+and alloys)
+
+5) Materials chemistry (structure, properties and applications of
+carbons and ceramics)
+
+6) Organic and polymer chemistry (intro, macromolecules; polymers;
+rubbers) 
+",None,"
+Qingfeng Li,
+David Aili"
+,,,,,,,,,,,,
+47319 , Functional Materials,English , 5 ECTS , 2016/2017 ,F1A (Mon 8-12),MSc,DTU,"
+This course aims at providing graduate students with an
+understanding of the description and application of functional
+materials in selected existing and emerging energy conversion
+devices such as solid oxide fuel cells, advanced Li-batteries and
+thermoelectric generators. It is the ambition to broaden the
+students' knowledge of materials and applied solid state
+chemistry and physics and to train them in utilizing their
+knowledge to describe the function of full devices and how to
+improve them. 
+","Describe the crystal structure of inorganic materials and the
+concept of point defects Describe the most important types of defects in functional
+oxides and their importance for charge transport and chemical
+processes Explain the difference between insulators, semiconductors,
+metals and ionic conductors Summarize the significance of nonstoichiometry in battery and
+fuel cell materials Explain electrical, chemical and electrochemical transport and
+how to measure diffusion coefficients Describe the CALPHAD method and its relevance to solid state
+chemistry Explain thermoelectricity and piezoelectricity Relate performance measures of a thermoelectric device to the
+underlying material properties Assess the importance of various material properties to the
+design of a good piezoelectric device Formulate criteria for choosing functional materials for
+particular fuel cell and battery applications","
+The course focus is on the description of material properties of
+crystalline inorganic solids. The description of crystal
+structures, the concept of point defects as well as defect
+chemistry will be thoroughly presented to be able to utilize these
+concepts in describing the function of devices. Methods of
+classifying materials from their electronic structures are
+presented as are selected elements of thermodynamics important to
+describe coupling phenomena such as thermoelectricity and
+piezoelectricity. Examples of materials and preferred material
+models will be based on our research and development in the areas
+of fuel cells, advanced Li-ion batteries and thermoelectric
+generators. The form of the course will be lectures combined with
+problem solving. During the course, the students will work on their
+own small projects, aiming to design an “on paper” complete
+functional device belonging to one of the classes presented in the
+course (thermoelectric generators, Li-ion batteries, solid oxide
+fuel cells and piezoelectric energy harvesters). The students will
+work individually or in groups on this. Supervision will be
+provided. The purpose of these projects is to work actively with
+the tools and descriptions presented in the lectures. 
+",None,"
+Peter Vang Hendriksen,
+Nini Pryds"
+,,,,,,,,,,,,
+47320 , Organic Solar Cells – Theory and Practice,English , 2.5 ECTS , 2016/2017 ,Fall and Spring  or  January,MSc,DTU,"
+The goal of the course is to give students insight into the largest
+sustainable source of energy and how we can make use of it using
+organic solar cells. The course focuses on the manufacture and
+testing of organic solar cells in small and large scale. 
+","Argue for advantages and disadvantages using solar energy, and
+compare the differences between the three generations of solar
+cells Compare embedded energy, energy payback factor and energy
+payback Illustrate the different layers and their functions in a
+polymer solar cell and calculate the efficiency and fill
+factor Illustrate the different steps in the exciton theory Propose at least two criteria that a polymer material must meet
+to be used in a polymer solar cell, and describe the connection
+between the solar spectrum, the absorption spectrum, and the colour
+of the polymer Name the three synthesis methods used to prepare polymers for
+applications in polymer solar cells and argue for the
+advantages/disadvantages of each synthetic method Evaluate different types of stability and name the different
+degradation mechanisms Argue for advantages and disadvantages between different types
+of encapsulation Distinguish between the different ISOS standards (International
+Summit on Organic photovoltaic Summit) Compare different lab scale techniques for production and test
+of polymer solar cells Critically evaluate speed limits for different processing
+techniques such as coating and printing","
+The course deals with organic solar cells as well as details of
+materials degradation and small and large scale production of
+organic solar cells. Videos and assignments provide students with
+in-depth knowledge of organic solar cells. 
+",,"
+Eva Bundgaard,
+Frederik C Krebs,
+Morten Vesterager Madsen"
+,,,,,,,,,,,,
+47321 , Research Immersion – Department of Energy Conversion and Storage,English , 5 ECTS , 2016/2017 ,July,BSc,DTU,"
+As a student you will take an active part in an ongoing research
+project in which the supervising PhD
+student/​postdoc/​scientist/​senior scientist/associate professor
+is involved. The student will gain forefront research-based
+knowledge of an area within energy conversion and storage
+technologies, while gaining insight into the way the scientific
+methods are put into practice in order to solve energy-related
+challenges highly relevant to society. You will also gain and train
+more generic engineering skills, such as the ability to participate
+in a constructive mentor-mentee relationship, perform thorough
+analyses of obtained experimental data, compare obtained results
+with results reported in literature and train the ability to
+communicate this in a well-structured way – both orally and in
+writing. 
+","Critically read literature and extract information of relevance
+to the given scientific project/task Give a description of the purpose of the experimental
+(modelling/simulation) work Give a description of the experimental set-up (or applied
+models/simulations tools) used Evaluate advantages/disadvantages related to the applied
+experimental set-up (model/simulations) Perform the experimental (modelling/simulation) work and
+explain the various methods of analysis applied during the
+experimental (modelling/simulation) work Analyze the obtained experimental (modelling/simulation)
+results Assess the quality of the obtained results Write a report of the conducted work and the obtained
+results","
+You will work with a PhD student/​postdoc/​scientist/​senior
+scientist/associate professor on experimental work in an ongoing
+research project in which the supervising PhD
+student/​postdoc/​scientist/​senior scientist/associate professor
+is involved.
+
+The specific topic for the course will depend on the ongoing
+projects in the department and will be related to one of key
+technologies that we are working with in DTU Energy. The
+technologies are (read more here:
+http:/​/​www.energy.dtu.dk/​english/​Research):
+
+• Fuel cells
+
+• Electrolysis
+
+• Solar cells
+
+• Batteries
+
+• Membranes for gas separation
+
+• Magnetic refrigeration
+
+• Thermoelectrical components
+
+• Flue gas purification
+
+• Superconducting components
+
+Shortly after the deadline for sign-up via CampusNet, you will be
+asked to send an overview of the courses you have taken during your
+study at DTU (or another university). We wil hereafter match
+students with an appropriate supervisor and research project. 
+",None,"
+Anne Hauch,
+Ming Chen,
+Jean-Claude Grivel"
+,,,,,,,,,,,,
+47322 , Research Immersion – Department of Energy Conversion and Storage,English , 5 ECTS , 2016/2017 ,July,MSc,DTU,"
+As a student taking our Research Immersion course, you will take an
+active part in an ongoing research project in which your supervisor
+in DTU Energy is involved. The student will gain forefront
+research-based knowledge of an area within energy conversion and
+storage technologies, while gaining insight into the way scientific
+methods are put into practice in order to solve energy-related
+challenges highly relevant to society. Moreover, the student will
+be trained in/expected to read and comprehend scientific journal
+articles. The student will also gain more generic engineering
+skills and researcher competences, such as the ability to
+participate in a constructive mentor-mentee relationship, perform
+thorough analyses of obtained experimental data, compare obtained
+results with results reported in literature and train the ability
+to communicate this in a concise and well-structured way – both
+orally and in writing. 
+","Critically read scientific literature/articles and extract
+information of relevance to the given scientific project/task Give a description of the purpose of the experimental
+(modelling/simulation) work Give a description of the experimental set-up (or applied
+models) used and critically evaluate advantages/disadvantages and
+limitations related to the applied experimental set-up
+(modelling/simulations) Plan and perform the experimental (modelling/simulation) work
+and explain the various methods of analysis applied during the
+experimental (modelling/simulation) work Analyze the obtained experimental (modelling/simulation)
+results Assess the quality of the obtained results including errors and
+uncertainties Compare and critically relate the results obtained with similar
+results reported in literature Write a report (structured like a scientific article) of the
+experimental work and the obtained results","
+You will work with a postdoc/scientist/senior scientist/associate
+professor on experimental work in an ongoing research project in
+which the supervising postdoc/scientist/senior scientist/associate
+professor is involved.
+
+The specific topic for the course will depend on the ongoing
+projects in the department and will be related to one of key
+technologies that we are working with in DTU Energy. The
+technologies are (read more here:
+http:/​/​www.energy.dtu.dk/​english/​Research):
+
+• Fuel cells
+
+• Electrolysis
+
+• Solar cells
+
+• Batteries
+
+• Membranes for gas separation
+
+• Magnetic refrigeration
+
+• Thermoelectrical components
+
+• Flue gas purification
+
+• Superconducting components
+
+Shortly after the deadline for sign-up via CampusNet, you will be
+asked to send an overview of the courses you have taken during your
+study at DTU (or another university). We will hereafter match
+students with an appropriate supervisor and research project. 
+",,"
+Anne Hauch,
+Ming Chen,
+Jean-Claude Grivel"
+,,,,,,,,,,,,
+47323 , Advanced Plasma Processes for Tailoring Materials and Nanostructures,English , 5 ECTS , 2016/2017 ,June,MSc,DTU,"
+The course objective is to provide the students with general
+knowledge about plasma physics with main emphasis on plasma
+sources, plasma diagnostics and applications for materials (thin
+film deposition, ion implantation, functionalization and etching)
+and nanostructures (growth and shaping of nanostructures,
+nanoparticle synthesis). 
+","Operate four types of plasma sources (RF, microwave, DC and
+atmospheric pressure) Describe the main plasma parameters that can be used in
+applications Present the main plasma processes used for growth of
+nanoparticles and nanostructures Compare electrical and optical methods used for plasma
+diagnostics Use magnetron sputtering for deposition of nanostructured thin
+films Perform nanopatterning using a microwave plasma source Tailor surface properties by plasma immersion ion
+implantation Functionalize a surface by atmospheric pressure plasma Analyze the reactive species during plasma etching by mass
+spectrometry Measure plasma parameters during magnetron sputtering","
+The course will offer a general understanding of plasma
+applications for materials and nanostructures including: definition
+of plasma, ionization degree, Debye length, plasma frequency,
+velocity distribution function and space charge formation.
+Elementary processes in plasma and transport phenomena. DC,
+microwave and radiofrequency driven plasma sources, atmospheric
+plasma sources. Plasma diagnostics by electrical probes and
+absorption and emission spectroscopy. Thin film deposition by
+reactive magnetron sputtering. Growth mechanism of thin films and
+nanostructures. Principles of nanopatterning by reactive ion
+etching. Surface modification by plasma immersion ion implantation.
+Role of radicals in plasma-assisted nanoprocesses such as oxide and
+nitride thin films, reactive etching, molecular beam epitaxy,
+synthesis and coating of nanoparticles. 
+","10400,10467,10031,33250","
+Eugen Stamate"
+,,,,,,,,,,,,
+47324 , Hands,English , 5 ECTS , 2016/2017 ,January,MSc,DTU,"
+The course gives an overview in bird-eye perceptive of how raw
+materials are synthesized and processed into functional energy
+conversion devices. 
+","Choose from different synthesis methods and follow directions
+to synthesize inorganic compounds by different synthesis
+methods Compare different synthesis methods and discuss and explain
+their advantages and disadvantages Apply different characterization methods and interpret the
+results to classify product purity and structure Reproduce and modify an experimental procedure from the
+chemical literature Determine and evaluate experimental data (lab journal on a
+research level) and validate and explain the quality of the
+produced electrochemical device Process powders into mixtures that can be used for shaping Perform a basic characterization of rheology parameters Perform a basic characterization of energy conversion
+devices Present synthetic/practical work orally in original
+report/presentation Acquire information about and understand the safety hazards and
+potential risks for a given synthesis","
+The main objective of the course is to synthesize different
+materials and process them into fully functional energy conversion
+devices such as electrolyzer cells, oxygen membranes or batteries;
+will be tested at the end of the course. The materials do not only
+include state-of-the-art materials, but also new materials
+suggested and developed by the students. These materials will be
+evaluated against existing materials. Training includes practical
+and theoretical fundamentals of inorganic synthesis, ceramic
+processing, material characterization and evaluation of the final
+energy conversion device. 
+",,"
+Andreas Kaiser,
+Wolff-Ragnar Kiebach,
+Bhaskar Reddy Sudireddy"
+,,,,,,,,,,,,
+47325 , Large,English , 5 ECTS , 2016/2017 ,F1A (Mon 8-12),MSc,DTU,"
+To provide the student with a qualitative understanding of
+large-scale and applied energy-related superconductor technology:
+superconductor concepts and theory, fabrication and
+characterization, technical utilization and cost of energy in
+relation to energy technologies. 
+","Argue for the most relevant superconductor hallmarks Describe the Ginzburg-Landau theory of superconductors and
+derive key parameters Explain the concepts of magnetic flux pinning and loss
+mechanisms in superconductors and relate them to energy
+technologies Describe superconductor fabrication techniques Select a specific relevant characterization method for
+superconductors Evaluate and select thermo-mechanical and electromagnetic
+models to superconductor systems and relate to the physical system
+constraints Argue for what type of superconductor is best suited for
+specific large-scale and energy technologies Apply a comparative key parameter methodology for
+superconductor large-scale and energy technologies Describe a general energy system evaluation including a cost of
+energy analysis to various energy technologies","
+An introduction to key concepts of superconductivity is given with
+a focus on critical parameters, magnetic penetration and
+quantization, type I and II superconductors (London and
+Ginzburg-Landau theory), magnetic flux pinning and loss mechanisms.
+Fabrication and characterization techniques are introduced in
+relation to relevant critical properties and technical system
+operation for various technologies ranging from fusion power to
+smart-grid transport cables. Thermo-mechanical and electromagnetic
+material and system constraints are specifically described from a
+superconducting wind turbine perspective.
+
+The course also includes an introduction to a system energy
+evaluation methodology and subsequent critical assessment of the
+“cost of energy” between various types of present energy
+Technologies. 
+",10303,"
+Anders Christian Wulff,
+Asger Bech Abrahamsen"
+,,,,,,,,,,,,
+47326 , Applied Superconductor Projects and Experiments,English , 5 ECTS , 2016/2017 ,June,MSc,DTU,"
+To provide the student with an experimental project-based insight
+into applied superconductor technologies, project management and
+scientific communication. 
+","Explain the superconductor properties and key parameters Formulate a project plan with specific objectives, goals and
+methodologies Find and critically assess relevant scientific literature and
+communications Plan and methodic conduct an experimential project in a
+team Analyze and critically evaluate project results in relation to
+relevant theory and scientific litterature Argue for uncertainties and sources of errors in relation to
+results Evaluate and document the obtained project results in a
+well-structured scientific article/report Present and explain project results using a conference-like
+presentation structure","
+An introduction to key concepts of superconductivity is given with
+focus on critical parameters. Project part; project planning,
+literature study, conduct an experimential project, write a
+scientific article/report and project presentation technique. The
+experimential project content is chosen with a focus on either
+simulation or hands-on. The project report is constructed as a
+scientific article and the content is presented at the examination.
+
+",47325,"
+Anders Christian Wulff,
+Asger Bech Abrahamsen"
+,,,,,,,,,,,,
+47327 , Design Different Functional Nanomaterials by Spark Plasma Sintering for Energy Applications,English , 5 ECTS , 2016/2017 ,June,MSc,DTU,"
+To design functionally graded materials,
+nanomaterials/​nanocomposites, and thermoelectric materials for
+energy conversion and storage, it requires advanced sintering
+methods. Spark Plasma Sintering (SPS) is a new technique where it
+only only a few minutes to complete a sintering process compared
+with conventional sintering which may take hours or even days for
+the same. Using SPS, near theoretical density can be obtained at
+lower sintering temperature and in a shorter period of time than
+other sintering processes. Importantly, with SPS nanostructures can
+be maintained in a bulk form which has excellent mechanical
+properties such as high strength, high hardness etc. Therefore, SPS
+emerges as a key technology for a new generation of materials. This
+course aims at providing students with insight into knowing how the
+SPS sintering happens from the basic principles and mechanism to
+the practical working experience. 
+","List the sintering methods and their applications Define the problems of conventional sintering methods and the
+advantages of SPS Describe the basic configuration and process of spark plasma
+sintering Make a sintering profile for typical materials Analyse the data obtained after sintering and calculate the
+density of the SPS sintered sample Design a new sintering profile for new material Interpret the observed sintering parameters during the SPS
+process Evaluate the effect of sintering conditions on the quality of
+the final sintered product","
+The course will start with lectures to introduce the principles and
+mechanism of the SPS process as well as the basic configuration of
+the SPS. The lectures also include a short review of recent
+successful applications of SPS in functionally graded materials,
+nanomaterials/​nanocomposites, and thermoelectric materials. The
+course will then provide practical knowledge of the SPS 515S system
+at DTU Energy and its sintering conditions. The experimental work
+will be conducted through the following small projects under the
+supervision of main teacher and assistant.
+
+Project 1: Designing bulk nanostructured materials from
+nano-powders of metals, e.g. Cu, Ni for energy devices.
+
+Project 2: Designing dense bulk ceramic materials for energy
+application such as thermoelectric power generation. 
+",None,"
+Nini Pryds,
+Ngo Van Nong,
+Thanh Hung Le"
+,,,,,,,,,,,,
+47328 , In Situ Optical Spectroscopy for Functional Materials,English , 5 ECTS , 2016/2017 ,January,MSc,DTU,"
+In the context of this course, functional materials are defined as
+solid materials that lower the activation energies of chemical
+reactions (heterogenous catalysts) or as materials in
+electrochemical systems that convert electrical energy to chemical
+energy and vice versa. The functional materials typically operate
+under conditions that include elevated temperatures, specific gas
+compositions and possibly also electrical polarization. These
+operating conditions affect the reactions that take place on the
+material and also the state of the functional material itself. This
+course deals with understanding why it is important to study the
+functional materials at work (in situ) and how these studies can be
+conducted with optical methods despite the challenging conditions.
+While this course will focus primarily on vibrational spectroscopic
+methods (Raman, FTIR), the principles will be general and other
+non-invasive and complementary optical methods will also be
+discussed. At the end of the course, students should be able to
+design and conduct advanced in situ/in operando experiments in the
+laboratory on electrochemical systems and/or heterogeneous
+catalysts. 
+","List the main components in research-grade spectrometers and
+describe how different spectrometers work Describe the restrictions on sample preparation/mounting
+imposed by the in situ configuration Present and evaluate data collected during an in operando/in
+situ experiment, and relate the collected data to existing research
+articles Determine the dominant noise sources (black body, instrumental,
+optics, vibrations) affecting the experiment and explain how to
+minimize these sources Describe on the basis of selected examples how optical
+spectroscopy can be used to analyze critical features in functional
+materials Compare strengths and weaknesses between different in operando
+optical techniques. Design an in operando/in situ experiment that can address a
+specific hypothesis about a given heterogeneous
+catalyst/electrochemical system Choose the most suitable complementary analytical techniques
+(e.g. gas analysis, infrared imaging) to support the optical
+spectroscopy in the analysis of a given system Identify the principal safety risks when performing in operando
+optical measurements and describe the necessary precautions that
+must be taken","
+Optical spectroscopy, Raman spectroscopy, infrared spectroscopy,
+vibrational and electronic structure of materials, gas analysis,
+experimental design, instrumentation, electrochemistry, fuel cells,
+electrolysis, batteries, energy materials, heterogeneous catalysis.
+
+","26201,10102","
+Marie Lund Traulsen,Rob Walker"
+,,,,,,,,,,,,
+47409 , Materials for Hydrogen Production and Storage,English , 5 ECTS , 2016/2017 ,June,MSc,DTU,"
+Hydrogen is one of the candidates to replace oil as a future energy
+carrier. Through lectures, group work and experimental techniques
+used in the research on hydrogen production, storage and conversion
+into energy, the students will learn about aspects of the life
+cycle of hydrogen:
+
+1) Materials for electrolysis and photocatalytic production of
+hydrogen from water
+
+2) Reversible ab- and desorption of hydrogen from solid materials
+for storage and distribution
+
+After the course, the students should be able to identify potential
+show stoppers and materials challenges that currently limit the
+commercial use of hydrogen as an energy carrier. They will also
+obtain a hands-on understanding of underlying physical processes
+and materials requirements. 
+","Describe the environmental advantages and disadvantages of
+using hydrogen as an energy carrier Account for the major technological challenges in connection
+with commercial use of hydrogen as an energy carrier Describe the principles of hydrogen production from
+electrolysis Explain the role of the semiconductor band gap in
+photocatalytic hydrogen production Calculate the enthalpy of formation and entropy of a metal
+hydride from the correlation between temperature and plateau
+pressure Characterize a crystal structure using X-ray diffraction Determine the equilibrium pressure as a function of temperature
+for a metal hydride Relate the commercial viability of a low-temperature fuel cell
+to the performance of its catalysts","
+Potential gains, materials and technical challenges in using
+hydrogen as an energy carrier. Current and future energy resources.
+Energy efficiency. Materials for hydrogen storage. Phase diagrams.
+Ab-/desorption kinetics. X-ray diffraction. Semiconductor
+electro-/​photoelectrochemistry.
+
+The course consists of two topics (see general course objectives
+above), each of which consists of two days with lectures and group
+exercises, five days with experimental activities and one day for
+writing of the report. 
+","10033,10333,10303,10030,47301","
+Ifan Stephens,
+Didier Blanchard"
+,,,,,,,,,,,,
+47413 , Solid State Electrochemical Devices for a Cleaner Society,English , 5 ECTS , 2016/2017 ,August,MSc,DTU,"
+To describe and understand the use of solid state electrochemical
+devices for a cleaner environment, achieved through lectures and
+practical exercises. To give an understanding of how the chemical
+properties of defect solids can be used to design solid state
+electrochemical devices, for example sensors, batteries and fuel
+cells. 
+","Explain and apply the defect chemistry of solids to design
+solid electrochemical devices Explain the principles behind and the construction of a solid
+oxide fuel cell Explain the use of a solid oxide cell to electrolysis of water
+and carbon dioxide Use cyclic voltammetry to analyze and evaluate solid
+electrochemical systems Use electrochemical impedance spectroscopy for the analysis and
+evaluation of solid electrochemical systems Explain the principles behind and the use of a solid
+electrochemical cell for cleaning flue gases Apply the principles of electron microscopy for the analysis
+and evaluation of solid electrochemical systems Apply the principles behind the X-ray diffraction for analysis
+and evaluation of ceramic powders Explain the use of a solid oxide fuel cell for direct
+conversion of carbon-based materials for the production of
+electricity Explain the principles of lithium-based batteries","
+Defect chemistry. Solid oxide cells. Direct carbon fuel cell.
+Microscopy. Electrochemical impedance spectroscopy. Cyclic
+voltammetry. X-ray diffraction. Batteries. 
+",26222,"
+Kent Kammer Hansen"
+,,,,,,,,,,,,
+47414 , Thermal Analysis ,Danish , 5 ECTS , 2016/2017 ,August,MSc,DTU,"
+The course will introduce techniques of thermal analysis and the
+participants will be able to apply thermal analysis to measure
+materials properties and progress of chemical reactions. The course
+covers principles of instrument calibration as well as general
+aspects for selection of crucible materials, atmosphere composition
+and sample stages.
+
+The course content will be very useful for further work within the
+field of materials science, where characterization of materials and
+processes are relevant; all the way from synthesis through
+corrosion and degradation. 
+","Explain which properties can be measured by each thermal
+analysis (TA) technique Choose the proper TA-technique to evaluate and assess selected
+materials properties at temperatures between -150°C and 1600°C Choose and use the proper TA-technique to evaluate and assess
+chemical reactions and their kinetic properties at temperatures
+between -150°C and 1600°C Design and undertake experiments and validate results for a
+minimum of two TA-methods. Preferably use own materials from
+research, where results in principle are not known beforehand Explain and use calibration routines and be able to select
+sample stages, sample containers, etc. Use group-based work effectively, e.g. to distribute the
+workload and better manage the work Present and discuss acquired results of the course
+exercises Extract information from MSDS and other literature sources to
+assess the reactivity and stability of materials","
+General introduction to TA-techniques and concepts.
+
+Practical experiments with the chosen analysis to measure materials
+properties.
+
+Practical experiments on reactivity and reaction kinetics.
+
+The problem/subject for the final work may be chosen freely and
+should be reported including choice of crucible, sample stage,
+method and analysis results including calibration, if needed.
+
+Report results from both assignments and the final project work.
+
+Necessary safety routines are included. 
+",41657,"
+Karsten Agersted"
+,,,,,,,,,,,,
+47420 , Organic solar cells – theory and practice,English , 2.5 ECTS , 2016/2017 ,June,MSc,DTU,"
+The goal of the course is to give students insight into the largest
+sustainable source of energy and how we can make use of it using
+organic solar cells. The course focuses on the manufacture and
+testing of organic solar cells in small and large scale. 
+","Argue for advantages and disadvantages using solar energy and
+compare the differences between the three generations of solar
+cells Compare embedded energy, energy payback factor and energy
+payback Illustrate the different layers and their functions in a
+polymer solar cell and calculate the efficiency and fill
+factor Illustrate the different steps in the exciton theory Propose at least two criteria that a polymer material must meet
+to be used in a polymer solar cell, and describe the connection
+between the solar spectrum, the absorption spectrum, and the color
+of the polymer Name the three synthesis methods used to prepare polymers for
+applications in polymer solar cells and argue for the
+advantages/disadvantages of each synthetic method Evaluate different types of stability and name the different
+degradation mechanisms Argue for advantages and disadvantages between different types
+of encapsulation Distinguish between the different ISOS standards (International
+Summit on Organic photovoltaic Summit) Compare different lab scale techniques for production and test
+of polymer solar cells Critically evaluate speed limits for different processing
+techniques such as coating and printing","
+The course deals with organic solar cells and details of materials
+degradation and small and large scale production of organic solar
+cells. Videos and assignments provide students with in-depth
+knowledge of organic solar cells. 
+",,"
+Eva Bundgaard,
+Frederik C Krebs,
+Morten Vesterager Madsen,
+Mikkel Jørgensen"
+,,,,,,,,,,,,
+47421 , Research Immersion – Department of Energy Conversion and Storage,English , 5 ECTS , 2016/2017 ,August,BSc,DTU,"
+As a student you will take an active part in an ongoing research
+project in which the supervising PhD
+student/​postdoc/​scientist/​senior scientist/associate professor
+is involved. The student will gain forefront research-based
+knowledge of an area within energy conversion and storage
+technologies, while gaining insight into the way the scientific
+methods are put into practice in order to solve energy-related
+challenges highly relevant to society. You will also gain and train
+more generic engineering skills, such as the ability to participate
+in a constructive mentor-mentee relationship, perform thorough
+analyses of obtained experimental data, compare obtained results
+with results reported in literature and train the ability to
+communicate this in a well-structured way – both orally and in
+writing. 
+","Critically read literature and extract information of relevance
+to the given scientific project/task Give a description of the purpose of the experimental
+(modelling/simulation) work Give a description of the experimental set-up (or applied
+models/simulations tools) used Evaluate advantages/disadvantages related to the applied
+experimental set-up (model/simulations) Perform the experimental (modelling/simulation) work and
+explain the various methods of analysis applied during the
+experimental (modelling/simulation) work Analyze the obtained experimental (modelling/simulation)
+results Assess the quality of the obtained results Write a report of the conducted work and the obtained
+results","
+You will work with a PhD student/​postdoc/​scientist/​senior
+scientist/associate professor on experimental work in an ongoing
+research project in which the supervising PhD
+student/​postdoc/​scientist/​senior scientist/associate professor
+is involved.
+
+The specific topic for the course will depend on the ongoing
+projects in the department and will be related to one of key
+technologies that we are working with in DTU Energy. The
+technologies are (read more here:
+http:/​/​www.energy.dtu.dk/​english/​Research):
+
+• Fuel cells
+
+• Electrolysis
+
+• Solar cells
+
+• Batteries
+
+• Membranes for gas separation
+
+• Magnetic refrigeration
+
+• Thermoelectrical components
+
+• Flue gas purification
+
+• Superconducting components
+
+Shortly after the deadline for sign-up via CampusNet, you will be
+asked to send an overview of the courses you have taken during your
+study at DTU (or another university). We wil hereafter match
+students with an appropriate supervisor and research project. 
+",None,"
+Anne Hauch,
+Ming Chen,
+Jean-Claude Grivel"
+,,,,,,,,,,,,
+47422 , Research Immersion – Department of Energy Conversion and Storage,English , 5 ECTS , 2016/2017 ,August,MSc,DTU,"
+As a student taking our Research Immersion course, you will take an
+active part in an ongoing research project in which your supervisor
+in DTU Energy is involved. The student will gain forefront
+research-based knowledge of an area within energy conversion and
+storage technologies, while gaining insight into the way scientific
+methods are put into practice in order to solve energy-related
+challenges highly relevant to society. Moreover, the student will
+be trained in/expected to read and comprehend scientific journal
+articles. The student will also gain more generic engineering
+skills and researcher competences, such as the ability to
+participate in a constructive mentor-mentee relationship, perform
+thorough analyses of obtained experimental data, compare obtained
+results with results reported in literature and train the ability
+to communicate this in a concise and well-structured way – both
+orally and in writing. 
+","Critically read scientific literature/articles and extract
+information of relevance to the given scientific project/task Give a description of the purpose of the experimental
+(modelling/simulation) work Give a description of the experimental set-up (or applied
+models) used and critically evaluate advantages/disadvantages and
+limitations related to the applied experimental set-up
+(modelling/simulations) Plan and perform the experimental (modelling/simulation) work
+and explain the various methods of analysis applied during the
+experimental (modelling/simulation) work Analyze the obtained experimental (modelling/simulation)
+results Assess the quality of the obtained results including errors and
+uncertainties Compare and critically relate the results obtained with similar
+results reported in literature Write a report (structured like a scientific article) of the
+experimental work and the obtained results","
+You will work with a postdoc/scientist/senior scientist/associate
+professor on experimental work in an ongoing research project in
+which the supervising postdoc/scientist/senior scientist/associate
+professor is involved.
+
+The specific topic for the course will depend on the ongoing
+projects in the department and will be related to one of key
+technologies that we are working with in DTU Energy. The
+technologies are (read more here:
+http:/​/​www.energy.dtu.dk/​english/​Research):
+
+• Fuel cells
+
+• Electrolysis
+
+• Solar cells
+
+• Batteries
+
+• Membranes for gas separation
+
+• Magnetic refrigeration
+
+• Thermoelectrical components
+
+• Flue gas purification
+
+• Superconducting components
+
+Shortly after the deadline for sign-up via CampusNet, you will be
+asked to send an overview of the courses you have taken during your
+study at DTU (or another university). We will hereafter match
+students with an appropriate supervisor and research project. 
+",,"
+Anne Hauch,
+Ming Chen,
+Jean-Claude Grivel"
+,,,,,,,,,,,,
+47423 , Advanced Plasma Processes for Tailoring Materials and Nanostructures,English , 5 ECTS , 2016/2017 ,August,MSc,DTU,"
+The course objective is to provide the students with general
+knowledge about plasma physics with main emphasis on plasma
+sources, plasma diagnostics and applications for materials (thin
+film deposition, ion implantation, functionalization and etching)
+and nanostructures (growth and shaping of nanostructures,
+nanoparticle synthesis). 
+","Operate four types of plasma sources (RF, microwave, DC and
+atmospheric pressure) Describe the main plasma parameters that can be used in
+applications Present the main plasma processes used for growth of
+nanoparticles and nanostructures Compare electrical and optical methods used for plasma
+diagnostics Use magnetron sputtering for deposition of nanostructured thin
+films Perform nanopatterning using a microwave plasma source Tailor surface properties by plasma immersion ion
+implantation Functionalize a surface by atmospheric pressure plasma Analyze the reactive species during plasma etching by mass
+spectrometry Measure plasma parameters during magnetron sputtering","
+The course will offer a general understanding of plasma
+applications for materials and nanostructures including: definition
+of plasma, ionization degree, Debye length, plasma frequency,
+velocity distribution function and space charge formation.
+Elementary processes in plasma and transport phenomena. DC,
+microwave and radiofrequency driven plasma sources, atmospheric
+plasma sources. Plasma diagnostics by electrical probes and
+absorption and emission spectroscopy. Thin film deposition by
+reactive magnetron sputtering. Growth mechanism of thin films and
+nanostructures. Principles of nanopatterning by reactive ion
+etching. Surface modification by plasma immersion ion implantation.
+Role of radicals in plasma-assisted nanoprocesses such as oxide and
+nitride thin films, reactive etching, molecular beam epitaxy,
+synthesis and coating of nanoparticles. 
+","10400,10467,10031,33250","
+Eugen Stamate"
+,,,,,,,,,,,,
+47501 , Ph.D. Course in Electrochemical Kinetics and Instrumental Methods in Electrochemistry,English , 10 ECTS , 2016/2017 ,"E2 (Mon 13-17, Thurs 8-12)",Ph.D.,DTU,"
+To give knowledge about advanced electrochemistry with emphasis on
+modern electrochemical techniques. 
+","Explain the nature of the electrochemical terms and
+concepts Understand the nature of electrochemical reactions Understand the kinetics of electrochemical reactions Plan and perform electrochemical experiments Design an electrochemical cell Perform cyclic voltammetry measurements and explain the
+mechanism and kinetics of the studied electrochemical reaction from
+the experimental data Use the modern electrochemical techniques (chronoamperometry,
+chronopotentiometry, pulse voltammetry, square-wave voltammetry)
+and treat and explain the experimental data Perform an electrochemical impedance experiment and obtain the
+equivalent electric circuit for the studied electrochemical
+reaction","
+The course helps the student to understand the nature of the
+electrochemical reactions and the peculiarities of electrochemical
+kinetics. The course also gives knowledge about modern
+electrochemical instrumental methods: steady state voltammetry,
+chronoamperometry, chronopotentiometry, rotating disk electrode
+voltammetry, cyclic voltammetry, microelectrode voltammetry,
+impedance, pulse and square-wave voltammetry. This knowledge
+includes mathematical description of the mentioned techniques with
+an explanation on how to use them to solve different problems of
+the electrochemical kinetics. The course includes practical
+exercises that illustrate some of the electrochemical techniques,
+and it gives a survey of electrochemical instrumentation. 
+",None,"
+Irina Petrushina"
+,,,,,,,,,,,,
+47502 , Ph.D. Course in Impedance Spectroscopy,English , 5 ECTS , 2016/2017 ,Fall,Ph.D.,DTU,"
+To acquire familiarity with the concept of an impedance spectrum
+and its application to the analysis of electrical circuits,
+materials and electrochemical systems. 
+","Explain the concept and the advantages of impedance and
+electrochemical impedance spectroscopy compared with, e.g., other
+electrochemical techniques Describe the impedance of linear circuit elements such as
+inductors, resistors, capacitances, constant phase elements and
+their use in building complex circuits Describe the basic instrumental principle of measuring
+impedance and common sources of errors Describe and model the properties of electroceramics and
+dielectrics Explain and use Warburg and Gerischer impedance elements for
+modelling the impedance of faradaic reactions in the presence of
+mass transfer by diffusion Model the impedance of porous electrodes with the use of porous
+electrode theory Analyse an impedance spectrum or spectra in terms of Nyquist,
+Bode, difference, ADIS and DRT plots Design a circuit equivalent for a material or an
+electrochemical system to obtain physical parameters by CNLS
+fitting Describe the relationship between frequency and time
+domain Describe the principle of Fourier, Laplace and Kramer-Kronig
+integral transforms Explain the methodology of using Laplace integral transforms to
+derive the impedance response from, e.g., time-dependent
+differential equations Carry out a short literature study and re-analyse data from an
+existing paper","
+1. Basic concepts, conductivity, dielectric constant, impedance,
+admittance
+
+2. Circuits R/C/Q/L, S/P/L connection, equiv. circuits, simulations
+
+3. Bridges, impedance analysers, electrochemical instrumentation,
+electrode placement, correction of errors
+
+4. Microstructural effects: grain interior and grain boundary
+properties, space charge effects
+
+5. Polar solids, Debye model, complex permittivity, application to
+polymers
+
+6. Electrochemistry: Double layer, diffusion, adsorption, gas
+capacitances
+
+7. Impedance of faradaic reactions in the presence of mass transfer
+by diffusion (Warburg and Gerischer elements)
+
+8. Impedance of porous electrodes
+
+9. Graphical analysis by Nyquist, Bode, Difference, Analysis of
+Difference in Impedance spectra (ADIS) and Distribution of
+Relaxation Times (DRT) plots
+
+10. Equivalent circuit models of electrochemical systems, non-lin.
+least squares fitting
+
+11. Analysis of electrochemical devices (solid oxide fuel cells,
+batteries….)
+
+12. Integral transforms and transient methods 
+",47305,"
+Jimmi Nielsen"
+,,,,,,,,,,,,
+47506 , PhD Workshop on Organic Solar Photovoltaics,English , 2.5 ECTS , 2016/2017 ,Outside schedule structure,Ph.D.,DTU,"
+The goal of the course is to give students insight into the largest
+alternative form of energy and how we can make use of it using
+organic solar cells. The course focuses on the manufacture and
+testing of organic solar cells on small and large scale. 
+","Have an overview of the materials used in solar cells Evaluate the different processes in film formation and compare
+them with each other Evaluate and categorize the degradation mechanisms happening in
+the solar cell and classify the methods used to study these Evaluate the methods that can be used for the production and
+analysis of solar cells Predict which of these methods is appropriate to use in the
+preparation and analysis in different situations Produce solar cells using roll coating and roll-to-roll coating
+and printing without the use of rare elements Analyse the prepared solar cells by means of the IV curve,
+LBIC, etc. Document the results and compare them with results from
+literature","
+The course deals with organic solar cells and details of materials
+degradation and production of small and large scale OPV. Laboratory
+work and reporting of results provide students with in-depth
+knowledge of production and analysis of organic solar cells. The
+course will be held by a number of experts and with the active
+participation of students. 
+",47320,"
+Eva Bundgaard,
+Frederik C Krebs"
+,,,,,,,,,,,,
+47507, Ph.D. Course in Introduction to Low,English , 3 ECTS , 2016/2017 ,Fall,Ph.D.,DTU,"
+The student should learn how fuel cells work, be able to describe
+theoretically some of the important features of especially
+low-temperature fuel cells and low-temperature electrolysis cells,
+be able to describe and interpret electrochemical properties of
+fuel cells. The student will learn how they are made and for which
+applications each fuel cell type is more appropriate and what is
+required from a system point of view to operate it. The student
+will also obtain a fair view on the difficulties that exist for the
+individual types such as degradation mechanisms and demands for
+fuel and air quality.
+
+The student will learn the electrochemical and thermodynamical
+basic principles of the operation of low-temperature fuel cells
+(LTFC) and electrolysis cells (LTEC), will be able to describe the
+requirements put forward on the materials, learn the principles of
+the conduction mechanisms in the materials used for the main
+components, will be able to describe theoretically and interpret
+electrochemical processes occurring in LTFC and LTEC, will learn
+about cell- and stack designs and manufacturing methods, will be
+able to describe the main degradation mechanisms occurring in LTFC
+and LTEC, and will understand critical issues in the selection of
+materials and components for cells. Furthermore, the student will
+come to know about the advantages and disadvantages of LTFC and
+LTEC compared with other energy technologies, and will be
+acquainted with various designs and their advantages and
+disadvantages, as well as application areas. The student will gain
+experience of characterization methods such as electrochemical
+methods and structural analysis methods. In addition, the student
+will in group work on own ideas on possible applications of LTFC
+and/or LTEC. 
+","Describe theoretically the electrochemical fundamentals of LTFC
+and LTEC Describe theoretically the thermodynamical fundamentals of LTFC
+and LTEC Explain the fundamental mechanisms of the electrochemical
+reactions at the electrode/electrolyte interfaces of LTFC and
+LTEC Explain the fundamental mechanisms of conduction of the
+individual components of cells and stacks Explain the critical parameters in materials selection for LTFC
+and LTEC Explain the critical parameters for the selection of operating
+conditions Analyze data describing the electrochemical performance of LTFC
+and LTEC Explain the main degradation mechanisms of the performance of
+the LTFC and LTEC Describe advantages and disadvantages of LTFC and LTEC, also in
+comparison with other energy technologies","
+Fundamentals of alkaline fuel cells (AFC), phosphoric acid fuel
+cells (PAFC), proton exchange membrane fuel cells (PEMFC),
+high-temperature PEM fuel cells (HT-PEMFC) and direct methanol fuel
+cells (DMFC). Materials used for the components (electrolytes,
+catalysts, electrodes, bipolar plates, etc.) of the different
+cells. Applications, stacking, system requirements, fuels and
+degradation mechanisms will be treated and, finally, the main
+development challenges and trends will be outlined. Theoretical
+descriptions of the electrochemical and thermodynamical fundamental
+properties of ceramic-based fuel cells. Materials properties,
+conduction mechanisms, requirements for the individual components,
+i.e. the electrolyte material, the anode material and the cathode
+material, as well as challenges for the assembled cells.
+Electrochemical characterization and evaluation of cell properties
+by electrochemical impedance spectroscopy methods. Fabrication,
+cell and stack design and market opportunities will be treated. 
+",None,"
+Jens Oluf Jensen,Robert Steinberger-Wilckens,Marcelo Carmo"
+,,,,,,,,,,,,
+47508 , Ph.D. Course in Introduction to Batteries,English , 3 ECTS , 2016/2017 ,Fall,Ph.D.,DTU,"
+The student should learn how intercalation and conversion batteries
+work, be able to describe the fundamental mechanisms and the most
+important features of lithium-ion, metal-sulfur and metal-air
+batteries, be able to describe and interpret the corresponding
+electrochemical properties, discuss degradation mechanisms as a
+function of various test conditions, and understand critical issues
+in the selection of materials and components on the performance at
+cell level. Furthermore, the student should be able to discuss
+advantages and disadvantages of different battery concepts compared
+with other energy storage technologies. 
+","Describe theoretically the fundamentals of lithium-ion,
+metal-sulfur and metal-air batteries Explain the fundamental mechanisms/​functionalities of the
+individual components and their interaction Evaluate the critical parameters in the materials
+selection Explain the critical parameters for the selection of operating
+conditions Analyze data describing the electrochemical performance Explain possible degradation mechanisms Describe advantages and disadvantages in comparison with other
+energy storage concepts Describe battery manufacturing methods","
+Theoretical descriptions of the fundamental mechanisms and
+properties of lithium-ion, metal-sulfur and metal-air batteries,
+e.g. specific energies and over-voltages. Materials demands for the
+individual components, i.e. the electrolyte material, the anode
+material and the cathode material, as well as interface formation
+(SEI) between electrolyte and electrodes. Electrochemical
+characterization and evaluation of cell properties by
+electrochemical impedance spectroscopy methods. Description/studies
+of degradation mechanisms. Safety issues. Fabrication and cell
+assembly will be treated briefly. 
+",None,"
+Tejs Vegge,
+Juan Maria García Lastra"
+,,,,,,,,,,,,
+47509 , Ph.D. Course in Introduction to SOFC and SOEC,English , 3 ECTS , 2016/2017 ,Fall,Ph.D.,DTU,"
+The student will learn about the electrochemical and
+thermodynamical basic principles of the operation of solid oxide
+fuel cells (SOFCs) and solid oxide electrolysis cells (SOECs), be
+able to describe the requirements put forward on the materials,
+learn the principles of the conduction mechanisms in the materials
+used for the main components, will be able to describe
+theoretically and interpret electrochemical processes occurring in
+SOFC and SOEC, will learn about cell- and stack designs and
+manufacturing methods, will be able to describe the main
+degradation mechanisms occurring in SOFC and SOEC, and understand
+critical issues in the selection of materials and components for
+cells. Furthermore, the student will come to know about the
+advantages and disadvantages of SOFC and SOEC compared with other
+energy technologies and will be acquainted with various designs and
+their advantages and disadvantages, as well as application areas.
+The student will learn about characterization methods, such as
+electrochemical methods and structural analysis methods. In
+addition, the student will in group work on own ideas on possible
+applications of SOFC and/or SOEC. 
+","Describe theoretically the electrochemical fundamentals of SOFC
+and SOEC Describe theoretically the thermodynamical fundamentals of SOFC
+and SOEC Explain the fundamental mechanisms of the electrochemical
+reactions at the electrode/electrolyte interfaces of SOFC and
+SOEC Explain the fundamental mechanisms of conduction of the
+individual components of cells and stacks Explain the critical parameters in materials selection for SOFC
+and SOEC Explain the critical parameters for the selection of operating
+conditions Analyse data describing the electrochemical performance of SOFC
+and SOEC Explain the main degradation mechanisms of the performance of
+the SOFC and SOEC Describe advantages and disadvantages of SOFC and SOEC, also in
+comparison with other energy technologies","
+Theoretical descriptions of the electrochemical and thermodynamical
+fundamental properties of ceramic-based fuel cells. Materials
+properties, conduction mechanisms, requirements for the individual
+components, i.e. the electrolyte material, the anode material and
+the cathode material, as well as challenges for the assembled
+cells. Electrochemical characterization and evaluation of cell
+properties by electrochemical impedance spectroscopy methods.
+Description/studies of degradation mechanisms for state-of-the-art
+SOFC and SOEC. Fabrication, cell and stack design and market
+opportunities will be treated briefly. 
+",None,"
+Anke Hagen,Bert de Haart,Robert Steinberger-Wilckens"
