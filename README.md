@@ -1,6 +1,6 @@
 # Analyzing the Courses at Technical University of Denmark
 
-* **Look into the [wiki](https://github.com/Sam1511/Social_Graph_Projects_Final_2016/wiki) for elaborate project descriptions and visualizations.**
+* **Look into the [wiki](https://github.com/Sam1511/Social_Graph_Project_Final_2016/wiki) for elaborate project descriptions and visualizations.**
 
 
 
